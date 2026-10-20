@@ -1,0 +1,1044 @@
+{
+  "schemaVersion": 1,
+  "subject": "North Star — save your seat",
+  "preheader": "Two days to compare notes with people asking the same difficult questions.",
+  "content": {
+    "type": "doc",
+    "attrs": {
+      "mergeTagReferences": []
+    },
+    "content": [
+      {
+        "type": "globalContent",
+        "attrs": {
+          "data": {
+            "theme": "basic",
+            "styles": [
+              {
+                "id": "body",
+                "title": "Background",
+                "classReference": "body",
+                "inputs": [
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "#e9e3f3",
+                    "prop": "backgroundColor",
+                    "classReference": "body"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "body",
+                    "value": 24
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "body"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "body",
+                    "value": 24
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "body"
+                  }
+                ]
+              },
+              {
+                "id": "container",
+                "title": "Content",
+                "classReference": "container",
+                "inputs": [
+                  {
+                    "label": "Align",
+                    "type": "select",
+                    "value": "center",
+                    "options": {
+                      "left": "Left",
+                      "center": "Center",
+                      "right": "Right"
+                    },
+                    "prop": "align",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Width",
+                    "type": "number",
+                    "value": 600,
+                    "unit": "px",
+                    "prop": "width",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Height",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "height",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Text",
+                    "type": "color",
+                    "value": "#322244",
+                    "prop": "color",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "#fdfaff",
+                    "prop": "backgroundColor",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Corner radius",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Border color",
+                    "type": "color",
+                    "value": "#000000",
+                    "prop": "borderColor",
+                    "classReference": "container"
+                  }
+                ]
+              },
+              {
+                "id": "typography",
+                "title": "Text",
+                "classReference": "body",
+                "inputs": [
+                  {
+                    "label": "Font size",
+                    "type": "number",
+                    "value": 14,
+                    "unit": "px",
+                    "prop": "fontSize",
+                    "classReference": "body"
+                  },
+                  {
+                    "label": "Line Height",
+                    "type": "number",
+                    "value": 155,
+                    "unit": "%",
+                    "prop": "lineHeight",
+                    "classReference": "container"
+                  }
+                ]
+              },
+              {
+                "id": "h1",
+                "title": "Title",
+                "category": "Text",
+                "classReference": "h1",
+                "inputs": [
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "h1",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "h1",
+                    "value": "#322244"
+                  },
+                  {
+                    "label": "fontWeight",
+                    "type": "text",
+                    "prop": "fontWeight",
+                    "classReference": "h1",
+                    "value": 700
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingLeft",
+                    "type": "text",
+                    "prop": "paddingLeft",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingRight",
+                    "type": "text",
+                    "prop": "paddingRight",
+                    "classReference": "h1",
+                    "value": 0
+                  }
+                ]
+              },
+              {
+                "id": "h2",
+                "title": "Subtitle",
+                "category": "Text",
+                "classReference": "h2",
+                "inputs": [
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "h2",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "h2",
+                    "value": "#322244"
+                  },
+                  {
+                    "label": "fontWeight",
+                    "type": "text",
+                    "prop": "fontWeight",
+                    "classReference": "h2",
+                    "value": 700
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingLeft",
+                    "type": "text",
+                    "prop": "paddingLeft",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingRight",
+                    "type": "text",
+                    "prop": "paddingRight",
+                    "classReference": "h2",
+                    "value": 0
+                  }
+                ]
+              },
+              {
+                "id": "h3",
+                "title": "Heading",
+                "category": "Text",
+                "classReference": "h3",
+                "inputs": [
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "h3",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "h3",
+                    "value": "#322244"
+                  },
+                  {
+                    "label": "fontWeight",
+                    "type": "text",
+                    "prop": "fontWeight",
+                    "classReference": "h3",
+                    "value": 700
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingLeft",
+                    "type": "text",
+                    "prop": "paddingLeft",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingRight",
+                    "type": "text",
+                    "prop": "paddingRight",
+                    "classReference": "h3",
+                    "value": 0
+                  }
+                ]
+              },
+              {
+                "id": "paragraph",
+                "title": "Paragraph",
+                "category": "Text",
+                "classReference": "paragraph",
+                "inputs": [
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "prop": "paddingLeft",
+                    "classReference": "paragraph",
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "prop": "paddingRight",
+                    "classReference": "paragraph",
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "paragraph",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "label": "fontSize",
+                    "type": "text",
+                    "prop": "fontSize",
+                    "classReference": "paragraph",
+                    "value": 16
+                  },
+                  {
+                    "label": "lineHeight",
+                    "type": "text",
+                    "prop": "lineHeight",
+                    "classReference": "paragraph",
+                    "value": 1.65
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "paragraph",
+                    "value": "#675476"
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "paragraph",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "paragraph",
+                    "value": 0
+                  }
+                ]
+              },
+              {
+                "id": "list",
+                "title": "List",
+                "category": "Text",
+                "classReference": "list",
+                "inputs": []
+              },
+              {
+                "id": "nested-list",
+                "title": "Nested List",
+                "category": "Text",
+                "classReference": "nestedList",
+                "inputs": []
+              },
+              {
+                "id": "list-item",
+                "title": "List Item",
+                "category": "Text",
+                "classReference": "listItem",
+                "inputs": []
+              },
+              {
+                "id": "link",
+                "title": "Link",
+                "classReference": "link",
+                "inputs": [
+                  {
+                    "label": "Color",
+                    "type": "color",
+                    "value": "#0670DB",
+                    "prop": "color",
+                    "classReference": "link"
+                  },
+                  {
+                    "label": "Decoration",
+                    "type": "select",
+                    "value": "underline",
+                    "prop": "textDecoration",
+                    "options": {
+                      "underline": "Underline",
+                      "none": "None"
+                    },
+                    "classReference": "link"
+                  }
+                ]
+              },
+              {
+                "id": "image",
+                "title": "Image",
+                "classReference": "image",
+                "inputs": [
+                  {
+                    "label": "Border radius",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "image"
+                  }
+                ]
+              },
+              {
+                "id": "button",
+                "title": "Button",
+                "classReference": "button",
+                "inputs": [
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "#283346",
+                    "prop": "backgroundColor",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Text color",
+                    "type": "color",
+                    "value": "#ffffff",
+                    "prop": "color",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Radius",
+                    "type": "number",
+                    "value": 6,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "value": 24,
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "value": 24,
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Font weight",
+                    "type": "select",
+                    "prop": "fontWeight",
+                    "classReference": "button",
+                    "value": 600,
+                    "options": {
+                      "300": "Light",
+                      "400": "Normal",
+                      "600": "Semi Bold",
+                      "700": "Bold",
+                      "800": "Extra Bold"
+                    }
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "button",
+                    "value": 16,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "button",
+                    "value": 16,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "marginLeft",
+                    "type": "text",
+                    "prop": "marginLeft",
+                    "classReference": "button",
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "marginRight",
+                    "type": "text",
+                    "prop": "marginRight",
+                    "classReference": "button",
+                    "value": 0,
+                    "unit": "px"
+                  }
+                ]
+              },
+              {
+                "id": "code-block",
+                "title": "Code Block",
+                "classReference": "codeBlock",
+                "inputs": [
+                  {
+                    "label": "Border Radius",
+                    "type": "number",
+                    "value": 4,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "value": 16,
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "value": 16,
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "prop": "backgroundColor",
+                    "classReference": "codeBlock",
+                    "value": "transparent"
+                  }
+                ]
+              },
+              {
+                "id": "inline-code",
+                "title": "Inline Code",
+                "classReference": "inlineCode",
+                "inputs": [
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "transparent",
+                    "prop": "backgroundColor",
+                    "classReference": "inlineCode"
+                  },
+                  {
+                    "label": "Text color",
+                    "type": "color",
+                    "value": "#1e293b",
+                    "prop": "color",
+                    "classReference": "inlineCode"
+                  },
+                  {
+                    "label": "Radius",
+                    "type": "number",
+                    "value": 4,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "inlineCode"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "container",
+        "content": [
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:24px 28px 14px;background-color:#fdfaff",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#675476;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:17px;font-weight:700;color:#322244;letter-spacing:0.4px",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "North Star Forum"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:22px 28px 28px;background-color:#fdfaff",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#675476;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:11px;line-height:1.5;letter-spacing:1.3px;font-weight:700;color:#322244",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "EVENT"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 14
+                }
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#322244;font-family:Arial, sans-serif;font-size:36px;line-height:1.17;font-weight:700",
+                  "alignment": "left",
+                  "class": "",
+                  "level": 1
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A room full of useful ideas."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 18
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#675476;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:17px",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Two days to compare notes with people asking the same difficult questions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:0;background-color:#fdfaff",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "image",
+                "attrs": {
+                  "style": "display:block;width:100%;height:auto;margin:0;padding:0",
+                  "alignment": "center",
+                  "class": "",
+                  "assetId": null,
+                  "intrinsicWidth": 1200,
+                  "intrinsicHeight": 800,
+                  "src": "https://assets.weavour.com/templates/conference-sponsor/hero-00081bfb9a8a.jpg",
+                  "alt": "Blue and red geometric arches and steps arranged as a playful modernist plaza.",
+                  "width": 600,
+                  "height": "auto",
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:18px 28px 24px;background-color:#fdfaff",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "button",
+                "attrs": {
+                  "style": "background-color:#68418b;color:#ffffff;padding:15px 20px;font-family:Arial,sans-serif;font-size:15px;font-weight:700;line-height:1.4;border-radius:0px;text-decoration:none;margin:0",
+                  "alignment": "left",
+                  "class": "button",
+                  "href": "https://example.com/programme"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "View the programme"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:20px 28px;background-color:#ece3f5",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#675476;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:11px;line-height:1.5;letter-spacing:1.3px;font-weight:700;color:#322244",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "DAY 01 / THE BIG PICTURE"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 9
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#675476;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Opening talks and case studies on the decisions behind good work."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:20px 28px;background-color:#fdfaff",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#675476;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:11px;line-height:1.5;letter-spacing:1.3px;font-weight:700;color:#322244",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "DAY 02 / THE WORKING ROOM"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 9
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#675476;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Small-group sessions with time to test an idea and get a useful response."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:20px 28px;background-color:#ece3f5",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#675476;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:11px;line-height:1.5;letter-spacing:1.3px;font-weight:700;color:#322244",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "BETWEEN THE SESSIONS"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 9
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#675476;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leave room for conversations, shared lunches and the introduction you did not plan."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:28px;background-color:#fdfaff",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "button",
+                "attrs": {
+                  "style": "background-color:#68418b;color:#ffffff;padding:15px 20px;font-family:Arial,sans-serif;font-size:15px;font-weight:700;line-height:1.4;border-radius:0px;text-decoration:none;margin:0",
+                  "alignment": "left",
+                  "class": "button",
+                  "href": "https://example.com/programme"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "View the programme"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:24px 28px;background-color:#ece3f5",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#675476;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:12px;font-weight:700;color:#322244",
+                  "alignment": "center",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "North Star Forum"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 8
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#675476;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:12px",
+                  "alignment": "center",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Programme and availability are shown on the booking page."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 16
+                }
+              },
+              {
+                "type": "unsubscribe",
+                "attrs": {
+                  "style": "font-family:Arial,sans-serif;font-size:12px;line-height:1.5;color:#675476",
+                  "id": "unsubscribe_url",
+                  "token": "{{unsubscribe_url}}",
+                  "label": "Unsubscribe",
+                  "alignment": "center"
+                }
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {
+              "style": "margin:0;padding:0;font-size:1px;line-height:1px",
+              "alignment": "left",
+              "class": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "previewHtml": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html style=\"font-size:14px\" dir=\"ltr\" lang=\"en\"><head><meta content=\"width=device-width\" name=\"viewport\"/><meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"telephone=no,address=no,email=no,date=no,url=no\" name=\"format-detection\"/><title>Two days to compare notes with people asking the same difficult questions.</title><style>@media (prefers-color-scheme: dark){li::marker{color:#c4c4c4}}</style></head><body dir=\"ltr\" lang=\"en\" style=\"margin:0;background-color:#e9e3f3;padding-top:0;padding-bottom:0\"><!--$--><!--html--><!--head--><div style=\"display:none;overflow:hidden;line-height:1px;opacity:0;max-height:0;max-width:0\" data-skip-in-text=\"true\">Two days to compare notes with people asking the same difficult questions.<div> ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿</div></div><!--body--><table border=\"0\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" align=\"center\"><tbody><tr><td dir=\"ltr\" lang=\"en\" style=\"font-family:-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, &#x27;Roboto&#x27;, &#x27;Oxygen&#x27;, &#x27;Ubuntu&#x27;, &#x27;Cantarell&#x27;, &#x27;Fira Sans&#x27;, &#x27;Droid Sans&#x27;, &#x27;Helvetica Neue&#x27;, sans-serif;font-size:1em;min-height:100%;line-height:155%;background-color:#e9e3f3;padding-top:24px;padding-bottom:24px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"max-width:600px;align:center;width:100%;color:#322244;background-color:#fdfaff;border-radius:0px;border-color:#000000;line-height:155%\"><tbody><tr style=\"width:100%\"><td style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fdfaff\"><tbody><tr><td style=\"padding:24px 28px 14px\"><p style=\"margin:0;padding:0;font-size:17px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#322244;margin-top:0;margin-bottom:0;font-weight:700;letter-spacing:0.4px;text-align:left\">North Star Forum</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fdfaff\"><tbody><tr><td style=\"padding:22px 28px 28px\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.5;color:#322244;margin-top:0;margin-bottom:0;letter-spacing:1.3px;font-weight:700;text-align:left\">EVENT</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"14\" aria-hidden=\"true\" style=\"height:14px;padding:0;font-size:0;line-height:14px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h1 style=\"margin:0;padding:0;font-size:36px;line-height:1.17;padding-top:0.389em;font-weight:700;font-family:Arial, sans-serif;color:#322244;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;text-align:left\">A room full of useful ideas.</h1><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:17px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#675476;margin-top:0;margin-bottom:0;text-align:left\">Two days to compare notes with people asking the same difficult questions.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fdfaff\"><tbody><tr><td style=\"padding:0\"><div style=\"text-align:center\"><img src=\"https://assets.weavour.com/templates/conference-sponsor/hero-00081bfb9a8a.jpg\" alt=\"Blue and red geometric arches and steps arranged as a playful modernist plaza.\" style=\"outline:none;border:none;text-decoration:none;max-width:100%;border-radius:0px;display:inline-block;width:100%;height:auto;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;object-fit:contain\"/></div></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fdfaff\"><tbody><tr><td style=\"padding:18px 28px 24px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"left\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/programme\" style=\"line-height:1.4;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:15px 20px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#68418b;color:#ffffff;border-radius:0px;font-weight:700;font-size:15px;text-align:center;margin-top:16px;margin-bottom:16px;margin-left:0px;margin-right:0px;font-family:Arial,sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">View the programme</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#ece3f5\"><tbody><tr><td style=\"padding:20px 28px\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.5;color:#322244;margin-top:0;margin-bottom:0;letter-spacing:1.3px;font-weight:700;text-align:left\">DAY 01 / THE BIG PICTURE</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"9\" aria-hidden=\"true\" style=\"height:9px;padding:0;font-size:0;line-height:9px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#675476;margin-top:0;margin-bottom:0;text-align:left\">Opening talks and case studies on the decisions behind good work.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fdfaff\"><tbody><tr><td style=\"padding:20px 28px\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.5;color:#322244;margin-top:0;margin-bottom:0;letter-spacing:1.3px;font-weight:700;text-align:left\">DAY 02 / THE WORKING ROOM</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"9\" aria-hidden=\"true\" style=\"height:9px;padding:0;font-size:0;line-height:9px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#675476;margin-top:0;margin-bottom:0;text-align:left\">Small-group sessions with time to test an idea and get a useful response.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#ece3f5\"><tbody><tr><td style=\"padding:20px 28px\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.5;color:#322244;margin-top:0;margin-bottom:0;letter-spacing:1.3px;font-weight:700;text-align:left\">BETWEEN THE SESSIONS</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"9\" aria-hidden=\"true\" style=\"height:9px;padding:0;font-size:0;line-height:9px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#675476;margin-top:0;margin-bottom:0;text-align:left\">Leave room for conversations, shared lunches and the introduction you did not plan.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fdfaff\"><tbody><tr><td style=\"padding:28px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"left\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/programme\" style=\"line-height:1.4;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:15px 20px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#68418b;color:#ffffff;border-radius:0px;font-weight:700;font-size:15px;text-align:center;margin-top:16px;margin-bottom:16px;margin-left:0px;margin-right:0px;font-family:Arial,sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">View the programme</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#ece3f5\"><tbody><tr><td style=\"padding:24px 28px\"><p style=\"margin:0;padding:0;font-size:12px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#322244;margin-top:0;margin-bottom:0;font-weight:700;text-align:center\">North Star Forum</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"8\" aria-hidden=\"true\" style=\"height:8px;padding:0;font-size:0;line-height:8px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#675476;margin-top:0;margin-bottom:0;text-align:center\">Programme and availability are shown on the booking page.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"16\" aria-hidden=\"true\" style=\"height:16px;padding:0;font-size:0;line-height:16px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><div style=\"margin:0;padding:16px 8px;font-family:Arial, sans-serif;font-size:12px;line-height:1.5;color:rgb(103, 84, 118);text-align:center\"><a href=\"{{unsubscribe_url}}\" style=\"color:inherit;text-decoration:underline\">Unsubscribe</a></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!--/$--></body></html>"
+}

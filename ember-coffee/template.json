@@ -1,0 +1,1228 @@
+{
+  "schemaVersion": 1,
+  "subject": "Meet your next morning coffee",
+  "preheader": "Our latest small-batch roast is ready for your grinder.",
+  "content": {
+    "type": "doc",
+    "attrs": {
+      "mergeTagReferences": []
+    },
+    "content": [
+      {
+        "type": "globalContent",
+        "attrs": {
+          "data": {
+            "theme": "basic",
+            "styles": [
+              {
+                "id": "body",
+                "title": "Background",
+                "classReference": "body",
+                "inputs": [
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "#211d19",
+                    "prop": "backgroundColor",
+                    "classReference": "body"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "body",
+                    "value": 24
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "body"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "body",
+                    "value": 24
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "body"
+                  }
+                ]
+              },
+              {
+                "id": "container",
+                "title": "Content",
+                "classReference": "container",
+                "inputs": [
+                  {
+                    "label": "Align",
+                    "type": "select",
+                    "value": "center",
+                    "options": {
+                      "left": "Left",
+                      "center": "Center",
+                      "right": "Right"
+                    },
+                    "prop": "align",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Width",
+                    "type": "number",
+                    "value": 600,
+                    "unit": "px",
+                    "prop": "width",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Height",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "height",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Text",
+                    "type": "color",
+                    "value": "#f7eedc",
+                    "prop": "color",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "#171917",
+                    "prop": "backgroundColor",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Corner radius",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Border color",
+                    "type": "color",
+                    "value": "#000000",
+                    "prop": "borderColor",
+                    "classReference": "container"
+                  }
+                ]
+              },
+              {
+                "id": "typography",
+                "title": "Text",
+                "classReference": "body",
+                "inputs": [
+                  {
+                    "label": "Font size",
+                    "type": "number",
+                    "value": 14,
+                    "unit": "px",
+                    "prop": "fontSize",
+                    "classReference": "body"
+                  },
+                  {
+                    "label": "Line Height",
+                    "type": "number",
+                    "value": 155,
+                    "unit": "%",
+                    "prop": "lineHeight",
+                    "classReference": "container"
+                  }
+                ]
+              },
+              {
+                "id": "h1",
+                "title": "Title",
+                "category": "Text",
+                "classReference": "h1",
+                "inputs": [
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "h1",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "h1",
+                    "value": "#f7eedc"
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingLeft",
+                    "type": "text",
+                    "prop": "paddingLeft",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingRight",
+                    "type": "text",
+                    "prop": "paddingRight",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "fontWeight",
+                    "type": "text",
+                    "prop": "fontWeight",
+                    "classReference": "h1",
+                    "value": 700
+                  }
+                ]
+              },
+              {
+                "id": "h2",
+                "title": "Subtitle",
+                "category": "Text",
+                "classReference": "h2",
+                "inputs": [
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "h2",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "h2",
+                    "value": "#f7eedc"
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingLeft",
+                    "type": "text",
+                    "prop": "paddingLeft",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingRight",
+                    "type": "text",
+                    "prop": "paddingRight",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "fontWeight",
+                    "type": "text",
+                    "prop": "fontWeight",
+                    "classReference": "h2",
+                    "value": 700
+                  }
+                ]
+              },
+              {
+                "id": "h3",
+                "title": "Heading",
+                "category": "Text",
+                "classReference": "h3",
+                "inputs": [
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "h3",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "h3",
+                    "value": "#f7eedc"
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingLeft",
+                    "type": "text",
+                    "prop": "paddingLeft",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingRight",
+                    "type": "text",
+                    "prop": "paddingRight",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "fontWeight",
+                    "type": "text",
+                    "prop": "fontWeight",
+                    "classReference": "h3",
+                    "value": 700
+                  }
+                ]
+              },
+              {
+                "id": "paragraph",
+                "title": "Paragraph",
+                "category": "Text",
+                "classReference": "paragraph",
+                "inputs": [
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "prop": "paddingLeft",
+                    "classReference": "paragraph",
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "prop": "paddingRight",
+                    "classReference": "paragraph",
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "paragraph",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "label": "fontSize",
+                    "type": "text",
+                    "prop": "fontSize",
+                    "classReference": "paragraph",
+                    "value": 16
+                  },
+                  {
+                    "label": "lineHeight",
+                    "type": "text",
+                    "prop": "lineHeight",
+                    "classReference": "paragraph",
+                    "value": 1.65
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "paragraph",
+                    "value": "#c7bba6"
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "paragraph",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "paragraph",
+                    "value": 0
+                  }
+                ]
+              },
+              {
+                "id": "list",
+                "title": "List",
+                "category": "Text",
+                "classReference": "list",
+                "inputs": []
+              },
+              {
+                "id": "nested-list",
+                "title": "Nested List",
+                "category": "Text",
+                "classReference": "nestedList",
+                "inputs": []
+              },
+              {
+                "id": "list-item",
+                "title": "List Item",
+                "category": "Text",
+                "classReference": "listItem",
+                "inputs": []
+              },
+              {
+                "id": "link",
+                "title": "Link",
+                "classReference": "link",
+                "inputs": [
+                  {
+                    "label": "Color",
+                    "type": "color",
+                    "value": "#0670DB",
+                    "prop": "color",
+                    "classReference": "link"
+                  },
+                  {
+                    "label": "Decoration",
+                    "type": "select",
+                    "value": "underline",
+                    "prop": "textDecoration",
+                    "options": {
+                      "underline": "Underline",
+                      "none": "None"
+                    },
+                    "classReference": "link"
+                  }
+                ]
+              },
+              {
+                "id": "image",
+                "title": "Image",
+                "classReference": "image",
+                "inputs": [
+                  {
+                    "label": "Border radius",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "image"
+                  }
+                ]
+              },
+              {
+                "id": "button",
+                "title": "Button",
+                "classReference": "button",
+                "inputs": [
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "#283346",
+                    "prop": "backgroundColor",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Text color",
+                    "type": "color",
+                    "value": "#ffffff",
+                    "prop": "color",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Radius",
+                    "type": "number",
+                    "value": 6,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "value": 24,
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "value": 24,
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Font weight",
+                    "type": "select",
+                    "prop": "fontWeight",
+                    "classReference": "button",
+                    "value": 600,
+                    "options": {
+                      "300": "Light",
+                      "400": "Normal",
+                      "600": "Semi Bold",
+                      "700": "Bold",
+                      "800": "Extra Bold"
+                    }
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "button",
+                    "value": 16,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "button",
+                    "value": 16,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "marginLeft",
+                    "type": "text",
+                    "prop": "marginLeft",
+                    "classReference": "button",
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "marginRight",
+                    "type": "text",
+                    "prop": "marginRight",
+                    "classReference": "button",
+                    "value": 0,
+                    "unit": "px"
+                  }
+                ]
+              },
+              {
+                "id": "code-block",
+                "title": "Code Block",
+                "classReference": "codeBlock",
+                "inputs": [
+                  {
+                    "label": "Border Radius",
+                    "type": "number",
+                    "value": 4,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "value": 16,
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "value": 16,
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "prop": "backgroundColor",
+                    "classReference": "codeBlock",
+                    "value": "transparent"
+                  }
+                ]
+              },
+              {
+                "id": "inline-code",
+                "title": "Inline Code",
+                "classReference": "inlineCode",
+                "inputs": [
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "transparent",
+                    "prop": "backgroundColor",
+                    "classReference": "inlineCode"
+                  },
+                  {
+                    "label": "Text color",
+                    "type": "color",
+                    "value": "#1e293b",
+                    "prop": "color",
+                    "classReference": "inlineCode"
+                  },
+                  {
+                    "label": "Radius",
+                    "type": "number",
+                    "value": 4,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "inlineCode"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "container",
+        "content": [
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:24px 32px;background-color:#171917",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;color:#f7eedc;font-family:Arial,sans-serif;font-size:18px;font-weight:750;letter-spacing:2.6px",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "EMBER / ROASTERS"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:0;",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "image",
+                "attrs": {
+                  "style": "margin:0;padding:0;width:100%;height:auto;display:block;border-radius:0",
+                  "alignment": "center",
+                  "class": "",
+                  "assetId": null,
+                  "intrinsicWidth": 1200,
+                  "intrinsicHeight": 800,
+                  "src": "https://assets.weavour.com/templates/ember-coffee/hero-a8ae4c50cadb.jpg",
+                  "alt": "Espresso pouring into an orange ceramic cup in a warmly lit coffee bar.",
+                  "width": 600,
+                  "height": "auto",
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:24px 32px 32px;",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;font-size:10px;letter-spacing:1.8px;line-height:1.5;color:#f7eedc;font-weight:600",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SMALL BATCH / BIG CHARACTER"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 18
+                }
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial, sans-serif;font-size:44px;line-height:1.12;font-weight:750;color:#f7eedc;",
+                  "alignment": "left",
+                  "class": "",
+                  "level": 1
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Your morning. A little louder."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 18
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;font-size:17px;line-height:1.6",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A fresh roast. A favourite cup. A ritual worth getting out of bed for."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "twoColumns",
+            "attrs": {
+              "style": "margin:0;padding:24px;background-color:#2e352a",
+              "backgroundImage": "",
+              "align": null,
+              "width": null,
+              "height": null,
+              "id": null,
+              "class": null,
+              "title": null,
+              "lang": null,
+              "dir": null,
+              "data-id": null,
+              "cellspacing": null
+            },
+            "content": [
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:8px;vertical-align:top",
+                  "alignment": null,
+                  "class": null,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "50%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial, sans-serif;font-size:30px;line-height:1.12;font-weight:750;color:#f7eedc;",
+                      "alignment": "left",
+                      "class": "",
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Bright start. Long finish."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:8px;vertical-align:top",
+                  "alignment": null,
+                  "class": null,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "50%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;",
+                      "alignment": "left",
+                      "class": ""
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Meet Dawn Chorus: a washed coffee with citrus lift, cocoa sweetness and the kind of finish that makes you take one more sip."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:12px 32px 16px;",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "border:0;border-top:1px solid #c7bba6;opacity:0.3;margin:0",
+                  "class": "divider"
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 18
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;font-size:10px;letter-spacing:1.8px;line-height:1.5;color:#f7eedc;font-weight:600",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "TASTING NOTES"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 10
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Orange peel · cocoa · toasted almond"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:12px 32px 16px;",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "border:0;border-top:1px solid #c7bba6;opacity:0.3;margin:0",
+                  "class": "divider"
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 18
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;font-size:10px;letter-spacing:1.8px;line-height:1.5;color:#f7eedc;font-weight:600",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "MAKE IT YOURS"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 10
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Whole bean or freshly ground for your brew method."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:12px 32px 16px;",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "border:0;border-top:1px solid #c7bba6;opacity:0.3;margin:0",
+                  "class": "divider"
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 18
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;font-size:10px;letter-spacing:1.8px;line-height:1.5;color:#f7eedc;font-weight:600",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ROASTED WITH INTENT"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 10
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Small batches, carefully developed. Freshly packed for your kitchen."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:0;",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "image",
+                "attrs": {
+                  "style": "margin:0;padding:0;width:100%;height:auto;display:block;border-radius:0",
+                  "alignment": "center",
+                  "class": "",
+                  "assetId": null,
+                  "intrinsicWidth": 1200,
+                  "intrinsicHeight": 800,
+                  "src": "https://assets.weavour.com/templates/ember-coffee/origin-a4edfdecef5d.jpg",
+                  "alt": "Coffee plants on misty green terraced hills at sunrise.",
+                  "width": 600,
+                  "height": "auto",
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:28px 32px;",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial, sans-serif;font-size:28px;line-height:1.12;font-weight:750;color:#f7eedc;",
+                  "alignment": "left",
+                  "class": "",
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A good cup starts far from here."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 14
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;",
+                  "alignment": "left",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "There is a story behind every harvest. Get to know the landscapes, growing seasons and craft behind your next bag."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:28px 32px 32px;background-color:#171917",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "button",
+                "attrs": {
+                  "style": "margin:0;background-color:#e9a14d;color:#21190e;font-family:Arial,sans-serif;font-size:14px;font-weight:700;line-height:1.4;padding:15px 22px;border-radius:0;text-decoration:none",
+                  "alignment": "left",
+                  "class": "button",
+                  "href": "https://example.com/coffee"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Find your next roast"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:24px 32px;",
+              "class": "",
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "border:0;border-top:1px solid #c7bba6;opacity:0.3;margin:0",
+                  "class": "divider"
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 22
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;font-size:12px;letter-spacing:2px;color:#f7eedc;font-weight:700",
+                  "alignment": "center",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "EMBER / ROASTERS"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 10
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;font-size:12px",
+                  "alignment": "center",
+                  "class": ""
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For the first cup and the slow second."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 18
+                }
+              },
+              {
+                "type": "unsubscribe",
+                "attrs": {
+                  "style": "font-size:12px;line-height:1.5;color:#c7bba6;font-family:Arial,sans-serif",
+                  "id": "unsubscribe_url",
+                  "token": "{{unsubscribe_url}}",
+                  "label": "Unsubscribe",
+                  "alignment": "center"
+                }
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {
+              "style": "margin:0;padding:0;color:#c7bba6;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;font-size:1px;line-height:1",
+              "alignment": "left",
+              "class": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "previewHtml": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html style=\"font-size:14px\" dir=\"ltr\" lang=\"en\"><head><meta content=\"width=device-width\" name=\"viewport\"/><meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"telephone=no,address=no,email=no,date=no,url=no\" name=\"format-detection\"/><title>Our latest small-batch roast is ready for your grinder.</title><style>@media (prefers-color-scheme: dark){li::marker{color:#c4c4c4}}</style></head><body dir=\"ltr\" lang=\"en\" style=\"margin:0;background-color:#211d19;padding-top:0;padding-bottom:0\"><!--$--><!--html--><!--head--><div style=\"display:none;overflow:hidden;line-height:1px;opacity:0;max-height:0;max-width:0\" data-skip-in-text=\"true\">Our latest small-batch roast is ready for your grinder.<div> ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿</div></div><!--body--><table border=\"0\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" align=\"center\"><tbody><tr><td dir=\"ltr\" lang=\"en\" style=\"font-family:-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, &#x27;Roboto&#x27;, &#x27;Oxygen&#x27;, &#x27;Ubuntu&#x27;, &#x27;Cantarell&#x27;, &#x27;Fira Sans&#x27;, &#x27;Droid Sans&#x27;, &#x27;Helvetica Neue&#x27;, sans-serif;font-size:1em;min-height:100%;line-height:155%;background-color:#211d19;padding-top:24px;padding-bottom:24px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"max-width:600px;align:center;width:100%;color:#f7eedc;background-color:#171917;border-radius:0px;border-color:#000000;line-height:155%\"><tbody><tr style=\"width:100%\"><td style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#171917\"><tbody><tr><td style=\"padding:24px 32px\"><p style=\"margin:0;padding:0;font-size:18px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#f7eedc;margin-top:0;margin-bottom:0;font-weight:750;letter-spacing:2.6px;text-align:left\">EMBER / ROASTERS</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0\"><tbody><tr><td style=\"padding:0\"><div style=\"text-align:center\"><img src=\"https://assets.weavour.com/templates/ember-coffee/hero-a8ae4c50cadb.jpg\" alt=\"Espresso pouring into an orange ceramic cup in a warmly lit coffee bar.\" style=\"outline:none;border:none;text-decoration:none;max-width:100%;border-radius:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;width:100%;height:auto;display:inline-block;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;object-fit:contain\"/></div></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0\"><tbody><tr><td style=\"padding:24px 32px 32px\"><p style=\"margin:0;padding:0;font-size:10px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.5;color:#f7eedc;margin-top:0;margin-bottom:0;letter-spacing:1.8px;font-weight:600;text-align:left\">SMALL BATCH / BIG CHARACTER</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h1 style=\"margin:0;padding:0;font-size:44px;line-height:1.12;padding-top:0.389em;font-weight:750;font-family:Arial, sans-serif;color:#f7eedc;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;text-align:left\">Your morning. A little louder.</h1><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:17px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#c7bba6;margin-top:0;margin-bottom:0;text-align:left\">A fresh roast. A favourite cup. A ritual worth getting out of bed for.</p></td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:24px;background-color:#2e352a\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"padding:8px;vertical-align:top;width:50%\"><h2 style=\"margin:0;padding:0;font-size:30px;line-height:1.12;padding-top:0.389em;font-weight:750;font-family:Arial, sans-serif;color:#f7eedc;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;text-align:left\">Bright start. Long finish.</h2></td><td data-id=\"__react-email-column\" style=\"padding:8px;vertical-align:top;width:50%\"><p style=\"margin:0;padding:0;font-size:15px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#c7bba6;margin-top:0;margin-bottom:0;text-align:left\">Meet Dawn Chorus: a washed coffee with citrus lift, cocoa sweetness and the kind of finish that makes you take one more sip.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0\"><tbody><tr><td style=\"padding:12px 32px 16px\"><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #c7bba6;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;opacity:0.3;margin:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:10px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.5;color:#f7eedc;margin-top:0;margin-bottom:0;letter-spacing:1.8px;font-weight:600;text-align:left\">TASTING NOTES</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"10\" aria-hidden=\"true\" style=\"height:10px;padding:0;font-size:0;line-height:10px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:15px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#c7bba6;margin-top:0;margin-bottom:0;text-align:left\">Orange peel · cocoa · toasted almond</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0\"><tbody><tr><td style=\"padding:12px 32px 16px\"><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #c7bba6;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;opacity:0.3;margin:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:10px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.5;color:#f7eedc;margin-top:0;margin-bottom:0;letter-spacing:1.8px;font-weight:600;text-align:left\">MAKE IT YOURS</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"10\" aria-hidden=\"true\" style=\"height:10px;padding:0;font-size:0;line-height:10px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:15px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#c7bba6;margin-top:0;margin-bottom:0;text-align:left\">Whole bean or freshly ground for your brew method.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0\"><tbody><tr><td style=\"padding:12px 32px 16px\"><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #c7bba6;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;opacity:0.3;margin:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:10px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.5;color:#f7eedc;margin-top:0;margin-bottom:0;letter-spacing:1.8px;font-weight:600;text-align:left\">ROASTED WITH INTENT</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"10\" aria-hidden=\"true\" style=\"height:10px;padding:0;font-size:0;line-height:10px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:15px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#c7bba6;margin-top:0;margin-bottom:0;text-align:left\">Small batches, carefully developed. Freshly packed for your kitchen.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0\"><tbody><tr><td style=\"padding:0\"><div style=\"text-align:center\"><img src=\"https://assets.weavour.com/templates/ember-coffee/origin-a4edfdecef5d.jpg\" alt=\"Coffee plants on misty green terraced hills at sunrise.\" style=\"outline:none;border:none;text-decoration:none;max-width:100%;border-radius:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;width:100%;height:auto;display:inline-block;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;object-fit:contain\"/></div></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0\"><tbody><tr><td style=\"padding:28px 32px\"><h2 style=\"margin:0;padding:0;font-size:28px;line-height:1.12;padding-top:0.389em;font-weight:750;font-family:Arial, sans-serif;color:#f7eedc;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;text-align:left\">A good cup starts far from here.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"14\" aria-hidden=\"true\" style=\"height:14px;padding:0;font-size:0;line-height:14px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:15px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#c7bba6;margin-top:0;margin-bottom:0;text-align:left\">There is a story behind every harvest. Get to know the landscapes, growing seasons and craft behind your next bag.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#171917\"><tbody><tr><td style=\"padding:28px 32px 32px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"left\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/coffee\" style=\"line-height:1.4;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:15px 22px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#e9a14d;color:#21190e;border-radius:0;font-weight:700;font-size:14px;text-align:center;margin-top:16px;margin-bottom:16px;margin-left:0px;margin-right:0px;font-family:Arial,sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">Find your next roast</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0\"><tbody><tr><td style=\"padding:24px 32px\"><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #c7bba6;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;opacity:0.3;margin:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"22\" aria-hidden=\"true\" style=\"height:22px;padding:0;font-size:0;line-height:22px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#f7eedc;margin-top:0;margin-bottom:0;letter-spacing:2px;font-weight:700;text-align:center\">EMBER / ROASTERS</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"10\" aria-hidden=\"true\" style=\"height:10px;padding:0;font-size:0;line-height:10px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#c7bba6;margin-top:0;margin-bottom:0;text-align:center\">For the first cup and the slow second.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><div style=\"margin:0;padding:16px 8px;font-family:Arial, sans-serif;font-size:12px;line-height:1.5;color:rgb(199, 187, 166);text-align:center\"><a href=\"{{unsubscribe_url}}\" style=\"color:inherit;text-decoration:underline\">Unsubscribe</a></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!--/$--></body></html>"
+}

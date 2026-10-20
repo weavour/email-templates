@@ -1,0 +1,645 @@
+{
+  "reviewedOn": "2026-10-19",
+  "templates": [
+    {
+      "id": "candle-studio",
+      "layout": "editorial",
+      "palette": "warm",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched candle"
+    },
+    {
+      "id": "ceramic-studio",
+      "layout": "product",
+      "palette": "clay",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched openbench-workshop"
+    },
+    {
+      "id": "bike-shop",
+      "layout": "service",
+      "palette": "sport",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched cycle"
+    },
+    {
+      "id": "garden-club",
+      "layout": "journal",
+      "palette": "garden",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched plants"
+    },
+    {
+      "id": "tea-house",
+      "layout": "product",
+      "palette": "warm",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched tea"
+    },
+    {
+      "id": "vinyl-shop",
+      "layout": "editorial",
+      "palette": "night",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched vinyl"
+    },
+    {
+      "id": "film-club",
+      "layout": "event",
+      "palette": "night",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched cinema"
+    },
+    {
+      "id": "museum-members",
+      "layout": "invitation",
+      "palette": "gallery",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched gallery"
+    },
+    {
+      "id": "theatre-season",
+      "layout": "poster",
+      "palette": "theatre",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "podcast-launch",
+      "layout": "dispatch",
+      "palette": "audio",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "newsletter-creator",
+      "layout": "letter",
+      "palette": "paper",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "indie-publisher",
+      "layout": "journal",
+      "palette": "paper",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched margin-bookshop"
+    },
+    {
+      "id": "language-school",
+      "layout": "event",
+      "palette": "school",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "coding-bootcamp",
+      "layout": "steps",
+      "palette": "code",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "music-school",
+      "layout": "service",
+      "palette": "audio",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched afterhours-jazz"
+    },
+    {
+      "id": "parenting-community",
+      "layout": "letter",
+      "palette": "soft",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "career-coach",
+      "layout": "letter",
+      "palette": "ink",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "accounting-firm",
+      "layout": "brief",
+      "palette": "ledger",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "legal-practice",
+      "layout": "brief",
+      "palette": "ink",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "architecture-studio",
+      "layout": "editorial",
+      "palette": "gallery",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched archway-open-house"
+    },
+    {
+      "id": "interior-design",
+      "layout": "editorial",
+      "palette": "clay",
+      "images": 2,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched archway-open-house"
+    },
+    {
+      "id": "design-agency",
+      "layout": "case",
+      "palette": "studio",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "photo-studio",
+      "layout": "service",
+      "palette": "gallery",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched portrait"
+    },
+    {
+      "id": "wedding-photographer",
+      "layout": "invitation",
+      "palette": "soft",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "travel-journal",
+      "layout": "journal",
+      "palette": "coast",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched rail"
+    },
+    {
+      "id": "railway-getaway",
+      "layout": "travel",
+      "palette": "coast",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched rail"
+    },
+    {
+      "id": "city-guide",
+      "layout": "journal",
+      "palette": "sun",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "surf-school",
+      "layout": "service",
+      "palette": "coast",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched surf"
+    },
+    {
+      "id": "climbing-gym",
+      "layout": "poster",
+      "palette": "sport",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched climb"
+    },
+    {
+      "id": "running-club",
+      "layout": "event",
+      "palette": "sport",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "nutritionist",
+      "layout": "guide",
+      "palette": "garden",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched little-table-mealkit"
+    },
+    {
+      "id": "meditation-app",
+      "layout": "letter",
+      "palette": "soft",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "pilates-studio",
+      "layout": "event",
+      "palette": "soft",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched stillpoint-yoga"
+    },
+    {
+      "id": "spa-retreat",
+      "layout": "invitation",
+      "palette": "coast",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched tidehouse-retreat"
+    },
+    {
+      "id": "farm-share",
+      "layout": "product",
+      "palette": "garden",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched harvest"
+    },
+    {
+      "id": "winery",
+      "layout": "product",
+      "palette": "wine",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "chocolate-maker",
+      "layout": "product",
+      "palette": "cocoa",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched chocolate"
+    },
+    {
+      "id": "cheese-shop",
+      "layout": "guide",
+      "palette": "warm",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched cheese"
+    },
+    {
+      "id": "ice-cream",
+      "layout": "poster",
+      "palette": "coral",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched icecream"
+    },
+    {
+      "id": "farmers-market",
+      "layout": "event",
+      "palette": "garden",
+      "images": 2,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched harvest"
+    },
+    {
+      "id": "bookkeeping-app",
+      "layout": "release",
+      "palette": "ledger",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "project-management",
+      "layout": "release",
+      "palette": "code",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "security-product",
+      "layout": "release",
+      "palette": "ink",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "analytics-product",
+      "layout": "brief",
+      "palette": "code",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "hr-platform",
+      "layout": "release",
+      "palette": "soft",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "nonprofit-education",
+      "layout": "impact",
+      "palette": "school",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "community-garden",
+      "layout": "event",
+      "palette": "garden",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched gardens"
+    },
+    {
+      "id": "mutual-aid",
+      "layout": "appeal",
+      "palette": "garden",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched harvest"
+    },
+    {
+      "id": "animal-rescue",
+      "layout": "guide",
+      "palette": "soft",
+      "images": 2,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched good-company-adoption"
+    },
+    {
+      "id": "makers-market",
+      "layout": "event",
+      "palette": "clay",
+      "images": 2,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched openbench-workshop"
+    },
+    {
+      "id": "photobook-club",
+      "layout": "journal",
+      "palette": "gallery",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched portrait"
+    },
+    {
+      "id": "museum-donation",
+      "layout": "appeal",
+      "palette": "ink",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched archive"
+    },
+    {
+      "id": "craft-beer",
+      "layout": "product",
+      "palette": "warm",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched beer"
+    },
+    {
+      "id": "farm-to-table",
+      "layout": "menu",
+      "palette": "clay",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched little-table-mealkit"
+    },
+    {
+      "id": "meal-prep",
+      "layout": "guide",
+      "palette": "garden",
+      "images": 2,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched little-table-mealkit"
+    },
+    {
+      "id": "coffee-subscription",
+      "layout": "product",
+      "palette": "cocoa",
+      "images": 2,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched ember-coffee"
+    },
+    {
+      "id": "pet-grooming",
+      "layout": "service",
+      "palette": "soft",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched good-company-adoption"
+    },
+    {
+      "id": "dog-walking",
+      "layout": "service",
+      "palette": "garden",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched good-company-adoption"
+    },
+    {
+      "id": "baby-clothing",
+      "layout": "product",
+      "palette": "soft",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched baby"
+    },
+    {
+      "id": "stationery",
+      "layout": "product",
+      "palette": "paper",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched paper"
+    },
+    {
+      "id": "sunglasses",
+      "layout": "product",
+      "palette": "sun",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched glasses"
+    },
+    {
+      "id": "outdoor-gear",
+      "layout": "guide",
+      "palette": "sport",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched switchback-adventures"
+    },
+    {
+      "id": "plant-shop",
+      "layout": "product",
+      "palette": "garden",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched plants"
+    },
+    {
+      "id": "menswear",
+      "layout": "product",
+      "palette": "ink",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "swimwear",
+      "layout": "product",
+      "palette": "coral",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched pool"
+    },
+    {
+      "id": "vintage-shop",
+      "layout": "journal",
+      "palette": "clay",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "tailor",
+      "layout": "service",
+      "palette": "ink",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "art-print-shop",
+      "layout": "editorial",
+      "palette": "gallery",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched gallery"
+    },
+    {
+      "id": "software-newsletter",
+      "layout": "dispatch",
+      "palette": "code",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "api-platform",
+      "layout": "steps",
+      "palette": "code",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "design-system",
+      "layout": "release",
+      "palette": "studio",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "indie-game",
+      "layout": "poster",
+      "palette": "game",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "newsletter-local",
+      "layout": "journal",
+      "palette": "sun",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "climate-startup",
+      "layout": "brief",
+      "palette": "garden",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "ethical-finance",
+      "layout": "brief",
+      "palette": "ledger",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "coworking-space",
+      "layout": "service",
+      "palette": "warm",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched office"
+    },
+    {
+      "id": "conference-sponsor",
+      "layout": "event",
+      "palette": "studio",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched common-ground-conference"
+    },
+    {
+      "id": "team-retreat",
+      "layout": "travel",
+      "palette": "coast",
+      "images": 1,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Subject-matched switchback-adventures"
+    },
+    {
+      "id": "customer-success",
+      "layout": "letter",
+      "palette": "ledger",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    },
+    {
+      "id": "quarterly-report",
+      "layout": "brief",
+      "palette": "ink",
+      "images": 0,
+      "copy": "Rewritten for this campaign",
+      "imageDecision": "Intentional text-led design"
+    }
+  ]
+}

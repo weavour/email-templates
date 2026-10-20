@@ -22,6 +22,2078 @@
           "source": "AI-generated with OpenAI image generation; see fieldwork-sunday/README.md."
         }
       ]
+    },
+    {
+      "id": "hearth-bakery",
+      "name": "Hearth & Crumb — The weekend bake",
+      "description": "An editable bakery email with a menu layout.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Bakery",
+        "Weekly menu"
+      ],
+      "document": "hearth-bakery/template.json",
+      "html": "hearth-bakery/template.html",
+      "screenshot": "hearth-bakery/screenshot.png",
+      "mobileScreenshot": "hearth-bakery/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "hearth-bakery/images/hero-f639532b917a.jpg",
+          "url": "https://assets.weavour.com/templates/hearth-bakery/hero-f639532b917a.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in hearth-bakery/README.md."
+        },
+        {
+          "file": "hearth-bakery/images/pastry-6842be8bd275.jpg",
+          "url": "https://assets.weavour.com/templates/hearth-bakery/pastry-6842be8bd275.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in hearth-bakery/README.md."
+        }
+      ]
+    },
+    {
+      "id": "ember-coffee",
+      "name": "Ember — Find your morning note",
+      "description": "An editable specialty coffee email with a split layout.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Coffee",
+        "Product launch"
+      ],
+      "document": "ember-coffee/template.json",
+      "html": "ember-coffee/template.html",
+      "screenshot": "ember-coffee/screenshot.png",
+      "mobileScreenshot": "ember-coffee/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "ember-coffee/images/hero-a8ae4c50cadb.jpg",
+          "url": "https://assets.weavour.com/templates/ember-coffee/hero-a8ae4c50cadb.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in ember-coffee/README.md."
+        },
+        {
+          "file": "ember-coffee/images/origin-a4edfdecef5d.jpg",
+          "url": "https://assets.weavour.com/templates/ember-coffee/origin-a4edfdecef5d.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in ember-coffee/README.md."
+        }
+      ]
+    },
+    {
+      "id": "nori-omakase",
+      "name": "Nori — An evening at the counter",
+      "description": "An editable restaurant email with a invitation layout.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Restaurant",
+        "Reservation"
+      ],
+      "document": "nori-omakase/template.json",
+      "html": "nori-omakase/template.html",
+      "screenshot": "nori-omakase/screenshot.png",
+      "mobileScreenshot": "nori-omakase/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "nori-omakase/images/hero-5f5f8b7ef8ae.jpg",
+          "url": "https://assets.weavour.com/templates/nori-omakase/hero-5f5f8b7ef8ae.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in nori-omakase/README.md."
+        }
+      ]
+    },
+    {
+      "id": "tidehouse-retreat",
+      "name": "Tidehouse — A little room for the sea",
+      "description": "An editable boutique hotel email with a editorial layout.",
+      "language": "en",
+      "tags": [
+        "Travel",
+        "Hotel",
+        "Seasonal escape"
+      ],
+      "document": "tidehouse-retreat/template.json",
+      "html": "tidehouse-retreat/template.html",
+      "screenshot": "tidehouse-retreat/screenshot.png",
+      "mobileScreenshot": "tidehouse-retreat/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "tidehouse-retreat/images/hero-2df5ead0f316.jpg",
+          "url": "https://assets.weavour.com/templates/tidehouse-retreat/hero-2df5ead0f316.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in tidehouse-retreat/README.md."
+        }
+      ]
+    },
+    {
+      "id": "switchback-adventures",
+      "name": "Switchback — Take the long way",
+      "description": "An editable outdoor adventure email with a expedition layout.",
+      "language": "en",
+      "tags": [
+        "Travel",
+        "Outdoors",
+        "Adventure"
+      ],
+      "document": "switchback-adventures/template.json",
+      "html": "switchback-adventures/template.html",
+      "screenshot": "switchback-adventures/screenshot.png",
+      "mobileScreenshot": "switchback-adventures/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "switchback-adventures/images/hero-2a006ff9faf5.jpg",
+          "url": "https://assets.weavour.com/templates/switchback-adventures/hero-2a006ff9faf5.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in switchback-adventures/README.md."
+        },
+        {
+          "file": "switchback-adventures/images/camp-16a05344f251.jpg",
+          "url": "https://assets.weavour.com/templates/switchback-adventures/camp-16a05344f251.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in switchback-adventures/README.md."
+        }
+      ]
+    },
+    {
+      "id": "archway-open-house",
+      "name": "Archway — Find your next chapter",
+      "description": "An editable real estate email with a listing layout.",
+      "language": "en",
+      "tags": [
+        "Real estate",
+        "Open house",
+        "Property"
+      ],
+      "document": "archway-open-house/template.json",
+      "html": "archway-open-house/template.html",
+      "screenshot": "archway-open-house/screenshot.png",
+      "mobileScreenshot": "archway-open-house/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "archway-open-house/images/hero-f8be8cf82122.jpg",
+          "url": "https://assets.weavour.com/templates/archway-open-house/hero-f8be8cf82122.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in archway-open-house/README.md."
+        }
+      ]
+    },
+    {
+      "id": "good-company-adoption",
+      "name": "Good Company — Your next best friend",
+      "description": "An editable pet adoption email with a profiles layout.",
+      "language": "en",
+      "tags": [
+        "Pets",
+        "Nonprofit",
+        "Adoption"
+      ],
+      "document": "good-company-adoption/template.json",
+      "html": "good-company-adoption/template.html",
+      "screenshot": "good-company-adoption/screenshot.png",
+      "mobileScreenshot": "good-company-adoption/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "good-company-adoption/images/hero-5beab71bc628.jpg",
+          "url": "https://assets.weavour.com/templates/good-company-adoption/hero-5beab71bc628.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in good-company-adoption/README.md."
+        },
+        {
+          "file": "good-company-adoption/images/cat-6e3baf563008.jpg",
+          "url": "https://assets.weavour.com/templates/good-company-adoption/cat-6e3baf563008.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in good-company-adoption/README.md."
+        }
+      ]
+    },
+    {
+      "id": "stillpoint-yoga",
+      "name": "Stillpoint — Begin where you are",
+      "description": "An editable yoga & wellness email with a quiet layout.",
+      "language": "en",
+      "tags": [
+        "Wellness",
+        "Yoga",
+        "Class invitation"
+      ],
+      "document": "stillpoint-yoga/template.json",
+      "html": "stillpoint-yoga/template.html",
+      "screenshot": "stillpoint-yoga/screenshot.png",
+      "mobileScreenshot": "stillpoint-yoga/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "stillpoint-yoga/images/hero-d9efbb3c8c8f.jpg",
+          "url": "https://assets.weavour.com/templates/stillpoint-yoga/hero-d9efbb3c8c8f.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in stillpoint-yoga/README.md."
+        }
+      ]
+    },
+    {
+      "id": "form-training",
+      "name": "Form — Build your own strong",
+      "description": "An editable fitness email with a bold layout.",
+      "language": "en",
+      "tags": [
+        "Fitness",
+        "Gym",
+        "Membership"
+      ],
+      "document": "form-training/template.json",
+      "html": "form-training/template.html",
+      "screenshot": "form-training/screenshot.png",
+      "mobileScreenshot": "form-training/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "form-training/images/hero-7bfa8f91b14c.jpg",
+          "url": "https://assets.weavour.com/templates/form-training/hero-7bfa8f91b14c.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in form-training/README.md."
+        }
+      ]
+    },
+    {
+      "id": "morrow-skincare",
+      "name": "Morrow — A softer daily ritual",
+      "description": "An editable beauty & skincare email with a product layout.",
+      "language": "en",
+      "tags": [
+        "Beauty",
+        "Skincare",
+        "Product launch"
+      ],
+      "document": "morrow-skincare/template.json",
+      "html": "morrow-skincare/template.html",
+      "screenshot": "morrow-skincare/screenshot.png",
+      "mobileScreenshot": "morrow-skincare/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "morrow-skincare/images/hero-5c1ef43e6bb5.jpg",
+          "url": "https://assets.weavour.com/templates/morrow-skincare/hero-5c1ef43e6bb5.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in morrow-skincare/README.md."
+        },
+        {
+          "file": "morrow-skincare/images/texture-bf943ab523b8.jpg",
+          "url": "https://assets.weavour.com/templates/morrow-skincare/texture-bf943ab523b8.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in morrow-skincare/README.md."
+        }
+      ]
+    },
+    {
+      "id": "aurelia-jewelry",
+      "name": "Aurelia — The art of the everyday",
+      "description": "An editable jewelry email with a luxury layout.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Jewelry",
+        "New collection"
+      ],
+      "document": "aurelia-jewelry/template.json",
+      "html": "aurelia-jewelry/template.html",
+      "screenshot": "aurelia-jewelry/screenshot.png",
+      "mobileScreenshot": "aurelia-jewelry/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "aurelia-jewelry/images/hero-1cae163789be.jpg",
+          "url": "https://assets.weavour.com/templates/aurelia-jewelry/hero-1cae163789be.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in aurelia-jewelry/README.md."
+        },
+        {
+          "file": "aurelia-jewelry/images/earrings-8a987304c27d.jpg",
+          "url": "https://assets.weavour.com/templates/aurelia-jewelry/earrings-8a987304c27d.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in aurelia-jewelry/README.md."
+        }
+      ]
+    },
+    {
+      "id": "offscript-fashion",
+      "name": "Offscript — Wear your own rules",
+      "description": "An editable fashion email with a poster layout.",
+      "language": "en",
+      "tags": [
+        "Fashion",
+        "Retail",
+        "New drop"
+      ],
+      "document": "offscript-fashion/template.json",
+      "html": "offscript-fashion/template.html",
+      "screenshot": "offscript-fashion/screenshot.png",
+      "mobileScreenshot": "offscript-fashion/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "offscript-fashion/images/hero-5bb00bb2a44e.jpg",
+          "url": "https://assets.weavour.com/templates/offscript-fashion/hero-5bb00bb2a44e.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in offscript-fashion/README.md."
+        }
+      ]
+    },
+    {
+      "id": "stem-seasonal",
+      "name": "Stem — A little wild at heart",
+      "description": "An editable florist email with a botanical layout.",
+      "language": "en",
+      "tags": [
+        "Flowers",
+        "Gifting",
+        "Seasonal collection"
+      ],
+      "document": "stem-seasonal/template.json",
+      "html": "stem-seasonal/template.html",
+      "screenshot": "stem-seasonal/screenshot.png",
+      "mobileScreenshot": "stem-seasonal/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "stem-seasonal/images/hero-bd312aa268d6.jpg",
+          "url": "https://assets.weavour.com/templates/stem-seasonal/hero-bd312aa268d6.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in stem-seasonal/README.md."
+        },
+        {
+          "file": "stem-seasonal/images/detail-b704e7a55477.jpg",
+          "url": "https://assets.weavour.com/templates/stem-seasonal/detail-b704e7a55477.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in stem-seasonal/README.md."
+        }
+      ]
+    },
+    {
+      "id": "bluecurrent-ocean",
+      "name": "Bluecurrent — Keep the blue alive",
+      "description": "An editable ocean conservation email with a campaign layout.",
+      "language": "en",
+      "tags": [
+        "Nonprofit",
+        "Environment",
+        "Fundraising"
+      ],
+      "document": "bluecurrent-ocean/template.json",
+      "html": "bluecurrent-ocean/template.html",
+      "screenshot": "bluecurrent-ocean/screenshot.png",
+      "mobileScreenshot": "bluecurrent-ocean/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "bluecurrent-ocean/images/hero-700b957fa0c0.jpg",
+          "url": "https://assets.weavour.com/templates/bluecurrent-ocean/hero-700b957fa0c0.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in bluecurrent-ocean/README.md."
+        }
+      ]
+    },
+    {
+      "id": "openbench-workshop",
+      "name": "Openbench — Make something real",
+      "description": "An editable creative education email with a workshop layout.",
+      "language": "en",
+      "tags": [
+        "Education",
+        "Workshop",
+        "Creative"
+      ],
+      "document": "openbench-workshop/template.json",
+      "html": "openbench-workshop/template.html",
+      "screenshot": "openbench-workshop/screenshot.png",
+      "mobileScreenshot": "openbench-workshop/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "openbench-workshop/images/hero-f1b590336935.jpg",
+          "url": "https://assets.weavour.com/templates/openbench-workshop/hero-f1b590336935.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in openbench-workshop/README.md."
+        }
+      ]
+    },
+    {
+      "id": "relay-product-update",
+      "name": "Relay — Less between idea and done",
+      "description": "An editable saas product update email with a release layout.",
+      "language": "en",
+      "tags": [
+        "SaaS",
+        "Product update",
+        "Team collaboration"
+      ],
+      "document": "relay-product-update/template.json",
+      "html": "relay-product-update/template.html",
+      "screenshot": "relay-product-update/screenshot.png",
+      "mobileScreenshot": "relay-product-update/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "relay-product-update/images/hero-0baeb5ca4dfe.jpg",
+          "url": "https://assets.weavour.com/templates/relay-product-update/hero-0baeb5ca4dfe.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in relay-product-update/README.md."
+        }
+      ]
+    },
+    {
+      "id": "common-ground-conference",
+      "name": "Common Ground — Ideas meet here",
+      "description": "An editable design conference email with a agenda layout.",
+      "language": "en",
+      "tags": [
+        "Events",
+        "Conference",
+        "Design"
+      ],
+      "document": "common-ground-conference/template.json",
+      "html": "common-ground-conference/template.html",
+      "screenshot": "common-ground-conference/screenshot.png",
+      "mobileScreenshot": "common-ground-conference/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "common-ground-conference/images/hero-00081bfb9a8a.jpg",
+          "url": "https://assets.weavour.com/templates/common-ground-conference/hero-00081bfb9a8a.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in common-ground-conference/README.md."
+        }
+      ]
+    },
+    {
+      "id": "afterhours-jazz",
+      "name": "Afterhours — The night has a rhythm",
+      "description": "An editable live music email with a nightlife layout.",
+      "language": "en",
+      "tags": [
+        "Events",
+        "Music",
+        "Nightlife"
+      ],
+      "document": "afterhours-jazz/template.json",
+      "html": "afterhours-jazz/template.html",
+      "screenshot": "afterhours-jazz/screenshot.png",
+      "mobileScreenshot": "afterhours-jazz/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "afterhours-jazz/images/hero-f0522ea4432c.jpg",
+          "url": "https://assets.weavour.com/templates/afterhours-jazz/hero-f0522ea4432c.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in afterhours-jazz/README.md."
+        }
+      ]
+    },
+    {
+      "id": "margin-bookshop",
+      "name": "Margin — Find your next obsession",
+      "description": "An editable independent bookstore email with a reading layout.",
+      "language": "en",
+      "tags": [
+        "Books",
+        "Newsletter",
+        "Retail"
+      ],
+      "document": "margin-bookshop/template.json",
+      "html": "margin-bookshop/template.html",
+      "screenshot": "margin-bookshop/screenshot.png",
+      "mobileScreenshot": "margin-bookshop/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "margin-bookshop/images/hero-75934ca398da.jpg",
+          "url": "https://assets.weavour.com/templates/margin-bookshop/hero-75934ca398da.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in margin-bookshop/README.md."
+        }
+      ]
+    },
+    {
+      "id": "little-table-mealkit",
+      "name": "Little Table — A good week starts here",
+      "description": "An editable meal kit email with a recipe layout.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Meal kit",
+        "Weekly menu"
+      ],
+      "document": "little-table-mealkit/template.json",
+      "html": "little-table-mealkit/template.html",
+      "screenshot": "little-table-mealkit/screenshot.png",
+      "mobileScreenshot": "little-table-mealkit/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "little-table-mealkit/images/hero-defee4b0666b.jpg",
+          "url": "https://assets.weavour.com/templates/little-table-mealkit/hero-defee4b0666b.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in little-table-mealkit/README.md."
+        },
+        {
+          "file": "little-table-mealkit/images/ingredients-d9c834ade6bf.jpg",
+          "url": "https://assets.weavour.com/templates/little-table-mealkit/ingredients-d9c834ade6bf.jpg",
+          "source": "AI-generated with OpenAI image generation; prompt and provenance in little-table-mealkit/README.md."
+        }
+      ]
+    },
+    {
+      "id": "candle-studio",
+      "name": "Lumen — a softer evening",
+      "description": "Home fragrance email with editorial composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Home & living",
+        "Candles",
+        "Product launch"
+      ],
+      "document": "candle-studio/template.json",
+      "html": "candle-studio/template.html",
+      "screenshot": "candle-studio/screenshot.png",
+      "mobileScreenshot": "candle-studio/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "candle-studio/images/hero-482ebdb05a71.jpg",
+          "url": "https://assets.weavour.com/templates/candle-studio/hero-482ebdb05a71.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in candle-studio/README.md."
+        }
+      ]
+    },
+    {
+      "id": "ceramic-studio",
+      "name": "Clay Common — made slowly",
+      "description": "Ceramics email with product composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Home & living",
+        "Ceramics",
+        "Studio update"
+      ],
+      "document": "ceramic-studio/template.json",
+      "html": "ceramic-studio/template.html",
+      "screenshot": "ceramic-studio/screenshot.png",
+      "mobileScreenshot": "ceramic-studio/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "ceramic-studio/images/hero-f1b590336935.jpg",
+          "url": "https://assets.weavour.com/templates/ceramic-studio/hero-f1b590336935.jpg",
+          "source": "Reused from the openbench-workshop catalog artwork; original source and prompt documented in ../openbench-workshop/README.md. Full provenance in ceramic-studio/README.md."
+        }
+      ]
+    },
+    {
+      "id": "bike-shop",
+      "name": "Northline — tune-up season",
+      "description": "Cycling email with service composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Sport & outdoors",
+        "Cycling",
+        "Service"
+      ],
+      "document": "bike-shop/template.json",
+      "html": "bike-shop/template.html",
+      "screenshot": "bike-shop/screenshot.png",
+      "mobileScreenshot": "bike-shop/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "bike-shop/images/hero-ffb0d2197d2b.jpg",
+          "url": "https://assets.weavour.com/templates/bike-shop/hero-ffb0d2197d2b.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in bike-shop/README.md."
+        }
+      ]
+    },
+    {
+      "id": "garden-club",
+      "name": "Moss & Morning — April notes",
+      "description": "Gardening email with journal composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Home & living",
+        "Gardening",
+        "Monthly note"
+      ],
+      "document": "garden-club/template.json",
+      "html": "garden-club/template.html",
+      "screenshot": "garden-club/screenshot.png",
+      "mobileScreenshot": "garden-club/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "garden-club/images/hero-d9418c07b318.jpg",
+          "url": "https://assets.weavour.com/templates/garden-club/hero-d9418c07b318.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in garden-club/README.md."
+        }
+      ]
+    },
+    {
+      "id": "tea-house",
+      "name": "Kettle & Field — first steep",
+      "description": "Tea email with product composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Tea",
+        "Seasonal"
+      ],
+      "document": "tea-house/template.json",
+      "html": "tea-house/template.html",
+      "screenshot": "tea-house/screenshot.png",
+      "mobileScreenshot": "tea-house/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "tea-house/images/hero-07183f6d1d08.jpg",
+          "url": "https://assets.weavour.com/templates/tea-house/hero-07183f6d1d08.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in tea-house/README.md."
+        }
+      ]
+    },
+    {
+      "id": "vinyl-shop",
+      "name": "Needle & Groove — crate dig",
+      "description": "Music retail email with editorial composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Culture",
+        "Music",
+        "New arrivals"
+      ],
+      "document": "vinyl-shop/template.json",
+      "html": "vinyl-shop/template.html",
+      "screenshot": "vinyl-shop/screenshot.png",
+      "mobileScreenshot": "vinyl-shop/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "vinyl-shop/images/hero-ae01772ade34.jpg",
+          "url": "https://assets.weavour.com/templates/vinyl-shop/hero-ae01772ade34.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in vinyl-shop/README.md."
+        }
+      ]
+    },
+    {
+      "id": "film-club",
+      "name": "Frame by Frame — May screening",
+      "description": "Film club email with event composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Culture",
+        "Film",
+        "Event invitation"
+      ],
+      "document": "film-club/template.json",
+      "html": "film-club/template.html",
+      "screenshot": "film-club/screenshot.png",
+      "mobileScreenshot": "film-club/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "film-club/images/hero-393bf7918c2c.jpg",
+          "url": "https://assets.weavour.com/templates/film-club/hero-393bf7918c2c.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in film-club/README.md."
+        }
+      ]
+    },
+    {
+      "id": "museum-members",
+      "name": "Northside — members first",
+      "description": "Museum email with invitation composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Culture",
+        "Museum",
+        "Membership"
+      ],
+      "document": "museum-members/template.json",
+      "html": "museum-members/template.html",
+      "screenshot": "museum-members/screenshot.png",
+      "mobileScreenshot": "museum-members/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "museum-members/images/hero-99d1226104b1.jpg",
+          "url": "https://assets.weavour.com/templates/museum-members/hero-99d1226104b1.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in museum-members/README.md."
+        }
+      ]
+    },
+    {
+      "id": "theatre-season",
+      "name": "Lantern Stage — season reveal",
+      "description": "Theatre email with poster composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Culture",
+        "Theatre",
+        "Season announcement"
+      ],
+      "document": "theatre-season/template.json",
+      "html": "theatre-season/template.html",
+      "screenshot": "theatre-season/screenshot.png",
+      "mobileScreenshot": "theatre-season/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "podcast-launch",
+      "name": "Small Signals — a new series",
+      "description": "Podcast email with dispatch composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Culture",
+        "Podcast",
+        "Launch"
+      ],
+      "document": "podcast-launch/template.json",
+      "html": "podcast-launch/template.html",
+      "screenshot": "podcast-launch/screenshot.png",
+      "mobileScreenshot": "podcast-launch/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "newsletter-creator",
+      "name": "The Sunday Letter — issue 42",
+      "description": "Newsletter email with letter composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Publishing",
+        "Newsletter",
+        "Editorial"
+      ],
+      "document": "newsletter-creator/template.json",
+      "html": "newsletter-creator/template.html",
+      "screenshot": "newsletter-creator/screenshot.png",
+      "mobileScreenshot": "newsletter-creator/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "indie-publisher",
+      "name": "Little Atlas — new voices",
+      "description": "Publishing email with journal composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Publishing",
+        "Books",
+        "Announcement"
+      ],
+      "document": "indie-publisher/template.json",
+      "html": "indie-publisher/template.html",
+      "screenshot": "indie-publisher/screenshot.png",
+      "mobileScreenshot": "indie-publisher/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "indie-publisher/images/hero-75934ca398da.jpg",
+          "url": "https://assets.weavour.com/templates/indie-publisher/hero-75934ca398da.jpg",
+          "source": "Reused from the margin-bookshop catalog artwork; original source and prompt documented in ../margin-bookshop/README.md. Full provenance in indie-publisher/README.md."
+        }
+      ]
+    },
+    {
+      "id": "language-school",
+      "name": "Parlez House — bonjour, spring",
+      "description": "Language learning email with event composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Education",
+        "Language",
+        "Course launch"
+      ],
+      "document": "language-school/template.json",
+      "html": "language-school/template.html",
+      "screenshot": "language-school/screenshot.png",
+      "mobileScreenshot": "language-school/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "coding-bootcamp",
+      "name": "Patchwork — build your first app",
+      "description": "Coding education email with steps composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Education",
+        "Coding",
+        "Workshop"
+      ],
+      "document": "coding-bootcamp/template.json",
+      "html": "coding-bootcamp/template.html",
+      "screenshot": "coding-bootcamp/screenshot.png",
+      "mobileScreenshot": "coding-bootcamp/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "music-school",
+      "name": "Blue Note — practice room",
+      "description": "Music education email with service composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Education",
+        "Music",
+        "Lessons"
+      ],
+      "document": "music-school/template.json",
+      "html": "music-school/template.html",
+      "screenshot": "music-school/screenshot.png",
+      "mobileScreenshot": "music-school/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "music-school/images/hero-f0522ea4432c.jpg",
+          "url": "https://assets.weavour.com/templates/music-school/hero-f0522ea4432c.jpg",
+          "source": "Reused from the afterhours-jazz catalog artwork; original source and prompt documented in ../afterhours-jazz/README.md. Full provenance in music-school/README.md."
+        }
+      ]
+    },
+    {
+      "id": "parenting-community",
+      "name": "Good Enough — you are doing it",
+      "description": "Parenting email with letter composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Community",
+        "Parenting",
+        "Support"
+      ],
+      "document": "parenting-community/template.json",
+      "html": "parenting-community/template.html",
+      "screenshot": "parenting-community/screenshot.png",
+      "mobileScreenshot": "parenting-community/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "career-coach",
+      "name": "Next Chapter — your next move",
+      "description": "Career coaching email with letter composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Services",
+        "Career",
+        "Consulting"
+      ],
+      "document": "career-coach/template.json",
+      "html": "career-coach/template.html",
+      "screenshot": "career-coach/screenshot.png",
+      "mobileScreenshot": "career-coach/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "accounting-firm",
+      "name": "Clear Ledger — close the quarter",
+      "description": "Accounting email with brief composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "Finance",
+        "Client update"
+      ],
+      "document": "accounting-firm/template.json",
+      "html": "accounting-firm/template.html",
+      "screenshot": "accounting-firm/screenshot.png",
+      "mobileScreenshot": "accounting-firm/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "legal-practice",
+      "name": "Civic & Co. — a useful update",
+      "description": "Legal services email with brief composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "Legal",
+        "Client update"
+      ],
+      "document": "legal-practice/template.json",
+      "html": "legal-practice/template.html",
+      "screenshot": "legal-practice/screenshot.png",
+      "mobileScreenshot": "legal-practice/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "architecture-studio",
+      "name": "Fieldline — spaces with a pulse",
+      "description": "Architecture email with editorial composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Design",
+        "Architecture",
+        "Portfolio"
+      ],
+      "document": "architecture-studio/template.json",
+      "html": "architecture-studio/template.html",
+      "screenshot": "architecture-studio/screenshot.png",
+      "mobileScreenshot": "architecture-studio/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "architecture-studio/images/hero-f8be8cf82122.jpg",
+          "url": "https://assets.weavour.com/templates/architecture-studio/hero-f8be8cf82122.jpg",
+          "source": "Reused from the archway-open-house catalog artwork; original source and prompt documented in ../archway-open-house/README.md. Full provenance in architecture-studio/README.md."
+        }
+      ]
+    },
+    {
+      "id": "interior-design",
+      "name": "Soft Angle — room to breathe",
+      "description": "Interior design email with editorial composition, campaign-specific copy and 2 relevant editorial images.",
+      "language": "en",
+      "tags": [
+        "Design",
+        "Interiors",
+        "Project reveal"
+      ],
+      "document": "interior-design/template.json",
+      "html": "interior-design/template.html",
+      "screenshot": "interior-design/screenshot.png",
+      "mobileScreenshot": "interior-design/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "interior-design/images/hero-f8be8cf82122.jpg",
+          "url": "https://assets.weavour.com/templates/interior-design/hero-f8be8cf82122.jpg",
+          "source": "Reused from the archway-open-house catalog artwork; original source and prompt documented in ../archway-open-house/README.md. Full provenance in interior-design/README.md."
+        },
+        {
+          "file": "interior-design/images/detail-1bcafcd16e8f.jpg",
+          "url": "https://assets.weavour.com/templates/interior-design/detail-1bcafcd16e8f.jpg",
+          "source": "Reused from the fieldwork-sunday catalog artwork; original source and prompt documented in ../fieldwork-sunday/README.md. Full provenance in interior-design/README.md."
+        }
+      ]
+    },
+    {
+      "id": "design-agency",
+      "name": "Common Thread — our field notes",
+      "description": "Design agency email with case composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Design",
+        "Agency",
+        "Insights"
+      ],
+      "document": "design-agency/template.json",
+      "html": "design-agency/template.html",
+      "screenshot": "design-agency/screenshot.png",
+      "mobileScreenshot": "design-agency/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "photo-studio",
+      "name": "Daylight — portrait days",
+      "description": "Photography email with service composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Services",
+        "Photography",
+        "Booking"
+      ],
+      "document": "photo-studio/template.json",
+      "html": "photo-studio/template.html",
+      "screenshot": "photo-studio/screenshot.png",
+      "mobileScreenshot": "photo-studio/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "photo-studio/images/hero-dcf76462d047.jpg",
+          "url": "https://assets.weavour.com/templates/photo-studio/hero-dcf76462d047.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in photo-studio/README.md."
+        }
+      ]
+    },
+    {
+      "id": "wedding-photographer",
+      "name": "North & Vow — a note for summer",
+      "description": "Wedding photography email with invitation composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Services",
+        "Weddings",
+        "Availability"
+      ],
+      "document": "wedding-photographer/template.json",
+      "html": "wedding-photographer/template.html",
+      "screenshot": "wedding-photographer/screenshot.png",
+      "mobileScreenshot": "wedding-photographer/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "travel-journal",
+      "name": "Postcard North — three quiet towns",
+      "description": "Travel email with journal composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Travel",
+        "Guide",
+        "Editorial"
+      ],
+      "document": "travel-journal/template.json",
+      "html": "travel-journal/template.html",
+      "screenshot": "travel-journal/screenshot.png",
+      "mobileScreenshot": "travel-journal/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "travel-journal/images/hero-bd2de234465b.jpg",
+          "url": "https://assets.weavour.com/templates/travel-journal/hero-bd2de234465b.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in travel-journal/README.md."
+        }
+      ]
+    },
+    {
+      "id": "railway-getaway",
+      "name": "Platform Nine — weekend departures",
+      "description": "Travel booking email with travel composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Travel",
+        "Rail",
+        "Weekend"
+      ],
+      "document": "railway-getaway/template.json",
+      "html": "railway-getaway/template.html",
+      "screenshot": "railway-getaway/screenshot.png",
+      "mobileScreenshot": "railway-getaway/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "railway-getaway/images/hero-bd2de234465b.jpg",
+          "url": "https://assets.weavour.com/templates/railway-getaway/hero-bd2de234465b.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in railway-getaway/README.md."
+        }
+      ]
+    },
+    {
+      "id": "city-guide",
+      "name": "Good Neighbour — a local Saturday",
+      "description": "City guide email with journal composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Travel",
+        "City guide",
+        "Weekend"
+      ],
+      "document": "city-guide/template.json",
+      "html": "city-guide/template.html",
+      "screenshot": "city-guide/screenshot.png",
+      "mobileScreenshot": "city-guide/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "surf-school",
+      "name": "Breakwater — first swell",
+      "description": "Surf school email with service composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Sport & outdoors",
+        "Surf",
+        "Lessons"
+      ],
+      "document": "surf-school/template.json",
+      "html": "surf-school/template.html",
+      "screenshot": "surf-school/screenshot.png",
+      "mobileScreenshot": "surf-school/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "surf-school/images/hero-8324bbf97f2d.jpg",
+          "url": "https://assets.weavour.com/templates/surf-school/hero-8324bbf97f2d.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in surf-school/README.md."
+        }
+      ]
+    },
+    {
+      "id": "climbing-gym",
+      "name": "Upward — find your next hold",
+      "description": "Climbing gym email with poster composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Sport & outdoors",
+        "Climbing",
+        "Community"
+      ],
+      "document": "climbing-gym/template.json",
+      "html": "climbing-gym/template.html",
+      "screenshot": "climbing-gym/screenshot.png",
+      "mobileScreenshot": "climbing-gym/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "climbing-gym/images/hero-ed32cd93a7d7.jpg",
+          "url": "https://assets.weavour.com/templates/climbing-gym/hero-ed32cd93a7d7.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in climbing-gym/README.md."
+        }
+      ]
+    },
+    {
+      "id": "running-club",
+      "name": "Long Way Round — Saturday miles",
+      "description": "Running club email with event composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Sport & outdoors",
+        "Running",
+        "Community"
+      ],
+      "document": "running-club/template.json",
+      "html": "running-club/template.html",
+      "screenshot": "running-club/screenshot.png",
+      "mobileScreenshot": "running-club/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "nutritionist",
+      "name": "Kindred — a kinder plate",
+      "description": "Nutrition email with guide composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Wellness",
+        "Nutrition",
+        "Guide"
+      ],
+      "document": "nutritionist/template.json",
+      "html": "nutritionist/template.html",
+      "screenshot": "nutritionist/screenshot.png",
+      "mobileScreenshot": "nutritionist/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "nutritionist/images/hero-defee4b0666b.jpg",
+          "url": "https://assets.weavour.com/templates/nutritionist/hero-defee4b0666b.jpg",
+          "source": "Reused from the little-table-mealkit catalog artwork; original source and prompt documented in ../little-table-mealkit/README.md. Full provenance in nutritionist/README.md."
+        }
+      ]
+    },
+    {
+      "id": "meditation-app",
+      "name": "Still Hour — seven quiet minutes",
+      "description": "Meditation email with letter composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Wellness",
+        "Meditation",
+        "App update"
+      ],
+      "document": "meditation-app/template.json",
+      "html": "meditation-app/template.html",
+      "screenshot": "meditation-app/screenshot.png",
+      "mobileScreenshot": "meditation-app/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "pilates-studio",
+      "name": "Arc — move with more room",
+      "description": "Pilates email with event composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Wellness",
+        "Pilates",
+        "Class schedule"
+      ],
+      "document": "pilates-studio/template.json",
+      "html": "pilates-studio/template.html",
+      "screenshot": "pilates-studio/screenshot.png",
+      "mobileScreenshot": "pilates-studio/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "pilates-studio/images/hero-d9efbb3c8c8f.jpg",
+          "url": "https://assets.weavour.com/templates/pilates-studio/hero-d9efbb3c8c8f.jpg",
+          "source": "Reused from the stillpoint-yoga catalog artwork; original source and prompt documented in ../stillpoint-yoga/README.md. Full provenance in pilates-studio/README.md."
+        }
+      ]
+    },
+    {
+      "id": "spa-retreat",
+      "name": "Aster House — a day to yourself",
+      "description": "Spa email with invitation composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Wellness",
+        "Spa",
+        "Offer"
+      ],
+      "document": "spa-retreat/template.json",
+      "html": "spa-retreat/template.html",
+      "screenshot": "spa-retreat/screenshot.png",
+      "mobileScreenshot": "spa-retreat/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "spa-retreat/images/hero-2df5ead0f316.jpg",
+          "url": "https://assets.weavour.com/templates/spa-retreat/hero-2df5ead0f316.jpg",
+          "source": "Reused from the tidehouse-retreat catalog artwork; original source and prompt documented in ../tidehouse-retreat/README.md. Full provenance in spa-retreat/README.md."
+        }
+      ]
+    },
+    {
+      "id": "farm-share",
+      "name": "Good Soil — the first harvest",
+      "description": "Farm share email with product composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Farm",
+        "Seasonal"
+      ],
+      "document": "farm-share/template.json",
+      "html": "farm-share/template.html",
+      "screenshot": "farm-share/screenshot.png",
+      "mobileScreenshot": "farm-share/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "farm-share/images/hero-c8284f8f1125.jpg",
+          "url": "https://assets.weavour.com/templates/farm-share/hero-c8284f8f1125.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in farm-share/README.md."
+        }
+      ]
+    },
+    {
+      "id": "winery",
+      "name": "Juniper Ridge — the new pour",
+      "description": "Winery email with product composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Wine",
+        "Release"
+      ],
+      "document": "winery/template.json",
+      "html": "winery/template.html",
+      "screenshot": "winery/screenshot.png",
+      "mobileScreenshot": "winery/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "chocolate-maker",
+      "name": "Cocoa Room — a little dark chocolate",
+      "description": "Chocolate email with product composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Chocolate",
+        "Product"
+      ],
+      "document": "chocolate-maker/template.json",
+      "html": "chocolate-maker/template.html",
+      "screenshot": "chocolate-maker/screenshot.png",
+      "mobileScreenshot": "chocolate-maker/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "chocolate-maker/images/hero-5cf016e37a1f.jpg",
+          "url": "https://assets.weavour.com/templates/chocolate-maker/hero-5cf016e37a1f.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in chocolate-maker/README.md."
+        }
+      ]
+    },
+    {
+      "id": "cheese-shop",
+      "name": "The Rind — a board for four",
+      "description": "Cheese shop email with guide composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Cheese",
+        "Guide"
+      ],
+      "document": "cheese-shop/template.json",
+      "html": "cheese-shop/template.html",
+      "screenshot": "cheese-shop/screenshot.png",
+      "mobileScreenshot": "cheese-shop/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "cheese-shop/images/hero-5686eba4d429.jpg",
+          "url": "https://assets.weavour.com/templates/cheese-shop/hero-5686eba4d429.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in cheese-shop/README.md."
+        }
+      ]
+    },
+    {
+      "id": "ice-cream",
+      "name": "Soft Serve — the first scoop",
+      "description": "Ice cream email with poster composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Dessert",
+        "Seasonal"
+      ],
+      "document": "ice-cream/template.json",
+      "html": "ice-cream/template.html",
+      "screenshot": "ice-cream/screenshot.png",
+      "mobileScreenshot": "ice-cream/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "ice-cream/images/hero-908f0bcc4c5e.jpg",
+          "url": "https://assets.weavour.com/templates/ice-cream/hero-908f0bcc4c5e.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in ice-cream/README.md."
+        }
+      ]
+    },
+    {
+      "id": "farmers-market",
+      "name": "Saturday Market — this week",
+      "description": "Farmers market email with event composition, campaign-specific copy and 2 relevant editorial images.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Market",
+        "Weekly"
+      ],
+      "document": "farmers-market/template.json",
+      "html": "farmers-market/template.html",
+      "screenshot": "farmers-market/screenshot.png",
+      "mobileScreenshot": "farmers-market/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "farmers-market/images/hero-c8284f8f1125.jpg",
+          "url": "https://assets.weavour.com/templates/farmers-market/hero-c8284f8f1125.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in farmers-market/README.md."
+        },
+        {
+          "file": "farmers-market/images/detail-f639532b917a.jpg",
+          "url": "https://assets.weavour.com/templates/farmers-market/detail-f639532b917a.jpg",
+          "source": "Reused from the hearth-bakery catalog artwork; original source and prompt documented in ../hearth-bakery/README.md. Full provenance in farmers-market/README.md."
+        }
+      ]
+    },
+    {
+      "id": "bookkeeping-app",
+      "name": "Tally Day — tidy your books",
+      "description": "SaaS email with release composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "SaaS",
+        "Product update"
+      ],
+      "document": "bookkeeping-app/template.json",
+      "html": "bookkeeping-app/template.html",
+      "screenshot": "bookkeeping-app/screenshot.png",
+      "mobileScreenshot": "bookkeeping-app/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "project-management",
+      "name": "Daymark — make the work visible",
+      "description": "SaaS email with release composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "SaaS",
+        "Product update"
+      ],
+      "document": "project-management/template.json",
+      "html": "project-management/template.html",
+      "screenshot": "project-management/screenshot.png",
+      "mobileScreenshot": "project-management/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "security-product",
+      "name": "Harbor — a safer sign-in",
+      "description": "SaaS email with release composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "Security",
+        "Product launch"
+      ],
+      "document": "security-product/template.json",
+      "html": "security-product/template.html",
+      "screenshot": "security-product/screenshot.png",
+      "mobileScreenshot": "security-product/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "analytics-product",
+      "name": "Signal House — see the shape of demand",
+      "description": "SaaS email with brief composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "Analytics",
+        "Product update"
+      ],
+      "document": "analytics-product/template.json",
+      "html": "analytics-product/template.html",
+      "screenshot": "analytics-product/screenshot.png",
+      "mobileScreenshot": "analytics-product/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "hr-platform",
+      "name": "Kindred — people ops, with care",
+      "description": "SaaS email with release composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "People",
+        "Product"
+      ],
+      "document": "hr-platform/template.json",
+      "html": "hr-platform/template.html",
+      "screenshot": "hr-platform/screenshot.png",
+      "mobileScreenshot": "hr-platform/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "nonprofit-education",
+      "name": "Open Door — a year of learning",
+      "description": "Nonprofit email with impact composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Community",
+        "Education",
+        "Impact"
+      ],
+      "document": "nonprofit-education/template.json",
+      "html": "nonprofit-education/template.html",
+      "screenshot": "nonprofit-education/screenshot.png",
+      "mobileScreenshot": "nonprofit-education/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "community-garden",
+      "name": "Neighbourhood Plot — Saturday in the soil",
+      "description": "Community garden email with event composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Community",
+        "Gardening",
+        "Event"
+      ],
+      "document": "community-garden/template.json",
+      "html": "community-garden/template.html",
+      "screenshot": "community-garden/screenshot.png",
+      "mobileScreenshot": "community-garden/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "community-garden/images/hero-c62a1d094972.jpg",
+          "url": "https://assets.weavour.com/templates/community-garden/hero-c62a1d094972.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in community-garden/README.md."
+        }
+      ]
+    },
+    {
+      "id": "mutual-aid",
+      "name": "Common Table — a practical ask",
+      "description": "Mutual aid email with appeal composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Community",
+        "Mutual aid",
+        "Fundraiser"
+      ],
+      "document": "mutual-aid/template.json",
+      "html": "mutual-aid/template.html",
+      "screenshot": "mutual-aid/screenshot.png",
+      "mobileScreenshot": "mutual-aid/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "mutual-aid/images/hero-c8284f8f1125.jpg",
+          "url": "https://assets.weavour.com/templates/mutual-aid/hero-c8284f8f1125.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in mutual-aid/README.md."
+        }
+      ]
+    },
+    {
+      "id": "animal-rescue",
+      "name": "Second Chance — a good match",
+      "description": "Animal rescue email with guide composition, campaign-specific copy and 2 relevant editorial images.",
+      "language": "en",
+      "tags": [
+        "Community",
+        "Animals",
+        "Adoption"
+      ],
+      "document": "animal-rescue/template.json",
+      "html": "animal-rescue/template.html",
+      "screenshot": "animal-rescue/screenshot.png",
+      "mobileScreenshot": "animal-rescue/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "animal-rescue/images/hero-5beab71bc628.jpg",
+          "url": "https://assets.weavour.com/templates/animal-rescue/hero-5beab71bc628.jpg",
+          "source": "Reused from the good-company-adoption catalog artwork; original source and prompt documented in ../good-company-adoption/README.md. Full provenance in animal-rescue/README.md."
+        },
+        {
+          "file": "animal-rescue/images/detail-6e3baf563008.jpg",
+          "url": "https://assets.weavour.com/templates/animal-rescue/detail-6e3baf563008.jpg",
+          "source": "Reused from the good-company-adoption catalog artwork; original source and prompt documented in ../good-company-adoption/README.md. Full provenance in animal-rescue/README.md."
+        }
+      ]
+    },
+    {
+      "id": "makers-market",
+      "name": "Handmade Sunday — makers on the square",
+      "description": "Market email with event composition, campaign-specific copy and 2 relevant editorial images.",
+      "language": "en",
+      "tags": [
+        "Community",
+        "Makers",
+        "Event"
+      ],
+      "document": "makers-market/template.json",
+      "html": "makers-market/template.html",
+      "screenshot": "makers-market/screenshot.png",
+      "mobileScreenshot": "makers-market/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "makers-market/images/hero-f1b590336935.jpg",
+          "url": "https://assets.weavour.com/templates/makers-market/hero-f1b590336935.jpg",
+          "source": "Reused from the openbench-workshop catalog artwork; original source and prompt documented in ../openbench-workshop/README.md. Full provenance in makers-market/README.md."
+        },
+        {
+          "file": "makers-market/images/detail-bd312aa268d6.jpg",
+          "url": "https://assets.weavour.com/templates/makers-market/detail-bd312aa268d6.jpg",
+          "source": "Reused from the stem-seasonal catalog artwork; original source and prompt documented in ../stem-seasonal/README.md. Full provenance in makers-market/README.md."
+        }
+      ]
+    },
+    {
+      "id": "photobook-club",
+      "name": "Contact Sheet — June pages",
+      "description": "Photography club email with journal composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Community",
+        "Photography",
+        "Membership"
+      ],
+      "document": "photobook-club/template.json",
+      "html": "photobook-club/template.html",
+      "screenshot": "photobook-club/screenshot.png",
+      "mobileScreenshot": "photobook-club/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "photobook-club/images/hero-dcf76462d047.jpg",
+          "url": "https://assets.weavour.com/templates/photobook-club/hero-dcf76462d047.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in photobook-club/README.md."
+        }
+      ]
+    },
+    {
+      "id": "museum-donation",
+      "name": "Friends — keep the archive open",
+      "description": "Arts nonprofit email with appeal composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Culture",
+        "Archive",
+        "Fundraiser"
+      ],
+      "document": "museum-donation/template.json",
+      "html": "museum-donation/template.html",
+      "screenshot": "museum-donation/screenshot.png",
+      "mobileScreenshot": "museum-donation/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "museum-donation/images/hero-ba9f75ba7516.jpg",
+          "url": "https://assets.weavour.com/templates/museum-donation/hero-ba9f75ba7516.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in museum-donation/README.md."
+        }
+      ]
+    },
+    {
+      "id": "craft-beer",
+      "name": "Half Step — a crisp little release",
+      "description": "Craft beer email with product composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Beer",
+        "Release"
+      ],
+      "document": "craft-beer/template.json",
+      "html": "craft-beer/template.html",
+      "screenshot": "craft-beer/screenshot.png",
+      "mobileScreenshot": "craft-beer/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "craft-beer/images/hero-333b4c535099.jpg",
+          "url": "https://assets.weavour.com/templates/craft-beer/hero-333b4c535099.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in craft-beer/README.md."
+        }
+      ]
+    },
+    {
+      "id": "farm-to-table",
+      "name": "Root & Salt — tonight’s table",
+      "description": "Restaurant email with menu composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Restaurant",
+        "Menu"
+      ],
+      "document": "farm-to-table/template.json",
+      "html": "farm-to-table/template.html",
+      "screenshot": "farm-to-table/screenshot.png",
+      "mobileScreenshot": "farm-to-table/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "farm-to-table/images/hero-defee4b0666b.jpg",
+          "url": "https://assets.weavour.com/templates/farm-to-table/hero-defee4b0666b.jpg",
+          "source": "Reused from the little-table-mealkit catalog artwork; original source and prompt documented in ../little-table-mealkit/README.md. Full provenance in farm-to-table/README.md."
+        }
+      ]
+    },
+    {
+      "id": "meal-prep",
+      "name": "Sunday Prep — five easy lunches",
+      "description": "Meal planning email with guide composition, campaign-specific copy and 2 relevant editorial images.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Meal planning",
+        "Guide"
+      ],
+      "document": "meal-prep/template.json",
+      "html": "meal-prep/template.html",
+      "screenshot": "meal-prep/screenshot.png",
+      "mobileScreenshot": "meal-prep/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "meal-prep/images/hero-defee4b0666b.jpg",
+          "url": "https://assets.weavour.com/templates/meal-prep/hero-defee4b0666b.jpg",
+          "source": "Reused from the little-table-mealkit catalog artwork; original source and prompt documented in ../little-table-mealkit/README.md. Full provenance in meal-prep/README.md."
+        },
+        {
+          "file": "meal-prep/images/detail-d9c834ade6bf.jpg",
+          "url": "https://assets.weavour.com/templates/meal-prep/detail-d9c834ade6bf.jpg",
+          "source": "Reused from the little-table-mealkit catalog artwork; original source and prompt documented in ../little-table-mealkit/README.md. Full provenance in meal-prep/README.md."
+        }
+      ]
+    },
+    {
+      "id": "coffee-subscription",
+      "name": "Roast Post — your next bag",
+      "description": "Coffee subscription email with product composition, campaign-specific copy and 2 relevant editorial images.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Coffee",
+        "Subscription"
+      ],
+      "document": "coffee-subscription/template.json",
+      "html": "coffee-subscription/template.html",
+      "screenshot": "coffee-subscription/screenshot.png",
+      "mobileScreenshot": "coffee-subscription/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "coffee-subscription/images/hero-a8ae4c50cadb.jpg",
+          "url": "https://assets.weavour.com/templates/coffee-subscription/hero-a8ae4c50cadb.jpg",
+          "source": "Reused from the ember-coffee catalog artwork; original source and prompt documented in ../ember-coffee/README.md. Full provenance in coffee-subscription/README.md."
+        },
+        {
+          "file": "coffee-subscription/images/detail-a4edfdecef5d.jpg",
+          "url": "https://assets.weavour.com/templates/coffee-subscription/detail-a4edfdecef5d.jpg",
+          "source": "Reused from the ember-coffee catalog artwork; original source and prompt documented in ../ember-coffee/README.md. Full provenance in coffee-subscription/README.md."
+        }
+      ]
+    },
+    {
+      "id": "pet-grooming",
+      "name": "Paw & Polish — fresh for summer",
+      "description": "Pet services email with service composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Pets",
+        "Grooming",
+        "Booking"
+      ],
+      "document": "pet-grooming/template.json",
+      "html": "pet-grooming/template.html",
+      "screenshot": "pet-grooming/screenshot.png",
+      "mobileScreenshot": "pet-grooming/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "pet-grooming/images/hero-5beab71bc628.jpg",
+          "url": "https://assets.weavour.com/templates/pet-grooming/hero-5beab71bc628.jpg",
+          "source": "Reused from the good-company-adoption catalog artwork; original source and prompt documented in ../good-company-adoption/README.md. Full provenance in pet-grooming/README.md."
+        }
+      ]
+    },
+    {
+      "id": "dog-walking",
+      "name": "Good Stride — outside is calling",
+      "description": "Pet services email with service composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Pets",
+        "Dog walking",
+        "Service"
+      ],
+      "document": "dog-walking/template.json",
+      "html": "dog-walking/template.html",
+      "screenshot": "dog-walking/screenshot.png",
+      "mobileScreenshot": "dog-walking/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "dog-walking/images/hero-5beab71bc628.jpg",
+          "url": "https://assets.weavour.com/templates/dog-walking/hero-5beab71bc628.jpg",
+          "source": "Reused from the good-company-adoption catalog artwork; original source and prompt documented in ../good-company-adoption/README.md. Full provenance in dog-walking/README.md."
+        }
+      ]
+    },
+    {
+      "id": "baby-clothing",
+      "name": "Small Hours — soft things",
+      "description": "Baby clothing email with product composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Baby",
+        "New collection"
+      ],
+      "document": "baby-clothing/template.json",
+      "html": "baby-clothing/template.html",
+      "screenshot": "baby-clothing/screenshot.png",
+      "mobileScreenshot": "baby-clothing/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "baby-clothing/images/hero-f05cd09589c3.jpg",
+          "url": "https://assets.weavour.com/templates/baby-clothing/hero-f05cd09589c3.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in baby-clothing/README.md."
+        }
+      ]
+    },
+    {
+      "id": "stationery",
+      "name": "Paper Habit — make a note of it",
+      "description": "Stationery email with product composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Stationery",
+        "Product"
+      ],
+      "document": "stationery/template.json",
+      "html": "stationery/template.html",
+      "screenshot": "stationery/screenshot.png",
+      "mobileScreenshot": "stationery/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "stationery/images/hero-fcfd3999f0aa.jpg",
+          "url": "https://assets.weavour.com/templates/stationery/hero-fcfd3999f0aa.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in stationery/README.md."
+        }
+      ]
+    },
+    {
+      "id": "sunglasses",
+      "name": "Low Sun — look up",
+      "description": "Accessories email with product composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Accessories",
+        "Seasonal"
+      ],
+      "document": "sunglasses/template.json",
+      "html": "sunglasses/template.html",
+      "screenshot": "sunglasses/screenshot.png",
+      "mobileScreenshot": "sunglasses/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "sunglasses/images/hero-82a77ca889d8.jpg",
+          "url": "https://assets.weavour.com/templates/sunglasses/hero-82a77ca889d8.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in sunglasses/README.md."
+        }
+      ]
+    },
+    {
+      "id": "outdoor-gear",
+      "name": "Camp Supply — pack lighter",
+      "description": "Outdoor retail email with guide composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Outdoors",
+        "Guide"
+      ],
+      "document": "outdoor-gear/template.json",
+      "html": "outdoor-gear/template.html",
+      "screenshot": "outdoor-gear/screenshot.png",
+      "mobileScreenshot": "outdoor-gear/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "outdoor-gear/images/hero-2a006ff9faf5.jpg",
+          "url": "https://assets.weavour.com/templates/outdoor-gear/hero-2a006ff9faf5.jpg",
+          "source": "Reused from the switchback-adventures catalog artwork; original source and prompt documented in ../switchback-adventures/README.md. Full provenance in outdoor-gear/README.md."
+        }
+      ]
+    },
+    {
+      "id": "plant-shop",
+      "name": "Houseplant Dept. — windowsill weather",
+      "description": "Plant shop email with product composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Plants",
+        "Seasonal"
+      ],
+      "document": "plant-shop/template.json",
+      "html": "plant-shop/template.html",
+      "screenshot": "plant-shop/screenshot.png",
+      "mobileScreenshot": "plant-shop/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "plant-shop/images/hero-d9418c07b318.jpg",
+          "url": "https://assets.weavour.com/templates/plant-shop/hero-d9418c07b318.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in plant-shop/README.md."
+        }
+      ]
+    },
+    {
+      "id": "menswear",
+      "name": "Common Form — the everyday uniform",
+      "description": "Menswear email with product composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Fashion",
+        "Menswear",
+        "New collection"
+      ],
+      "document": "menswear/template.json",
+      "html": "menswear/template.html",
+      "screenshot": "menswear/screenshot.png",
+      "mobileScreenshot": "menswear/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "swimwear",
+      "name": "Tidal Form — made for water",
+      "description": "Swimwear email with product composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Fashion",
+        "Swim",
+        "Seasonal"
+      ],
+      "document": "swimwear/template.json",
+      "html": "swimwear/template.html",
+      "screenshot": "swimwear/screenshot.png",
+      "mobileScreenshot": "swimwear/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "swimwear/images/hero-0b703758c753.jpg",
+          "url": "https://assets.weavour.com/templates/swimwear/hero-0b703758c753.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in swimwear/README.md."
+        }
+      ]
+    },
+    {
+      "id": "vintage-shop",
+      "name": "Second Story — found again",
+      "description": "Vintage retail email with journal composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Fashion",
+        "Vintage",
+        "New arrivals"
+      ],
+      "document": "vintage-shop/template.json",
+      "html": "vintage-shop/template.html",
+      "screenshot": "vintage-shop/screenshot.png",
+      "mobileScreenshot": "vintage-shop/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "tailor",
+      "name": "The Hemline — made to fit",
+      "description": "Tailoring email with service composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Services",
+        "Tailoring",
+        "Booking"
+      ],
+      "document": "tailor/template.json",
+      "html": "tailor/template.html",
+      "screenshot": "tailor/screenshot.png",
+      "mobileScreenshot": "tailor/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "art-print-shop",
+      "name": "Small Edition — new prints",
+      "description": "Art prints email with editorial composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Art",
+        "Collection"
+      ],
+      "document": "art-print-shop/template.json",
+      "html": "art-print-shop/template.html",
+      "screenshot": "art-print-shop/screenshot.png",
+      "mobileScreenshot": "art-print-shop/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "art-print-shop/images/hero-99d1226104b1.jpg",
+          "url": "https://assets.weavour.com/templates/art-print-shop/hero-99d1226104b1.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in art-print-shop/README.md."
+        }
+      ]
+    },
+    {
+      "id": "software-newsletter",
+      "name": "The Build Log — issue 08",
+      "description": "Tech newsletter email with dispatch composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Technology",
+        "Newsletter",
+        "Editorial"
+      ],
+      "document": "software-newsletter/template.json",
+      "html": "software-newsletter/template.html",
+      "screenshot": "software-newsletter/screenshot.png",
+      "mobileScreenshot": "software-newsletter/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "api-platform",
+      "name": "Morse — the clear path to data",
+      "description": "Developer tools email with steps composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Technology",
+        "API",
+        "Product"
+      ],
+      "document": "api-platform/template.json",
+      "html": "api-platform/template.html",
+      "screenshot": "api-platform/screenshot.png",
+      "mobileScreenshot": "api-platform/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "design-system",
+      "name": "Lattice — a calmer system",
+      "description": "Design system email with release composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Technology",
+        "Design",
+        "Product update"
+      ],
+      "document": "design-system/template.json",
+      "html": "design-system/template.html",
+      "screenshot": "design-system/screenshot.png",
+      "mobileScreenshot": "design-system/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "indie-game",
+      "name": "Lantern Arcade — press start",
+      "description": "Games email with poster composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Technology",
+        "Games",
+        "Launch"
+      ],
+      "document": "indie-game/template.json",
+      "html": "indie-game/template.html",
+      "screenshot": "indie-game/screenshot.png",
+      "mobileScreenshot": "indie-game/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "newsletter-local",
+      "name": "The Local Edit — this weekend",
+      "description": "Local newsletter email with journal composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Publishing",
+        "Local",
+        "Weekend"
+      ],
+      "document": "newsletter-local/template.json",
+      "html": "newsletter-local/template.html",
+      "screenshot": "newsletter-local/screenshot.png",
+      "mobileScreenshot": "newsletter-local/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "climate-startup",
+      "name": "Tide Turn — progress you can measure",
+      "description": "Climate technology email with brief composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Technology",
+        "Climate",
+        "Product"
+      ],
+      "document": "climate-startup/template.json",
+      "html": "climate-startup/template.html",
+      "screenshot": "climate-startup/screenshot.png",
+      "mobileScreenshot": "climate-startup/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "ethical-finance",
+      "name": "Harbour Mutual — money with a compass",
+      "description": "Ethical finance email with brief composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "Finance",
+        "Values"
+      ],
+      "document": "ethical-finance/template.json",
+      "html": "ethical-finance/template.html",
+      "screenshot": "ethical-finance/screenshot.png",
+      "mobileScreenshot": "ethical-finance/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "coworking-space",
+      "name": "Corner Office — find your desk",
+      "description": "Coworking email with service composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "Workspace",
+        "Membership"
+      ],
+      "document": "coworking-space/template.json",
+      "html": "coworking-space/template.html",
+      "screenshot": "coworking-space/screenshot.png",
+      "mobileScreenshot": "coworking-space/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "coworking-space/images/hero-b3ba6bc14cdd.jpg",
+          "url": "https://assets.weavour.com/templates/coworking-space/hero-b3ba6bc14cdd.jpg",
+          "source": "Generated with OpenAI’s built-in image generation tool during the catalog review on 2026-10-19. Full provenance in coworking-space/README.md."
+        }
+      ]
+    },
+    {
+      "id": "conference-sponsor",
+      "name": "North Star — save your seat",
+      "description": "Conference email with event composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "Conference",
+        "Event"
+      ],
+      "document": "conference-sponsor/template.json",
+      "html": "conference-sponsor/template.html",
+      "screenshot": "conference-sponsor/screenshot.png",
+      "mobileScreenshot": "conference-sponsor/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "conference-sponsor/images/hero-00081bfb9a8a.jpg",
+          "url": "https://assets.weavour.com/templates/conference-sponsor/hero-00081bfb9a8a.jpg",
+          "source": "Reused from the common-ground-conference catalog artwork; original source and prompt documented in ../common-ground-conference/README.md. Full provenance in conference-sponsor/README.md."
+        }
+      ]
+    },
+    {
+      "id": "team-retreat",
+      "name": "Field Notes — offsite, on purpose",
+      "description": "Team retreats email with travel composition, campaign-specific copy and 1 relevant editorial image.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "Retreat",
+        "Service"
+      ],
+      "document": "team-retreat/template.json",
+      "html": "team-retreat/template.html",
+      "screenshot": "team-retreat/screenshot.png",
+      "mobileScreenshot": "team-retreat/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "team-retreat/images/hero-2a006ff9faf5.jpg",
+          "url": "https://assets.weavour.com/templates/team-retreat/hero-2a006ff9faf5.jpg",
+          "source": "Reused from the switchback-adventures catalog artwork; original source and prompt documented in ../switchback-adventures/README.md. Full provenance in team-retreat/README.md."
+        }
+      ]
+    },
+    {
+      "id": "customer-success",
+      "name": "Brightline — a note from your team",
+      "description": "Customer success email with letter composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "SaaS",
+        "Customer note"
+      ],
+      "document": "customer-success/template.json",
+      "html": "customer-success/template.html",
+      "screenshot": "customer-success/screenshot.png",
+      "mobileScreenshot": "customer-success/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "quarterly-report",
+      "name": "Cedar Works — spring report",
+      "description": "Business report email with brief composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "Report",
+        "Update"
+      ],
+      "document": "quarterly-report/template.json",
+      "html": "quarterly-report/template.html",
+      "screenshot": "quarterly-report/screenshot.png",
+      "mobileScreenshot": "quarterly-report/screenshot-mobile.png",
+      "images": []
     }
   ]
 }
