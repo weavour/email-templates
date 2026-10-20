@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "templates": [
+    {
+      "id": "fieldwork-sunday",
+      "name": "Fieldwork — A slower kind of Sunday",
+      "description": "An editorial product announcement for homewares and lifestyle brands.",
+      "language": "en",
+      "tags": [
+        "Ecommerce",
+        "Product announcement",
+        "Lifestyle"
+      ],
+      "document": "fieldwork-sunday/template.json",
+      "html": "fieldwork-sunday/template.html",
+      "screenshot": "fieldwork-sunday/screenshot.png",
+      "mobileScreenshot": "fieldwork-sunday/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "fieldwork-sunday/images/olive-vase-1bcafcd16e8f.jpg",
+          "url": "https://assets.weavour.com/templates/fieldwork-sunday/olive-vase-1bcafcd16e8f.jpg",
+          "source": "AI-generated with OpenAI image generation; see fieldwork-sunday/README.md."
+        }
+      ]
+    }
+  ]
+}
