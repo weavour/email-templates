@@ -51,3 +51,4 @@ HTML previews have been checked in Chromium. Email clients, especially Outlook, 
 ## Provisioning releases
 
 After rendering and publishing images, run `npm run templates:bundle` in the private application repository. This verifies published image bytes and writes its committed `shared/template-catalog.json`, pinned by a SHA-256 content version. Commit that snapshot with the application release. Normal builds verify the snapshot offline; the public checkout and GitHub are not needed when provisioning a workspace. New tenants receive every bundled template after migrations and before activation; failed seeds retry safely. The local launcher follows the same sequence. Existing production tenants are updated separately with `--remote --all`.
+# email-templates
