@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "industries": ["Retail", "Food & drink", "Travel", "Health & wellness", "Arts & culture", "Education", "Business", "Technology", "Community", "Pets", "Sports & outdoors"],
+  "purposes": ["Product launch", "Update", "Newsletter", "Event", "Service", "Fundraising", "Promotion"],
+  "rules": {
+    "tagsPerTemplate": 2,
+    "order": ["industry", "purpose"],
+    "nicheDetails": "Keep specific niches in template names and descriptions. Reuse these tags; do not add synonyms or niche tags."
+  },
+  "purposeDefinitions": {
+    "Product launch": "A new product, collection, release or season announcement.",
+    "Update": "Progress, client or account news, product improvements and reports.",
+    "Newsletter": "Editorial content, guides, recommendations and recurring selections.",
+    "Event": "An invitation, class, workshop, schedule or programme.",
+    "Service": "Booking or explaining a professional service, consultation or workspace.",
+    "Fundraising": "An appeal for donations or material contributions.",
+    "Promotion": "An existing offer, membership, subscription, restock or seasonal selection."
+  }
+}

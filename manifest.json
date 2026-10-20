@@ -7,9 +7,8 @@
       "description": "An editorial product announcement for homewares and lifestyle brands.",
       "language": "en",
       "tags": [
-        "Ecommerce",
-        "Product announcement",
-        "Lifestyle"
+        "Retail",
+        "Product launch"
       ],
       "document": "fieldwork-sunday/template.json",
       "html": "fieldwork-sunday/template.html",
@@ -30,8 +29,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Bakery",
-        "Weekly menu"
+        "Newsletter"
       ],
       "document": "hearth-bakery/template.json",
       "html": "hearth-bakery/template.html",
@@ -57,7 +55,6 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Coffee",
         "Product launch"
       ],
       "document": "ember-coffee/template.json",
@@ -84,8 +81,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Restaurant",
-        "Reservation"
+        "Event"
       ],
       "document": "nori-omakase/template.json",
       "html": "nori-omakase/template.html",
@@ -106,8 +102,7 @@
       "language": "en",
       "tags": [
         "Travel",
-        "Hotel",
-        "Seasonal escape"
+        "Promotion"
       ],
       "document": "tidehouse-retreat/template.json",
       "html": "tidehouse-retreat/template.html",
@@ -128,8 +123,7 @@
       "language": "en",
       "tags": [
         "Travel",
-        "Outdoors",
-        "Adventure"
+        "Promotion"
       ],
       "document": "switchback-adventures/template.json",
       "html": "switchback-adventures/template.html",
@@ -154,9 +148,8 @@
       "description": "An editable real estate email with a listing layout.",
       "language": "en",
       "tags": [
-        "Real estate",
-        "Open house",
-        "Property"
+        "Business",
+        "Event"
       ],
       "document": "archway-open-house/template.json",
       "html": "archway-open-house/template.html",
@@ -177,8 +170,7 @@
       "language": "en",
       "tags": [
         "Pets",
-        "Nonprofit",
-        "Adoption"
+        "Promotion"
       ],
       "document": "good-company-adoption/template.json",
       "html": "good-company-adoption/template.html",
@@ -203,9 +195,8 @@
       "description": "An editable yoga & wellness email with a quiet layout.",
       "language": "en",
       "tags": [
-        "Wellness",
-        "Yoga",
-        "Class invitation"
+        "Health & wellness",
+        "Event"
       ],
       "document": "stillpoint-yoga/template.json",
       "html": "stillpoint-yoga/template.html",
@@ -225,9 +216,8 @@
       "description": "An editable fitness email with a bold layout.",
       "language": "en",
       "tags": [
-        "Fitness",
-        "Gym",
-        "Membership"
+        "Health & wellness",
+        "Promotion"
       ],
       "document": "form-training/template.json",
       "html": "form-training/template.html",
@@ -247,8 +237,7 @@
       "description": "An editable beauty & skincare email with a product layout.",
       "language": "en",
       "tags": [
-        "Beauty",
-        "Skincare",
+        "Retail",
         "Product launch"
       ],
       "document": "morrow-skincare/template.json",
@@ -275,8 +264,7 @@
       "language": "en",
       "tags": [
         "Retail",
-        "Jewelry",
-        "New collection"
+        "Product launch"
       ],
       "document": "aurelia-jewelry/template.json",
       "html": "aurelia-jewelry/template.html",
@@ -301,9 +289,8 @@
       "description": "An editable fashion email with a poster layout.",
       "language": "en",
       "tags": [
-        "Fashion",
         "Retail",
-        "New drop"
+        "Product launch"
       ],
       "document": "offscript-fashion/template.json",
       "html": "offscript-fashion/template.html",
@@ -323,9 +310,8 @@
       "description": "An editable florist email with a botanical layout.",
       "language": "en",
       "tags": [
-        "Flowers",
-        "Gifting",
-        "Seasonal collection"
+        "Retail",
+        "Promotion"
       ],
       "document": "stem-seasonal/template.json",
       "html": "stem-seasonal/template.html",
@@ -350,8 +336,7 @@
       "description": "An editable ocean conservation email with a campaign layout.",
       "language": "en",
       "tags": [
-        "Nonprofit",
-        "Environment",
+        "Community",
         "Fundraising"
       ],
       "document": "bluecurrent-ocean/template.json",
@@ -373,8 +358,7 @@
       "language": "en",
       "tags": [
         "Education",
-        "Workshop",
-        "Creative"
+        "Event"
       ],
       "document": "openbench-workshop/template.json",
       "html": "openbench-workshop/template.html",
@@ -394,9 +378,8 @@
       "description": "An editable saas product update email with a release layout.",
       "language": "en",
       "tags": [
-        "SaaS",
-        "Product update",
-        "Team collaboration"
+        "Technology",
+        "Update"
       ],
       "document": "relay-product-update/template.json",
       "html": "relay-product-update/template.html",
@@ -416,9 +399,8 @@
       "description": "An editable design conference email with a agenda layout.",
       "language": "en",
       "tags": [
-        "Events",
-        "Conference",
-        "Design"
+        "Business",
+        "Event"
       ],
       "document": "common-ground-conference/template.json",
       "html": "common-ground-conference/template.html",
@@ -438,9 +420,8 @@
       "description": "An editable live music email with a nightlife layout.",
       "language": "en",
       "tags": [
-        "Events",
-        "Music",
-        "Nightlife"
+        "Arts & culture",
+        "Event"
       ],
       "document": "afterhours-jazz/template.json",
       "html": "afterhours-jazz/template.html",
@@ -460,9 +441,8 @@
       "description": "An editable independent bookstore email with a reading layout.",
       "language": "en",
       "tags": [
-        "Books",
-        "Newsletter",
-        "Retail"
+        "Retail",
+        "Newsletter"
       ],
       "document": "margin-bookshop/template.json",
       "html": "margin-bookshop/template.html",
@@ -483,8 +463,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Meal kit",
-        "Weekly menu"
+        "Newsletter"
       ],
       "document": "little-table-mealkit/template.json",
       "html": "little-table-mealkit/template.html",
@@ -509,8 +488,7 @@
       "description": "Home fragrance email with editorial composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Home & living",
-        "Candles",
+        "Retail",
         "Product launch"
       ],
       "document": "candle-studio/template.json",
@@ -531,9 +509,8 @@
       "description": "Ceramics email with product composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Home & living",
-        "Ceramics",
-        "Studio update"
+        "Retail",
+        "Product launch"
       ],
       "document": "ceramic-studio/template.json",
       "html": "ceramic-studio/template.html",
@@ -553,8 +530,7 @@
       "description": "Cycling email with service composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Sport & outdoors",
-        "Cycling",
+        "Sports & outdoors",
         "Service"
       ],
       "document": "bike-shop/template.json",
@@ -575,9 +551,8 @@
       "description": "Gardening email with journal composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Home & living",
-        "Gardening",
-        "Monthly note"
+        "Retail",
+        "Newsletter"
       ],
       "document": "garden-club/template.json",
       "html": "garden-club/template.html",
@@ -598,8 +573,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Tea",
-        "Seasonal"
+        "Product launch"
       ],
       "document": "tea-house/template.json",
       "html": "tea-house/template.html",
@@ -619,9 +593,8 @@
       "description": "Music retail email with editorial composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Culture",
-        "Music",
-        "New arrivals"
+        "Arts & culture",
+        "Promotion"
       ],
       "document": "vinyl-shop/template.json",
       "html": "vinyl-shop/template.html",
@@ -641,9 +614,8 @@
       "description": "Film club email with event composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Culture",
-        "Film",
-        "Event invitation"
+        "Arts & culture",
+        "Event"
       ],
       "document": "film-club/template.json",
       "html": "film-club/template.html",
@@ -663,9 +635,8 @@
       "description": "Museum email with invitation composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Culture",
-        "Museum",
-        "Membership"
+        "Arts & culture",
+        "Promotion"
       ],
       "document": "museum-members/template.json",
       "html": "museum-members/template.html",
@@ -685,9 +656,8 @@
       "description": "Theatre email with poster composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Culture",
-        "Theatre",
-        "Season announcement"
+        "Arts & culture",
+        "Product launch"
       ],
       "document": "theatre-season/template.json",
       "html": "theatre-season/template.html",
@@ -701,9 +671,8 @@
       "description": "Podcast email with dispatch composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Culture",
-        "Podcast",
-        "Launch"
+        "Arts & culture",
+        "Product launch"
       ],
       "document": "podcast-launch/template.json",
       "html": "podcast-launch/template.html",
@@ -717,9 +686,8 @@
       "description": "Newsletter email with letter composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Publishing",
-        "Newsletter",
-        "Editorial"
+        "Arts & culture",
+        "Newsletter"
       ],
       "document": "newsletter-creator/template.json",
       "html": "newsletter-creator/template.html",
@@ -733,9 +701,8 @@
       "description": "Publishing email with journal composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Publishing",
-        "Books",
-        "Announcement"
+        "Arts & culture",
+        "Product launch"
       ],
       "document": "indie-publisher/template.json",
       "html": "indie-publisher/template.html",
@@ -756,8 +723,7 @@
       "language": "en",
       "tags": [
         "Education",
-        "Language",
-        "Course launch"
+        "Event"
       ],
       "document": "language-school/template.json",
       "html": "language-school/template.html",
@@ -772,8 +738,7 @@
       "language": "en",
       "tags": [
         "Education",
-        "Coding",
-        "Workshop"
+        "Event"
       ],
       "document": "coding-bootcamp/template.json",
       "html": "coding-bootcamp/template.html",
@@ -788,8 +753,7 @@
       "language": "en",
       "tags": [
         "Education",
-        "Music",
-        "Lessons"
+        "Service"
       ],
       "document": "music-school/template.json",
       "html": "music-school/template.html",
@@ -810,8 +774,7 @@
       "language": "en",
       "tags": [
         "Community",
-        "Parenting",
-        "Support"
+        "Newsletter"
       ],
       "document": "parenting-community/template.json",
       "html": "parenting-community/template.html",
@@ -825,9 +788,8 @@
       "description": "Career coaching email with letter composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Services",
-        "Career",
-        "Consulting"
+        "Business",
+        "Service"
       ],
       "document": "career-coach/template.json",
       "html": "career-coach/template.html",
@@ -842,8 +804,7 @@
       "language": "en",
       "tags": [
         "Business",
-        "Finance",
-        "Client update"
+        "Update"
       ],
       "document": "accounting-firm/template.json",
       "html": "accounting-firm/template.html",
@@ -858,8 +819,7 @@
       "language": "en",
       "tags": [
         "Business",
-        "Legal",
-        "Client update"
+        "Update"
       ],
       "document": "legal-practice/template.json",
       "html": "legal-practice/template.html",
@@ -873,9 +833,8 @@
       "description": "Architecture email with editorial composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Design",
-        "Architecture",
-        "Portfolio"
+        "Business",
+        "Update"
       ],
       "document": "architecture-studio/template.json",
       "html": "architecture-studio/template.html",
@@ -895,9 +854,8 @@
       "description": "Interior design email with editorial composition, campaign-specific copy and 2 relevant editorial images.",
       "language": "en",
       "tags": [
-        "Design",
-        "Interiors",
-        "Project reveal"
+        "Business",
+        "Update"
       ],
       "document": "interior-design/template.json",
       "html": "interior-design/template.html",
@@ -922,9 +880,8 @@
       "description": "Design agency email with case composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Design",
-        "Agency",
-        "Insights"
+        "Business",
+        "Newsletter"
       ],
       "document": "design-agency/template.json",
       "html": "design-agency/template.html",
@@ -938,9 +895,8 @@
       "description": "Photography email with service composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Services",
-        "Photography",
-        "Booking"
+        "Business",
+        "Service"
       ],
       "document": "photo-studio/template.json",
       "html": "photo-studio/template.html",
@@ -960,9 +916,8 @@
       "description": "Wedding photography email with invitation composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Services",
-        "Weddings",
-        "Availability"
+        "Business",
+        "Service"
       ],
       "document": "wedding-photographer/template.json",
       "html": "wedding-photographer/template.html",
@@ -977,8 +932,7 @@
       "language": "en",
       "tags": [
         "Travel",
-        "Guide",
-        "Editorial"
+        "Newsletter"
       ],
       "document": "travel-journal/template.json",
       "html": "travel-journal/template.html",
@@ -999,8 +953,7 @@
       "language": "en",
       "tags": [
         "Travel",
-        "Rail",
-        "Weekend"
+        "Promotion"
       ],
       "document": "railway-getaway/template.json",
       "html": "railway-getaway/template.html",
@@ -1021,8 +974,7 @@
       "language": "en",
       "tags": [
         "Travel",
-        "City guide",
-        "Weekend"
+        "Newsletter"
       ],
       "document": "city-guide/template.json",
       "html": "city-guide/template.html",
@@ -1036,9 +988,8 @@
       "description": "Surf school email with service composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Sport & outdoors",
-        "Surf",
-        "Lessons"
+        "Sports & outdoors",
+        "Service"
       ],
       "document": "surf-school/template.json",
       "html": "surf-school/template.html",
@@ -1058,9 +1009,8 @@
       "description": "Climbing gym email with poster composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Sport & outdoors",
-        "Climbing",
-        "Community"
+        "Sports & outdoors",
+        "Promotion"
       ],
       "document": "climbing-gym/template.json",
       "html": "climbing-gym/template.html",
@@ -1080,9 +1030,8 @@
       "description": "Running club email with event composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Sport & outdoors",
-        "Running",
-        "Community"
+        "Sports & outdoors",
+        "Event"
       ],
       "document": "running-club/template.json",
       "html": "running-club/template.html",
@@ -1096,9 +1045,8 @@
       "description": "Nutrition email with guide composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Wellness",
-        "Nutrition",
-        "Guide"
+        "Health & wellness",
+        "Newsletter"
       ],
       "document": "nutritionist/template.json",
       "html": "nutritionist/template.html",
@@ -1118,9 +1066,8 @@
       "description": "Meditation email with letter composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Wellness",
-        "Meditation",
-        "App update"
+        "Health & wellness",
+        "Update"
       ],
       "document": "meditation-app/template.json",
       "html": "meditation-app/template.html",
@@ -1134,9 +1081,8 @@
       "description": "Pilates email with event composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Wellness",
-        "Pilates",
-        "Class schedule"
+        "Health & wellness",
+        "Event"
       ],
       "document": "pilates-studio/template.json",
       "html": "pilates-studio/template.html",
@@ -1156,9 +1102,8 @@
       "description": "Spa email with invitation composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Wellness",
-        "Spa",
-        "Offer"
+        "Health & wellness",
+        "Promotion"
       ],
       "document": "spa-retreat/template.json",
       "html": "spa-retreat/template.html",
@@ -1179,8 +1124,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Farm",
-        "Seasonal"
+        "Promotion"
       ],
       "document": "farm-share/template.json",
       "html": "farm-share/template.html",
@@ -1201,8 +1145,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Wine",
-        "Release"
+        "Product launch"
       ],
       "document": "winery/template.json",
       "html": "winery/template.html",
@@ -1217,8 +1160,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Chocolate",
-        "Product"
+        "Product launch"
       ],
       "document": "chocolate-maker/template.json",
       "html": "chocolate-maker/template.html",
@@ -1239,8 +1181,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Cheese",
-        "Guide"
+        "Newsletter"
       ],
       "document": "cheese-shop/template.json",
       "html": "cheese-shop/template.html",
@@ -1261,8 +1202,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Dessert",
-        "Seasonal"
+        "Product launch"
       ],
       "document": "ice-cream/template.json",
       "html": "ice-cream/template.html",
@@ -1283,8 +1223,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Market",
-        "Weekly"
+        "Event"
       ],
       "document": "farmers-market/template.json",
       "html": "farmers-market/template.html",
@@ -1309,9 +1248,8 @@
       "description": "SaaS email with release composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Business",
-        "SaaS",
-        "Product update"
+        "Technology",
+        "Update"
       ],
       "document": "bookkeeping-app/template.json",
       "html": "bookkeeping-app/template.html",
@@ -1325,9 +1263,8 @@
       "description": "SaaS email with release composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Business",
-        "SaaS",
-        "Product update"
+        "Technology",
+        "Update"
       ],
       "document": "project-management/template.json",
       "html": "project-management/template.html",
@@ -1341,8 +1278,7 @@
       "description": "SaaS email with release composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Business",
-        "Security",
+        "Technology",
         "Product launch"
       ],
       "document": "security-product/template.json",
@@ -1357,9 +1293,8 @@
       "description": "SaaS email with brief composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Business",
-        "Analytics",
-        "Product update"
+        "Technology",
+        "Update"
       ],
       "document": "analytics-product/template.json",
       "html": "analytics-product/template.html",
@@ -1373,9 +1308,8 @@
       "description": "SaaS email with release composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Business",
-        "People",
-        "Product"
+        "Technology",
+        "Update"
       ],
       "document": "hr-platform/template.json",
       "html": "hr-platform/template.html",
@@ -1390,8 +1324,7 @@
       "language": "en",
       "tags": [
         "Community",
-        "Education",
-        "Impact"
+        "Update"
       ],
       "document": "nonprofit-education/template.json",
       "html": "nonprofit-education/template.html",
@@ -1406,7 +1339,6 @@
       "language": "en",
       "tags": [
         "Community",
-        "Gardening",
         "Event"
       ],
       "document": "community-garden/template.json",
@@ -1428,8 +1360,7 @@
       "language": "en",
       "tags": [
         "Community",
-        "Mutual aid",
-        "Fundraiser"
+        "Fundraising"
       ],
       "document": "mutual-aid/template.json",
       "html": "mutual-aid/template.html",
@@ -1449,9 +1380,8 @@
       "description": "Animal rescue email with guide composition, campaign-specific copy and 2 relevant editorial images.",
       "language": "en",
       "tags": [
-        "Community",
-        "Animals",
-        "Adoption"
+        "Pets",
+        "Promotion"
       ],
       "document": "animal-rescue/template.json",
       "html": "animal-rescue/template.html",
@@ -1477,7 +1407,6 @@
       "language": "en",
       "tags": [
         "Community",
-        "Makers",
         "Event"
       ],
       "document": "makers-market/template.json",
@@ -1503,9 +1432,8 @@
       "description": "Photography club email with journal composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Community",
-        "Photography",
-        "Membership"
+        "Arts & culture",
+        "Promotion"
       ],
       "document": "photobook-club/template.json",
       "html": "photobook-club/template.html",
@@ -1525,9 +1453,8 @@
       "description": "Arts nonprofit email with appeal composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Culture",
-        "Archive",
-        "Fundraiser"
+        "Arts & culture",
+        "Fundraising"
       ],
       "document": "museum-donation/template.json",
       "html": "museum-donation/template.html",
@@ -1548,8 +1475,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Beer",
-        "Release"
+        "Product launch"
       ],
       "document": "craft-beer/template.json",
       "html": "craft-beer/template.html",
@@ -1570,8 +1496,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Restaurant",
-        "Menu"
+        "Promotion"
       ],
       "document": "farm-to-table/template.json",
       "html": "farm-to-table/template.html",
@@ -1592,8 +1517,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Meal planning",
-        "Guide"
+        "Newsletter"
       ],
       "document": "meal-prep/template.json",
       "html": "meal-prep/template.html",
@@ -1619,8 +1543,7 @@
       "language": "en",
       "tags": [
         "Food & drink",
-        "Coffee",
-        "Subscription"
+        "Promotion"
       ],
       "document": "coffee-subscription/template.json",
       "html": "coffee-subscription/template.html",
@@ -1646,8 +1569,7 @@
       "language": "en",
       "tags": [
         "Pets",
-        "Grooming",
-        "Booking"
+        "Service"
       ],
       "document": "pet-grooming/template.json",
       "html": "pet-grooming/template.html",
@@ -1668,7 +1590,6 @@
       "language": "en",
       "tags": [
         "Pets",
-        "Dog walking",
         "Service"
       ],
       "document": "dog-walking/template.json",
@@ -1690,8 +1611,7 @@
       "language": "en",
       "tags": [
         "Retail",
-        "Baby",
-        "New collection"
+        "Product launch"
       ],
       "document": "baby-clothing/template.json",
       "html": "baby-clothing/template.html",
@@ -1712,8 +1632,7 @@
       "language": "en",
       "tags": [
         "Retail",
-        "Stationery",
-        "Product"
+        "Product launch"
       ],
       "document": "stationery/template.json",
       "html": "stationery/template.html",
@@ -1734,8 +1653,7 @@
       "language": "en",
       "tags": [
         "Retail",
-        "Accessories",
-        "Seasonal"
+        "Promotion"
       ],
       "document": "sunglasses/template.json",
       "html": "sunglasses/template.html",
@@ -1756,8 +1674,7 @@
       "language": "en",
       "tags": [
         "Retail",
-        "Outdoors",
-        "Guide"
+        "Newsletter"
       ],
       "document": "outdoor-gear/template.json",
       "html": "outdoor-gear/template.html",
@@ -1778,8 +1695,7 @@
       "language": "en",
       "tags": [
         "Retail",
-        "Plants",
-        "Seasonal"
+        "Promotion"
       ],
       "document": "plant-shop/template.json",
       "html": "plant-shop/template.html",
@@ -1799,9 +1715,8 @@
       "description": "Menswear email with product composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Fashion",
-        "Menswear",
-        "New collection"
+        "Retail",
+        "Product launch"
       ],
       "document": "menswear/template.json",
       "html": "menswear/template.html",
@@ -1815,9 +1730,8 @@
       "description": "Swimwear email with product composition, campaign-specific copy and 1 relevant editorial image.",
       "language": "en",
       "tags": [
-        "Fashion",
-        "Swim",
-        "Seasonal"
+        "Retail",
+        "Product launch"
       ],
       "document": "swimwear/template.json",
       "html": "swimwear/template.html",
@@ -1837,9 +1751,8 @@
       "description": "Vintage retail email with journal composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Fashion",
-        "Vintage",
-        "New arrivals"
+        "Retail",
+        "Promotion"
       ],
       "document": "vintage-shop/template.json",
       "html": "vintage-shop/template.html",
@@ -1853,9 +1766,8 @@
       "description": "Tailoring email with service composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Services",
-        "Tailoring",
-        "Booking"
+        "Business",
+        "Service"
       ],
       "document": "tailor/template.json",
       "html": "tailor/template.html",
@@ -1870,8 +1782,7 @@
       "language": "en",
       "tags": [
         "Retail",
-        "Art",
-        "Collection"
+        "Product launch"
       ],
       "document": "art-print-shop/template.json",
       "html": "art-print-shop/template.html",
@@ -1892,8 +1803,7 @@
       "language": "en",
       "tags": [
         "Technology",
-        "Newsletter",
-        "Editorial"
+        "Newsletter"
       ],
       "document": "software-newsletter/template.json",
       "html": "software-newsletter/template.html",
@@ -1908,8 +1818,7 @@
       "language": "en",
       "tags": [
         "Technology",
-        "API",
-        "Product"
+        "Product launch"
       ],
       "document": "api-platform/template.json",
       "html": "api-platform/template.html",
@@ -1924,8 +1833,7 @@
       "language": "en",
       "tags": [
         "Technology",
-        "Design",
-        "Product update"
+        "Update"
       ],
       "document": "design-system/template.json",
       "html": "design-system/template.html",
@@ -1940,8 +1848,7 @@
       "language": "en",
       "tags": [
         "Technology",
-        "Games",
-        "Launch"
+        "Product launch"
       ],
       "document": "indie-game/template.json",
       "html": "indie-game/template.html",
@@ -1955,9 +1862,8 @@
       "description": "Local newsletter email with journal composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Publishing",
-        "Local",
-        "Weekend"
+        "Arts & culture",
+        "Newsletter"
       ],
       "document": "newsletter-local/template.json",
       "html": "newsletter-local/template.html",
@@ -1972,8 +1878,7 @@
       "language": "en",
       "tags": [
         "Technology",
-        "Climate",
-        "Product"
+        "Update"
       ],
       "document": "climate-startup/template.json",
       "html": "climate-startup/template.html",
@@ -1988,8 +1893,7 @@
       "language": "en",
       "tags": [
         "Business",
-        "Finance",
-        "Values"
+        "Service"
       ],
       "document": "ethical-finance/template.json",
       "html": "ethical-finance/template.html",
@@ -2004,8 +1908,7 @@
       "language": "en",
       "tags": [
         "Business",
-        "Workspace",
-        "Membership"
+        "Service"
       ],
       "document": "coworking-space/template.json",
       "html": "coworking-space/template.html",
@@ -2026,7 +1929,6 @@
       "language": "en",
       "tags": [
         "Business",
-        "Conference",
         "Event"
       ],
       "document": "conference-sponsor/template.json",
@@ -2048,7 +1950,6 @@
       "language": "en",
       "tags": [
         "Business",
-        "Retreat",
         "Service"
       ],
       "document": "team-retreat/template.json",
@@ -2069,9 +1970,8 @@
       "description": "Customer success email with letter composition, campaign-specific copy, designed around editable typography rather than decorative photography.",
       "language": "en",
       "tags": [
-        "Business",
-        "SaaS",
-        "Customer note"
+        "Technology",
+        "Update"
       ],
       "document": "customer-success/template.json",
       "html": "customer-success/template.html",
@@ -2086,7 +1986,6 @@
       "language": "en",
       "tags": [
         "Business",
-        "Report",
         "Update"
       ],
       "document": "quarterly-report/template.json",

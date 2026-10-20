@@ -45,6 +45,14 @@ Some campaigns use a deliberate text-led design. Image-led campaigns use subject
 
 `manifest.json` is the catalog index. Its `schemaVersion` versions the manifest format. Each entry has a stable `id`, display name, description, language, tags, JSON/HTML/screenshot paths and an image inventory with source information. All paths are relative to the repository root.
 
+## Tags
+
+The catalog uses 18 shared tags, defined in [tags.json](tags.json). Each template has exactly two: one broad industry, followed by one campaign purpose. Keep niche details in names and descriptions rather than creating more tags.
+
+Industries: Retail, Food & drink, Travel, Health & wellness, Arts & culture, Education, Business, Technology, Community, Pets, Sports & outdoors.
+
+Purposes: Product launch, Update, Newsletter, Event, Service, Fundraising, Promotion. Reuse these exact labels when adding templates; avoid synonyms such as Launch/Announcement, Events/Event invitation, or SaaS/Technology.
+
 Each template directory contains:
 
 - `template.json`: a Weavour schema-version-1 email document with native editable blocks, subject, preheader and matching HTML preview.
