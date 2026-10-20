@@ -1,6 +1,6 @@
-# Cocoa Room — a little dark chocolate
+# a little dark chocolate
 
-Chocolate. A product design using native editable Weavour blocks. Cocoa Room and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
+Chocolate. A tasting composition using native editable Weavour blocks. Cocoa Room and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
 
 ## Editorial review
 
@@ -10,7 +10,7 @@ Before sending, replace fictional details, dates, availability and claims with v
 
 ## Design
 
-Palette: canvas #241d19, paper #362922, ink #fff2df, supporting text #dec3a8, action #f1bf7f with #342419 text, inset #4c382b. Headings: Georgia, serif. Single-column content maintains reading order and comfortable line lengths on narrow screens.
+Palette: canvas #241d19, paper #362922, ink #fff2df, supporting text #dec3a8, action #f1bf7f with #342419 text, inset #4c382b. Headings: Georgia, serif. Native sections and columns maintain a clear reading order; desktop and mobile exports are checked separately.
 
 ## Image provenance
 
@@ -30,3 +30,7 @@ Actual generation prompt:
 
 
 Historical image files and published URLs are retained. Active inventory is in manifest.json. New image filenames include a content hash and are immutable.
+
+## Creative direction
+
+tasting composition. Headings use Georgia, serif; body text uses Tahoma with email-safe fallbacks. The layout changes the reading rhythm, image placement, hierarchy and section relationships rather than repeating a three-card stack. Short sidebars and paired blocks use native columns; long reading passages remain full width. All copy, imagery, buttons and layout blocks remain editable.

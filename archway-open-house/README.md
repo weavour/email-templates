@@ -1,4 +1,4 @@
-# Archway — Find your next chapter
+# Find your next chapter
 
 Niche: Real estate. Listing layout with native editable text, headings, images, buttons, sections and responsive columns. The ARCHWAY / HOMES brand and its offer are fictional examples.
 

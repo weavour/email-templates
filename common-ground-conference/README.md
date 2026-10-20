@@ -1,4 +1,4 @@
-# Common Ground — Ideas meet here
+# Ideas meet here
 
 Niche: Design conference. Agenda layout with native editable text, headings, images, buttons, sections. The COMMON GROUND brand and its offer are fictional examples.
 

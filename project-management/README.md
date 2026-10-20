@@ -1,6 +1,6 @@
-# Daymark — make the work visible
+# make the work visible
 
-SaaS. A release design using native editable Weavour blocks. Daymark and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
+SaaS. A kanban composition using native editable Weavour blocks. Daymark and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
 
 ## Editorial review
 
@@ -10,10 +10,14 @@ Before sending, replace fictional details, dates, availability and claims with v
 
 ## Design
 
-Palette: canvas #151e2a, paper #1e2b3b, ink #f2f7ff, supporting text #bccde0, action #a8dfc4 with #102c26 text, inset #2a3b50. Headings: Verdana, sans-serif. Single-column content maintains reading order and comfortable line lengths on narrow screens.
+Palette: canvas #151e2a, paper #1e2b3b, ink #f2f7ff, supporting text #bccde0, action #a8dfc4 with #102c26 text, inset #2a3b50. Headings: Trebuchet MS, sans-serif. Native sections and columns maintain a clear reading order; desktop and mobile exports are checked separately.
 
 ## Image provenance
 
 No active image assets. Historical files are retained so previously published emails remain reproducible.
 
 Historical image files and published URLs are retained. Active inventory is in manifest.json. New image filenames include a content hash and are immutable.
+
+## Creative direction
+
+kanban composition. Headings use Trebuchet MS, sans-serif; body text uses Tahoma with email-safe fallbacks. The layout changes the reading rhythm, image placement, hierarchy and section relationships rather than repeating a three-card stack. Short sidebars and paired blocks use native columns; long reading passages remain full width. All copy, imagery, buttons and layout blocks remain editable.

@@ -1,4 +1,4 @@
-# Hearth & Crumb — The weekend bake
+# The weekend bake
 
 Niche: Bakery. Menu layout with native editable text, headings, images, buttons, sections and responsive columns. The HEARTH & CRUMB brand and its offer are fictional examples.
 

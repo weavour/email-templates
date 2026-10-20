@@ -1,4 +1,4 @@
-# Aurelia — The art of the everyday
+# The art of the everyday
 
 Niche: Jewelry. Luxury layout with native editable text, headings, images, buttons, sections and responsive columns. The A U R E L I A brand and its offer are fictional examples.
 

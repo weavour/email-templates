@@ -1,4 +1,4 @@
-# Tidehouse — A little room for the sea
+# A little room for the sea
 
 Niche: Boutique hotel. Editorial layout with native editable text, headings, images, buttons, sections and responsive columns. The TIDEHOUSE brand and its offer are fictional examples.
 

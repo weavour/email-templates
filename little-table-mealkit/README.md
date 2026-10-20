@@ -1,4 +1,4 @@
-# Little Table — A good week starts here
+# A good week starts here
 
 Niche: Meal kit. Recipe layout with native editable text, headings, images, buttons, sections and responsive columns. The LITTLE TABLE brand and its offer are fictional examples.
 

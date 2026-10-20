@@ -1,4 +1,4 @@
-# Fieldwork — A slower kind of Sunday
+# A slower kind of Sunday
 
 An editorial product announcement for a fictional botanical homewares shop. Warm ivory, muted olive and a serif headline frame a photographic still life. The brand, headings, text, button, image, dividers and unsubscribe block are editable in Weavour; no text is baked into the image.
 

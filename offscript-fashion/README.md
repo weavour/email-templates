@@ -1,4 +1,4 @@
-# Offscript — Wear your own rules
+# Wear your own rules
 
 Niche: Fashion. Poster layout with native editable text, headings, images, buttons, sections and responsive columns. The OFFSCRIPT brand and its offer are fictional examples.
 

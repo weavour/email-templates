@@ -1,7 +1,4 @@
 {
-  "schemaVersion": 1,
-  "subject": "Needle & Groove — crate dig",
-  "preheader": "The week's arrivals are on the listening deck. Come find your next favourite side.",
   "content": {
     "type": "doc",
     "attrs": {
@@ -12,659 +9,659 @@
         "type": "globalContent",
         "attrs": {
           "data": {
-            "theme": "basic",
             "styles": [
               {
-                "id": "body",
-                "title": "Background",
                 "classReference": "body",
+                "id": "body",
                 "inputs": [
                   {
+                    "classReference": "body",
                     "label": "Background",
-                    "type": "color",
-                    "value": "#13151c",
                     "prop": "backgroundColor",
-                    "classReference": "body"
+                    "type": "color",
+                    "value": "#13151c"
                   },
                   {
+                    "classReference": "body",
                     "label": "Padding Top",
-                    "type": "number",
-                    "unit": "px",
                     "prop": "paddingTop",
-                    "classReference": "body",
+                    "type": "number",
+                    "unit": "px",
                     "value": 24
                   },
                   {
+                    "classReference": "body",
                     "label": "Padding Right",
-                    "type": "number",
-                    "unit": "px",
                     "prop": "paddingRight",
-                    "classReference": "body"
+                    "type": "number",
+                    "unit": "px"
                   },
                   {
+                    "classReference": "body",
                     "label": "Padding Bottom",
+                    "prop": "paddingBottom",
                     "type": "number",
                     "unit": "px",
-                    "prop": "paddingBottom",
-                    "classReference": "body",
                     "value": 24
                   },
                   {
+                    "classReference": "body",
                     "label": "Padding Left",
-                    "type": "number",
-                    "unit": "px",
                     "prop": "paddingLeft",
-                    "classReference": "body"
+                    "type": "number",
+                    "unit": "px"
                   }
-                ]
+                ],
+                "title": "Background"
               },
               {
-                "id": "container",
-                "title": "Content",
                 "classReference": "container",
+                "id": "container",
                 "inputs": [
                   {
+                    "classReference": "container",
                     "label": "Align",
-                    "type": "select",
-                    "value": "center",
                     "options": {
-                      "left": "Left",
                       "center": "Center",
+                      "left": "Left",
                       "right": "Right"
                     },
                     "prop": "align",
-                    "classReference": "container"
+                    "type": "select",
+                    "value": "center"
                   },
                   {
+                    "classReference": "container",
                     "label": "Width",
-                    "type": "number",
-                    "value": 600,
-                    "unit": "px",
                     "prop": "width",
-                    "classReference": "container"
+                    "type": "number",
+                    "unit": "px",
+                    "value": 600
                   },
                   {
+                    "classReference": "container",
                     "label": "Height",
-                    "type": "number",
-                    "unit": "px",
                     "prop": "height",
-                    "classReference": "container"
+                    "type": "number",
+                    "unit": "px"
                   },
                   {
+                    "classReference": "container",
                     "label": "Text",
-                    "type": "color",
-                    "value": "#fff1dc",
                     "prop": "color",
-                    "classReference": "container"
+                    "type": "color",
+                    "value": "#fff1dc"
                   },
                   {
+                    "classReference": "container",
                     "label": "Background",
-                    "type": "color",
-                    "value": "#1c1d27",
                     "prop": "backgroundColor",
-                    "classReference": "container"
-                  },
-                  {
-                    "label": "Padding Top",
-                    "type": "number",
-                    "value": 0,
-                    "unit": "px",
-                    "prop": "paddingTop",
-                    "classReference": "container"
-                  },
-                  {
-                    "label": "Padding Right",
-                    "type": "number",
-                    "value": 0,
-                    "unit": "px",
-                    "prop": "paddingRight",
-                    "classReference": "container"
-                  },
-                  {
-                    "label": "Padding Bottom",
-                    "type": "number",
-                    "value": 0,
-                    "unit": "px",
-                    "prop": "paddingBottom",
-                    "classReference": "container"
-                  },
-                  {
-                    "label": "Padding Left",
-                    "type": "number",
-                    "value": 0,
-                    "unit": "px",
-                    "prop": "paddingLeft",
-                    "classReference": "container"
-                  },
-                  {
-                    "label": "Corner radius",
-                    "type": "number",
-                    "value": 0,
-                    "unit": "px",
-                    "prop": "borderRadius",
-                    "classReference": "container"
-                  },
-                  {
-                    "label": "Border color",
                     "type": "color",
-                    "value": "#000000",
+                    "value": "#1c1d27"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Corner radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Border color",
                     "prop": "borderColor",
-                    "classReference": "container"
+                    "type": "color",
+                    "value": "#000000"
                   }
-                ]
+                ],
+                "title": "Content"
               },
               {
-                "id": "typography",
-                "title": "Text",
                 "classReference": "body",
+                "id": "typography",
                 "inputs": [
                   {
+                    "classReference": "body",
                     "label": "Font size",
-                    "type": "number",
-                    "value": 14,
-                    "unit": "px",
                     "prop": "fontSize",
-                    "classReference": "body"
+                    "type": "number",
+                    "unit": "px",
+                    "value": 14
                   },
                   {
+                    "classReference": "container",
                     "label": "Line Height",
-                    "type": "number",
-                    "value": 155,
-                    "unit": "%",
                     "prop": "lineHeight",
-                    "classReference": "container"
+                    "type": "number",
+                    "unit": "%",
+                    "value": 155
                   }
-                ]
+                ],
+                "title": "Text"
               },
               {
-                "id": "h1",
-                "title": "Title",
                 "category": "Text",
                 "classReference": "h1",
+                "id": "h1",
                 "inputs": [
                   {
-                    "label": "fontFamily",
-                    "type": "text",
-                    "prop": "fontFamily",
                     "classReference": "h1",
-                    "value": "Arial, sans-serif"
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Trebuchet MS, sans-serif"
                   },
                   {
-                    "label": "color",
-                    "type": "text",
-                    "prop": "color",
                     "classReference": "h1",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
                     "value": "#fff1dc"
                   },
                   {
-                    "label": "fontWeight",
-                    "type": "text",
-                    "prop": "fontWeight",
                     "classReference": "h1",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
                     "value": 700
                   },
                   {
+                    "classReference": "h1",
                     "label": "marginTop",
-                    "type": "text",
                     "prop": "marginTop",
-                    "classReference": "h1",
+                    "type": "text",
                     "value": 0
                   },
                   {
+                    "classReference": "h1",
                     "label": "marginBottom",
-                    "type": "text",
                     "prop": "marginBottom",
-                    "classReference": "h1",
+                    "type": "text",
                     "value": 0
                   },
                   {
+                    "classReference": "h1",
                     "label": "paddingLeft",
-                    "type": "text",
                     "prop": "paddingLeft",
-                    "classReference": "h1",
+                    "type": "text",
                     "value": 0
                   },
                   {
-                    "label": "paddingRight",
-                    "type": "text",
-                    "prop": "paddingRight",
                     "classReference": "h1",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
                     "value": 0
                   }
-                ]
+                ],
+                "title": "Title"
               },
               {
-                "id": "h2",
-                "title": "Subtitle",
                 "category": "Text",
                 "classReference": "h2",
+                "id": "h2",
                 "inputs": [
                   {
-                    "label": "fontFamily",
-                    "type": "text",
-                    "prop": "fontFamily",
                     "classReference": "h2",
-                    "value": "Arial, sans-serif"
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Trebuchet MS, sans-serif"
                   },
                   {
-                    "label": "color",
-                    "type": "text",
-                    "prop": "color",
                     "classReference": "h2",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
                     "value": "#fff1dc"
                   },
                   {
-                    "label": "fontWeight",
-                    "type": "text",
-                    "prop": "fontWeight",
                     "classReference": "h2",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
                     "value": 700
                   },
                   {
+                    "classReference": "h2",
                     "label": "marginTop",
-                    "type": "text",
                     "prop": "marginTop",
-                    "classReference": "h2",
+                    "type": "text",
                     "value": 0
                   },
                   {
+                    "classReference": "h2",
                     "label": "marginBottom",
-                    "type": "text",
                     "prop": "marginBottom",
-                    "classReference": "h2",
+                    "type": "text",
                     "value": 0
                   },
                   {
+                    "classReference": "h2",
                     "label": "paddingLeft",
-                    "type": "text",
                     "prop": "paddingLeft",
-                    "classReference": "h2",
+                    "type": "text",
                     "value": 0
                   },
                   {
-                    "label": "paddingRight",
-                    "type": "text",
-                    "prop": "paddingRight",
                     "classReference": "h2",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
                     "value": 0
                   }
-                ]
+                ],
+                "title": "Subtitle"
               },
               {
-                "id": "h3",
-                "title": "Heading",
                 "category": "Text",
                 "classReference": "h3",
+                "id": "h3",
                 "inputs": [
                   {
-                    "label": "fontFamily",
-                    "type": "text",
-                    "prop": "fontFamily",
                     "classReference": "h3",
-                    "value": "Arial, sans-serif"
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Trebuchet MS, sans-serif"
                   },
                   {
-                    "label": "color",
-                    "type": "text",
-                    "prop": "color",
                     "classReference": "h3",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
                     "value": "#fff1dc"
                   },
                   {
-                    "label": "fontWeight",
-                    "type": "text",
-                    "prop": "fontWeight",
                     "classReference": "h3",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
                     "value": 700
                   },
                   {
+                    "classReference": "h3",
                     "label": "marginTop",
-                    "type": "text",
                     "prop": "marginTop",
-                    "classReference": "h3",
+                    "type": "text",
                     "value": 0
                   },
                   {
+                    "classReference": "h3",
                     "label": "marginBottom",
-                    "type": "text",
                     "prop": "marginBottom",
-                    "classReference": "h3",
+                    "type": "text",
                     "value": 0
                   },
                   {
+                    "classReference": "h3",
                     "label": "paddingLeft",
-                    "type": "text",
                     "prop": "paddingLeft",
-                    "classReference": "h3",
+                    "type": "text",
                     "value": 0
                   },
                   {
-                    "label": "paddingRight",
-                    "type": "text",
-                    "prop": "paddingRight",
                     "classReference": "h3",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
                     "value": 0
                   }
-                ]
+                ],
+                "title": "Heading"
               },
               {
-                "id": "paragraph",
-                "title": "Paragraph",
                 "category": "Text",
                 "classReference": "paragraph",
+                "id": "paragraph",
                 "inputs": [
                   {
+                    "classReference": "paragraph",
                     "label": "Padding Left",
-                    "type": "number",
                     "prop": "paddingLeft",
-                    "classReference": "paragraph",
-                    "value": 0,
-                    "unit": "px"
-                  },
-                  {
-                    "label": "Padding Right",
                     "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "Padding Right",
                     "prop": "paddingRight",
-                    "classReference": "paragraph",
-                    "value": 0,
-                    "unit": "px"
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
                   },
                   {
+                    "classReference": "paragraph",
                     "label": "fontFamily",
-                    "type": "text",
                     "prop": "fontFamily",
-                    "classReference": "paragraph",
-                    "value": "Arial, sans-serif"
+                    "type": "text",
+                    "value": "Tahoma, sans-serif"
                   },
                   {
-                    "label": "fontSize",
-                    "type": "text",
-                    "prop": "fontSize",
                     "classReference": "paragraph",
+                    "label": "fontSize",
+                    "prop": "fontSize",
+                    "type": "text",
                     "value": 16
                   },
                   {
-                    "label": "lineHeight",
-                    "type": "text",
-                    "prop": "lineHeight",
                     "classReference": "paragraph",
-                    "value": 1.65
+                    "label": "lineHeight",
+                    "prop": "lineHeight",
+                    "type": "text",
+                    "value": 1.7
                   },
                   {
-                    "label": "color",
-                    "type": "text",
-                    "prop": "color",
                     "classReference": "paragraph",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
                     "value": "#cbc4c3"
                   },
                   {
-                    "label": "marginTop",
-                    "type": "text",
-                    "prop": "marginTop",
                     "classReference": "paragraph",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
                     "value": 0
                   },
                   {
-                    "label": "marginBottom",
-                    "type": "text",
-                    "prop": "marginBottom",
                     "classReference": "paragraph",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
                     "value": 0
                   }
-                ]
+                ],
+                "title": "Paragraph"
               },
               {
-                "id": "list",
-                "title": "List",
                 "category": "Text",
                 "classReference": "list",
-                "inputs": []
+                "id": "list",
+                "inputs": [],
+                "title": "List"
               },
               {
-                "id": "nested-list",
-                "title": "Nested List",
                 "category": "Text",
                 "classReference": "nestedList",
-                "inputs": []
+                "id": "nested-list",
+                "inputs": [],
+                "title": "Nested List"
               },
               {
-                "id": "list-item",
-                "title": "List Item",
                 "category": "Text",
                 "classReference": "listItem",
-                "inputs": []
+                "id": "list-item",
+                "inputs": [],
+                "title": "List Item"
               },
               {
-                "id": "link",
-                "title": "Link",
                 "classReference": "link",
+                "id": "link",
                 "inputs": [
                   {
+                    "classReference": "link",
                     "label": "Color",
-                    "type": "color",
-                    "value": "#0670DB",
                     "prop": "color",
-                    "classReference": "link"
+                    "type": "color",
+                    "value": "#0670DB"
                   },
                   {
+                    "classReference": "link",
                     "label": "Decoration",
-                    "type": "select",
-                    "value": "underline",
-                    "prop": "textDecoration",
                     "options": {
-                      "underline": "Underline",
-                      "none": "None"
+                      "none": "None",
+                      "underline": "Underline"
                     },
-                    "classReference": "link"
-                  }
-                ]
-              },
-              {
-                "id": "image",
-                "title": "Image",
-                "classReference": "image",
-                "inputs": [
-                  {
-                    "label": "Border radius",
-                    "type": "number",
-                    "value": 0,
-                    "unit": "px",
-                    "prop": "borderRadius",
-                    "classReference": "image"
-                  }
-                ]
-              },
-              {
-                "id": "button",
-                "title": "Button",
-                "classReference": "button",
-                "inputs": [
-                  {
-                    "label": "Background",
-                    "type": "color",
-                    "value": "#283346",
-                    "prop": "backgroundColor",
-                    "classReference": "button"
-                  },
-                  {
-                    "label": "Text color",
-                    "type": "color",
-                    "value": "#ffffff",
-                    "prop": "color",
-                    "classReference": "button"
-                  },
-                  {
-                    "label": "Radius",
-                    "type": "number",
-                    "value": 6,
-                    "unit": "px",
-                    "prop": "borderRadius",
-                    "classReference": "button"
-                  },
-                  {
-                    "label": "Padding Top",
-                    "type": "number",
-                    "value": 12,
-                    "unit": "px",
-                    "prop": "paddingTop",
-                    "classReference": "button"
-                  },
-                  {
-                    "label": "Padding Right",
-                    "type": "number",
-                    "value": 24,
-                    "unit": "px",
-                    "prop": "paddingRight",
-                    "classReference": "button"
-                  },
-                  {
-                    "label": "Padding Bottom",
-                    "type": "number",
-                    "value": 12,
-                    "unit": "px",
-                    "prop": "paddingBottom",
-                    "classReference": "button"
-                  },
-                  {
-                    "label": "Padding Left",
-                    "type": "number",
-                    "value": 24,
-                    "unit": "px",
-                    "prop": "paddingLeft",
-                    "classReference": "button"
-                  },
-                  {
-                    "label": "Font weight",
+                    "prop": "textDecoration",
                     "type": "select",
-                    "prop": "fontWeight",
+                    "value": "underline"
+                  }
+                ],
+                "title": "Link"
+              },
+              {
+                "classReference": "image",
+                "id": "image",
+                "inputs": [
+                  {
+                    "classReference": "image",
+                    "label": "Border radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Image"
+              },
+              {
+                "classReference": "button",
+                "id": "button",
+                "inputs": [
+                  {
                     "classReference": "button",
-                    "value": 600,
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#283346"
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Text color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#ffffff"
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 6
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Font weight",
                     "options": {
                       "300": "Light",
                       "400": "Normal",
                       "600": "Semi Bold",
                       "700": "Bold",
                       "800": "Extra Bold"
-                    }
+                    },
+                    "prop": "fontWeight",
+                    "type": "select",
+                    "value": 600
                   },
                   {
+                    "classReference": "button",
                     "label": "marginTop",
-                    "type": "text",
                     "prop": "marginTop",
-                    "classReference": "button",
-                    "value": 16,
-                    "unit": "px"
+                    "type": "text",
+                    "unit": "px",
+                    "value": 16
                   },
                   {
+                    "classReference": "button",
                     "label": "marginBottom",
-                    "type": "text",
                     "prop": "marginBottom",
-                    "classReference": "button",
-                    "value": 16,
-                    "unit": "px"
+                    "type": "text",
+                    "unit": "px",
+                    "value": 16
                   },
                   {
+                    "classReference": "button",
                     "label": "marginLeft",
-                    "type": "text",
                     "prop": "marginLeft",
-                    "classReference": "button",
-                    "value": 0,
-                    "unit": "px"
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
                   },
                   {
-                    "label": "marginRight",
-                    "type": "text",
-                    "prop": "marginRight",
                     "classReference": "button",
-                    "value": 0,
-                    "unit": "px"
+                    "label": "marginRight",
+                    "prop": "marginRight",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
                   }
-                ]
+                ],
+                "title": "Button"
               },
               {
-                "id": "code-block",
-                "title": "Code Block",
                 "classReference": "codeBlock",
+                "id": "code-block",
                 "inputs": [
                   {
-                    "label": "Border Radius",
-                    "type": "number",
-                    "value": 4,
-                    "unit": "px",
-                    "prop": "borderRadius",
-                    "classReference": "codeBlock"
-                  },
-                  {
-                    "label": "Padding Top",
-                    "type": "number",
-                    "value": 12,
-                    "unit": "px",
-                    "prop": "paddingTop",
-                    "classReference": "codeBlock"
-                  },
-                  {
-                    "label": "Padding Bottom",
-                    "type": "number",
-                    "value": 12,
-                    "unit": "px",
-                    "prop": "paddingBottom",
-                    "classReference": "codeBlock"
-                  },
-                  {
-                    "label": "Padding Left",
-                    "type": "number",
-                    "value": 16,
-                    "unit": "px",
-                    "prop": "paddingLeft",
-                    "classReference": "codeBlock"
-                  },
-                  {
-                    "label": "Padding Right",
-                    "type": "number",
-                    "value": 16,
-                    "unit": "px",
-                    "prop": "paddingRight",
-                    "classReference": "codeBlock"
-                  },
-                  {
-                    "label": "Background",
-                    "type": "color",
-                    "prop": "backgroundColor",
                     "classReference": "codeBlock",
+                    "label": "Border Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 4
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
                     "value": "transparent"
                   }
-                ]
+                ],
+                "title": "Code Block"
               },
               {
-                "id": "inline-code",
-                "title": "Inline Code",
                 "classReference": "inlineCode",
+                "id": "inline-code",
                 "inputs": [
                   {
+                    "classReference": "inlineCode",
                     "label": "Background",
-                    "type": "color",
-                    "value": "transparent",
                     "prop": "backgroundColor",
-                    "classReference": "inlineCode"
-                  },
-                  {
-                    "label": "Text color",
                     "type": "color",
-                    "value": "#1e293b",
-                    "prop": "color",
-                    "classReference": "inlineCode"
+                    "value": "transparent"
                   },
                   {
+                    "classReference": "inlineCode",
+                    "label": "Text color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#1e293b"
+                  },
+                  {
+                    "classReference": "inlineCode",
                     "label": "Radius",
-                    "type": "number",
-                    "value": 4,
-                    "unit": "px",
                     "prop": "borderRadius",
-                    "classReference": "inlineCode"
+                    "type": "number",
+                    "unit": "px",
+                    "value": 4
                   }
-                ]
+                ],
+                "title": "Inline Code"
               }
-            ]
+            ],
+            "theme": "basic"
           }
         }
       },
@@ -674,7 +671,7 @@
           {
             "type": "section",
             "attrs": {
-              "style": "margin:0;padding:24px 28px 14px;background-color:#1c1d27",
+              "style": "margin:0;padding:24px;background-color:#1c1d27;",
               "class": "",
               "backgroundImage": ""
             },
@@ -682,31 +679,48 @@
               {
                 "type": "paragraph",
                 "attrs": {
-                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:17px;font-weight:700;color:#fff1dc;letter-spacing:0.4px",
+                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Tahoma,sans-serif;font-size:16px;line-height:1.7;font-size:11px;line-height:1.5;font-weight:700;letter-spacing:1.5px;color:#fff1dc",
                   "alignment": "left",
                   "class": ""
                 },
                 "content": [
                   {
                     "type": "text",
-                    "text": "Needle & Groove"
+                    "text": "33⅓ / THE LISTENING ROOM"
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "type": "section",
-            "attrs": {
-              "style": "margin:0;padding:0;background-color:#1c1d27",
-              "class": "",
-              "backgroundImage": ""
-            },
-            "content": [
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 14
+                }
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;color:#fff1dc;font-family:Trebuchet MS, sans-serif;font-size:38px;line-height:1.08;font-weight:700;overflow-wrap:break-word;",
+                  "alignment": "left",
+                  "class": "",
+                  "level": 1
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "NEEDLE & GROOVE"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 24
+                }
+              },
               {
                 "type": "image",
                 "attrs": {
-                  "style": "display:block;width:100%;height:auto;margin:0;padding:0",
+                  "style": "display:block;width:100%;height:auto;padding:0;margin:0;",
                   "alignment": "center",
                   "class": "",
                   "assetId": null,
@@ -724,35 +738,15 @@
           {
             "type": "section",
             "attrs": {
-              "style": "margin:0;padding:22px 28px 28px;background-color:#1c1d27",
+              "style": "margin:0;padding:28px;background-color:#1c1d27;",
               "class": "",
               "backgroundImage": ""
             },
             "content": [
               {
-                "type": "paragraph",
-                "attrs": {
-                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:11px;line-height:1.5;letter-spacing:1.3px;font-weight:700;color:#fff1dc",
-                  "alignment": "left",
-                  "class": ""
-                },
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "NEW ARRIVALS"
-                  }
-                ]
-              },
-              {
-                "type": "space",
-                "attrs": {
-                  "height": 14
-                }
-              },
-              {
                 "type": "heading",
                 "attrs": {
-                  "style": "margin:0;padding:0;color:#fff1dc;font-family:Arial, sans-serif;font-size:36px;line-height:1.17;font-weight:700",
+                  "style": "margin:0;padding:0;color:#fff1dc;font-family:Trebuchet MS, sans-serif;font-size:40px;line-height:1.08;font-weight:700;overflow-wrap:break-word;",
                   "alignment": "left",
                   "class": "",
                   "level": 1
@@ -767,13 +761,13 @@
               {
                 "type": "space",
                 "attrs": {
-                  "height": 18
+                  "height": 20
                 }
               },
               {
                 "type": "paragraph",
                 "attrs": {
-                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:17px",
+                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Tahoma,sans-serif;font-size:16px;line-height:1.7;",
                   "alignment": "left",
                   "class": ""
                 },
@@ -787,44 +781,165 @@
             ]
           },
           {
-            "type": "section",
+            "type": "twoColumns",
             "attrs": {
-              "style": "margin:0;padding:20px 28px;background-color:#2e2a38",
-              "class": "",
-              "backgroundImage": ""
+              "style": "margin:0;padding:16px;background-color:#2e2a38",
+              "backgroundImage": "",
+              "align": null,
+              "width": null,
+              "height": null,
+              "id": null,
+              "class": null,
+              "title": null,
+              "lang": null,
+              "dir": null,
+              "data-id": null,
+              "cellspacing": null
             },
             "content": [
               {
-                "type": "paragraph",
+                "type": "columnsColumn",
                 "attrs": {
-                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:11px;line-height:1.5;letter-spacing:1.3px;font-weight:700;color:#fff1dc",
-                  "alignment": "left",
-                  "class": ""
+                  "style": "padding:10px;vertical-align:top",
+                  "alignment": null,
+                  "class": null,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "50%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
                 },
                 "content": [
                   {
-                    "type": "text",
-                    "text": "FRESH IN THE CRATES"
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;color:#cbc4c3;font-family:Tahoma,sans-serif;font-size:16px;line-height:1.7;font-size:11px;line-height:1.5;font-weight:700;letter-spacing:1.5px;color:#fff1dc",
+                      "alignment": "left",
+                      "class": ""
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "SIDE A"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "height": 20
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;color:#cbc4c3;font-family:Tahoma,sans-serif;font-size:16px;line-height:1.7;font-size:11px;line-height:1.5;font-weight:700;letter-spacing:1.5px;color:#fff1dc",
+                      "alignment": "left",
+                      "class": ""
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "FRESH IN THE CRATES"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "height": 10
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;color:#cbc4c3;font-family:Tahoma,sans-serif;font-size:16px;line-height:1.7;",
+                      "alignment": "left",
+                      "class": ""
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Soul reissues, left-field jazz and a small stack of records we nearly kept for ourselves."
+                      }
+                    ]
                   }
                 ]
               },
               {
-                "type": "space",
+                "type": "columnsColumn",
                 "attrs": {
-                  "height": 9
-                }
-              },
-              {
-                "type": "paragraph",
-                "attrs": {
-                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;",
-                  "alignment": "left",
-                  "class": ""
+                  "style": "padding:10px;vertical-align:top",
+                  "alignment": null,
+                  "class": null,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "50%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
                 },
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Soul reissues, left-field jazz and a small stack of records we nearly kept for ourselves."
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;color:#cbc4c3;font-family:Tahoma,sans-serif;font-size:16px;line-height:1.7;font-size:11px;line-height:1.5;font-weight:700;letter-spacing:1.5px;color:#fff1dc",
+                      "alignment": "left",
+                      "class": ""
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "SIDE B"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "height": 20
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;color:#cbc4c3;font-family:Tahoma,sans-serif;font-size:16px;line-height:1.7;font-size:11px;line-height:1.5;font-weight:700;letter-spacing:1.5px;color:#fff1dc",
+                      "alignment": "left",
+                      "class": ""
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "LISTEN BEFORE YOU LEAVE"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "height": 10
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;color:#cbc4c3;font-family:Tahoma,sans-serif;font-size:16px;line-height:1.7;",
+                      "alignment": "left",
+                      "class": ""
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Take a sleeve to the counter and hear a track on the shop system."
+                      }
+                    ]
                   }
                 ]
               }
@@ -833,61 +948,18 @@
           {
             "type": "section",
             "attrs": {
-              "style": "margin:0;padding:20px 28px;background-color:#1c1d27",
+              "style": "margin:0;padding:28px;background-color:#1c1d27;",
               "class": "",
               "backgroundImage": ""
             },
             "content": [
               {
-                "type": "paragraph",
+                "type": "heading",
                 "attrs": {
-                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:11px;line-height:1.5;letter-spacing:1.3px;font-weight:700;color:#fff1dc",
+                  "style": "margin:0;padding:0;color:#fff1dc;font-family:Trebuchet MS, sans-serif;font-size:26px;line-height:1.08;font-weight:700;overflow-wrap:break-word;",
                   "alignment": "left",
-                  "class": ""
-                },
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "LISTEN BEFORE YOU LEAVE"
-                  }
-                ]
-              },
-              {
-                "type": "space",
-                "attrs": {
-                  "height": 9
-                }
-              },
-              {
-                "type": "paragraph",
-                "attrs": {
-                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;",
-                  "alignment": "left",
-                  "class": ""
-                },
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "Take a sleeve to the counter and hear a track on the shop system."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "section",
-            "attrs": {
-              "style": "margin:0;padding:20px 28px;background-color:#2e2a38",
-              "class": "",
-              "backgroundImage": ""
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "attrs": {
-                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:11px;line-height:1.5;letter-spacing:1.3px;font-weight:700;color:#fff1dc",
-                  "alignment": "left",
-                  "class": ""
+                  "class": "",
+                  "level": 2
                 },
                 "content": [
                   {
@@ -899,13 +971,13 @@
               {
                 "type": "space",
                 "attrs": {
-                  "height": 9
+                  "height": 10
                 }
               },
               {
                 "type": "paragraph",
                 "attrs": {
-                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;",
+                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Tahoma,sans-serif;font-size:16px;line-height:1.7;",
                   "alignment": "left",
                   "class": ""
                 },
@@ -921,7 +993,7 @@
           {
             "type": "section",
             "attrs": {
-              "style": "margin:0;padding:28px;background-color:#1c1d27",
+              "style": "margin:0;padding:28px;background-color:#1c1d27;",
               "class": "",
               "backgroundImage": ""
             },
@@ -929,7 +1001,7 @@
               {
                 "type": "button",
                 "attrs": {
-                  "style": "background-color:#ecc297;color:#221925;padding:15px 20px;font-family:Arial,sans-serif;font-size:15px;font-weight:700;line-height:1.4;border-radius:0px;text-decoration:none;margin:0",
+                  "style": "margin:0;background-color:#ecc297;color:#221925;font-family:Tahoma,sans-serif;font-size:14px;font-weight:700;line-height:1.5;padding:14px 20px;border-radius:0px;text-decoration:none",
                   "alignment": "left",
                   "class": "button",
                   "href": "https://example.com/new-arrivals"
@@ -946,16 +1018,29 @@
           {
             "type": "section",
             "attrs": {
-              "style": "margin:0;padding:24px 28px;background-color:#2e2a38",
+              "style": "margin:0;padding:24px 28px;background-color:#1c1d27;",
               "class": "",
               "backgroundImage": ""
             },
             "content": [
               {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;border:0;border-top:1px solid #cbc4c3",
+                  "class": "divider"
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "height": 22
+                }
+              },
+              {
                 "type": "paragraph",
                 "attrs": {
-                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:12px;font-weight:700;color:#fff1dc",
-                  "alignment": "center",
+                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Tahoma,sans-serif;font-size:16px;line-height:1.7;font-size:11px;line-height:1.5;font-weight:700;letter-spacing:1.5px;color:#fff1dc",
+                  "alignment": "left",
                   "class": ""
                 },
                 "content": [
@@ -968,33 +1053,13 @@
               {
                 "type": "space",
                 "attrs": {
-                  "height": 8
-                }
-              },
-              {
-                "type": "paragraph",
-                "attrs": {
-                  "style": "margin:0;padding:0;color:#cbc4c3;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;font-size:12px",
-                  "alignment": "center",
-                  "class": ""
-                },
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "A note from Needle & Groove."
-                  }
-                ]
-              },
-              {
-                "type": "space",
-                "attrs": {
-                  "height": 16
+                  "height": 12
                 }
               },
               {
                 "type": "unsubscribe",
                 "attrs": {
-                  "style": "font-family:Arial,sans-serif;font-size:12px;line-height:1.5;color:#cbc4c3",
+                  "style": "font-family:Tahoma,sans-serif;font-size:12px;line-height:1.5;color:#cbc4c3",
                   "id": "unsubscribe_url",
                   "token": "{{unsubscribe_url}}",
                   "label": "Unsubscribe",
@@ -1006,7 +1071,7 @@
           {
             "type": "paragraph",
             "attrs": {
-              "style": "margin:0;padding:0;font-size:1px;line-height:1px",
+              "style": "margin:0;padding:0;color:#cbc4c3;font-family:Tahoma,sans-serif;font-size:16px;line-height:1.7;font-size:1px;line-height:1px",
               "alignment": "left",
               "class": ""
             }
@@ -1015,5 +1080,8 @@
       }
     ]
   },
-  "previewHtml": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html style=\"font-size:14px\" dir=\"ltr\" lang=\"en\"><head><meta content=\"width=device-width\" name=\"viewport\"/><meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"telephone=no,address=no,email=no,date=no,url=no\" name=\"format-detection\"/><title>The week&#x27;s arrivals are on the listening deck. Come find your next favourite side.</title><style>@media (prefers-color-scheme: dark){li::marker{color:#c4c4c4}}</style></head><body dir=\"ltr\" lang=\"en\" style=\"margin:0;background-color:#13151c;padding-top:0;padding-bottom:0\"><!--$--><!--html--><!--head--><div style=\"display:none;overflow:hidden;line-height:1px;opacity:0;max-height:0;max-width:0\" data-skip-in-text=\"true\">The week&#x27;s arrivals are on the listening deck. Come find your next favourite side.<div> ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿</div></div><!--body--><table border=\"0\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" align=\"center\"><tbody><tr><td dir=\"ltr\" lang=\"en\" style=\"font-family:-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, &#x27;Roboto&#x27;, &#x27;Oxygen&#x27;, &#x27;Ubuntu&#x27;, &#x27;Cantarell&#x27;, &#x27;Fira Sans&#x27;, &#x27;Droid Sans&#x27;, &#x27;Helvetica Neue&#x27;, sans-serif;font-size:1em;min-height:100%;line-height:155%;background-color:#13151c;padding-top:24px;padding-bottom:24px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"max-width:600px;align:center;width:100%;color:#fff1dc;background-color:#1c1d27;border-radius:0px;border-color:#000000;line-height:155%\"><tbody><tr style=\"width:100%\"><td style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#1c1d27\"><tbody><tr><td style=\"padding:24px 28px 14px\"><p style=\"margin:0;padding:0;font-size:17px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#fff1dc;margin-top:0;margin-bottom:0;font-weight:700;letter-spacing:0.4px;text-align:left\">Needle &amp; Groove</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#1c1d27\"><tbody><tr><td style=\"padding:0\"><div style=\"text-align:center\"><img src=\"https://assets.weavour.com/templates/vinyl-shop/hero-ae01772ade34.jpg\" alt=\"Vinyl records in wooden crates beside a turntable.\" style=\"outline:none;border:none;text-decoration:none;max-width:100%;border-radius:0px;display:inline-block;width:100%;height:auto;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;object-fit:contain\"/></div></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#1c1d27\"><tbody><tr><td style=\"padding:22px 28px 28px\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.5;color:#fff1dc;margin-top:0;margin-bottom:0;letter-spacing:1.3px;font-weight:700;text-align:left\">NEW ARRIVALS</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"14\" aria-hidden=\"true\" style=\"height:14px;padding:0;font-size:0;line-height:14px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h1 style=\"margin:0;padding:0;font-size:36px;line-height:1.17;padding-top:0.389em;font-weight:700;font-family:Arial, sans-serif;color:#fff1dc;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;text-align:left\">The record you were looking for is probably here.</h1><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:17px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#cbc4c3;margin-top:0;margin-bottom:0;text-align:left\">The week&#x27;s arrivals are on the listening deck. Come find your next favourite side.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#2e2a38\"><tbody><tr><td style=\"padding:20px 28px\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.5;color:#fff1dc;margin-top:0;margin-bottom:0;letter-spacing:1.3px;font-weight:700;text-align:left\">FRESH IN THE CRATES</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"9\" aria-hidden=\"true\" style=\"height:9px;padding:0;font-size:0;line-height:9px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#cbc4c3;margin-top:0;margin-bottom:0;text-align:left\">Soul reissues, left-field jazz and a small stack of records we nearly kept for ourselves.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#1c1d27\"><tbody><tr><td style=\"padding:20px 28px\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.5;color:#fff1dc;margin-top:0;margin-bottom:0;letter-spacing:1.3px;font-weight:700;text-align:left\">LISTEN BEFORE YOU LEAVE</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"9\" aria-hidden=\"true\" style=\"height:9px;padding:0;font-size:0;line-height:9px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#cbc4c3;margin-top:0;margin-bottom:0;text-align:left\">Take a sleeve to the counter and hear a track on the shop system.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#2e2a38\"><tbody><tr><td style=\"padding:20px 28px\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.5;color:#fff1dc;margin-top:0;margin-bottom:0;letter-spacing:1.3px;font-weight:700;text-align:left\">SUNDAY SELECTION</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"9\" aria-hidden=\"true\" style=\"height:9px;padding:0;font-size:0;line-height:9px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#cbc4c3;margin-top:0;margin-bottom:0;text-align:left\">Our staff picks are ready for slow breakfasts and afternoons with nowhere to be.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#1c1d27\"><tbody><tr><td style=\"padding:28px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"left\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/new-arrivals\" style=\"line-height:1.4;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:15px 20px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#ecc297;color:#221925;border-radius:0px;font-weight:700;font-size:15px;text-align:center;margin-top:16px;margin-bottom:16px;margin-left:0px;margin-right:0px;font-family:Arial,sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">Browse new arrivals</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#2e2a38\"><tbody><tr><td style=\"padding:24px 28px\"><p style=\"margin:0;padding:0;font-size:12px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#fff1dc;margin-top:0;margin-bottom:0;font-weight:700;text-align:center\">Needle &amp; Groove</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"8\" aria-hidden=\"true\" style=\"height:8px;padding:0;font-size:0;line-height:8px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#cbc4c3;margin-top:0;margin-bottom:0;text-align:center\">A note from Needle &amp; Groove.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"16\" aria-hidden=\"true\" style=\"height:16px;padding:0;font-size:0;line-height:16px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><div style=\"margin:0;padding:16px 8px;font-family:Arial, sans-serif;font-size:12px;line-height:1.5;color:rgb(203, 196, 195);text-align:center\"><a href=\"{{unsubscribe_url}}\" style=\"color:inherit;text-decoration:underline\">Unsubscribe</a></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!--/$--></body></html>"
+  "preheader": "The week's arrivals are on the listening deck. Come find your next favourite side.",
+  "schemaVersion": 1,
+  "subject": "Needle & Groove — crate dig",
+  "previewHtml": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html style=\"font-size:14px\" dir=\"ltr\" lang=\"en\"><head><meta content=\"width=device-width\" name=\"viewport\"/><meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"telephone=no,address=no,email=no,date=no,url=no\" name=\"format-detection\"/><title>The week&#x27;s arrivals are on the listening deck. Come find your next favourite side.</title><style>@media (prefers-color-scheme: dark){li::marker{color:#c4c4c4}}</style></head><body dir=\"ltr\" lang=\"en\" style=\"margin:0;background-color:#13151c;padding-top:0;padding-bottom:0\"><!--$--><!--html--><!--head--><div style=\"display:none;overflow:hidden;line-height:1px;opacity:0;max-height:0;max-width:0\" data-skip-in-text=\"true\">The week&#x27;s arrivals are on the listening deck. Come find your next favourite side.<div> ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿</div></div><!--body--><table border=\"0\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" align=\"center\"><tbody><tr><td dir=\"ltr\" lang=\"en\" style=\"font-family:-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, &#x27;Roboto&#x27;, &#x27;Oxygen&#x27;, &#x27;Ubuntu&#x27;, &#x27;Cantarell&#x27;, &#x27;Fira Sans&#x27;, &#x27;Droid Sans&#x27;, &#x27;Helvetica Neue&#x27;, sans-serif;font-size:1em;min-height:100%;line-height:155%;background-color:#13151c;padding-top:24px;padding-bottom:24px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"max-width:600px;align:center;width:100%;color:#fff1dc;background-color:#1c1d27;border-radius:0px;border-color:#000000;line-height:155%\"><tbody><tr style=\"width:100%\"><td style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#1c1d27\"><tbody><tr><td style=\"padding:24px\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Tahoma,sans-serif;line-height:1.5;color:#fff1dc;margin-top:0;margin-bottom:0;font-weight:700;letter-spacing:1.5px;text-align:left\">33⅓ / THE LISTENING ROOM</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"14\" aria-hidden=\"true\" style=\"height:14px;padding:0;font-size:0;line-height:14px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h1 style=\"margin:0;padding:0;font-size:38px;line-height:1.08;padding-top:0.389em;font-weight:700;font-family:Trebuchet MS, sans-serif;color:#fff1dc;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;overflow-wrap:break-word;text-align:left\">NEEDLE &amp; GROOVE</h1><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"24\" aria-hidden=\"true\" style=\"height:24px;padding:0;font-size:0;line-height:24px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><div style=\"text-align:center\"><img src=\"https://assets.weavour.com/templates/vinyl-shop/hero-ae01772ade34.jpg\" alt=\"Vinyl records in wooden crates beside a turntable.\" style=\"outline:none;border:none;text-decoration:none;max-width:100%;border-radius:0px;display:inline-block;width:100%;height:auto;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;object-fit:contain\"/></div></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#1c1d27\"><tbody><tr><td style=\"padding:28px\"><h1 style=\"margin:0;padding:0;font-size:40px;line-height:1.08;padding-top:0.389em;font-weight:700;font-family:Trebuchet MS, sans-serif;color:#fff1dc;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;overflow-wrap:break-word;text-align:left\">The record you were looking for is probably here.</h1><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"20\" aria-hidden=\"true\" style=\"height:20px;padding:0;font-size:0;line-height:20px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Tahoma,sans-serif;line-height:1.7;color:#cbc4c3;margin-top:0;margin-bottom:0;text-align:left\">The week&#x27;s arrivals are on the listening deck. Come find your next favourite side.</p></td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:16px;background-color:#2e2a38\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"padding:10px;vertical-align:top;width:50%\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Tahoma,sans-serif;line-height:1.5;color:#fff1dc;margin-top:0;margin-bottom:0;font-weight:700;letter-spacing:1.5px;text-align:left\">SIDE A</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"20\" aria-hidden=\"true\" style=\"height:20px;padding:0;font-size:0;line-height:20px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Tahoma,sans-serif;line-height:1.5;color:#fff1dc;margin-top:0;margin-bottom:0;font-weight:700;letter-spacing:1.5px;text-align:left\">FRESH IN THE CRATES</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"10\" aria-hidden=\"true\" style=\"height:10px;padding:0;font-size:0;line-height:10px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Tahoma,sans-serif;line-height:1.7;color:#cbc4c3;margin-top:0;margin-bottom:0;text-align:left\">Soul reissues, left-field jazz and a small stack of records we nearly kept for ourselves.</p></td><td data-id=\"__react-email-column\" style=\"padding:10px;vertical-align:top;width:50%\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Tahoma,sans-serif;line-height:1.5;color:#fff1dc;margin-top:0;margin-bottom:0;font-weight:700;letter-spacing:1.5px;text-align:left\">SIDE B</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"20\" aria-hidden=\"true\" style=\"height:20px;padding:0;font-size:0;line-height:20px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Tahoma,sans-serif;line-height:1.5;color:#fff1dc;margin-top:0;margin-bottom:0;font-weight:700;letter-spacing:1.5px;text-align:left\">LISTEN BEFORE YOU LEAVE</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"10\" aria-hidden=\"true\" style=\"height:10px;padding:0;font-size:0;line-height:10px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Tahoma,sans-serif;line-height:1.7;color:#cbc4c3;margin-top:0;margin-bottom:0;text-align:left\">Take a sleeve to the counter and hear a track on the shop system.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#1c1d27\"><tbody><tr><td style=\"padding:28px\"><h2 style=\"margin:0;padding:0;font-size:26px;line-height:1.08;padding-top:0.389em;font-weight:700;font-family:Trebuchet MS, sans-serif;color:#fff1dc;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;overflow-wrap:break-word;text-align:left\">SUNDAY SELECTION</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"10\" aria-hidden=\"true\" style=\"height:10px;padding:0;font-size:0;line-height:10px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Tahoma,sans-serif;line-height:1.7;color:#cbc4c3;margin-top:0;margin-bottom:0;text-align:left\">Our staff picks are ready for slow breakfasts and afternoons with nowhere to be.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#1c1d27\"><tbody><tr><td style=\"padding:28px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"left\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/new-arrivals\" style=\"line-height:1.5;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:14px 20px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#ecc297;color:#221925;border-radius:0px;font-weight:700;font-size:14px;text-align:center;margin-top:16px;margin-bottom:16px;margin-left:0px;margin-right:0px;font-family:Tahoma,sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">Browse new arrivals</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#1c1d27\"><tbody><tr><td style=\"padding:24px 28px\"><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #cbc4c3;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"22\" aria-hidden=\"true\" style=\"height:22px;padding:0;font-size:0;line-height:22px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:11px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Tahoma,sans-serif;line-height:1.5;color:#fff1dc;margin-top:0;margin-bottom:0;font-weight:700;letter-spacing:1.5px;text-align:left\">Needle &amp; Groove</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><div style=\"margin:0;padding:16px 8px;font-family:Tahoma, sans-serif;font-size:12px;line-height:1.5;color:rgb(203, 196, 195);text-align:center\"><a href=\"{{unsubscribe_url}}\" style=\"color:inherit;text-decoration:underline\">Unsubscribe</a></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!--/$--></body></html>"
 }

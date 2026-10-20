@@ -1,6 +1,6 @@
-# Moss & Morning — April notes
+# April notes
 
-Gardening. A journal design using native editable Weavour blocks. Moss & Morning and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
+Gardening. A fieldnotes composition using native editable Weavour blocks. Moss & Morning and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
 
 ## Editorial review
 
@@ -10,7 +10,7 @@ Before sending, replace fictional details, dates, availability and claims with v
 
 ## Design
 
-Palette: canvas #e7ecdc, paper #fbfcef, ink #233e2c, supporting text #4c6450, action #315e3c with #ffffff text, inset #e2ebd5. Headings: Arial, sans-serif. Single-column content maintains reading order and comfortable line lengths on narrow screens.
+Palette: canvas #e7ecdc, paper #fbfcef, ink #233e2c, supporting text #4c6450, action #315e3c with #ffffff text, inset #e2ebd5. Headings: Courier New, monospace. Native sections and columns maintain a clear reading order; desktop and mobile exports are checked separately.
 
 ## Image provenance
 
@@ -30,3 +30,7 @@ Actual generation prompt:
 
 
 Historical image files and published URLs are retained. Active inventory is in manifest.json. New image filenames include a content hash and are immutable.
+
+## Creative direction
+
+fieldnotes composition. Headings use Courier New, monospace; body text uses Tahoma with email-safe fallbacks. The layout changes the reading rhythm, image placement, hierarchy and section relationships rather than repeating a three-card stack. Short sidebars and paired blocks use native columns; long reading passages remain full width. All copy, imagery, buttons and layout blocks remain editable.

@@ -1,4 +1,4 @@
-# Form — Build your own strong
+# Build your own strong
 
 Niche: Fitness. Bold layout with native editable text, headings, images, buttons, sections and responsive columns. The FORM / TRAINING CLUB brand and its offer are fictional examples.
 

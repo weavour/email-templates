@@ -1,4 +1,4 @@
-# Morrow — A softer daily ritual
+# A softer daily ritual
 
 Niche: Beauty & skincare. Product layout with native editable text, headings, images, buttons, sections and responsive columns. The MORROW brand and its offer are fictional examples.
 

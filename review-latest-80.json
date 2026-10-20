@@ -3,7 +3,7 @@
   "templates": [
     {
       "id": "candle-studio",
-      "layout": "editorial",
+      "layout": "lookbook",
       "palette": "warm",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -11,7 +11,7 @@
     },
     {
       "id": "ceramic-studio",
-      "layout": "product",
+      "layout": "atelier",
       "palette": "clay",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -19,7 +19,7 @@
     },
     {
       "id": "bike-shop",
-      "layout": "service",
+      "layout": "workorder",
       "palette": "sport",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -27,7 +27,7 @@
     },
     {
       "id": "garden-club",
-      "layout": "journal",
+      "layout": "fieldnotes",
       "palette": "garden",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -35,7 +35,7 @@
     },
     {
       "id": "tea-house",
-      "layout": "product",
+      "layout": "ritual",
       "palette": "warm",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -43,7 +43,7 @@
     },
     {
       "id": "vinyl-shop",
-      "layout": "editorial",
+      "layout": "record",
       "palette": "night",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -51,7 +51,7 @@
     },
     {
       "id": "film-club",
-      "layout": "event",
+      "layout": "ticket",
       "palette": "night",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -59,7 +59,7 @@
     },
     {
       "id": "museum-members",
-      "layout": "invitation",
+      "layout": "exhibition",
       "palette": "gallery",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -67,7 +67,7 @@
     },
     {
       "id": "theatre-season",
-      "layout": "poster",
+      "layout": "billboard",
       "palette": "theatre",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -75,7 +75,7 @@
     },
     {
       "id": "podcast-launch",
-      "layout": "dispatch",
+      "layout": "broadcast",
       "palette": "audio",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -91,7 +91,7 @@
     },
     {
       "id": "indie-publisher",
-      "layout": "journal",
+      "layout": "catalogue",
       "palette": "paper",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -99,7 +99,7 @@
     },
     {
       "id": "language-school",
-      "layout": "event",
+      "layout": "timetable",
       "palette": "school",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -107,7 +107,7 @@
     },
     {
       "id": "coding-bootcamp",
-      "layout": "steps",
+      "layout": "terminal",
       "palette": "code",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -115,7 +115,7 @@
     },
     {
       "id": "music-school",
-      "layout": "service",
+      "layout": "concert",
       "palette": "audio",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -123,7 +123,7 @@
     },
     {
       "id": "parenting-community",
-      "layout": "letter",
+      "layout": "postcard",
       "palette": "soft",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -131,7 +131,7 @@
     },
     {
       "id": "career-coach",
-      "layout": "letter",
+      "layout": "questions",
       "palette": "ink",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -139,7 +139,7 @@
     },
     {
       "id": "accounting-firm",
-      "layout": "brief",
+      "layout": "ledger",
       "palette": "ledger",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -147,7 +147,7 @@
     },
     {
       "id": "legal-practice",
-      "layout": "brief",
+      "layout": "briefing",
       "palette": "ink",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -155,7 +155,7 @@
     },
     {
       "id": "architecture-studio",
-      "layout": "editorial",
+      "layout": "cover",
       "palette": "gallery",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -163,7 +163,7 @@
     },
     {
       "id": "interior-design",
-      "layout": "editorial",
+      "layout": "gallery",
       "palette": "clay",
       "images": 2,
       "copy": "Rewritten for this campaign",
@@ -171,7 +171,7 @@
     },
     {
       "id": "design-agency",
-      "layout": "case",
+      "layout": "casefile",
       "palette": "studio",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -179,7 +179,7 @@
     },
     {
       "id": "photo-studio",
-      "layout": "service",
+      "layout": "split",
       "palette": "gallery",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -195,7 +195,7 @@
     },
     {
       "id": "travel-journal",
-      "layout": "journal",
+      "layout": "itinerary",
       "palette": "coast",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -203,7 +203,7 @@
     },
     {
       "id": "railway-getaway",
-      "layout": "travel",
+      "layout": "boarding",
       "palette": "coast",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -211,7 +211,7 @@
     },
     {
       "id": "city-guide",
-      "layout": "journal",
+      "layout": "gazette",
       "palette": "sun",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -219,7 +219,7 @@
     },
     {
       "id": "surf-school",
-      "layout": "service",
+      "layout": "horizon",
       "palette": "coast",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -227,7 +227,7 @@
     },
     {
       "id": "climbing-gym",
-      "layout": "poster",
+      "layout": "routecard",
       "palette": "sport",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -235,7 +235,7 @@
     },
     {
       "id": "running-club",
-      "layout": "event",
+      "layout": "racebib",
       "palette": "sport",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -243,7 +243,7 @@
     },
     {
       "id": "nutritionist",
-      "layout": "guide",
+      "layout": "recipe",
       "palette": "garden",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -251,7 +251,7 @@
     },
     {
       "id": "meditation-app",
-      "layout": "letter",
+      "layout": "pause",
       "palette": "soft",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -259,7 +259,7 @@
     },
     {
       "id": "pilates-studio",
-      "layout": "event",
+      "layout": "schedule",
       "palette": "soft",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -267,7 +267,7 @@
     },
     {
       "id": "spa-retreat",
-      "layout": "invitation",
+      "layout": "sanctuary",
       "palette": "coast",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -275,7 +275,7 @@
     },
     {
       "id": "farm-share",
-      "layout": "product",
+      "layout": "harvest",
       "palette": "garden",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -283,7 +283,7 @@
     },
     {
       "id": "winery",
-      "layout": "product",
+      "layout": "cellar",
       "palette": "wine",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -291,7 +291,7 @@
     },
     {
       "id": "chocolate-maker",
-      "layout": "product",
+      "layout": "tasting",
       "palette": "cocoa",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -299,7 +299,7 @@
     },
     {
       "id": "cheese-shop",
-      "layout": "guide",
+      "layout": "board",
       "palette": "warm",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -307,7 +307,7 @@
     },
     {
       "id": "ice-cream",
-      "layout": "poster",
+      "layout": "sundae",
       "palette": "coral",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -315,7 +315,7 @@
     },
     {
       "id": "farmers-market",
-      "layout": "event",
+      "layout": "stallmap",
       "palette": "garden",
       "images": 2,
       "copy": "Rewritten for this campaign",
@@ -323,7 +323,7 @@
     },
     {
       "id": "bookkeeping-app",
-      "layout": "release",
+      "layout": "dashboard",
       "palette": "ledger",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -331,7 +331,7 @@
     },
     {
       "id": "project-management",
-      "layout": "release",
+      "layout": "kanban",
       "palette": "code",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -339,7 +339,7 @@
     },
     {
       "id": "security-product",
-      "layout": "release",
+      "layout": "access",
       "palette": "ink",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -347,7 +347,7 @@
     },
     {
       "id": "analytics-product",
-      "layout": "brief",
+      "layout": "datareport",
       "palette": "code",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -355,7 +355,7 @@
     },
     {
       "id": "hr-platform",
-      "layout": "release",
+      "layout": "handbook",
       "palette": "soft",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -371,7 +371,7 @@
     },
     {
       "id": "community-garden",
-      "layout": "event",
+      "layout": "bulletin",
       "palette": "garden",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -379,7 +379,7 @@
     },
     {
       "id": "mutual-aid",
-      "layout": "appeal",
+      "layout": "pantry",
       "palette": "garden",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -387,7 +387,7 @@
     },
     {
       "id": "animal-rescue",
-      "layout": "guide",
+      "layout": "profiles",
       "palette": "soft",
       "images": 2,
       "copy": "Rewritten for this campaign",
@@ -395,7 +395,7 @@
     },
     {
       "id": "makers-market",
-      "layout": "event",
+      "layout": "market",
       "palette": "clay",
       "images": 2,
       "copy": "Rewritten for this campaign",
@@ -403,7 +403,7 @@
     },
     {
       "id": "photobook-club",
-      "layout": "journal",
+      "layout": "contactsheet",
       "palette": "gallery",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -411,7 +411,7 @@
     },
     {
       "id": "museum-donation",
-      "layout": "appeal",
+      "layout": "archive",
       "palette": "ink",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -419,7 +419,7 @@
     },
     {
       "id": "craft-beer",
-      "layout": "product",
+      "layout": "taplist",
       "palette": "warm",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -435,7 +435,7 @@
     },
     {
       "id": "meal-prep",
-      "layout": "guide",
+      "layout": "prep",
       "palette": "garden",
       "images": 2,
       "copy": "Rewritten for this campaign",
@@ -443,7 +443,7 @@
     },
     {
       "id": "coffee-subscription",
-      "layout": "product",
+      "layout": "origin",
       "palette": "cocoa",
       "images": 2,
       "copy": "Rewritten for this campaign",
@@ -451,7 +451,7 @@
     },
     {
       "id": "pet-grooming",
-      "layout": "service",
+      "layout": "appointment",
       "palette": "soft",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -459,7 +459,7 @@
     },
     {
       "id": "dog-walking",
-      "layout": "service",
+      "layout": "walk",
       "palette": "garden",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -467,7 +467,7 @@
     },
     {
       "id": "baby-clothing",
-      "layout": "product",
+      "layout": "nursery",
       "palette": "soft",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -475,7 +475,7 @@
     },
     {
       "id": "stationery",
-      "layout": "product",
+      "layout": "stationery",
       "palette": "paper",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -483,7 +483,7 @@
     },
     {
       "id": "sunglasses",
-      "layout": "product",
+      "layout": "campaign",
       "palette": "sun",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -491,7 +491,7 @@
     },
     {
       "id": "outdoor-gear",
-      "layout": "guide",
+      "layout": "fieldguide",
       "palette": "sport",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -499,7 +499,7 @@
     },
     {
       "id": "plant-shop",
-      "layout": "product",
+      "layout": "plantcard",
       "palette": "garden",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -507,7 +507,7 @@
     },
     {
       "id": "menswear",
-      "layout": "product",
+      "layout": "wardrobe",
       "palette": "ink",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -515,7 +515,7 @@
     },
     {
       "id": "swimwear",
-      "layout": "product",
+      "layout": "resort",
       "palette": "coral",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -523,7 +523,7 @@
     },
     {
       "id": "vintage-shop",
-      "layout": "journal",
+      "layout": "archive-sale",
       "palette": "clay",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -531,7 +531,7 @@
     },
     {
       "id": "tailor",
-      "layout": "service",
+      "layout": "measure",
       "palette": "ink",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -539,7 +539,7 @@
     },
     {
       "id": "art-print-shop",
-      "layout": "editorial",
+      "layout": "exhibition-label",
       "palette": "gallery",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -547,7 +547,7 @@
     },
     {
       "id": "software-newsletter",
-      "layout": "dispatch",
+      "layout": "changelog",
       "palette": "code",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -555,7 +555,7 @@
     },
     {
       "id": "api-platform",
-      "layout": "steps",
+      "layout": "reference",
       "palette": "code",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -563,7 +563,7 @@
     },
     {
       "id": "design-system",
-      "layout": "release",
+      "layout": "specimen",
       "palette": "studio",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -571,7 +571,7 @@
     },
     {
       "id": "indie-game",
-      "layout": "poster",
+      "layout": "arcade",
       "palette": "game",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -579,7 +579,7 @@
     },
     {
       "id": "newsletter-local",
-      "layout": "journal",
+      "layout": "broadsheet",
       "palette": "sun",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -587,7 +587,7 @@
     },
     {
       "id": "climate-startup",
-      "layout": "brief",
+      "layout": "progress",
       "palette": "garden",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -595,7 +595,7 @@
     },
     {
       "id": "ethical-finance",
-      "layout": "brief",
+      "layout": "prospectus",
       "palette": "ledger",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -603,7 +603,7 @@
     },
     {
       "id": "coworking-space",
-      "layout": "service",
+      "layout": "floorplan",
       "palette": "warm",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -611,7 +611,7 @@
     },
     {
       "id": "conference-sponsor",
-      "layout": "event",
+      "layout": "programme",
       "palette": "studio",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -619,7 +619,7 @@
     },
     {
       "id": "team-retreat",
-      "layout": "travel",
+      "layout": "escape",
       "palette": "coast",
       "images": 1,
       "copy": "Rewritten for this campaign",
@@ -627,7 +627,7 @@
     },
     {
       "id": "customer-success",
-      "layout": "letter",
+      "layout": "memo",
       "palette": "ledger",
       "images": 0,
       "copy": "Rewritten for this campaign",
@@ -635,7 +635,7 @@
     },
     {
       "id": "quarterly-report",
-      "layout": "brief",
+      "layout": "annual",
       "palette": "ink",
       "images": 0,
       "copy": "Rewritten for this campaign",

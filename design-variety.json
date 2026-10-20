@@ -1,0 +1,485 @@
+{
+  "schemaVersion": 1,
+  "templates": [
+    {
+      "id": "candle-studio",
+      "concept": "lookbook",
+      "font": "Georgia, serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph/image/heading+space+paragraph/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "ceramic-studio",
+      "concept": "atelier",
+      "font": "Georgia, serif",
+      "structuralSignature": "paragraph/columns/horizontalRule+space+heading+space+paragraph/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "bike-shop",
+      "concept": "workorder",
+      "font": "Courier New, monospace",
+      "structuralSignature": "paragraph+space+heading+space+horizontalRule/paragraph+space+heading+space+paragraph/image/paragraph/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "garden-club",
+      "concept": "fieldnotes",
+      "font": "Courier New, monospace",
+      "structuralSignature": "paragraph+space+horizontalRule+space+heading+space+heading+space+paragraph/paragraph+space+paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+paragraph+space+horizontalRule/image/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "tea-house",
+      "concept": "ritual",
+      "font": "Georgia, serif",
+      "structuralSignature": "paragraph/heading+space+paragraph/image/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "vinyl-shop",
+      "concept": "record",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+image/heading+space+paragraph/columns/heading+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "film-club",
+      "concept": "ticket",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/paragraph+space+heading+space+paragraph+space+button/image/columns/horizontalRule+space+paragraph+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "museum-members",
+      "concept": "exhibition",
+      "font": "Georgia, serif",
+      "structuralSignature": "paragraph/image/columns/horizontalRule/paragraph+space+paragraph/paragraph+space+paragraph/paragraph+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "theatre-season",
+      "concept": "billboard",
+      "font": "Impact, sans-serif",
+      "structuralSignature": "paragraph/heading+space+heading+space+paragraph/paragraph+space+heading+space+paragraph+space+horizontalRule/paragraph+space+heading+space+paragraph+space+horizontalRule/paragraph+space+heading+space+paragraph+space+horizontalRule/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "podcast-launch",
+      "concept": "broadcast",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/heading+space+paragraph+space+heading+space+paragraph/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "newsletter-creator",
+      "concept": "letter",
+      "font": "Times New Roman, serif",
+      "structuralSignature": "paragraph+space+horizontalRule+space+heading+space+paragraph/heading+space+paragraph/heading+space+paragraph/heading+space+paragraph/horizontalRule+space+button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "indie-publisher",
+      "concept": "catalogue",
+      "font": "Georgia, serif",
+      "structuralSignature": "paragraph/columns/paragraph+space+heading+space+paragraph+space+horizontalRule/paragraph+space+heading+space+paragraph+space+horizontalRule/paragraph+space+heading+space+paragraph+space+horizontalRule/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "language-school",
+      "concept": "timetable",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph+space+button/paragraph/columns/columns/columns/horizontalRule+space+button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "coding-bootcamp",
+      "concept": "terminal",
+      "font": "Courier New, monospace",
+      "structuralSignature": "paragraph+space+paragraph+space+heading+space+paragraph+space+button/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/horizontalRule/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "music-school",
+      "concept": "concert",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/heading+space+paragraph/columns/paragraph+space+paragraph/button/image/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "parenting-community",
+      "concept": "postcard",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph+space+horizontalRule/heading+space+paragraph/paragraph+space+paragraph/paragraph+space+paragraph/paragraph+space+button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "career-coach",
+      "concept": "questions",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "accounting-firm",
+      "concept": "ledger",
+      "font": "Courier New, monospace",
+      "structuralSignature": "paragraph+space+horizontalRule+space+heading+space+paragraph/columns/columns/columns/paragraph+space+button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "legal-practice",
+      "concept": "briefing",
+      "font": "Courier New, monospace",
+      "structuralSignature": "columns/horizontalRule/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "architecture-studio",
+      "concept": "cover",
+      "font": "Georgia, serif",
+      "structuralSignature": "image/paragraph/columns/heading+space+paragraph/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "interior-design",
+      "concept": "gallery",
+      "font": "Georgia, serif",
+      "structuralSignature": "paragraph/heading+space+paragraph/image/columns/heading+space+paragraph/paragraph+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "design-agency",
+      "concept": "casefile",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph/columns/columns/columns/horizontalRule+space+button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "photo-studio",
+      "concept": "split",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/columns/button/paragraph+space+paragraph+space+paragraph/paragraph+space+paragraph+space+paragraph/paragraph+space+paragraph+space+paragraph/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "wedding-photographer",
+      "concept": "invitation",
+      "font": "Times New Roman, serif",
+      "structuralSignature": "paragraph+space+horizontalRule+space+heading+space+paragraph+space+button+space+horizontalRule/heading+space+paragraph/heading+space+paragraph/heading+space+paragraph/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "travel-journal",
+      "concept": "itinerary",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/paragraph+space+heading+space+paragraph/paragraph/columns/image/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "railway-getaway",
+      "concept": "boarding",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph+space+button/paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+horizontalRule/image/paragraph/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "city-guide",
+      "concept": "gazette",
+      "font": "Times New Roman, serif",
+      "structuralSignature": "paragraph+space+horizontalRule+space+heading+space+heading+space+paragraph+space+horizontalRule/columns/horizontalRule+space+heading+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "surf-school",
+      "concept": "horizon",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "image/paragraph+space+heading+space+paragraph/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "climbing-gym",
+      "concept": "routecard",
+      "font": "Impact, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph/columns/heading+space+paragraph/horizontalRule/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "running-club",
+      "concept": "racebib",
+      "font": "Impact, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph+space+heading+space+paragraph/paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+horizontalRule/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "nutritionist",
+      "concept": "recipe",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/columns/horizontalRule+space+paragraph/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "meditation-app",
+      "concept": "pause",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+paragraph+space+heading+space+paragraph/paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+horizontalRule/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "pilates-studio",
+      "concept": "schedule",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/paragraph+space+heading+space+paragraph/columns/columns/columns/button/image/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "spa-retreat",
+      "concept": "sanctuary",
+      "font": "Georgia, serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph/image/heading+space+paragraph/heading+space+paragraph/heading+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "farm-share",
+      "concept": "harvest",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph/image/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "winery",
+      "concept": "cellar",
+      "font": "Times New Roman, serif",
+      "structuralSignature": "paragraph+space+horizontalRule+space+heading+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "chocolate-maker",
+      "concept": "tasting",
+      "font": "Georgia, serif",
+      "structuralSignature": "paragraph/columns/heading+space+paragraph/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "cheese-shop",
+      "concept": "board",
+      "font": "Georgia, serif",
+      "structuralSignature": "paragraph/heading+space+paragraph/image/paragraph/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "ice-cream",
+      "concept": "sundae",
+      "font": "Impact, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph/image/heading+space+paragraph+space+horizontalRule/heading+space+paragraph+space+horizontalRule/heading+space+paragraph+space+horizontalRule/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "farmers-market",
+      "concept": "stallmap",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph+space+button/image/paragraph/heading+space+paragraph+space+horizontalRule/heading+space+paragraph+space+horizontalRule/heading+space+paragraph+space+horizontalRule/image/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "bookkeeping-app",
+      "concept": "dashboard",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/paragraph+space+heading+space+paragraph/columns/paragraph+space+heading+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "project-management",
+      "concept": "kanban",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph+space+button/columns/heading+space+paragraph+space+paragraph/horizontalRule/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "security-product",
+      "concept": "access",
+      "font": "Courier New, monospace",
+      "structuralSignature": "paragraph+space+horizontalRule+space+heading+space+heading+space+paragraph/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "analytics-product",
+      "concept": "datareport",
+      "font": "Courier New, monospace",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph/heading+space+paragraph/columns/horizontalRule+space+button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "hr-platform",
+      "concept": "handbook",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph/paragraph+space+heading+space+paragraph+space+horizontalRule/paragraph+space+heading+space+paragraph+space+horizontalRule/paragraph+space+heading+space+paragraph+space+horizontalRule/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "nonprofit-education",
+      "concept": "impact",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/heading+space+paragraph+space+heading+space+paragraph/paragraph+space+paragraph/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "community-garden",
+      "concept": "bulletin",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph/image/horizontalRule+space+heading+space+paragraph/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "mutual-aid",
+      "concept": "pantry",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph+space+button/paragraph+space+heading+space+paragraph/paragraph+space+paragraph/image/heading+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "animal-rescue",
+      "concept": "profiles",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/paragraph+space+heading+space+paragraph/columns/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "makers-market",
+      "concept": "market",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph/columns/heading+space+paragraph/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "photobook-club",
+      "concept": "contactsheet",
+      "font": "Courier New, monospace",
+      "structuralSignature": "paragraph+space+horizontalRule+space+heading+space+paragraph/paragraph+space+image/heading+space+paragraph/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "museum-donation",
+      "concept": "archive",
+      "font": "Times New Roman, serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph/image/paragraph/heading+space+paragraph+space+horizontalRule/heading+space+paragraph+space+horizontalRule/heading+space+paragraph+space+horizontalRule/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "craft-beer",
+      "concept": "taplist",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/columns/paragraph/paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+horizontalRule/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "farm-to-table",
+      "concept": "menu",
+      "font": "Georgia, serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph+space+horizontalRule/image/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "meal-prep",
+      "concept": "prep",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/paragraph+space+heading+space+paragraph/image/columns/columns/columns/paragraph+space+image/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "coffee-subscription",
+      "concept": "origin",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph/columns/paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+horizontalRule/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "pet-grooming",
+      "concept": "appointment",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph+space+button/image/heading+space+paragraph/columns/horizontalRule/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "dog-walking",
+      "concept": "walk",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "image/paragraph/paragraph+space+heading+space+paragraph/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "baby-clothing",
+      "concept": "nursery",
+      "font": "Georgia, serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph/image/heading+space+paragraph/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "stationery",
+      "concept": "stationery",
+      "font": "Courier New, monospace",
+      "structuralSignature": "paragraph+space+horizontalRule+space+heading+space+paragraph/image/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "sunglasses",
+      "concept": "campaign",
+      "font": "Impact, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph/image/columns/button/paragraph+space+paragraph/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "outdoor-gear",
+      "concept": "fieldguide",
+      "font": "Courier New, monospace",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph/image/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "plant-shop",
+      "concept": "plantcard",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/columns/heading+space+paragraph/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "menswear",
+      "concept": "wardrobe",
+      "font": "Impact, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph/paragraph+space+heading+space+paragraph+space+horizontalRule/paragraph+space+heading+space+paragraph+space+horizontalRule/paragraph+space+heading+space+paragraph+space+horizontalRule/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "swimwear",
+      "concept": "resort",
+      "font": "Georgia, serif",
+      "structuralSignature": "image/paragraph+space+heading+space+paragraph/columns/horizontalRule+space+paragraph+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "vintage-shop",
+      "concept": "archive-sale",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+horizontalRule+space+heading+space+paragraph/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "tailor",
+      "concept": "measure",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/paragraph+space+heading+space+paragraph/columns/columns/columns/horizontalRule+space+button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "art-print-shop",
+      "concept": "exhibition-label",
+      "font": "Georgia, serif",
+      "structuralSignature": "paragraph/image/heading+space+paragraph/columns/paragraph+space+paragraph+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "software-newsletter",
+      "concept": "changelog",
+      "font": "Courier New, monospace",
+      "structuralSignature": "paragraph+space+paragraph+space+heading+space+paragraph/paragraph+space+paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+paragraph+space+horizontalRule/paragraph+space+paragraph+space+paragraph+space+horizontalRule/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "api-platform",
+      "concept": "reference",
+      "font": "Courier New, monospace",
+      "structuralSignature": "paragraph+space+heading/columns/horizontalRule/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "design-system",
+      "concept": "specimen",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph/columns/paragraph+space+paragraph/paragraph+space+paragraph/paragraph+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "indie-game",
+      "concept": "arcade",
+      "font": "Impact, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph+space+button/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "newsletter-local",
+      "concept": "broadsheet",
+      "font": "Times New Roman, serif",
+      "structuralSignature": "heading+space+horizontalRule+space+paragraph+space+heading+space+paragraph/heading+space+paragraph/columns/horizontalRule+space+button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "climate-startup",
+      "concept": "progress",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/paragraph+space+heading+space+paragraph/paragraph/columns/columns/columns/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "ethical-finance",
+      "concept": "prospectus",
+      "font": "Times New Roman, serif",
+      "structuralSignature": "paragraph+space+horizontalRule+space+heading+space+paragraph/paragraph+space+heading+space+paragraph+space+horizontalRule/paragraph+space+heading+space+paragraph+space+horizontalRule/paragraph+space+heading+space+paragraph+space+horizontalRule/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "coworking-space",
+      "concept": "floorplan",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph/heading+space+paragraph/image/columns/heading+space+paragraph+space+button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "conference-sponsor",
+      "concept": "programme",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph+space+button/image/columns/columns/heading+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "team-retreat",
+      "concept": "escape",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "image/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/paragraph+space+heading+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "customer-success",
+      "concept": "memo",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+paragraph/heading+space+paragraph/heading+space+paragraph/heading+space+paragraph/horizontalRule+space+button/horizontalRule+space+paragraph+space+unsubscribe/"
+    },
+    {
+      "id": "quarterly-report",
+      "concept": "annual",
+      "font": "Trebuchet MS, sans-serif",
+      "structuralSignature": "paragraph+space+heading+space+heading+space+paragraph/horizontalRule/columns/heading+space+paragraph/button/horizontalRule+space+paragraph+space+unsubscribe/"
+    }
+  ]
+}

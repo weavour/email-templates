@@ -1,6 +1,6 @@
-# Lantern Stage — season reveal
+# season reveal
 
-Theatre. A poster design using native editable Weavour blocks. Lantern Stage and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
+Theatre. A billboard composition using native editable Weavour blocks. Lantern Stage and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
 
 ## Editorial review
 
@@ -10,10 +10,14 @@ Before sending, replace fictional details, dates, availability and claims with v
 
 ## Design
 
-Palette: canvas #211521, paper #351b2a, ink #fff1df, supporting text #dfc3ca, action #ffc58c with #351b2a text, inset #492639. Headings: Arial, sans-serif. Single-column content maintains reading order and comfortable line lengths on narrow screens.
+Palette: canvas #211521, paper #351b2a, ink #fff1df, supporting text #dfc3ca, action #ffc58c with #351b2a text, inset #492639. Headings: Impact, sans-serif. Native sections and columns maintain a clear reading order; desktop and mobile exports are checked separately.
 
 ## Image provenance
 
 No active image assets. Historical files are retained so previously published emails remain reproducible.
 
 Historical image files and published URLs are retained. Active inventory is in manifest.json. New image filenames include a content hash and are immutable.
+
+## Creative direction
+
+billboard composition. Headings use Impact, sans-serif; body text uses Tahoma with email-safe fallbacks. The layout changes the reading rhythm, image placement, hierarchy and section relationships rather than repeating a three-card stack. Short sidebars and paired blocks use native columns; long reading passages remain full width. All copy, imagery, buttons and layout blocks remain editable.

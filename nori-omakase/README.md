@@ -1,4 +1,4 @@
-# Nori — An evening at the counter
+# An evening at the counter
 
 Niche: Restaurant. Invitation layout with native editable text, headings, images, buttons, sections. The N O R I brand and its offer are fictional examples.
 

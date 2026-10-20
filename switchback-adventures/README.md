@@ -1,4 +1,4 @@
-# Switchback — Take the long way
+# Take the long way
 
 Niche: Outdoor adventure. Expedition layout with native editable text, headings, images, buttons, sections and responsive columns. The SWITCHBACK brand and its offer are fictional examples.
 

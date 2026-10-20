@@ -1,6 +1,6 @@
-# Second Chance — a good match
+# a good match
 
-Animal rescue. A guide design using native editable Weavour blocks. Second Chance and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
+Animal rescue. A profiles composition using native editable Weavour blocks. Second Chance and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
 
 ## Editorial review
 
@@ -10,7 +10,7 @@ Before sending, replace fictional details, dates, availability and claims with v
 
 ## Design
 
-Palette: canvas #f0e7e1, paper #fffaf7, ink #47332d, supporting text #725b53, action #825943 with #ffffff text, inset #f3e8df. Headings: Georgia, serif. Single-column content maintains reading order and comfortable line lengths on narrow screens.
+Palette: canvas #f0e7e1, paper #fffaf7, ink #47332d, supporting text #725b53, action #825943 with #ffffff text, inset #f3e8df. Headings: Trebuchet MS, sans-serif. Native sections and columns maintain a clear reading order; desktop and mobile exports are checked separately.
 
 ## Image provenance
 
@@ -44,3 +44,7 @@ Actual generation prompt:
 
 
 Historical image files and published URLs are retained. Active inventory is in manifest.json. New image filenames include a content hash and are immutable.
+
+## Creative direction
+
+profiles composition. Headings use Trebuchet MS, sans-serif; body text uses Tahoma with email-safe fallbacks. The layout changes the reading rhythm, image placement, hierarchy and section relationships rather than repeating a three-card stack. Short sidebars and paired blocks use native columns; long reading passages remain full width. All copy, imagery, buttons and layout blocks remain editable.

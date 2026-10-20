@@ -1,4 +1,4 @@
-# Bluecurrent — Keep the blue alive
+# Keep the blue alive
 
 Niche: Ocean conservation. Campaign layout with native editable text, headings, images, buttons, sections and responsive columns. The BLUECURRENT brand and its offer are fictional examples.
 

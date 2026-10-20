@@ -1,4 +1,4 @@
-# Openbench — Make something real
+# Make something real
 
 Niche: Creative education. Workshop layout with native editable text, headings, images, buttons, sections and responsive columns. The OPENBENCH brand and its offer are fictional examples.
 

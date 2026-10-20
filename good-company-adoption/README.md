@@ -1,4 +1,4 @@
-# Good Company — Your next best friend
+# Your next best friend
 
 Niche: Pet adoption. Profiles layout with native editable text, headings, images, buttons, sections and responsive columns. The GOOD COMPANY brand and its offer are fictional examples.
 

@@ -1,6 +1,6 @@
-# Aster House — a day to yourself
+# a day to yourself
 
-Spa. A invitation design using native editable Weavour blocks. Aster House and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
+Spa. A sanctuary composition using native editable Weavour blocks. Aster House and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
 
 ## Editorial review
 
@@ -10,7 +10,7 @@ Before sending, replace fictional details, dates, availability and claims with v
 
 ## Design
 
-Palette: canvas #e0eced, paper #fcffff, ink #173f4a, supporting text #486b73, action #176778 with #ffffff text, inset #e2f0f0. Headings: Arial, sans-serif. Single-column content maintains reading order and comfortable line lengths on narrow screens.
+Palette: canvas #e0eced, paper #fcffff, ink #173f4a, supporting text #486b73, action #176778 with #ffffff text, inset #e2f0f0. Headings: Georgia, serif. Native sections and columns maintain a clear reading order; desktop and mobile exports are checked separately.
 
 ## Image provenance
 
@@ -30,3 +30,7 @@ Actual generation prompt:
 
 
 Historical image files and published URLs are retained. Active inventory is in manifest.json. New image filenames include a content hash and are immutable.
+
+## Creative direction
+
+sanctuary composition. Headings use Georgia, serif; body text uses Tahoma with email-safe fallbacks. The layout changes the reading rhythm, image placement, hierarchy and section relationships rather than repeating a three-card stack. Short sidebars and paired blocks use native columns; long reading passages remain full width. All copy, imagery, buttons and layout blocks remain editable.

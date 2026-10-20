@@ -1,4 +1,4 @@
-# Ember — Find your morning note
+# Find your morning note
 
 Niche: Specialty coffee. Split layout with native editable text, headings, images, buttons, sections and responsive columns. The EMBER / ROASTERS brand and its offer are fictional examples.
 

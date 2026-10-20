@@ -1,4 +1,4 @@
-# Afterhours — The night has a rhythm
+# The night has a rhythm
 
 Niche: Live music. Nightlife layout with native editable text, headings, images, buttons, sections. The AFTERHOURS brand and its offer are fictional examples.
 

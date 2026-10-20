@@ -19,29 +19,31 @@ Reviewed collection previews: [1–20](review-preview-1.jpg) · [21–40](review
 
 Some campaigns use a deliberate text-led design. Image-led campaigns use subject-matched generated artwork, including new photography created for this review. Each template README records the actual image prompt and any reuse from the original collection. Historical image files remain available; the manifest lists active images.
 
+The latest 80 now have independent creative directions, recorded in [design-variety.json](design-variety.json) and each template README: lookbooks, service work orders, cinema tickets, editorial letters, timetables, record sleeves, specimen sheets, field guides, impact reports and more. Layout variety changes the actual native block composition, image placement, type scale and reading order. The previews above show the current designs.
+
 | Template | Niche | Preview |
 | --- | --- | --- |
-| [Fieldwork — A slower kind of Sunday](fieldwork-sunday/) | Homewares | [Desktop](fieldwork-sunday/screenshot.png) · [Mobile](fieldwork-sunday/screenshot-mobile.png) |
-| [Hearth & Crumb — The weekend bake](hearth-bakery/) | Bakery | [Desktop](hearth-bakery/screenshot.png) · [Mobile](hearth-bakery/screenshot-mobile.png) |
-| [Ember — Find your morning note](ember-coffee/) | Specialty coffee | [Desktop](ember-coffee/screenshot.png) · [Mobile](ember-coffee/screenshot-mobile.png) |
-| [Nori — An evening at the counter](nori-omakase/) | Restaurant | [Desktop](nori-omakase/screenshot.png) · [Mobile](nori-omakase/screenshot-mobile.png) |
-| [Tidehouse — A little room for the sea](tidehouse-retreat/) | Boutique hotel | [Desktop](tidehouse-retreat/screenshot.png) · [Mobile](tidehouse-retreat/screenshot-mobile.png) |
-| [Switchback — Take the long way](switchback-adventures/) | Outdoor adventure | [Desktop](switchback-adventures/screenshot.png) · [Mobile](switchback-adventures/screenshot-mobile.png) |
-| [Archway — Find your next chapter](archway-open-house/) | Real estate | [Desktop](archway-open-house/screenshot.png) · [Mobile](archway-open-house/screenshot-mobile.png) |
-| [Good Company — Your next best friend](good-company-adoption/) | Pet adoption | [Desktop](good-company-adoption/screenshot.png) · [Mobile](good-company-adoption/screenshot-mobile.png) |
-| [Stillpoint — Begin where you are](stillpoint-yoga/) | Yoga & wellness | [Desktop](stillpoint-yoga/screenshot.png) · [Mobile](stillpoint-yoga/screenshot-mobile.png) |
-| [Form — Build your own strong](form-training/) | Fitness | [Desktop](form-training/screenshot.png) · [Mobile](form-training/screenshot-mobile.png) |
-| [Morrow — A softer daily ritual](morrow-skincare/) | Beauty & skincare | [Desktop](morrow-skincare/screenshot.png) · [Mobile](morrow-skincare/screenshot-mobile.png) |
-| [Aurelia — The art of the everyday](aurelia-jewelry/) | Jewelry | [Desktop](aurelia-jewelry/screenshot.png) · [Mobile](aurelia-jewelry/screenshot-mobile.png) |
-| [Offscript — Wear your own rules](offscript-fashion/) | Fashion | [Desktop](offscript-fashion/screenshot.png) · [Mobile](offscript-fashion/screenshot-mobile.png) |
-| [Stem — A little wild at heart](stem-seasonal/) | Florist | [Desktop](stem-seasonal/screenshot.png) · [Mobile](stem-seasonal/screenshot-mobile.png) |
-| [Bluecurrent — Keep the blue alive](bluecurrent-ocean/) | Ocean conservation | [Desktop](bluecurrent-ocean/screenshot.png) · [Mobile](bluecurrent-ocean/screenshot-mobile.png) |
-| [Openbench — Make something real](openbench-workshop/) | Creative education | [Desktop](openbench-workshop/screenshot.png) · [Mobile](openbench-workshop/screenshot-mobile.png) |
-| [Relay — Less between idea and done](relay-product-update/) | SaaS product update | [Desktop](relay-product-update/screenshot.png) · [Mobile](relay-product-update/screenshot-mobile.png) |
-| [Common Ground — Ideas meet here](common-ground-conference/) | Design conference | [Desktop](common-ground-conference/screenshot.png) · [Mobile](common-ground-conference/screenshot-mobile.png) |
-| [Afterhours — The night has a rhythm](afterhours-jazz/) | Live music | [Desktop](afterhours-jazz/screenshot.png) · [Mobile](afterhours-jazz/screenshot-mobile.png) |
-| [Margin — Find your next obsession](margin-bookshop/) | Independent bookstore | [Desktop](margin-bookshop/screenshot.png) · [Mobile](margin-bookshop/screenshot-mobile.png) |
-| [Little Table — A good week starts here](little-table-mealkit/) | Meal kit | [Desktop](little-table-mealkit/screenshot.png) · [Mobile](little-table-mealkit/screenshot-mobile.png) |
+| [A slower kind of Sunday](fieldwork-sunday/) | Homewares | [Desktop](fieldwork-sunday/screenshot.png) · [Mobile](fieldwork-sunday/screenshot-mobile.png) |
+| [The weekend bake](hearth-bakery/) | Bakery | [Desktop](hearth-bakery/screenshot.png) · [Mobile](hearth-bakery/screenshot-mobile.png) |
+| [Find your morning note](ember-coffee/) | Specialty coffee | [Desktop](ember-coffee/screenshot.png) · [Mobile](ember-coffee/screenshot-mobile.png) |
+| [An evening at the counter](nori-omakase/) | Restaurant | [Desktop](nori-omakase/screenshot.png) · [Mobile](nori-omakase/screenshot-mobile.png) |
+| [A little room for the sea](tidehouse-retreat/) | Boutique hotel | [Desktop](tidehouse-retreat/screenshot.png) · [Mobile](tidehouse-retreat/screenshot-mobile.png) |
+| [Take the long way](switchback-adventures/) | Outdoor adventure | [Desktop](switchback-adventures/screenshot.png) · [Mobile](switchback-adventures/screenshot-mobile.png) |
+| [Find your next chapter](archway-open-house/) | Real estate | [Desktop](archway-open-house/screenshot.png) · [Mobile](archway-open-house/screenshot-mobile.png) |
+| [Your next best friend](good-company-adoption/) | Pet adoption | [Desktop](good-company-adoption/screenshot.png) · [Mobile](good-company-adoption/screenshot-mobile.png) |
+| [Begin where you are](stillpoint-yoga/) | Yoga & wellness | [Desktop](stillpoint-yoga/screenshot.png) · [Mobile](stillpoint-yoga/screenshot-mobile.png) |
+| [Build your own strong](form-training/) | Fitness | [Desktop](form-training/screenshot.png) · [Mobile](form-training/screenshot-mobile.png) |
+| [A softer daily ritual](morrow-skincare/) | Beauty & skincare | [Desktop](morrow-skincare/screenshot.png) · [Mobile](morrow-skincare/screenshot-mobile.png) |
+| [The art of the everyday](aurelia-jewelry/) | Jewelry | [Desktop](aurelia-jewelry/screenshot.png) · [Mobile](aurelia-jewelry/screenshot-mobile.png) |
+| [Wear your own rules](offscript-fashion/) | Fashion | [Desktop](offscript-fashion/screenshot.png) · [Mobile](offscript-fashion/screenshot-mobile.png) |
+| [A little wild at heart](stem-seasonal/) | Florist | [Desktop](stem-seasonal/screenshot.png) · [Mobile](stem-seasonal/screenshot-mobile.png) |
+| [Keep the blue alive](bluecurrent-ocean/) | Ocean conservation | [Desktop](bluecurrent-ocean/screenshot.png) · [Mobile](bluecurrent-ocean/screenshot-mobile.png) |
+| [Make something real](openbench-workshop/) | Creative education | [Desktop](openbench-workshop/screenshot.png) · [Mobile](openbench-workshop/screenshot-mobile.png) |
+| [Less between idea and done](relay-product-update/) | SaaS product update | [Desktop](relay-product-update/screenshot.png) · [Mobile](relay-product-update/screenshot-mobile.png) |
+| [Ideas meet here](common-ground-conference/) | Design conference | [Desktop](common-ground-conference/screenshot.png) · [Mobile](common-ground-conference/screenshot-mobile.png) |
+| [The night has a rhythm](afterhours-jazz/) | Live music | [Desktop](afterhours-jazz/screenshot.png) · [Mobile](afterhours-jazz/screenshot-mobile.png) |
+| [Find your next obsession](margin-bookshop/) | Independent bookstore | [Desktop](margin-bookshop/screenshot.png) · [Mobile](margin-bookshop/screenshot-mobile.png) |
+| [A good week starts here](little-table-mealkit/) | Meal kit | [Desktop](little-table-mealkit/screenshot.png) · [Mobile](little-table-mealkit/screenshot-mobile.png) |
 
 `manifest.json` is the catalog index. Its `schemaVersion` versions the manifest format. Each entry has a stable `id`, display name, description, language, tags, JSON/HTML/screenshot paths and an image inventory with source information. All paths are relative to the repository root.
 

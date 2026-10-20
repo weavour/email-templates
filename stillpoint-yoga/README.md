@@ -1,4 +1,4 @@
-# Stillpoint — Begin where you are
+# Begin where you are
 
 Niche: Yoga & wellness. Quiet layout with native editable text, headings, images, buttons, sections. The STILLPOINT brand and its offer are fictional examples.
 

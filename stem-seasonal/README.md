@@ -1,4 +1,4 @@
-# Stem — A little wild at heart
+# A little wild at heart
 
 Niche: Florist. Botanical layout with native editable text, headings, images, buttons, sections and responsive columns. The STEM / FLOWER STUDIO brand and its offer are fictional examples.
 

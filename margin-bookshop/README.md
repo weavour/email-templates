@@ -1,4 +1,4 @@
-# Margin — Find your next obsession
+# Find your next obsession
 
 Niche: Independent bookstore. Reading layout with native editable text, headings, images, buttons, sections. The MARGIN / BOOKSHOP brand and its offer are fictional examples.
 

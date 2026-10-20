@@ -1,4 +1,4 @@
-# Relay — Less between idea and done
+# Less between idea and done
 
 Niche: SaaS product update. Release layout with native editable text, headings, images, buttons, sections and responsive columns. The relay brand and its offer are fictional examples.
 
