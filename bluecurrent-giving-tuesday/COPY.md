@@ -1,4 +1,4 @@
-# Giving Tuesday copy — Bluecurrent
+# A Cleaner Coast Copy
 
 ## Brief
 

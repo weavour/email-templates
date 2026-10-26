@@ -1,4 +1,4 @@
-# Black Friday copy — Ridgeway
+# The Long Way Outside Copy
 
 ## Brief
 

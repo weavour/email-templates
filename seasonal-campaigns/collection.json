@@ -39,7 +39,8 @@
       ],
       "closing": "A little less rush.\nA little more Christmas.",
       "document": "../winterhearth-christmas-stay/template.json",
-      "localPreview": "../winterhearth-christmas-stay/preview-local.html"
+      "localPreview": "../winterhearth-christmas-stay/preview-local.html",
+      "name": "Fireside Christmas"
     },
     {
       "id": "crumbkind-christmas-bakes",
@@ -78,7 +79,8 @@
       ],
       "closing": "Bring the bake.\nThey’ll bring the stories.",
       "document": "../crumbkind-christmas-bakes/template.json",
-      "localPreview": "../crumbkind-christmas-bakes/preview-local.html"
+      "localPreview": "../crumbkind-christmas-bakes/preview-local.html",
+      "name": "The Christmas Bake"
     },
     {
       "id": "aureole-christmas-jewels",
@@ -113,7 +115,8 @@
       ],
       "closing": "Give something\nthat feels like them.",
       "document": "../aureole-christmas-jewels/template.json",
-      "localPreview": "../aureole-christmas-jewels/preview-local.html"
+      "localPreview": "../aureole-christmas-jewels/preview-local.html",
+      "name": "Gifts Close to Heart"
     },
     {
       "id": "paws-home-christmas-appeal",
@@ -152,7 +155,8 @@
       ],
       "closing": "Until they find a home,\nhelp us make one here.",
       "document": "../paws-home-christmas-appeal/template.json",
-      "localPreview": "../paws-home-christmas-appeal/preview-local.html"
+      "localPreview": "../paws-home-christmas-appeal/preview-local.html",
+      "name": "A Warm Bed for Christmas"
     },
     {
       "id": "velvet-curtain-christmas-gala",
@@ -191,7 +195,8 @@
       ],
       "closing": "Make a night of it.",
       "document": "../velvet-curtain-christmas-gala/template.json",
-      "localPreview": "../velvet-curtain-christmas-gala/preview-local.html"
+      "localPreview": "../velvet-curtain-christmas-gala/preview-local.html",
+      "name": "Christmas Cabaret"
     },
     {
       "id": "parcel-co-christmas-gifting",
@@ -230,7 +235,8 @@
       ],
       "closing": "Your thanks.\nBeautifully delivered.",
       "document": "../parcel-co-christmas-gifting/template.json",
-      "localPreview": "../parcel-co-christmas-gifting/preview-local.html"
+      "localPreview": "../parcel-co-christmas-gifting/preview-local.html",
+      "name": "A Thoughtful Thank You"
     },
     {
       "id": "lantern-trail-halloween",
@@ -269,7 +275,8 @@
       ],
       "closing": "A little spooky.\nA lot to remember.",
       "document": "../lantern-trail-halloween/template.json",
-      "localPreview": "../lantern-trail-halloween/preview-local.html"
+      "localPreview": "../lantern-trail-halloween/preview-local.html",
+      "name": "The Lantern Trail"
     },
     {
       "id": "black-cat-halloween-supper",
@@ -308,7 +315,8 @@
       ],
       "closing": "Come for the candlelight.\nStay for dessert.",
       "document": "../black-cat-halloween-supper/template.json",
-      "localPreview": "../black-cat-halloween-supper/preview-local.html"
+      "localPreview": "../black-cat-halloween-supper/preview-local.html",
+      "name": "Supper After Dark"
     },
     {
       "id": "pixelcamp-halloween-code",
@@ -347,7 +355,8 @@
       ],
       "closing": "Big ideas.\nFriendly little frights.",
       "document": "../pixelcamp-halloween-code/template.json",
-      "localPreview": "../pixelcamp-halloween-code/preview-local.html"
+      "localPreview": "../pixelcamp-halloween-code/preview-local.html",
+      "name": "Pumpkins and Pixels"
     },
     {
       "id": "moonbath-halloween-reset",
@@ -386,7 +395,8 @@
       ],
       "closing": "Let the night\nbelong to you.",
       "document": "../moonbath-halloween-reset/template.json",
-      "localPreview": "../moonbath-halloween-reset/preview-local.html"
+      "localPreview": "../moonbath-halloween-reset/preview-local.html",
+      "name": "The Moonlit Ritual"
     },
     {
       "id": "midnight-reel-halloween",
@@ -425,7 +435,8 @@
       ],
       "closing": "Stay for\nthe second scream.",
       "document": "../midnight-reel-halloween/template.json",
-      "localPreview": "../midnight-reel-halloween/preview-local.html"
+      "localPreview": "../midnight-reel-halloween/preview-local.html",
+      "name": "The Midnight Double Bill"
     },
     {
       "id": "formroom-black-friday",
@@ -460,7 +471,8 @@
       ],
       "closing": "Buy for the room\nyou want to live in.",
       "document": "../formroom-black-friday/template.json",
-      "localPreview": "../formroom-black-friday/preview-local.html"
+      "localPreview": "../formroom-black-friday/preview-local.html",
+      "name": "Good Furniture for Less"
     },
     {
       "id": "threadline-black-friday",
@@ -495,7 +507,8 @@
       ],
       "closing": "Fewer pieces.\nMore ways to wear them.",
       "document": "../threadline-black-friday/template.json",
-      "localPreview": "../threadline-black-friday/preview-local.html"
+      "localPreview": "../threadline-black-friday/preview-local.html",
+      "name": "The Winter Wardrobe"
     },
     {
       "id": "signalworks-black-friday",
@@ -530,7 +543,8 @@
       ],
       "closing": "Press play\non a good choice.",
       "document": "../signalworks-black-friday/template.json",
-      "localPreview": "../signalworks-black-friday/preview-local.html"
+      "localPreview": "../signalworks-black-friday/preview-local.html",
+      "name": "The Everyday Soundtrack"
     },
     {
       "id": "movewell-black-friday",
@@ -569,7 +583,8 @@
       ],
       "closing": "One class\nis a good place to start.",
       "document": "../movewell-black-friday/template.json",
-      "localPreview": "../movewell-black-friday/preview-local.html"
+      "localPreview": "../movewell-black-friday/preview-local.html",
+      "name": "Make Room for Movement"
     },
     {
       "id": "ridgeway-black-friday",
@@ -608,7 +623,8 @@
       ],
       "closing": "The next good day\nstarts outside.",
       "document": "../ridgeway-black-friday/template.json",
-      "localPreview": "../ridgeway-black-friday/preview-local.html"
+      "localPreview": "../ridgeway-black-friday/preview-local.html",
+      "name": "The Long Way Outside"
     },
     {
       "id": "wayfarer-black-friday",
@@ -643,7 +659,8 @@
       ],
       "closing": "Bring your curiosity.\nWe’ll bring the route.",
       "document": "../wayfarer-black-friday/template.json",
-      "localPreview": "../wayfarer-black-friday/preview-local.html"
+      "localPreview": "../wayfarer-black-friday/preview-local.html",
+      "name": "A Change of Scene"
     },
     {
       "id": "orbitdesk-cyber-monday",
@@ -682,7 +699,8 @@
       ],
       "closing": "Make the next step\neasier to see.",
       "document": "../orbitdesk-cyber-monday/template.json",
-      "localPreview": "../orbitdesk-cyber-monday/preview-local.html"
+      "localPreview": "../orbitdesk-cyber-monday/preview-local.html",
+      "name": "Less Chasing More Doing"
     },
     {
       "id": "lingua-cyber-monday",
@@ -721,7 +739,8 @@
       ],
       "closing": "Your first conversation\nstarts with a hello.",
       "document": "../lingua-cyber-monday/template.json",
-      "localPreview": "../lingua-cyber-monday/preview-local.html"
+      "localPreview": "../lingua-cyber-monday/preview-local.html",
+      "name": "Your First Conversation"
     },
     {
       "id": "format-cyber-monday",
@@ -760,7 +779,8 @@
       ],
       "closing": "A smaller scope.\nA stronger starting point.",
       "document": "../format-cyber-monday/template.json",
-      "localPreview": "../format-cyber-monday/preview-local.html"
+      "localPreview": "../format-cyber-monday/preview-local.html",
+      "name": "A Clearer Launch"
     },
     {
       "id": "stemstory-valentines",
@@ -795,7 +815,8 @@
       ],
       "closing": "The flowers are ours.\nThe words are yours.",
       "document": "../stemstory-valentines/template.json",
-      "localPreview": "../stemstory-valentines/preview-local.html"
+      "localPreview": "../stemstory-valentines/preview-local.html",
+      "name": "Say It with Flowers"
     },
     {
       "id": "cacao-letter-valentines",
@@ -830,7 +851,8 @@
       ],
       "closing": "Good words.\nBetter shared chocolate.",
       "document": "../cacao-letter-valentines/template.json",
-      "localPreview": "../cacao-letter-valentines/preview-local.html"
+      "localPreview": "../cacao-letter-valentines/preview-local.html",
+      "name": "The Chocolate Letter"
     },
     {
       "id": "two-tides-valentines",
@@ -869,7 +891,8 @@
       ],
       "closing": "A little more time\nfor each other.",
       "document": "../two-tides-valentines/template.json",
-      "localPreview": "../two-tides-valentines/preview-local.html"
+      "localPreview": "../two-tides-valentines/preview-local.html",
+      "name": "An Afternoon for Two"
     },
     {
       "id": "afterlight-valentines",
@@ -908,7 +931,8 @@
       ],
       "closing": "Find something\nto talk about.",
       "document": "../afterlight-valentines/template.json",
-      "localPreview": "../afterlight-valentines/preview-local.html"
+      "localPreview": "../afterlight-valentines/preview-local.html",
+      "name": "A Different Kind of Date"
     },
     {
       "id": "claykin-mothers-day",
@@ -947,7 +971,8 @@
       ],
       "closing": "Time together,\nwith something to keep.",
       "document": "../claykin-mothers-day/template.json",
-      "localPreview": "../claykin-mothers-day/preview-local.html"
+      "localPreview": "../claykin-mothers-day/preview-local.html",
+      "name": "A Memory in Clay"
     },
     {
       "id": "greenhouse-mothers-day",
@@ -986,7 +1011,8 @@
       ],
       "closing": "A little care\ngoes a long way.",
       "document": "../greenhouse-mothers-day/template.json",
-      "localPreview": "../greenhouse-mothers-day/preview-local.html"
+      "localPreview": "../greenhouse-mothers-day/preview-local.html",
+      "name": "A Gift That Grows"
     },
     {
       "id": "morning-table-mothers-day",
@@ -1025,7 +1051,8 @@
       ],
       "closing": "Her morning.\nYour treat.",
       "document": "../morning-table-mothers-day/template.json",
-      "localPreview": "../morning-table-mothers-day/preview-local.html"
+      "localPreview": "../morning-table-mothers-day/preview-local.html",
+      "name": "Breakfast for Mum"
     },
     {
       "id": "first-light-fathers-day",
@@ -1060,7 +1087,8 @@
       ],
       "closing": "Start with\nsomething he’ll use.",
       "document": "../first-light-fathers-day/template.json",
-      "localPreview": "../first-light-fathers-day/preview-local.html"
+      "localPreview": "../first-light-fathers-day/preview-local.html",
+      "name": "His First Good Cup"
     },
     {
       "id": "spoke-fathers-day",
@@ -1099,7 +1127,8 @@
       ],
       "closing": "For wherever\nthe next ride takes him.",
       "document": "../spoke-fathers-day/template.json",
-      "localPreview": "../spoke-fathers-day/preview-local.html"
+      "localPreview": "../spoke-fathers-day/preview-local.html",
+      "name": "A Smoother Sunday Ride"
     },
     {
       "id": "meadow-house-easter",
@@ -1138,7 +1167,8 @@
       ],
       "closing": "Fresh air.\nA slower kind of Easter.",
       "document": "../meadow-house-easter/template.json",
-      "localPreview": "../meadow-house-easter/preview-local.html"
+      "localPreview": "../meadow-house-easter/preview-local.html",
+      "name": "A Little Closer to Spring"
     },
     {
       "id": "spring-common-easter",
@@ -1177,7 +1207,8 @@
       ],
       "closing": "Make a little\nspring memory.",
       "document": "../spring-common-easter/template.json",
-      "localPreview": "../spring-common-easter/preview-local.html"
+      "localPreview": "../spring-common-easter/preview-local.html",
+      "name": "The Easter Trail"
     },
     {
       "id": "stillday-new-year",
@@ -1216,7 +1247,8 @@
       ],
       "closing": "Start where you are.\nThat’s enough.",
       "document": "../stillday-new-year/template.json",
-      "localPreview": "../stillday-new-year/preview-local.html"
+      "localPreview": "../stillday-new-year/preview-local.html",
+      "name": "Begin Gently"
     },
     {
       "id": "clearbooks-new-year",
@@ -1255,7 +1287,8 @@
       ],
       "closing": "Less wondering\nwhere to start.",
       "document": "../clearbooks-new-year/template.json",
-      "localPreview": "../clearbooks-new-year/preview-local.html"
+      "localPreview": "../clearbooks-new-year/preview-local.html",
+      "name": "A Clearer Start"
     },
     {
       "id": "miles-ahead-new-year",
@@ -1294,7 +1327,8 @@
       ],
       "closing": "A new year.\nA few new running friends.",
       "document": "../miles-ahead-new-year/template.json",
-      "localPreview": "../miles-ahead-new-year/preview-local.html"
+      "localPreview": "../miles-ahead-new-year/preview-local.html",
+      "name": "Your First Social Mile"
     },
     {
       "id": "paperpath-back-to-school",
@@ -1329,7 +1363,8 @@
       ],
       "closing": "Small things.\nA good start.",
       "document": "../paperpath-back-to-school/template.json",
-      "localPreview": "../paperpath-back-to-school/preview-local.html"
+      "localPreview": "../paperpath-back-to-school/preview-local.html",
+      "name": "A Fresh Page"
     },
     {
       "id": "brightstart-back-to-school",
@@ -1368,7 +1403,8 @@
       ],
       "closing": "A little clarity\nbefore the term gets busy.",
       "document": "../brightstart-back-to-school/template.json",
-      "localPreview": "../brightstart-back-to-school/preview-local.html"
+      "localPreview": "../brightstart-back-to-school/preview-local.html",
+      "name": "A Clearer School Year"
     },
     {
       "id": "saltline-summer-sale",
@@ -1403,7 +1439,8 @@
       ],
       "closing": "Your next dip\nis a good enough reason.",
       "document": "../saltline-summer-sale/template.json",
-      "localPreview": "../saltline-summer-sale/preview-local.html"
+      "localPreview": "../saltline-summer-sale/preview-local.html",
+      "name": "More Sea Days"
     },
     {
       "id": "azura-summer-sale",
@@ -1442,7 +1479,8 @@
       ],
       "closing": "Book the room.\nLeave space for the rest.",
       "document": "../azura-summer-sale/template.json",
-      "localPreview": "../azura-summer-sale/preview-local.html"
+      "localPreview": "../azura-summer-sale/preview-local.html",
+      "name": "A Different Shade of Blue"
     },
     {
       "id": "mend-earth-day",
@@ -1481,7 +1519,8 @@
       ],
       "closing": "A little skill.\nA little more life.",
       "document": "../mend-earth-day/template.json",
-      "localPreview": "../mend-earth-day/preview-local.html"
+      "localPreview": "../mend-earth-day/preview-local.html",
+      "name": "A Little More Life"
     },
     {
       "id": "bluecurrent-giving-tuesday",
@@ -1520,7 +1559,8 @@
       ],
       "closing": "A place we share.\nA little care we can give.",
       "document": "../bluecurrent-giving-tuesday/template.json",
-      "localPreview": "../bluecurrent-giving-tuesday/preview-local.html"
+      "localPreview": "../bluecurrent-giving-tuesday/preview-local.html",
+      "name": "A Cleaner Coast"
     }
   ]
 }

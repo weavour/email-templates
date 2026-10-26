@@ -1,4 +1,4 @@
-# Earth Day copy — Mend Together
+# A Little More Life Copy
 
 ## Brief
 

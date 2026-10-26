@@ -1,4 +1,4 @@
-# New Year copy — Stillday
+# Begin Gently Copy
 
 ## Brief
 

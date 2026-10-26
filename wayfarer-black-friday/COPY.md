@@ -1,4 +1,4 @@
-# Black Friday copy — Wayfarer
+# A Change of Scene Copy
 
 ## Brief
 

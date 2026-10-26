@@ -73,8 +73,8 @@ Completed validation reported for this extension:
 - Native import and reopen preserved the authored text, booking button and all three background attributes without export drift.
 - Browser checks at 800px and 375px passed image loading, overflow and keyboard access to the first link. The local preview loads all three relative background files.
 - All three sections retain the solid `rgb(16, 29, 27)` fallback; the export retains three VML fallbacks and the unsubscribe token. Final asset filenames were checked against their hashes.
-- All five catalog tests passed, including the new background validator security-boundary test. The source catalog contains 113 templates; the application’s pinned snapshot remains unchanged at 101.
+- All five catalog tests passed, including the new background validator security-boundary test. The source catalog now contains 154 templates; the application’s refreshed pinned snapshot contains 154 templates.
 
 ## Publishing
 
-The new image URLs have not been published. Publish assets before refreshing the private application’s pinned catalog or importing into hosted tenant libraries. Local rendering and SQL generation do not publish, deploy or send anything.
+The image URLs are published and byte-verified. The refreshed private application catalog includes this template. No hosted tenant import, Worker deployment or email delivery was performed by publishing these images.

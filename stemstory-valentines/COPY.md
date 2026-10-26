@@ -1,4 +1,4 @@
-# Valentine’s Day copy — Stemstory
+# Say It with Flowers Copy
 
 ## Brief
 

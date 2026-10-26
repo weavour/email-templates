@@ -1,4 +1,4 @@
-# New Year copy — Clearbooks Studio
+# A Clearer Start Copy
 
 ## Brief
 

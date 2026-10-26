@@ -1,4 +1,4 @@
-# Christmas copy — Winterhearth
+# Fireside Christmas Copy
 
 ## Brief
 

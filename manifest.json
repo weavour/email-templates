@@ -718,7 +718,7 @@
     },
     {
       "id": "language-school",
-      "name": "bonjour, spring",
+      "name": "Bonjour Spring",
       "description": "language school campaign with a timetable composition: native editable blocks, intentional typography and campaign-specific content.",
       "language": "en",
       "tags": [
@@ -1304,7 +1304,7 @@
     },
     {
       "id": "hr-platform",
-      "name": "people ops, with care",
+      "name": "People Ops with Care",
       "description": "hr platform campaign with a handbook composition: native editable blocks, intentional typography and campaign-specific content.",
       "language": "en",
       "tags": [
@@ -1945,7 +1945,7 @@
     },
     {
       "id": "team-retreat",
-      "name": "offsite, on purpose",
+      "name": "Offsite on Purpose",
       "description": "team retreat campaign with a escape composition: native editable blocks, intentional typography and campaign-specific content.",
       "language": "en",
       "tags": [
@@ -2083,7 +2083,7 @@
     },
     {
       "id": "paper-screen-film-night",
-      "name": "Two films. One shared night.",
+      "name": "One Shared Night",
       "description": "An arthouse double-bill invitation with a contrasting programme, paired showtimes, cinema photograph and ticket-style reservation panel.",
       "language": "en",
       "tags": [
@@ -2104,7 +2104,7 @@
     },
     {
       "id": "forma-studio-sale",
-      "name": "Good objects. A little less.",
+      "name": "Good Objects for Less",
       "description": "A parchment and oxblood homewares archive sale, with a typographic offer band and paired editable product catalogue.",
       "language": "en",
       "tags": [
@@ -2130,7 +2130,7 @@
     },
     {
       "id": "stride-city-relay",
-      "name": "Four friends. One city.",
+      "name": "Four Friends One City",
       "description": "A vivid ultramarine and lime running invitation with a race-bib opening, paired race details, clear route briefing and a team registration close.",
       "language": "en",
       "tags": [
@@ -2269,7 +2269,7 @@
     },
     {
       "id": "winterhearth-christmas-stay",
-      "name": "Christmas — Winterhearth",
+      "name": "Fireside Christmas",
       "description": "Alpine boutique hotel: Christmas, with room to slow down. Travel postcard: generous editorial opening, a visual pause, then a short itinerary and booking close.",
       "language": "en",
       "tags": [
@@ -2291,7 +2291,7 @@
     },
     {
       "id": "crumbkind-christmas-bakes",
-      "name": "Christmas — Crumbkind",
+      "name": "The Christmas Bake",
       "description": "Artisan bakery: Bring something worth sharing. Printed menu: centered invitation, seasonal offer, individual course or service descriptions and a reservation close.",
       "language": "en",
       "tags": [
@@ -2313,7 +2313,7 @@
     },
     {
       "id": "aureole-christmas-jewels",
-      "name": "Christmas — Auréole",
+      "name": "Gifts Close to Heart",
       "description": "Independent jewelry: For the one you know by heart. Editorial lookbook: a quiet centered masthead, high-contrast display type, an image-led pause and paired collection stories.",
       "language": "en",
       "tags": [
@@ -2335,7 +2335,7 @@
     },
     {
       "id": "paws-home-christmas-appeal",
-      "name": "Christmas — Paws & Home",
+      "name": "A Warm Bed for Christmas",
       "description": "Animal rescue: A warm bed for the holidays. Field appeal: a direct invitation to give, a practical explanation of use and one-off donation choice.",
       "language": "en",
       "tags": [
@@ -2357,7 +2357,7 @@
     },
     {
       "id": "velvet-curtain-christmas-gala",
-      "name": "Christmas — Velvet Curtain",
+      "name": "Christmas Cabaret",
       "description": "Independent theatre: One night. All the Christmas you can sing. Admission ticket: a split masthead, a bold invitation, practical admission details and programme rows.",
       "language": "en",
       "tags": [
@@ -2379,7 +2379,7 @@
     },
     {
       "id": "parcel-co-christmas-gifting",
-      "name": "Christmas — Parcel & Co.",
+      "name": "A Thoughtful Thank You",
       "description": "Corporate gifting: Thank them like you mean it. Personal letter: greeting and editorial invitation, flowing paragraphs, a signed close and a clear action.",
       "language": "en",
       "tags": [
@@ -2401,7 +2401,7 @@
     },
     {
       "id": "lantern-trail-halloween",
-      "name": "Halloween — Lantern Trail",
+      "name": "The Lantern Trail",
       "description": "Outdoor family attraction: Follow the lights. Find the fun. Practical field guide: clear preparation or selection advice, full-width reading rows and a useful next step.",
       "language": "en",
       "tags": [
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "black-cat-halloween-supper",
-      "name": "Halloween — The Black Cat",
+      "name": "Supper After Dark",
       "description": "Restaurant: Dinner after dark. Something delicious is stirring. Printed menu: centered invitation, seasonal offer, individual course or service descriptions and a reservation close.",
       "language": "en",
       "tags": [
@@ -2445,7 +2445,7 @@
     },
     {
       "id": "pixelcamp-halloween-code",
-      "name": "Halloween — Pixelcamp",
+      "name": "Pumpkins and Pixels",
       "description": "Children’s coding school: Code a little Halloween magic. Programme: a clear invitation and three sequential stages in native label/content columns.",
       "language": "en",
       "tags": [
@@ -2467,7 +2467,7 @@
     },
     {
       "id": "moonbath-halloween-reset",
-      "name": "Halloween — Moonbath",
+      "name": "The Moonlit Ritual",
       "description": "Bath and body care: An evening ritual for your inner night owl. Ritual card: calm typography and centered steps that connect the offer to an easy, concrete experience.",
       "language": "en",
       "tags": [
@@ -2489,7 +2489,7 @@
     },
     {
       "id": "midnight-reel-halloween",
-      "name": "Halloween — Midnight Reel",
+      "name": "The Midnight Double Bill",
       "description": "Independent cinema: Two films. One very good reason to stay up. Admission ticket: a split masthead, a bold invitation, practical admission details and programme rows.",
       "language": "en",
       "tags": [
@@ -2511,7 +2511,7 @@
     },
     {
       "id": "formroom-black-friday",
-      "name": "Black Friday — Formroom",
+      "name": "Good Furniture for Less",
       "description": "Furniture and homewares: Good furniture. A better moment to bring it home. Product catalogue: an editorial opening and a native paired selection with useful descriptions.",
       "language": "en",
       "tags": [
@@ -2533,7 +2533,7 @@
     },
     {
       "id": "threadline-black-friday",
-      "name": "Black Friday — Threadline",
+      "name": "The Winter Wardrobe",
       "description": "Contemporary clothing: Wear it now. Reach for it next year. Editorial lookbook: a quiet centered masthead, high-contrast display type, an image-led pause and paired collection stories.",
       "language": "en",
       "tags": [
@@ -2555,7 +2555,7 @@
     },
     {
       "id": "signalworks-black-friday",
-      "name": "Black Friday — Signalworks",
+      "name": "The Everyday Soundtrack",
       "description": "Audio electronics: A better soundtrack for the everyday. Offer poster: the concrete promotion is prominent, followed by an image moment, the offer scope and a concise choice.",
       "language": "en",
       "tags": [
@@ -2577,7 +2577,7 @@
     },
     {
       "id": "movewell-black-friday",
-      "name": "Black Friday — Movewell",
+      "name": "Make Room for Movement",
       "description": "Pilates studio: Make room for movement. Offer poster: the concrete promotion is prominent, followed by an image moment, the offer scope and a concise choice.",
       "language": "en",
       "tags": [
@@ -2599,7 +2599,7 @@
     },
     {
       "id": "ridgeway-black-friday",
-      "name": "Black Friday — Ridgeway",
+      "name": "The Long Way Outside",
       "description": "Outdoor equipment: Take the long way. Spend a little less. Practical field guide: clear preparation or selection advice, full-width reading rows and a useful next step.",
       "language": "en",
       "tags": [
@@ -2621,7 +2621,7 @@
     },
     {
       "id": "wayfarer-black-friday",
-      "name": "Black Friday — Wayfarer",
+      "name": "A Change of Scene",
       "description": "Guided travel experiences: A good story starts with a change of scene. Travel postcard: generous editorial opening, a visual pause, then a short itinerary and booking close.",
       "language": "en",
       "tags": [
@@ -2643,7 +2643,7 @@
     },
     {
       "id": "orbitdesk-cyber-monday",
-      "name": "Cyber Monday — Orbitdesk",
+      "name": "Less Chasing More Doing",
       "description": "Team productivity software: Less chasing. More doing. Product bulletin: a focused offer followed by alternating native feature/context columns.",
       "language": "en",
       "tags": [
@@ -2665,7 +2665,7 @@
     },
     {
       "id": "lingua-cyber-monday",
-      "name": "Cyber Monday — Lingua House",
+      "name": "Your First Conversation",
       "description": "Online language courses: More than knowing the words. Programme: a clear invitation and three sequential stages in native label/content columns.",
       "language": "en",
       "tags": [
@@ -2687,7 +2687,7 @@
     },
     {
       "id": "format-cyber-monday",
-      "name": "Cyber Monday — Format Studio",
+      "name": "A Clearer Launch",
       "description": "Brand design services: Give your next launch a clearer look. Service checklist: a concrete offer, native list of included steps and explicit scope before the action.",
       "language": "en",
       "tags": [
@@ -2709,7 +2709,7 @@
     },
     {
       "id": "stemstory-valentines",
-      "name": "Valentine’s Day — Stemstory",
+      "name": "Say It with Flowers",
       "description": "Florist: Say it in your own way. Editorial lookbook: a quiet centered masthead, high-contrast display type, an image-led pause and paired collection stories.",
       "language": "en",
       "tags": [
@@ -2731,7 +2731,7 @@
     },
     {
       "id": "cacao-letter-valentines",
-      "name": "Valentine’s Day — Cacao Letter",
+      "name": "The Chocolate Letter",
       "description": "Craft chocolatier: A small box. A very good way to say it. Product catalogue: an editorial opening and a native paired selection with useful descriptions.",
       "language": "en",
       "tags": [
@@ -2753,7 +2753,7 @@
     },
     {
       "id": "two-tides-valentines",
-      "name": "Valentine’s Day — Two Tides",
+      "name": "An Afternoon for Two",
       "description": "Spa retreat: Time for two. Nothing else on the calendar. Ritual card: calm typography and centered steps that connect the offer to an easy, concrete experience.",
       "language": "en",
       "tags": [
@@ -2775,7 +2775,7 @@
     },
     {
       "id": "afterlight-valentines",
-      "name": "Valentine’s Day — Afterlight Museum",
+      "name": "A Different Kind of Date",
       "description": "Museum evenings: A different kind of date. Admission ticket: a split masthead, a bold invitation, practical admission details and programme rows.",
       "language": "en",
       "tags": [
@@ -2797,7 +2797,7 @@
     },
     {
       "id": "claykin-mothers-day",
-      "name": "Mother’s Day — Claykin",
+      "name": "A Memory in Clay",
       "description": "Pottery workshops: Make a memory. And a slightly wonky mug. Programme: a clear invitation and three sequential stages in native label/content columns.",
       "language": "en",
       "tags": [
@@ -2819,7 +2819,7 @@
     },
     {
       "id": "greenhouse-mothers-day",
-      "name": "Mother’s Day — The Greenhouse",
+      "name": "A Gift That Grows",
       "description": "Garden shop: For the one who helps everything grow. Practical field guide: clear preparation or selection advice, full-width reading rows and a useful next step.",
       "language": "en",
       "tags": [
@@ -2841,7 +2841,7 @@
     },
     {
       "id": "morning-table-mothers-day",
-      "name": "Mother’s Day — The Morning Table",
+      "name": "Breakfast for Mum",
       "description": "Brunch café: Let someone else do the breakfast. Printed menu: centered invitation, seasonal offer, individual course or service descriptions and a reservation close.",
       "language": "en",
       "tags": [
@@ -2863,7 +2863,7 @@
     },
     {
       "id": "first-light-fathers-day",
-      "name": "Father’s Day — First Light Roasters",
+      "name": "His First Good Cup",
       "description": "Specialty coffee: For his first good cup of the day. Product catalogue: an editorial opening and a native paired selection with useful descriptions.",
       "language": "en",
       "tags": [
@@ -2885,7 +2885,7 @@
     },
     {
       "id": "spoke-fathers-day",
-      "name": "Father’s Day — Spoke & Sons",
+      "name": "A Smoother Sunday Ride",
       "description": "Cycling shop: Give him a smoother Sunday ride. Service checklist: a concrete offer, native list of included steps and explicit scope before the action.",
       "language": "en",
       "tags": [
@@ -2907,7 +2907,7 @@
     },
     {
       "id": "meadow-house-easter",
-      "name": "Easter — Meadow House",
+      "name": "A Little Closer to Spring",
       "description": "Farmstay accommodation: A little closer to spring. Travel postcard: generous editorial opening, a visual pause, then a short itinerary and booking close.",
       "language": "en",
       "tags": [
@@ -2929,7 +2929,7 @@
     },
     {
       "id": "spring-common-easter",
-      "name": "Easter — Spring Common",
+      "name": "The Easter Trail",
       "description": "Community family events: A small hunt. A big spring afternoon. Practical field guide: clear preparation or selection advice, full-width reading rows and a useful next step.",
       "language": "en",
       "tags": [
@@ -2951,7 +2951,7 @@
     },
     {
       "id": "stillday-new-year",
-      "name": "New Year — Stillday",
+      "name": "Begin Gently",
       "description": "Yoga studio: Begin gently. Ritual card: calm typography and centered steps that connect the offer to an easy, concrete experience.",
       "language": "en",
       "tags": [
@@ -2973,7 +2973,7 @@
     },
     {
       "id": "clearbooks-new-year",
-      "name": "New Year — Clearbooks Studio",
+      "name": "A Clearer Start",
       "description": "Small-business bookkeeping: A clearer start for your books. Service checklist: a concrete offer, native list of included steps and explicit scope before the action.",
       "language": "en",
       "tags": [
@@ -2995,7 +2995,7 @@
     },
     {
       "id": "miles-ahead-new-year",
-      "name": "New Year — Miles Ahead",
+      "name": "Your First Social Mile",
       "description": "Community running club: Your first mile can be a social one. Programme: a clear invitation and three sequential stages in native label/content columns.",
       "language": "en",
       "tags": [
@@ -3017,7 +3017,7 @@
     },
     {
       "id": "paperpath-back-to-school",
-      "name": "Back to school — Paperpath",
+      "name": "A Fresh Page",
       "description": "Stationery: A fresh page for all the next things. Product catalogue: an editorial opening and a native paired selection with useful descriptions.",
       "language": "en",
       "tags": [
@@ -3039,7 +3039,7 @@
     },
     {
       "id": "brightstart-back-to-school",
-      "name": "Back to school — Brightstart",
+      "name": "A Clearer School Year",
       "description": "Tutoring: Start the term with a clearer plan. Personal letter: greeting and editorial invitation, flowing paragraphs, a signed close and a clear action.",
       "language": "en",
       "tags": [
@@ -3061,7 +3061,7 @@
     },
     {
       "id": "saltline-summer-sale",
-      "name": "Summer sale — Saltline",
+      "name": "More Sea Days",
       "description": "Swimwear: More sea days. A little less to spend. Editorial lookbook: a quiet centered masthead, high-contrast display type, an image-led pause and paired collection stories.",
       "language": "en",
       "tags": [
@@ -3083,7 +3083,7 @@
     },
     {
       "id": "azura-summer-sale",
-      "name": "Summer sale — Azura Rooms",
+      "name": "A Different Shade of Blue",
       "description": "Coastal hotel: A few days in a different shade of blue. Travel postcard: generous editorial opening, a visual pause, then a short itinerary and booking close.",
       "language": "en",
       "tags": [
@@ -3105,7 +3105,7 @@
     },
     {
       "id": "mend-earth-day",
-      "name": "Earth Day — Mend Together",
+      "name": "A Little More Life",
       "description": "Community repair café: Before you replace it, bring it. Practical field guide: clear preparation or selection advice, full-width reading rows and a useful next step.",
       "language": "en",
       "tags": [
@@ -3127,7 +3127,7 @@
     },
     {
       "id": "bluecurrent-giving-tuesday",
-      "name": "Giving Tuesday — Bluecurrent",
+      "name": "A Cleaner Coast",
       "description": "Ocean conservation: A cleaner coast starts with a little care. Field appeal: a direct invitation to give, a practical explanation of use and one-off donation choice.",
       "language": "en",
       "tags": [
@@ -3144,6 +3144,28 @@
           "file": "bluecurrent-giving-tuesday/images/canvas-5eaee36a1bb7.jpg",
           "url": "https://assets.weavour.com/templates/bluecurrent-giving-tuesday/canvas-5eaee36a1bb7.jpg",
           "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in bluecurrent-giving-tuesday/README.md."
+        }
+      ]
+    },
+    {
+      "id": "other-side-halloween-ball",
+      "name": "Be Someone Else",
+      "description": "A bold paper-theatre masquerade invitation with acid-lime poster typography, an original pumpkin ringmaster on one continuous midnight background, a live programme and clear ticket booking copy.",
+      "language": "en",
+      "tags": [
+        "Arts & culture",
+        "Event"
+      ],
+      "marketingEvent": "Halloween",
+      "document": "other-side-halloween-ball/template.json",
+      "html": "other-side-halloween-ball/template.html",
+      "screenshot": "other-side-halloween-ball/screenshot.png",
+      "mobileScreenshot": "other-side-halloween-ball/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "other-side-halloween-ball/images/midnight-theatre-8f56d67722fa.jpg",
+          "url": "https://assets.weavour.com/templates/other-side-halloween-ball/midnight-theatre-8f56d67722fa.jpg",
+          "source": "Original AI-generated paper-theatre Halloween background, with exact generation and edit prompts in other-side-halloween-ball/README.md."
         }
       ]
     }

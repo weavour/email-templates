@@ -1,4 +1,4 @@
-# Christmas copy — Auréole
+# Gifts Close to Heart Copy
 
 ## Brief
 

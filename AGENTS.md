@@ -3,6 +3,7 @@
 Keep this repository public-safe: no credentials, customer content or internal tenant IDs.
 
 - One directory per template; list every template in root manifest.json.
+- Display names must be a plain word or group of words. Never use double hyphens, en/em dashes, colons or event/brand separators in template names. Keep event, industry and sender context in metadata or descriptions. Preserve stable IDs, directories and asset URLs when renaming display names.
 - Use exactly two tags from tags.json: one industry, then one campaign purpose. Keep niche details in names/descriptions; do not add niche tags or synonyms.
 - Keep template IDs stable. Use native editable Weavour blocks, never a monolithic HTML block.
 - Give new templates an intentional composition. Consult design-variety.json and existing previews; avoid repeating a masthead/headline/image/three-section stack with palette changes. Preserve email-safe typography, mobile readability and native editability.

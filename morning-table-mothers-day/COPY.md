@@ -1,4 +1,4 @@
-# Mother’s Day copy — The Morning Table
+# Breakfast for Mum Copy
 
 ## Brief
 

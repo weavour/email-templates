@@ -1,4 +1,4 @@
-# Easter copy — Spring Common
+# The Easter Trail Copy
 
 ## Brief
 

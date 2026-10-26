@@ -38,10 +38,10 @@ The built-in image tool compacted the main botanical cluster to protect live cop
 
 ## Validation
 
-The actual Weavour renderer passed native import/reopen without export drift, authored-text and button preservation, background export/loading, horizontal-overflow checks and first-link keyboard access at 800px desktop and 375px mobile. Both rendered views were visually inspected for continuity and text/art overlap. The local preview loads its relative artwork file, preserves the blue solid fallback and unsubscribe token, and keeps both booking buttons on one destination. The final asset hash and embedded prompt history were checked. All five catalog tests pass with 114 source templates; the private pinned snapshot remains unchanged at 101. Browser evidence does not certify every email client.
+The actual Weavour renderer passed native import/reopen without export drift, authored-text and button preservation, background export/loading, horizontal-overflow checks and first-link keyboard access at 800px desktop and 375px mobile. Both rendered views were visually inspected for continuity and text/art overlap. The local preview loads its relative artwork file, preserves the blue solid fallback and unsubscribe token, and keeps both booking buttons on one destination. The final asset hash and embedded prompt history were checked. The original design validation covered 114 source templates. All five catalog tests also pass with the current 154-template catalog, and the refreshed private pinned snapshot contains 154 templates. Browser evidence does not certify every email client.
 
 ## Files and publishing
 
 The JSON is the native editable source; template.html is the actual Weavour export with a native background attribute and Outlook VML fallback. preview-local.html changes only the hosted artwork URL to a relative image path. Screenshot viewports are 800px desktop and 375px mobile. These are browser previews, not certification across email clients.
 
-Assets have not been published and the private application’s pinned snapshot has not been refreshed. Publish assets before hosted template import or snapshot refresh. Local rendering does not deploy or send anything.
+Assets are published and byte-verified, and the private application’s pinned snapshot has been refreshed. Hosted tenant imports, Worker deployments and email delivery remain separate release steps.

@@ -1,4 +1,4 @@
-# Four friends. One city.
+# Four Friends One City
 
 A native editable invitation for a fictional Stride City Relay. The composition starts as a lime race bib: the 4 × 5 distance anchors an asymmetric opening, followed by a personal invitation, paired distance/start facts, a route briefing and an ultramarine registration panel.
 

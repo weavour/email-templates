@@ -1,4 +1,4 @@
-# bonjour, spring
+# Bonjour Spring
 
 Language learning. A timetable composition using native editable Weavour blocks. Parlez House and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
 

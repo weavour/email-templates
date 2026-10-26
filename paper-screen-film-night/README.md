@@ -1,4 +1,4 @@
-# Two films. One shared night.
+# One Shared Night
 
 A native editable arthouse cinema invitation for the fictional Paper / Screen brand. Both film titles, synopses, ticket price, venue and programme details are illustrative sample content, not listings for real films or a real event. Friday 20 November 2026 is the sample date; 19:00 + 82 minutes + a 23-minute interval places the second screening at 20:45.
 

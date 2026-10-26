@@ -1,4 +1,4 @@
-# Back to school copy — Paperpath
+# A Fresh Page Copy
 
 ## Brief
 

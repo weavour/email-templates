@@ -1,4 +1,4 @@
-# Halloween copy — Pixelcamp
+# Pumpkins and Pixels Copy
 
 ## Brief
 

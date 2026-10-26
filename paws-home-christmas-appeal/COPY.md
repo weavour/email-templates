@@ -1,4 +1,4 @@
-# Christmas copy — Paws & Home
+# A Warm Bed for Christmas Copy
 
 ## Brief
 

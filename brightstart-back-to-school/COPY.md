@@ -1,4 +1,4 @@
-# Back to school copy — Brightstart
+# A Clearer School Year Copy
 
 ## Brief
 

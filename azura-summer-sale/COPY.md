@@ -1,4 +1,4 @@
-# Summer sale copy — Azura Rooms
+# A Different Shade of Blue Copy
 
 ## Brief
 

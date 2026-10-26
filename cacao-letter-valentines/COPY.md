@@ -1,4 +1,4 @@
-# Valentine’s Day copy — Cacao Letter
+# The Chocolate Letter Copy
 
 ## Brief
 

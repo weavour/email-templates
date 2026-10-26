@@ -18,8 +18,8 @@ Every campaign has a selected subject, preheader, headline, offer, practical det
 
 ## Catalog checks and release status
 
-The source catalog now contains 154 templates. All five catalog tests pass, including background inventory validation and idempotent migration-backed imports that preserve independent copies and revision history. Reviewable SQL was generated locally. The committed 101-template provisioning snapshot remains unchanged and verifies successfully.
+The source catalog now contains 154 templates. All five catalog tests pass, including background inventory validation and idempotent migration-backed imports that preserve independent copies and revision history. Reviewable SQL was generated locally. The refreshed 154-template provisioning snapshot verifies successfully.
 
-These are source, browser and export checks, not certification across mailbox clients. New assets have not been published, no hosted tenant libraries were imported, and no application deployment or email send was performed.
+These are source, browser and export checks, not certification across mailbox clients. Catalog image assets have been published and byte-verified. No hosted tenant libraries were imported, and no application deployment or email send was performed.
 
 [Per-template local checks](validation.json) · [Browse the collection](README.md)

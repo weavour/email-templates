@@ -1,4 +1,4 @@
-# Father’s Day copy — First Light Roasters
+# His First Good Cup Copy
 
 ## Brief
 

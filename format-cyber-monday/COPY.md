@@ -1,4 +1,4 @@
-# Cyber Monday copy — Format Studio
+# A Clearer Launch Copy
 
 ## Brief
 

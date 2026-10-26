@@ -1,4 +1,4 @@
-# Valentine’s Day copy — Two Tides
+# An Afternoon for Two Copy
 
 ## Brief
 

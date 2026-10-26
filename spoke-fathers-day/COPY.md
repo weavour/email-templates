@@ -1,4 +1,4 @@
-# Father’s Day copy — Spoke & Sons
+# A Smoother Sunday Ride Copy
 
 ## Brief
 

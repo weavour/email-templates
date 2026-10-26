@@ -1,4 +1,4 @@
-# people ops, with care
+# People Ops with Care
 
 SaaS. A handbook composition using native editable Weavour blocks. Kindred Work and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
 

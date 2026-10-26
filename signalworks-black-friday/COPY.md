@@ -1,4 +1,4 @@
-# Black Friday copy — Signalworks
+# The Everyday Soundtrack Copy
 
 ## Brief
 

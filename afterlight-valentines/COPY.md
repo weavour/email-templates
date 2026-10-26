@@ -1,4 +1,4 @@
-# Valentine’s Day copy — Afterlight Museum
+# A Different Kind of Date Copy
 
 ## Brief
 

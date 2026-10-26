@@ -1,4 +1,4 @@
-# Good objects. A little less.
+# Good Objects for Less
 
 An archive-sale email for Forma, a fictional homewares studio. Native editable blocks carry a restrained catalogue composition: a wide oxblood offer band, two product columns with their own photographs and prices, and an editorial archive note. Parchment #f5f0e5, oxblood #692d35 and charcoal #302b29; Georgia headings and Arial body copy keep the email readable without external fonts. Columns remain paired in mobile exports, preserving the side-by-side product comparison.
 

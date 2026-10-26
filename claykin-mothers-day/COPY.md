@@ -1,4 +1,4 @@
-# Mother’s Day copy — Claykin
+# A Memory in Clay Copy
 
 ## Brief
 

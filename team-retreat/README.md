@@ -1,4 +1,4 @@
-# offsite, on purpose
+# Offsite on Purpose
 
 Team retreats. A escape composition using native editable Weavour blocks. Field Notes Retreats and all campaign offers, programme details, metrics and product capabilities are fictional sample content.
 

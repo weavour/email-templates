@@ -1,4 +1,4 @@
-# Black Friday copy — Threadline
+# The Winter Wardrobe Copy
 
 ## Brief
 

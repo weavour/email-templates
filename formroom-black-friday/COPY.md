@@ -1,4 +1,4 @@
-# Black Friday copy — Formroom
+# Good Furniture for Less Copy
 
 ## Brief
 

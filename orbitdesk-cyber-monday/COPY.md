@@ -1,4 +1,4 @@
-# Cyber Monday copy — Orbitdesk
+# Less Chasing More Doing Copy
 
 ## Brief
 

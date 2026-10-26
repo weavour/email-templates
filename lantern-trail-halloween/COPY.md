@@ -1,4 +1,4 @@
-# Halloween copy — Lantern Trail
+# The Lantern Trail Copy
 
 ## Brief
 

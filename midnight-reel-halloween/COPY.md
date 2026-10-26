@@ -1,4 +1,4 @@
-# Halloween copy — Midnight Reel
+# The Midnight Double Bill Copy
 
 ## Brief
 

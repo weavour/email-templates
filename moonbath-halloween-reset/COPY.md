@@ -1,4 +1,4 @@
-# Halloween copy — Moonbath
+# The Moonlit Ritual Copy
 
 ## Brief
 

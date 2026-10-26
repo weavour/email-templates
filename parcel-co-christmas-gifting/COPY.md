@@ -1,4 +1,4 @@
-# Christmas copy — Parcel & Co.
+# A Thoughtful Thank You Copy
 
 ## Brief
 

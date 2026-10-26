@@ -70,8 +70,8 @@ Exact built-in generation prompt:
 
 ## Publishing status
 
-Source files and reproducible local previews are ready. New public image URLs have not been published. Publish these assets before refreshing the private application’s pinned catalog or importing into hosted tenant libraries; rendering does not publish or deploy anything.
+Source files, local previews and published public image URLs are ready. Image bytes have been verified and the private application’s pinned catalog has been refreshed. Hosted tenant imports and Worker deployments remain separate release steps.
 
 ## Validation
 
-The actual Weavour renderer validated native import, unchanged reopening/export, authored text, image alternative text and button destinations. Desktop (800px) and mobile (375px) captures passed horizontal-overflow and first-link keyboard checks. All four catalog tests pass with 112 source entries. An independent reviewer inspected both complete screenshots and found no blocking visual issues; paired mobile columns remain intentionally narrow. These checks do not establish rendering across email clients. The private application’s pinned snapshot is unchanged.
+The actual Weavour renderer validated native import, unchanged reopening/export, authored text, image alternative text and button destinations. Desktop (800px) and mobile (375px) captures passed horizontal-overflow and first-link keyboard checks. All four catalog tests pass with 112 source entries. An independent reviewer inspected both complete screenshots and found no blocking visual issues; paired mobile columns remain intentionally narrow. These checks do not establish rendering across email clients. The private application’s pinned snapshot has since been refreshed with the complete 154-template catalog.

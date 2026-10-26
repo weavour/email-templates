@@ -1,4 +1,4 @@
-# Summer sale copy — Saltline
+# More Sea Days Copy
 
 ## Brief
 

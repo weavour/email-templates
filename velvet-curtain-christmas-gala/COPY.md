@@ -1,4 +1,4 @@
-# Christmas copy — Velvet Curtain
+# Christmas Cabaret Copy
 
 ## Brief
 
