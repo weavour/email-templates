@@ -1,0 +1,1281 @@
+{
+  "schemaVersion": 1,
+  "subject": "A growing kind of Mother’s Day gift",
+  "preheader": "Thoughtful plants and useful things for her garden.",
+  "content": {
+    "type": "doc",
+    "attrs": {
+      "mergeTagReferences": [],
+      "emailAudit": null,
+      "documentSchemaVersion": 1
+    },
+    "content": [
+      {
+        "type": "globalContent",
+        "attrs": {
+          "data": {
+            "styles": [
+              {
+                "classReference": "body",
+                "id": "body",
+                "inputs": [
+                  {
+                    "classReference": "body",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#e5e8d4"
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Background"
+              },
+              {
+                "classReference": "container",
+                "id": "container",
+                "inputs": [
+                  {
+                    "classReference": "container",
+                    "label": "Align",
+                    "options": {
+                      "center": "Center",
+                      "left": "Left",
+                      "right": "Right"
+                    },
+                    "prop": "align",
+                    "type": "select",
+                    "value": "center"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Width",
+                    "prop": "width",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 600
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Height",
+                    "prop": "height",
+                    "type": "number",
+                    "unit": "px"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Text",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#35503c"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#e5e8d4"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Corner radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Border color",
+                    "prop": "borderColor",
+                    "type": "color",
+                    "value": "#000000"
+                  }
+                ],
+                "title": "Content"
+              },
+              {
+                "classReference": "body",
+                "id": "typography",
+                "inputs": [
+                  {
+                    "classReference": "body",
+                    "label": "Font size",
+                    "prop": "fontSize",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 14
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Line Height",
+                    "prop": "lineHeight",
+                    "type": "number",
+                    "unit": "%",
+                    "value": 155
+                  }
+                ],
+                "title": "Text"
+              },
+              {
+                "category": "Text",
+                "classReference": "h1",
+                "id": "h1",
+                "inputs": [
+                  {
+                    "classReference": "h1",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Palatino Linotype,Book Antiqua,Palatino,serif"
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#35503c"
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Title"
+              },
+              {
+                "category": "Text",
+                "classReference": "h2",
+                "id": "h2",
+                "inputs": [
+                  {
+                    "classReference": "h2",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Palatino Linotype,Book Antiqua,Palatino,serif"
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#35503c"
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Subtitle"
+              },
+              {
+                "category": "Text",
+                "classReference": "h3",
+                "id": "h3",
+                "inputs": [
+                  {
+                    "classReference": "h3",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Palatino Linotype,Book Antiqua,Palatino,serif"
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#35503c"
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Heading"
+              },
+              {
+                "category": "Text",
+                "classReference": "paragraph",
+                "id": "paragraph",
+                "inputs": [
+                  {
+                    "classReference": "paragraph",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Trebuchet MS,Lucida Sans Unicode,sans-serif"
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "fontSize",
+                    "prop": "fontSize",
+                    "type": "text",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "lineHeight",
+                    "prop": "lineHeight",
+                    "type": "text",
+                    "value": 1.7
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#53684c"
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Paragraph"
+              },
+              {
+                "category": "Text",
+                "classReference": "list",
+                "id": "list",
+                "inputs": [],
+                "title": "List"
+              },
+              {
+                "category": "Text",
+                "classReference": "nestedList",
+                "id": "nested-list",
+                "inputs": [],
+                "title": "Nested List"
+              },
+              {
+                "category": "Text",
+                "classReference": "listItem",
+                "id": "list-item",
+                "inputs": [],
+                "title": "List Item"
+              },
+              {
+                "classReference": "link",
+                "id": "link",
+                "inputs": [
+                  {
+                    "classReference": "link",
+                    "label": "Color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#53684c"
+                  },
+                  {
+                    "classReference": "link",
+                    "label": "Decoration",
+                    "options": {
+                      "none": "None",
+                      "underline": "Underline"
+                    },
+                    "prop": "textDecoration",
+                    "type": "select",
+                    "value": "underline"
+                  }
+                ],
+                "title": "Link"
+              },
+              {
+                "classReference": "image",
+                "id": "image",
+                "inputs": [
+                  {
+                    "classReference": "image",
+                    "label": "Border radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Image"
+              },
+              {
+                "classReference": "button",
+                "id": "button",
+                "inputs": [
+                  {
+                    "classReference": "button",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#53724d"
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Text color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#fff6dd"
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 6
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Font weight",
+                    "options": {
+                      "300": "Light",
+                      "400": "Normal",
+                      "600": "Semi Bold",
+                      "700": "Bold",
+                      "800": "Extra Bold"
+                    },
+                    "prop": "fontWeight",
+                    "type": "select",
+                    "value": 600
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginLeft",
+                    "prop": "marginLeft",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginRight",
+                    "prop": "marginRight",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Button"
+              },
+              {
+                "classReference": "codeBlock",
+                "id": "code-block",
+                "inputs": [
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Border Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 4
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "transparent"
+                  }
+                ],
+                "title": "Code Block"
+              },
+              {
+                "classReference": "inlineCode",
+                "id": "inline-code",
+                "inputs": [
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "transparent"
+                  },
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Text color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#53684c"
+                  },
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 4
+                  }
+                ],
+                "title": "Inline Code"
+              }
+            ],
+            "theme": "basic"
+          }
+        }
+      },
+      {
+        "type": "container",
+        "content": [
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:0;background-color:#e5e8d4;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": "https://assets.weavour.com/templates/greenhouse-mothers-day/canvas-740c3c9209ea.jpg"
+            },
+            "content": [
+              {
+                "type": "section",
+                "attrs": {
+                  "style": "margin:0;padding:28px 30px 12px;background-color:transparent;",
+                  "class": "",
+                  "displayCondition": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": ""
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;font-size:25px;line-height:1.7;color:#35503c;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;font-weight:400;font-style:italic;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "The Greenhouse"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 18
+                    }
+                  },
+                  {
+                    "type": "horizontalRule",
+                    "attrs": {
+                      "style": "margin:0;border:0;border-top:1px solid #53684c;opacity:0.5;",
+                      "class": "divider",
+                      "hideOnMobile": false
+                    }
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 24
+                    }
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;font-size:46px;line-height:1.12;font-weight:400;color:#35503c;letter-spacing:-0.5px;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 1
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "For the one"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "who helps"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "everything grow."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 20
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;font-size:16px;line-height:1.7;color:#53684c;max-width:440px;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Find a Mother’s Day gift that keeps putting out new leaves. Our garden edit brings together flowering plants, useful tools and small growing pleasures."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 22
+                    }
+                  },
+                  {
+                    "type": "button",
+                    "attrs": {
+                      "style": "margin:0;padding:14px 18px;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;font-size:14px;line-height:1.5;font-weight:700;color:#fff6dd;background-color:#53724d;text-decoration:none;border-radius:0;max-width:100%;box-sizing:border-box;",
+                      "alignment": "left",
+                      "class": "button",
+                      "hideOnMobile": false,
+                      "href": "https://example.com/greenhouse-mothers-day"
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Explore Mother’s Day garden gifts"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 345
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "section",
+                "attrs": {
+                  "style": "margin:0;padding:22px 30px 26px;background-color:transparent;",
+                  "class": "",
+                  "displayCondition": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": ""
+                },
+                "content": [
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 140
+                    }
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 140
+                    }
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 25
+                    }
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;font-size:31px;line-height:1.12;font-weight:400;color:#35503c;letter-spacing:-0.5px;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Match the gift to her patch."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 24
+                    }
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;font-size:24px;line-height:1.12;font-weight:400;color:#35503c;letter-spacing:-0.5px;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "A sunny windowsill"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 9
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;font-size:16px;line-height:1.7;color:#53684c;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Choose a compact plant that suits indoor light."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 24
+                    }
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;font-size:24px;line-height:1.12;font-weight:400;color:#35503c;letter-spacing:-0.5px;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "A pot by the door"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 9
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;font-size:16px;line-height:1.7;color:#53684c;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Look for seasonal flowers with a little height and colour."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 24
+                    }
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;font-size:24px;line-height:1.12;font-weight:400;color:#35503c;letter-spacing:-0.5px;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "A well-loved garden"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 9
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;font-size:16px;line-height:1.7;color:#53684c;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Find tools and small comforts she’ll use through the season."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 24
+                    }
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 20
+                    }
+                  },
+                  {
+                    "type": "twoColumns",
+                    "attrs": {
+                      "style": "margin:0;padding:0;background-color:transparent;",
+                      "displayCondition": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": null,
+                      "height": null,
+                      "id": null,
+                      "class": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null,
+                      "cellspacing": null
+                    },
+                    "content": [
+                      {
+                        "type": "columnsColumn",
+                        "attrs": {
+                          "style": "margin:0;padding:0;vertical-align:top;",
+                          "alignment": null,
+                          "class": null,
+                          "hideOnMobile": false,
+                          "backgroundImage": "",
+                          "align": null,
+                          "width": "60%",
+                          "height": null,
+                          "id": null,
+                          "title": null,
+                          "lang": null,
+                          "dir": null,
+                          "data-id": null
+                        },
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "attrs": {
+                              "style": "margin:0;padding:0;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;font-size:17px;line-height:1.7;color:#35503c;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;font-weight:400;;text-align:left;",
+                              "alignment": "left",
+                              "class": "",
+                              "layoutPlaceholder": null,
+                              "hideOnMobile": false
+                            },
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "The Mother’s Day garden edit"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "space",
+                            "attrs": {
+                              "hideOnMobile": false,
+                              "height": 8
+                            }
+                          },
+                          {
+                            "type": "paragraph",
+                            "attrs": {
+                              "style": "margin:0;padding:0;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;font-size:13px;line-height:1.7;color:#53684c;;text-align:left;",
+                              "alignment": "left",
+                              "class": "",
+                              "layoutPlaceholder": null,
+                              "hideOnMobile": false
+                            },
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Choose a plant, a practical gift or a little of both."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "columnsColumn",
+                        "attrs": {
+                          "style": "margin:0;padding:0;",
+                          "alignment": null,
+                          "class": null,
+                          "hideOnMobile": false,
+                          "backgroundImage": "",
+                          "align": null,
+                          "width": "40%",
+                          "height": null,
+                          "id": null,
+                          "title": null,
+                          "lang": null,
+                          "dir": null,
+                          "data-id": null
+                        },
+                        "content": [
+                          {
+                            "type": "space",
+                            "attrs": {
+                              "hideOnMobile": false,
+                              "height": 1
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "section",
+                "attrs": {
+                  "style": "margin:0;padding:28px 30px 28px;background-color:transparent;",
+                  "class": "",
+                  "displayCondition": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": ""
+                },
+                "content": [
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;font-size:34px;line-height:1.12;font-weight:400;color:#35503c;letter-spacing:-0.5px;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "A little care"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "goes a long way."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 25
+                    }
+                  },
+                  {
+                    "type": "button",
+                    "attrs": {
+                      "style": "margin:0;padding:14px 18px;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;font-size:14px;line-height:1.5;font-weight:700;color:#fff6dd;background-color:#53724d;text-decoration:none;border-radius:0;max-width:100%;box-sizing:border-box;",
+                      "alignment": "left",
+                      "class": "button",
+                      "hideOnMobile": false,
+                      "href": "https://example.com/greenhouse-mothers-day"
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Explore Mother’s Day garden gifts"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 18
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;font-size:12px;line-height:1.7;color:#53684c;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Choose a plant, a practical gift or a little of both."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 46
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;font-size:25px;line-height:1.7;color:#35503c;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;font-weight:400;font-style:italic;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "The Greenhouse"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 12
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;font-size:12px;line-height:1.7;color:#53684c;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Mother’s Day · The Greenhouse"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 18
+                    }
+                  },
+                  {
+                    "type": "unsubscribe",
+                    "attrs": {
+                      "style": "font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;font-size:12px;line-height:1.6;color:#53684c;",
+                      "hideOnMobile": false,
+                      "id": "unsubscribe_url",
+                      "token": "{{unsubscribe_url}}",
+                      "label": "Unsubscribe",
+                      "alignment": "left"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "previewHtml": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html style=\"font-size:14px\" dir=\"ltr\" lang=\"en\"><head><meta content=\"width=device-width\" name=\"viewport\"><meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"><meta name=\"x-apple-disable-message-reformatting\"><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"><meta name=\"x-apple-disable-message-reformatting\"><meta content=\"telephone=no,address=no,email=no,date=no,url=no\" name=\"format-detection\"><title>Thoughtful plants and useful things for her garden.</title><style>@media (prefers-color-scheme: dark){li::marker{color:#c4c4c4}}</style><style>@media only screen and (max-width:600px){.wv-hide-mobile,.wv-columns .wv-column.wv-hide-mobile{display:none!important;max-height:0!important;overflow:hidden!important}}</style></head><body dir=\"ltr\" lang=\"en\" style=\"margin:0;background-color:#e5e8d4;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0\"><!--$--><!--html--><!--head--><div style=\"display:none;overflow:hidden;line-height:1px;opacity:0;max-height:0;max-width:0\" data-skip-in-text=\"true\">Thoughtful plants and useful things for her garden.<div>&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿&nbsp;‌​‍‎‏﻿</div></div><!--body--><table border=\"0\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" align=\"center\"><tbody><tr><td dir=\"ltr\" lang=\"en\" style=\"font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;font-size:1em;min-height:100%;line-height:155%;background-color:#e5e8d4;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table align=\"center\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"max-width:600px;align:center;width:100%;color:#35503c;background-color:#e5e8d4;border-radius:0px;border-color:#000000;line-height:155%\"><tbody><tr style=\"width:100%\"><td style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tbody><tr><td background=\"https://assets.weavour.com/templates/greenhouse-mothers-day/canvas-740c3c9209ea.jpg\" style=\"background-image: url(&quot;https://assets.weavour.com/templates/greenhouse-mothers-day/canvas-740c3c9209ea.jpg&quot;); background-position: center center; background-size: cover; background-repeat: no-repeat; background-color: rgb(229, 232, 212);\"><!--[if mso]><v:rect xmlns:v=\"urn:schemas-microsoft-com:vml\" fill=\"true\" stroke=\"false\" style=\"width:600px;height:1639px;\"><v:fill type=\"frame\" aspect=\"atleast\" src=\"https://assets.weavour.com/templates/greenhouse-mothers-day/canvas-740c3c9209ea.jpg\" color=\"#e5e8d4\" position=\"0.5,0.5\" origin=\"0.5,0.5\"/><v:textbox inset=\"0,0,0,0\" style=\"mso-fit-shape-to-text:true;\"><![endif]--><table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"box-sizing: border-box; margin: 0px;\"><tbody><tr><td style=\"padding:0\"><table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:transparent\"><tbody><tr><td style=\"padding:28px 30px 12px\"><p style=\"margin:0;padding:0;font-size:25px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;line-height:1.7;color:#35503c;margin-top:0;margin-bottom:0;font-weight:400;font-style:italic;text-align:left\">The Greenhouse</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #53684c;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0;opacity:0.5\"><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"24\" aria-hidden=\"true\" style=\"height:24px;padding:0;font-size:0;line-height:24px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><h1 style=\"margin:0;padding:0;font-size:46px;line-height:1.12;padding-top:0.389em;font-weight:400;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;color:#35503c;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.5px;text-align:left\">For the one<br>who helps<br>everything grow.</h1><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"20\" aria-hidden=\"true\" style=\"height:20px;padding:0;font-size:0;line-height:20px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;line-height:1.7;color:#53684c;margin-top:0;margin-bottom:0;max-width:440px;text-align:left\">Find a Mother’s Day gift that keeps putting out new leaves. Our garden edit brings together flowering plants, useful tools and small growing pleasures.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"22\" aria-hidden=\"true\" style=\"height:22px;padding:0;font-size:0;line-height:22px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"left\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/greenhouse-mothers-day\" style=\"line-height:1.5;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:14px 18px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#53724d;color:#fff6dd;border-radius:0;font-weight:700;font-size:14px;text-align:center;margin-top:16px;margin-bottom:16px;margin-left:0px;margin-right:0px;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">Explore Mother’s Day garden gifts</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"345\" aria-hidden=\"true\" style=\"height:345px;padding:0;font-size:0;line-height:345px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:transparent\"><tbody><tr><td style=\"padding:22px 30px 26px\"><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"140\" aria-hidden=\"true\" style=\"height:140px;padding:0;font-size:0;line-height:140px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"140\" aria-hidden=\"true\" style=\"height:140px;padding:0;font-size:0;line-height:140px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"25\" aria-hidden=\"true\" style=\"height:25px;padding:0;font-size:0;line-height:25px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:31px;line-height:1.12;padding-top:0.389em;font-weight:400;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;color:#35503c;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.5px;text-align:left\">Match the gift to her patch.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"24\" aria-hidden=\"true\" style=\"height:24px;padding:0;font-size:0;line-height:24px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:24px;line-height:1.12;padding-top:0.389em;font-weight:400;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;color:#35503c;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.5px;text-align:left\">A sunny windowsill</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"9\" aria-hidden=\"true\" style=\"height:9px;padding:0;font-size:0;line-height:9px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;line-height:1.7;color:#53684c;margin-top:0;margin-bottom:0;text-align:left\">Choose a compact plant that suits indoor light.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"24\" aria-hidden=\"true\" style=\"height:24px;padding:0;font-size:0;line-height:24px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:24px;line-height:1.12;padding-top:0.389em;font-weight:400;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;color:#35503c;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.5px;text-align:left\">A pot by the door</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"9\" aria-hidden=\"true\" style=\"height:9px;padding:0;font-size:0;line-height:9px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;line-height:1.7;color:#53684c;margin-top:0;margin-bottom:0;text-align:left\">Look for seasonal flowers with a little height and colour.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"24\" aria-hidden=\"true\" style=\"height:24px;padding:0;font-size:0;line-height:24px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:24px;line-height:1.12;padding-top:0.389em;font-weight:400;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;color:#35503c;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.5px;text-align:left\">A well-loved garden</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"9\" aria-hidden=\"true\" style=\"height:9px;padding:0;font-size:0;line-height:9px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;line-height:1.7;color:#53684c;margin-top:0;margin-bottom:0;text-align:left\">Find tools and small comforts she’ll use through the season.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"24\" aria-hidden=\"true\" style=\"height:24px;padding:0;font-size:0;line-height:24px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"20\" aria-hidden=\"true\" style=\"height:20px;padding:0;font-size:0;line-height:20px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"margin:0;padding:0;background-color:transparent\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"margin:0;padding:0;vertical-align:top;width:60%\"><p style=\"margin:0;padding:0;font-size:17px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;line-height:1.7;color:#35503c;margin-top:0;margin-bottom:0;font-weight:400;text-align:left\">The Mother’s Day garden edit</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"8\" aria-hidden=\"true\" style=\"height:8px;padding:0;font-size:0;line-height:8px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:13px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;line-height:1.7;color:#53684c;margin-top:0;margin-bottom:0;text-align:left\">Choose a plant, a practical gift or a little of both.</p></td><td data-id=\"__react-email-column\" style=\"margin:0;padding:0;width:40%\"><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"1\" aria-hidden=\"true\" style=\"height:1px;padding:0;font-size:0;line-height:1px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:transparent\"><tbody><tr><td style=\"padding:28px 30px 28px\"><h2 style=\"margin:0;padding:0;font-size:34px;line-height:1.12;padding-top:0.389em;font-weight:400;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;color:#35503c;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.5px;text-align:left\">A little care<br>goes a long way.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"25\" aria-hidden=\"true\" style=\"height:25px;padding:0;font-size:0;line-height:25px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"left\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/greenhouse-mothers-day\" style=\"line-height:1.5;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:14px 18px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#53724d;color:#fff6dd;border-radius:0;font-weight:700;font-size:14px;text-align:center;margin-top:16px;margin-bottom:16px;margin-left:0px;margin-right:0px;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">Explore Mother’s Day garden gifts</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;line-height:1.7;color:#53684c;margin-top:0;margin-bottom:0;text-align:left\">Choose a plant, a practical gift or a little of both.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"46\" aria-hidden=\"true\" style=\"height:46px;padding:0;font-size:0;line-height:46px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:25px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Palatino Linotype,Book Antiqua,Palatino,serif;line-height:1.7;color:#35503c;margin-top:0;margin-bottom:0;font-weight:400;font-style:italic;text-align:left\">The Greenhouse</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Trebuchet MS,Lucida Sans Unicode,sans-serif;line-height:1.7;color:#53684c;margin-top:0;margin-bottom:0;text-align:left\">Mother’s Day · The Greenhouse</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\">&nbsp;</td></tr></tbody></table><div style=\"margin:0;padding:16px 8px;font-family:&quot;Trebuchet MS&quot;, &quot;Lucida Sans Unicode&quot;, sans-serif;font-size:12px;line-height:1.6;color:rgb(83, 104, 76);text-align:left\"><a href=\"{{unsubscribe_url}}\" style=\"color:inherit;text-decoration:underline\">Unsubscribe</a></div></td></tr></tbody></table></td></tr></tbody></table><!--[if mso]></v:textbox></v:rect><![endif]--></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!--/$--></body></html>"
+}

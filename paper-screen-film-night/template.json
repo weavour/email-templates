@@ -1,0 +1,1457 @@
+{
+  "schemaVersion": 1,
+  "subject": "Two films. One shared night.",
+  "preheader": "Join Paper / Screen for a November double bill, a foyer conversation and two journeys after dark.",
+  "content": {
+    "type": "doc",
+    "attrs": {
+      "mergeTagReferences": [],
+      "emailAudit": null,
+      "documentSchemaVersion": 1
+    },
+    "content": [
+      {
+        "type": "globalContent",
+        "attrs": {
+          "data": {
+            "theme": "basic",
+            "styles": [
+              {
+                "id": "body",
+                "title": "Background",
+                "classReference": "body",
+                "inputs": [
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "#e9e5dd",
+                    "prop": "backgroundColor",
+                    "classReference": "body"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "body",
+                    "value": 24
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "body"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "body",
+                    "value": 24
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "body"
+                  }
+                ]
+              },
+              {
+                "id": "container",
+                "title": "Content",
+                "classReference": "container",
+                "inputs": [
+                  {
+                    "label": "Align",
+                    "type": "select",
+                    "value": "center",
+                    "options": {
+                      "left": "Left",
+                      "center": "Center",
+                      "right": "Right"
+                    },
+                    "prop": "align",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Width",
+                    "type": "number",
+                    "value": 600,
+                    "unit": "px",
+                    "prop": "width",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Height",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "height",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Text",
+                    "type": "color",
+                    "value": "#20201e",
+                    "prop": "color",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "#f8f4eb",
+                    "prop": "backgroundColor",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Corner radius",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Border color",
+                    "type": "color",
+                    "value": "#000000",
+                    "prop": "borderColor",
+                    "classReference": "container"
+                  }
+                ]
+              },
+              {
+                "id": "typography",
+                "title": "Text",
+                "classReference": "body",
+                "inputs": [
+                  {
+                    "label": "Font size",
+                    "type": "number",
+                    "value": 14,
+                    "unit": "px",
+                    "prop": "fontSize",
+                    "classReference": "body"
+                  },
+                  {
+                    "label": "Line Height",
+                    "type": "number",
+                    "value": 155,
+                    "unit": "%",
+                    "prop": "lineHeight",
+                    "classReference": "container"
+                  }
+                ]
+              },
+              {
+                "id": "h1",
+                "title": "Title",
+                "category": "Text",
+                "classReference": "h1",
+                "inputs": [
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "h1",
+                    "value": "Arial,sans-serif"
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "h1",
+                    "value": "#14213b"
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingLeft",
+                    "type": "text",
+                    "prop": "paddingLeft",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingRight",
+                    "type": "text",
+                    "prop": "paddingRight",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "fontWeight",
+                    "type": "text",
+                    "prop": "fontWeight",
+                    "classReference": "h1",
+                    "value": 700
+                  }
+                ]
+              },
+              {
+                "id": "h2",
+                "title": "Subtitle",
+                "category": "Text",
+                "classReference": "h2",
+                "inputs": [
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "h2",
+                    "value": "Arial,sans-serif"
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "h2",
+                    "value": "#14213b"
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingLeft",
+                    "type": "text",
+                    "prop": "paddingLeft",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingRight",
+                    "type": "text",
+                    "prop": "paddingRight",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "fontWeight",
+                    "type": "text",
+                    "prop": "fontWeight",
+                    "classReference": "h2",
+                    "value": 700
+                  }
+                ]
+              },
+              {
+                "id": "h3",
+                "title": "Heading",
+                "category": "Text",
+                "classReference": "h3",
+                "inputs": [
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "h3",
+                    "value": "Arial,sans-serif"
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "h3",
+                    "value": "#14213b"
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingLeft",
+                    "type": "text",
+                    "prop": "paddingLeft",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingRight",
+                    "type": "text",
+                    "prop": "paddingRight",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "fontWeight",
+                    "type": "text",
+                    "prop": "fontWeight",
+                    "classReference": "h3",
+                    "value": 700
+                  }
+                ]
+              },
+              {
+                "id": "paragraph",
+                "title": "Paragraph",
+                "category": "Text",
+                "classReference": "paragraph",
+                "inputs": [
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "prop": "paddingLeft",
+                    "classReference": "paragraph",
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "prop": "paddingRight",
+                    "classReference": "paragraph",
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "paragraph",
+                    "value": "Arial,sans-serif"
+                  },
+                  {
+                    "label": "fontSize",
+                    "type": "text",
+                    "prop": "fontSize",
+                    "classReference": "paragraph",
+                    "value": 16
+                  },
+                  {
+                    "label": "lineHeight",
+                    "type": "text",
+                    "prop": "lineHeight",
+                    "classReference": "paragraph",
+                    "value": 1.65
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "paragraph",
+                    "value": "#445574"
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "paragraph",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "paragraph",
+                    "value": 0
+                  }
+                ]
+              },
+              {
+                "id": "list",
+                "title": "List",
+                "category": "Text",
+                "classReference": "list",
+                "inputs": []
+              },
+              {
+                "id": "nested-list",
+                "title": "Nested List",
+                "category": "Text",
+                "classReference": "nestedList",
+                "inputs": []
+              },
+              {
+                "id": "list-item",
+                "title": "List Item",
+                "category": "Text",
+                "classReference": "listItem",
+                "inputs": []
+              },
+              {
+                "id": "link",
+                "title": "Link",
+                "classReference": "link",
+                "inputs": [
+                  {
+                    "label": "Color",
+                    "type": "color",
+                    "value": "#1748d1",
+                    "prop": "color",
+                    "classReference": "link"
+                  },
+                  {
+                    "label": "Decoration",
+                    "type": "select",
+                    "value": "underline",
+                    "prop": "textDecoration",
+                    "options": {
+                      "underline": "Underline",
+                      "none": "None"
+                    },
+                    "classReference": "link"
+                  }
+                ]
+              },
+              {
+                "id": "image",
+                "title": "Image",
+                "classReference": "image",
+                "inputs": [
+                  {
+                    "label": "Border radius",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "image"
+                  }
+                ]
+              },
+              {
+                "id": "button",
+                "title": "Button",
+                "classReference": "button",
+                "inputs": [
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "#283346",
+                    "prop": "backgroundColor",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Text color",
+                    "type": "color",
+                    "value": "#14213b",
+                    "prop": "color",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Radius",
+                    "type": "number",
+                    "value": 6,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "value": 24,
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "value": 24,
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Font weight",
+                    "type": "select",
+                    "prop": "fontWeight",
+                    "classReference": "button",
+                    "value": 600,
+                    "options": {
+                      "300": "Light",
+                      "400": "Normal",
+                      "600": "Semi Bold",
+                      "700": "Bold",
+                      "800": "Extra Bold"
+                    }
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "button",
+                    "value": 16,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "button",
+                    "value": 16,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "marginLeft",
+                    "type": "text",
+                    "prop": "marginLeft",
+                    "classReference": "button",
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "marginRight",
+                    "type": "text",
+                    "prop": "marginRight",
+                    "classReference": "button",
+                    "value": 0,
+                    "unit": "px"
+                  }
+                ]
+              },
+              {
+                "id": "code-block",
+                "title": "Code Block",
+                "classReference": "codeBlock",
+                "inputs": [
+                  {
+                    "label": "Border Radius",
+                    "type": "number",
+                    "value": 4,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "value": 16,
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "value": 16,
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "prop": "backgroundColor",
+                    "classReference": "codeBlock",
+                    "value": "transparent"
+                  }
+                ]
+              },
+              {
+                "id": "inline-code",
+                "title": "Inline Code",
+                "classReference": "inlineCode",
+                "inputs": [
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "transparent",
+                    "prop": "backgroundColor",
+                    "classReference": "inlineCode"
+                  },
+                  {
+                    "label": "Text color",
+                    "type": "color",
+                    "value": "#14213b",
+                    "prop": "color",
+                    "classReference": "inlineCode"
+                  },
+                  {
+                    "label": "Radius",
+                    "type": "number",
+                    "value": 4,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "inlineCode"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "container",
+        "content": [
+          {
+            "type": "twoColumns",
+            "attrs": {
+              "style": "margin:0;padding:24px 30px;background-color:#20201e",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": "",
+              "align": null,
+              "width": null,
+              "height": null,
+              "id": null,
+              "class": null,
+              "title": null,
+              "lang": null,
+              "dir": null,
+              "data-id": null,
+              "cellspacing": null
+            },
+            "content": [
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:0;vertical-align:top;",
+                  "alignment": null,
+                  "class": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "65%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:18px;line-height:1.65;color:#f8f4eb;font-weight:700;letter-spacing:1px",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "PAPER / SCREEN"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:0;vertical-align:top;",
+                  "alignment": null,
+                  "class": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "35%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:13px;line-height:1.65;color:#f8f4eb;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Friday, 20 November"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:0 30px 30px;background-color:#20201e",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;border:0;border-top:1px solid #706d65;",
+                  "class": "divider",
+                  "hideOnMobile": false
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 28
+                }
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Georgia,serif;font-size:49px;line-height:1.1;font-weight:400;color:#f8f4eb;",
+                  "alignment": "left",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 1
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Two films.\nOne shared night."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 20
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:17px;line-height:1.65;color:#d9d5cc;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Stay for the second story. Our November double bill pairs two imagined journeys through cities after dark."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 28
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:14px;line-height:1.65;color:#f8f4eb;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Doors 18:30  /  First screening 19:00"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:28px 30px 0;background-color:#f8f4eb",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:17px;line-height:1.65;color:#a3291e;font-weight:700",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The programme"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 12
+                }
+              },
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;border:0;border-top:1px solid #cbc5b8;",
+                  "class": "divider",
+                  "hideOnMobile": false
+                }
+              }
+            ]
+          },
+          {
+            "type": "twoColumns",
+            "attrs": {
+              "style": "margin:0;padding:28px 30px;background-color:#f8f4eb",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": "",
+              "align": null,
+              "width": null,
+              "height": null,
+              "id": null,
+              "class": null,
+              "title": null,
+              "lang": null,
+              "dir": null,
+              "data-id": null,
+              "cellspacing": null
+            },
+            "content": [
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:0;vertical-align:top;padding-right:18px",
+                  "alignment": null,
+                  "class": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "50%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:14px;line-height:1.65;color:#a3291e;font-weight:700",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "19:00 · 82 min"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 12
+                    }
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Georgia,serif;font-size:31px;line-height:1.1;font-weight:400;color:#20201e;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "The Last\nTram Home"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 14
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;color:#45443f;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "A night-shift driver takes one final loop through a city that refuses to sleep. A quiet study of the people we pass, and the ones we keep."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 15
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:13px;line-height:1.65;color:#59564d;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Fiction · English · Captioned"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:0;vertical-align:top;padding-left:10px",
+                  "alignment": null,
+                  "class": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "50%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:14px;line-height:1.65;color:#a3291e;font-weight:700",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "20:45 · 74 min"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 12
+                    }
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Georgia,serif;font-size:31px;line-height:1.1;font-weight:400;color:#20201e;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Windows\nAcross Water"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 14
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;color:#45443f;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Across a narrow canal, two strangers exchange small signals from their windows. A tender story about distance, curiosity and being seen."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 15
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:13px;line-height:1.65;color:#59564d;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Fiction · French · English subtitles"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:0 30px 28px;background-color:#f8f4eb",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;border:0;border-top:1px solid #cbc5b8;",
+                  "class": "divider",
+                  "hideOnMobile": false
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 18
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:17px;line-height:1.65;color:#20201e;font-weight:700",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Between the films"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 8
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;color:#45443f;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A 23-minute interval for a drink, a conversation, and a fresh perspective. Join us in the foyer; the second film starts at 20:45."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:0;background-color:#20201e",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "image",
+                "attrs": {
+                  "style": "display:block;width:100%;height:auto;padding:0;margin:0",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "assetId": null,
+                  "intrinsicWidth": 1200,
+                  "intrinsicHeight": 800,
+                  "assetMetadata": null,
+                  "decorative": false,
+                  "src": "https://assets.weavour.com/templates/paper-screen-film-night/cinema-635b44998cb7.jpg",
+                  "alt": "An empty independent cinema with red velvet seats and a blue projector beam.",
+                  "width": 600,
+                  "height": "auto",
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:28px 30px;background-color:#a3291e",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Georgia,serif;font-size:35px;line-height:1.1;font-weight:400;color:#fff5ed;",
+                  "alignment": "left",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Your seat is waiting."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 14
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:19px;line-height:1.65;color:#fff5ed;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "One ticket. Both films. £18."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 8
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:15px;line-height:1.65;color:#ffe4dc;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Paper / Screen Cinema · Auditorium 2\nFriday, 20 November 2026 · Doors at 18:30"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 22
+                }
+              },
+              {
+                "type": "button",
+                "attrs": {
+                  "style": "margin:0;background-color:#f8f4eb;color:#8f2118;font-family:Arial,sans-serif;font-size:16px;font-weight:700;line-height:1.5;padding:14px 22px;border-radius:2px;text-decoration:none",
+                  "alignment": "left",
+                  "class": "button",
+                  "hideOnMobile": false,
+                  "href": "https://example.com/paper-screen/double-bill"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Book the double bill"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 24
+                }
+              },
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;border:0;border-top:1px solid #e9a496;border-top-style:dashed",
+                  "class": "divider",
+                  "hideOnMobile": false
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 16
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:14px;line-height:1.65;color:#fff5ed;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Stay curious. Stay for the credits."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:24px 30px 28px;background-color:#f8f4eb",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.65;color:#20201e;font-weight:700",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Paper / Screen"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 7
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:13px;line-height:1.65;color:#59564d;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Independent stories, shared in a darkened room."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 16
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:12px;line-height:1.65;color:#59564d;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "style": "",
+                          "class": null,
+                          "href": "{{unsubscribe_url}}",
+                          "target": "_blank",
+                          "rel": "noopener noreferrer nofollow",
+                          "title": null,
+                          "ses:no-track": null
+                        }
+                      }
+                    ],
+                    "text": "Unsubscribe"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "previewHtml": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html style=\"font-size:14px\" dir=\"ltr\" lang=\"en\"><head><meta content=\"width=device-width\" name=\"viewport\"/><meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"telephone=no,address=no,email=no,date=no,url=no\" name=\"format-detection\"/><title>Join Paper / Screen for a November double bill, a foyer conversation and two journeys after dark.</title><style>@media (prefers-color-scheme: dark){li::marker{color:#c4c4c4}}</style><style>@media only screen and (max-width:600px){.wv-hide-mobile,.wv-columns .wv-column.wv-hide-mobile{display:none!important;max-height:0!important;overflow:hidden!important}}</style></head><body dir=\"ltr\" lang=\"en\" style=\"margin:0;background-color:#e9e5dd;padding-top:0;padding-bottom:0\"><!--$--><!--html--><!--head--><div style=\"display:none;overflow:hidden;line-height:1px;opacity:0;max-height:0;max-width:0\" data-skip-in-text=\"true\">Join Paper / Screen for a November double bill, a foyer conversation and two journeys after dark.<div> ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿</div></div><!--body--><table border=\"0\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" align=\"center\"><tbody><tr><td dir=\"ltr\" lang=\"en\" style=\"font-family:-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, &#x27;Roboto&#x27;, &#x27;Oxygen&#x27;, &#x27;Ubuntu&#x27;, &#x27;Cantarell&#x27;, &#x27;Fira Sans&#x27;, &#x27;Droid Sans&#x27;, &#x27;Helvetica Neue&#x27;, sans-serif;font-size:1em;min-height:100%;line-height:155%;background-color:#e9e5dd;padding-top:24px;padding-bottom:24px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"max-width:600px;align:center;width:100%;color:#20201e;background-color:#f8f4eb;border-radius:0px;border-color:#000000;line-height:155%\"><tbody><tr style=\"width:100%\"><td style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:24px 30px;background-color:#20201e\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"padding:0;vertical-align:top;width:65%\"><p style=\"margin:0;padding:0;font-size:18px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#f8f4eb;margin-top:0;margin-bottom:0;font-weight:700;letter-spacing:1px;text-align:left\">PAPER / SCREEN</p></td><td data-id=\"__react-email-column\" style=\"padding:0;vertical-align:top;width:35%\"><p style=\"margin:0;padding:0;font-size:13px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#f8f4eb;margin-top:0;margin-bottom:0;text-align:left\">Friday, 20 November</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#20201e\"><tbody><tr><td style=\"padding:0 30px 30px\"><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #706d65;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"28\" aria-hidden=\"true\" style=\"height:28px;padding:0;font-size:0;line-height:28px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h1 style=\"margin:0;padding:0;font-size:49px;line-height:1.1;padding-top:0.389em;font-weight:400;font-family:Georgia,serif;color:#f8f4eb;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;text-align:left\">Two films.\nOne shared night.</h1><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"20\" aria-hidden=\"true\" style=\"height:20px;padding:0;font-size:0;line-height:20px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:17px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#d9d5cc;margin-top:0;margin-bottom:0;text-align:left\">Stay for the second story. Our November double bill pairs two imagined journeys through cities after dark.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"28\" aria-hidden=\"true\" style=\"height:28px;padding:0;font-size:0;line-height:28px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:14px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#f8f4eb;margin-top:0;margin-bottom:0;text-align:left\">Doors 18:30  /  First screening 19:00</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f8f4eb\"><tbody><tr><td style=\"padding:28px 30px 0\"><p style=\"margin:0;padding:0;font-size:17px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#a3291e;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">The programme</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #cbc5b8;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0\"/></td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:28px 30px;background-color:#f8f4eb\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"padding:0;vertical-align:top;padding-right:18px;width:50%\"><p style=\"margin:0;padding:0;font-size:14px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#a3291e;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">19:00 · 82 min</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:31px;line-height:1.1;padding-top:0.389em;font-weight:400;font-family:Georgia,serif;color:#20201e;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;text-align:left\">The Last\nTram Home</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"14\" aria-hidden=\"true\" style=\"height:14px;padding:0;font-size:0;line-height:14px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:15px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#45443f;margin-top:0;margin-bottom:0;text-align:left\">A night-shift driver takes one final loop through a city that refuses to sleep. A quiet study of the people we pass, and the ones we keep.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"15\" aria-hidden=\"true\" style=\"height:15px;padding:0;font-size:0;line-height:15px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:13px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#59564d;margin-top:0;margin-bottom:0;text-align:left\">Fiction · English · Captioned</p></td><td data-id=\"__react-email-column\" style=\"padding:0;vertical-align:top;padding-left:10px;width:50%\"><p style=\"margin:0;padding:0;font-size:14px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#a3291e;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">20:45 · 74 min</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:31px;line-height:1.1;padding-top:0.389em;font-weight:400;font-family:Georgia,serif;color:#20201e;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;text-align:left\">Windows\nAcross Water</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"14\" aria-hidden=\"true\" style=\"height:14px;padding:0;font-size:0;line-height:14px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:15px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#45443f;margin-top:0;margin-bottom:0;text-align:left\">Across a narrow canal, two strangers exchange small signals from their windows. A tender story about distance, curiosity and being seen.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"15\" aria-hidden=\"true\" style=\"height:15px;padding:0;font-size:0;line-height:15px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:13px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#59564d;margin-top:0;margin-bottom:0;text-align:left\">Fiction · French · English subtitles</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f8f4eb\"><tbody><tr><td style=\"padding:0 30px 28px\"><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #cbc5b8;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:17px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#20201e;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">Between the films</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"8\" aria-hidden=\"true\" style=\"height:8px;padding:0;font-size:0;line-height:8px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:15px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#45443f;margin-top:0;margin-bottom:0;text-align:left\">A 23-minute interval for a drink, a conversation, and a fresh perspective. Join us in the foyer; the second film starts at 20:45.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#20201e\"><tbody><tr><td style=\"padding:0\"><table role=\"presentation\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" border=\"0\" style=\"width:100%;table-layout:fixed\"><tbody><tr><td align=\"center\" style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;text-align:center\"><img src=\"https://assets.weavour.com/templates/paper-screen-film-night/cinema-635b44998cb7.jpg\" alt=\"An empty independent cinema with red velvet seats and a blue projector beam.\" style=\"outline:none;border:none;text-decoration:none;max-width:100%;border-radius:0px;display:inline-block;width:100%;height:auto;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;object-fit:contain\"/></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#a3291e\"><tbody><tr><td style=\"padding:28px 30px\"><h2 style=\"margin:0;padding:0;font-size:35px;line-height:1.1;padding-top:0.389em;font-weight:400;font-family:Georgia,serif;color:#fff5ed;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;text-align:left\">Your seat is waiting.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"14\" aria-hidden=\"true\" style=\"height:14px;padding:0;font-size:0;line-height:14px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:19px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#fff5ed;margin-top:0;margin-bottom:0;text-align:left\">One ticket. Both films. £18.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"8\" aria-hidden=\"true\" style=\"height:8px;padding:0;font-size:0;line-height:8px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:15px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#ffe4dc;margin-top:0;margin-bottom:0;text-align:left\">Paper / Screen Cinema · Auditorium 2\nFriday, 20 November 2026 · Doors at 18:30</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"22\" aria-hidden=\"true\" style=\"height:22px;padding:0;font-size:0;line-height:22px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"left\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/paper-screen/double-bill\" style=\"line-height:1.5;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:14px 22px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#f8f4eb;color:#8f2118;border-radius:2px;font-weight:700;font-size:16px;text-align:center;margin-top:16px;margin-bottom:16px;margin-left:0px;margin-right:0px;font-family:Arial,sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">Book the double bill</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"24\" aria-hidden=\"true\" style=\"height:24px;padding:0;font-size:0;line-height:24px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #e9a496;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0;border-top-style:dashed\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"16\" aria-hidden=\"true\" style=\"height:16px;padding:0;font-size:0;line-height:16px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:14px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#fff5ed;margin-top:0;margin-bottom:0;text-align:left\">Stay curious. Stay for the credits.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f8f4eb\"><tbody><tr><td style=\"padding:24px 30px 28px\"><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#20201e;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">Paper / Screen</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"7\" aria-hidden=\"true\" style=\"height:7px;padding:0;font-size:0;line-height:7px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:13px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#59564d;margin-top:0;margin-bottom:0;text-align:left\">Independent stories, shared in a darkened room.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"16\" aria-hidden=\"true\" style=\"height:16px;padding:0;font-size:0;line-height:16px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.65;color:#59564d;margin-top:0;margin-bottom:0;text-align:left\"><a href=\"{{unsubscribe_url}}\" rel=\"noopener noreferrer nofollow\" style=\"color:#1748d1;text-decoration-line:none;text-decoration:underline\" target=\"_blank\">Unsubscribe</a></p></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!--/$--></body></html>"
+}

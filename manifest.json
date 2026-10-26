@@ -1993,6 +1993,1159 @@
       "screenshot": "quarterly-report/screenshot.png",
       "mobileScreenshot": "quarterly-report/screenshot-mobile.png",
       "images": []
+    },
+    {
+      "id": "atlas-watch-launch",
+      "name": "Hours worth keeping",
+      "description": "An understated watch launch arranged as a typographic product dossier, with an asymmetric rust panel and a two-column specification sheet.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Product launch"
+      ],
+      "document": "atlas-watch-launch/template.json",
+      "html": "atlas-watch-launch/template.html",
+      "screenshot": "atlas-watch-launch/screenshot.png",
+      "mobileScreenshot": "atlas-watch-launch/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "saffron-supper-club",
+      "name": "A place at the supper table",
+      "description": "An intimate supper club invitation with an aubergine opening, saffron date strip, paired seasonal menu and reservation panel.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Event"
+      ],
+      "document": "saffron-supper-club/template.json",
+      "html": "saffron-supper-club/template.html",
+      "screenshot": "saffron-supper-club/screenshot.png",
+      "mobileScreenshot": "saffron-supper-club/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "saffron-supper-club/images/hero-b3c3ff877d48.jpg",
+          "url": "https://assets.weavour.com/templates/saffron-supper-club/hero-b3c3ff877d48.jpg",
+          "source": "AI-generated image reused from little-table-mealkit via farm-to-table; original prompt recorded in README.md."
+        }
+      ]
+    },
+    {
+      "id": "orbit-release-notes",
+      "name": "A little more room to focus",
+      "description": "A cobalt release bulletin with an oversized version number, alternating editorial feature rows and a calm, practical product narrative.",
+      "language": "en",
+      "tags": [
+        "Technology",
+        "Update"
+      ],
+      "document": "orbit-release-notes/template.json",
+      "html": "orbit-release-notes/template.html",
+      "screenshot": "orbit-release-notes/screenshot.png",
+      "mobileScreenshot": "orbit-release-notes/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "northstar-night-train",
+      "name": "The journey is the getaway",
+      "description": "A pine-green sleeper rail invitation with an editable departure ticket, coastal photography and a three-part onboard itinerary.",
+      "language": "en",
+      "tags": [
+        "Travel",
+        "Promotion"
+      ],
+      "document": "northstar-night-train/template.json",
+      "html": "northstar-night-train/template.html",
+      "screenshot": "northstar-night-train/screenshot.png",
+      "mobileScreenshot": "northstar-night-train/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "northstar-night-train/images/coastal-rail-1b866d29ec26.jpg",
+          "url": "https://assets.weavour.com/templates/northstar-night-train/coastal-rail-1b866d29ec26.jpg",
+          "source": "Reused AI-generated coastal railway artwork from railway-getaway; original prompt and provenance recorded in northstar-night-train/README.md."
+        }
+      ]
+    },
+    {
+      "id": "lune-sleep-reset",
+      "name": "Let the day come to rest",
+      "description": "A restorative evening workshop invitation designed as a bedside letter, with a time-led ritual sequence and quiet reservation details.",
+      "language": "en",
+      "tags": [
+        "Health & wellness",
+        "Event"
+      ],
+      "document": "lune-sleep-reset/template.json",
+      "html": "lune-sleep-reset/template.html",
+      "screenshot": "lune-sleep-reset/screenshot.png",
+      "mobileScreenshot": "lune-sleep-reset/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "paper-screen-film-night",
+      "name": "Two films. One shared night.",
+      "description": "An arthouse double-bill invitation with a contrasting programme, paired showtimes, cinema photograph and ticket-style reservation panel.",
+      "language": "en",
+      "tags": [
+        "Arts & culture",
+        "Event"
+      ],
+      "document": "paper-screen-film-night/template.json",
+      "html": "paper-screen-film-night/template.html",
+      "screenshot": "paper-screen-film-night/screenshot.png",
+      "mobileScreenshot": "paper-screen-film-night/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "paper-screen-film-night/images/cinema-635b44998cb7.jpg",
+          "url": "https://assets.weavour.com/templates/paper-screen-film-night/cinema-635b44998cb7.jpg",
+          "source": "AI-generated OpenAI image reused from film-club; original prompt and reuse documented in README.md."
+        }
+      ]
+    },
+    {
+      "id": "forma-studio-sale",
+      "name": "Good objects. A little less.",
+      "description": "A parchment and oxblood homewares archive sale, with a typographic offer band and paired editable product catalogue.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Promotion"
+      ],
+      "document": "forma-studio-sale/template.json",
+      "html": "forma-studio-sale/template.html",
+      "screenshot": "forma-studio-sale/screenshot.png",
+      "mobileScreenshot": "forma-studio-sale/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "forma-studio-sale/images/vase-99f59871ce29.jpg",
+          "url": "https://assets.weavour.com/templates/forma-studio-sale/vase-99f59871ce29.jpg",
+          "source": "AI-generated catalog artwork reused unchanged from fieldwork-sunday; original prompt and provenance in forma-studio-sale/README.md."
+        },
+        {
+          "file": "forma-studio-sale/images/candle-1bf163695652.jpg",
+          "url": "https://assets.weavour.com/templates/forma-studio-sale/candle-1bf163695652.jpg",
+          "source": "AI-generated catalog artwork reused unchanged from candle-studio; original prompt and provenance in forma-studio-sale/README.md."
+        }
+      ]
+    },
+    {
+      "id": "stride-city-relay",
+      "name": "Four friends. One city.",
+      "description": "A vivid ultramarine and lime running invitation with a race-bib opening, paired race details, clear route briefing and a team registration close.",
+      "language": "en",
+      "tags": [
+        "Sports & outdoors",
+        "Event"
+      ],
+      "document": "stride-city-relay/template.json",
+      "html": "stride-city-relay/template.html",
+      "screenshot": "stride-city-relay/screenshot.png",
+      "mobileScreenshot": "stride-city-relay/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "folio-writing-school",
+      "name": "A place for your first sentence",
+      "description": "A literary course invitation with a personal letter, a ten-minute writing exercise and a clear six-week studio programme.",
+      "language": "en",
+      "tags": [
+        "Education",
+        "Service"
+      ],
+      "document": "folio-writing-school/template.json",
+      "html": "folio-writing-school/template.html",
+      "screenshot": "folio-writing-school/screenshot.png",
+      "mobileScreenshot": "folio-writing-school/screenshot-mobile.png",
+      "images": []
+    },
+    {
+      "id": "canopy-river-appeal",
+      "name": "A river we look after together",
+      "description": "A personal river restoration appeal with woodland photography, paired volunteering and giving options, and practical funding notes.",
+      "language": "en",
+      "tags": [
+        "Community",
+        "Fundraising"
+      ],
+      "document": "canopy-river-appeal/template.json",
+      "html": "canopy-river-appeal/template.html",
+      "screenshot": "canopy-river-appeal/screenshot.png",
+      "mobileScreenshot": "canopy-river-appeal/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "canopy-river-appeal/images/river-5db6a9a66daf.jpg",
+          "url": "https://assets.weavour.com/templates/canopy-river-appeal/river-5db6a9a66daf.jpg",
+          "source": "Unsplash stock photograph; direct source and license documented in canopy-river-appeal/README.md."
+        }
+      ]
+    },
+    {
+      "id": "casa-mare-summer",
+      "name": "A slower shade of summer",
+      "description": "An image-rich Mediterranean hotel escape with four original editorial photographs, alternating room and breakfast stories, a panoramic cove and an ocean-blue booking invitation.",
+      "language": "en",
+      "tags": [
+        "Travel",
+        "Promotion"
+      ],
+      "document": "casa-mare-summer/template.json",
+      "html": "casa-mare-summer/template.html",
+      "screenshot": "casa-mare-summer/screenshot.png",
+      "mobileScreenshot": "casa-mare-summer/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "casa-mare-summer/images/hero-11327d0d3047.jpg",
+          "url": "https://assets.weavour.com/templates/casa-mare-summer/hero-11327d0d3047.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; exact prompt and provenance in casa-mare-summer/README.md."
+        },
+        {
+          "file": "casa-mare-summer/images/suite-2aa5d03cdbb3.jpg",
+          "url": "https://assets.weavour.com/templates/casa-mare-summer/suite-2aa5d03cdbb3.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; exact prompt and provenance in casa-mare-summer/README.md."
+        },
+        {
+          "file": "casa-mare-summer/images/breakfast-22c210684137.jpg",
+          "url": "https://assets.weavour.com/templates/casa-mare-summer/breakfast-22c210684137.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; exact prompt and provenance in casa-mare-summer/README.md."
+        },
+        {
+          "file": "casa-mare-summer/images/cove-6b75a2d21f2a.jpg",
+          "url": "https://assets.weavour.com/templates/casa-mare-summer/cove-6b75a2d21f2a.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; exact prompt and provenance in casa-mare-summer/README.md."
+        }
+      ]
+    },
+    {
+      "id": "nocturne-garden-supper",
+      "name": "Some nights are worth staying for",
+      "description": "A continuous candlelit garden invitation with three coordinated native layout backgrounds, editable editorial typography and a seasonal four-course menu.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Event"
+      ],
+      "document": "nocturne-garden-supper/template.json",
+      "html": "nocturne-garden-supper/template.html",
+      "screenshot": "nocturne-garden-supper/screenshot.png",
+      "mobileScreenshot": "nocturne-garden-supper/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "nocturne-garden-supper/images/garden-dinner-ddd5e473a648.jpg",
+          "url": "https://assets.weavour.com/templates/nocturne-garden-supper/garden-dinner-ddd5e473a648.jpg",
+          "source": "AI-generated with OpenAI built-in image generation as a decorative native layout background; exact prompt in nocturne-garden-supper/README.md."
+        },
+        {
+          "file": "nocturne-garden-supper/images/botanical-menu-2a92617d30e6.jpg",
+          "url": "https://assets.weavour.com/templates/nocturne-garden-supper/botanical-menu-2a92617d30e6.jpg",
+          "source": "AI-generated with OpenAI built-in image generation as a decorative native layout background; exact prompt in nocturne-garden-supper/README.md."
+        },
+        {
+          "file": "nocturne-garden-supper/images/last-candle-57fe8a12d6ca.jpg",
+          "url": "https://assets.weavour.com/templates/nocturne-garden-supper/last-candle-57fe8a12d6ca.jpg",
+          "source": "AI-generated with OpenAI built-in image generation as a decorative native layout background; exact prompt in nocturne-garden-supper/README.md."
+        }
+      ]
+    },
+    {
+      "id": "wildform-sunprint",
+      "name": "Make art with a little sunshine",
+      "description": "A continuous cyanotype-blue botanical workshop invitation with one continuous original sun-print background, Palatino editorial typography, an hour-by-hour workshop plan and clear beginner-focused booking copy.",
+      "language": "en",
+      "tags": [
+        "Arts & culture",
+        "Event"
+      ],
+      "document": "wildform-sunprint/template.json",
+      "html": "wildform-sunprint/template.html",
+      "screenshot": "wildform-sunprint/screenshot.png",
+      "mobileScreenshot": "wildform-sunprint/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "wildform-sunprint/images/continuous-cyanotype-68f1945f47ca.jpg",
+          "url": "https://assets.weavour.com/templates/wildform-sunprint/continuous-cyanotype-68f1945f47ca.jpg",
+          "source": "Original AI-generated botanical cyanotype layout background; exact built-in generation prompt in wildform-sunprint/README.md."
+        }
+      ]
+    },
+    {
+      "id": "winterhearth-christmas-stay",
+      "name": "Christmas — Winterhearth",
+      "description": "Alpine boutique hotel: Christmas, with room to slow down. Travel postcard: generous editorial opening, a visual pause, then a short itinerary and booking close.",
+      "language": "en",
+      "tags": [
+        "Travel",
+        "Promotion"
+      ],
+      "marketingEvent": "Christmas",
+      "document": "winterhearth-christmas-stay/template.json",
+      "html": "winterhearth-christmas-stay/template.html",
+      "screenshot": "winterhearth-christmas-stay/screenshot.png",
+      "mobileScreenshot": "winterhearth-christmas-stay/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "winterhearth-christmas-stay/images/canvas-daa41d063690.jpg",
+          "url": "https://assets.weavour.com/templates/winterhearth-christmas-stay/canvas-daa41d063690.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in winterhearth-christmas-stay/README.md."
+        }
+      ]
+    },
+    {
+      "id": "crumbkind-christmas-bakes",
+      "name": "Christmas — Crumbkind",
+      "description": "Artisan bakery: Bring something worth sharing. Printed menu: centered invitation, seasonal offer, individual course or service descriptions and a reservation close.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Promotion"
+      ],
+      "marketingEvent": "Christmas",
+      "document": "crumbkind-christmas-bakes/template.json",
+      "html": "crumbkind-christmas-bakes/template.html",
+      "screenshot": "crumbkind-christmas-bakes/screenshot.png",
+      "mobileScreenshot": "crumbkind-christmas-bakes/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "crumbkind-christmas-bakes/images/canvas-eb996f810279.jpg",
+          "url": "https://assets.weavour.com/templates/crumbkind-christmas-bakes/canvas-eb996f810279.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in crumbkind-christmas-bakes/README.md."
+        }
+      ]
+    },
+    {
+      "id": "aureole-christmas-jewels",
+      "name": "Christmas — Auréole",
+      "description": "Independent jewelry: For the one you know by heart. Editorial lookbook: a quiet centered masthead, high-contrast display type, an image-led pause and paired collection stories.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Promotion"
+      ],
+      "marketingEvent": "Christmas",
+      "document": "aureole-christmas-jewels/template.json",
+      "html": "aureole-christmas-jewels/template.html",
+      "screenshot": "aureole-christmas-jewels/screenshot.png",
+      "mobileScreenshot": "aureole-christmas-jewels/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "aureole-christmas-jewels/images/canvas-c59ce6f5f421.jpg",
+          "url": "https://assets.weavour.com/templates/aureole-christmas-jewels/canvas-c59ce6f5f421.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in aureole-christmas-jewels/README.md."
+        }
+      ]
+    },
+    {
+      "id": "paws-home-christmas-appeal",
+      "name": "Christmas — Paws & Home",
+      "description": "Animal rescue: A warm bed for the holidays. Field appeal: a direct invitation to give, a practical explanation of use and one-off donation choice.",
+      "language": "en",
+      "tags": [
+        "Pets",
+        "Fundraising"
+      ],
+      "marketingEvent": "Christmas",
+      "document": "paws-home-christmas-appeal/template.json",
+      "html": "paws-home-christmas-appeal/template.html",
+      "screenshot": "paws-home-christmas-appeal/screenshot.png",
+      "mobileScreenshot": "paws-home-christmas-appeal/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "paws-home-christmas-appeal/images/canvas-d3bc37a7b5e4.jpg",
+          "url": "https://assets.weavour.com/templates/paws-home-christmas-appeal/canvas-d3bc37a7b5e4.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in paws-home-christmas-appeal/README.md."
+        }
+      ]
+    },
+    {
+      "id": "velvet-curtain-christmas-gala",
+      "name": "Christmas — Velvet Curtain",
+      "description": "Independent theatre: One night. All the Christmas you can sing. Admission ticket: a split masthead, a bold invitation, practical admission details and programme rows.",
+      "language": "en",
+      "tags": [
+        "Arts & culture",
+        "Event"
+      ],
+      "marketingEvent": "Christmas",
+      "document": "velvet-curtain-christmas-gala/template.json",
+      "html": "velvet-curtain-christmas-gala/template.html",
+      "screenshot": "velvet-curtain-christmas-gala/screenshot.png",
+      "mobileScreenshot": "velvet-curtain-christmas-gala/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "velvet-curtain-christmas-gala/images/canvas-7efa401bc754.jpg",
+          "url": "https://assets.weavour.com/templates/velvet-curtain-christmas-gala/canvas-7efa401bc754.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in velvet-curtain-christmas-gala/README.md."
+        }
+      ]
+    },
+    {
+      "id": "parcel-co-christmas-gifting",
+      "name": "Christmas — Parcel & Co.",
+      "description": "Corporate gifting: Thank them like you mean it. Personal letter: greeting and editorial invitation, flowing paragraphs, a signed close and a clear action.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "Service"
+      ],
+      "marketingEvent": "Christmas",
+      "document": "parcel-co-christmas-gifting/template.json",
+      "html": "parcel-co-christmas-gifting/template.html",
+      "screenshot": "parcel-co-christmas-gifting/screenshot.png",
+      "mobileScreenshot": "parcel-co-christmas-gifting/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "parcel-co-christmas-gifting/images/canvas-a6fd38c0fb26.jpg",
+          "url": "https://assets.weavour.com/templates/parcel-co-christmas-gifting/canvas-a6fd38c0fb26.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in parcel-co-christmas-gifting/README.md."
+        }
+      ]
+    },
+    {
+      "id": "lantern-trail-halloween",
+      "name": "Halloween — Lantern Trail",
+      "description": "Outdoor family attraction: Follow the lights. Find the fun. Practical field guide: clear preparation or selection advice, full-width reading rows and a useful next step.",
+      "language": "en",
+      "tags": [
+        "Sports & outdoors",
+        "Event"
+      ],
+      "marketingEvent": "Halloween",
+      "document": "lantern-trail-halloween/template.json",
+      "html": "lantern-trail-halloween/template.html",
+      "screenshot": "lantern-trail-halloween/screenshot.png",
+      "mobileScreenshot": "lantern-trail-halloween/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "lantern-trail-halloween/images/canvas-531a0a0b6335.jpg",
+          "url": "https://assets.weavour.com/templates/lantern-trail-halloween/canvas-531a0a0b6335.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in lantern-trail-halloween/README.md."
+        }
+      ]
+    },
+    {
+      "id": "black-cat-halloween-supper",
+      "name": "Halloween — The Black Cat",
+      "description": "Restaurant: Dinner after dark. Something delicious is stirring. Printed menu: centered invitation, seasonal offer, individual course or service descriptions and a reservation close.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Event"
+      ],
+      "marketingEvent": "Halloween",
+      "document": "black-cat-halloween-supper/template.json",
+      "html": "black-cat-halloween-supper/template.html",
+      "screenshot": "black-cat-halloween-supper/screenshot.png",
+      "mobileScreenshot": "black-cat-halloween-supper/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "black-cat-halloween-supper/images/canvas-80d8091a315c.jpg",
+          "url": "https://assets.weavour.com/templates/black-cat-halloween-supper/canvas-80d8091a315c.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in black-cat-halloween-supper/README.md."
+        }
+      ]
+    },
+    {
+      "id": "pixelcamp-halloween-code",
+      "name": "Halloween — Pixelcamp",
+      "description": "Children’s coding school: Code a little Halloween magic. Programme: a clear invitation and three sequential stages in native label/content columns.",
+      "language": "en",
+      "tags": [
+        "Education",
+        "Event"
+      ],
+      "marketingEvent": "Halloween",
+      "document": "pixelcamp-halloween-code/template.json",
+      "html": "pixelcamp-halloween-code/template.html",
+      "screenshot": "pixelcamp-halloween-code/screenshot.png",
+      "mobileScreenshot": "pixelcamp-halloween-code/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "pixelcamp-halloween-code/images/canvas-ebe8c0e0d25e.jpg",
+          "url": "https://assets.weavour.com/templates/pixelcamp-halloween-code/canvas-ebe8c0e0d25e.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in pixelcamp-halloween-code/README.md."
+        }
+      ]
+    },
+    {
+      "id": "moonbath-halloween-reset",
+      "name": "Halloween — Moonbath",
+      "description": "Bath and body care: An evening ritual for your inner night owl. Ritual card: calm typography and centered steps that connect the offer to an easy, concrete experience.",
+      "language": "en",
+      "tags": [
+        "Health & wellness",
+        "Promotion"
+      ],
+      "marketingEvent": "Halloween",
+      "document": "moonbath-halloween-reset/template.json",
+      "html": "moonbath-halloween-reset/template.html",
+      "screenshot": "moonbath-halloween-reset/screenshot.png",
+      "mobileScreenshot": "moonbath-halloween-reset/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "moonbath-halloween-reset/images/canvas-d43cec9eb8f1.jpg",
+          "url": "https://assets.weavour.com/templates/moonbath-halloween-reset/canvas-d43cec9eb8f1.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in moonbath-halloween-reset/README.md."
+        }
+      ]
+    },
+    {
+      "id": "midnight-reel-halloween",
+      "name": "Halloween — Midnight Reel",
+      "description": "Independent cinema: Two films. One very good reason to stay up. Admission ticket: a split masthead, a bold invitation, practical admission details and programme rows.",
+      "language": "en",
+      "tags": [
+        "Arts & culture",
+        "Event"
+      ],
+      "marketingEvent": "Halloween",
+      "document": "midnight-reel-halloween/template.json",
+      "html": "midnight-reel-halloween/template.html",
+      "screenshot": "midnight-reel-halloween/screenshot.png",
+      "mobileScreenshot": "midnight-reel-halloween/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "midnight-reel-halloween/images/canvas-2c08007e9539.jpg",
+          "url": "https://assets.weavour.com/templates/midnight-reel-halloween/canvas-2c08007e9539.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in midnight-reel-halloween/README.md."
+        }
+      ]
+    },
+    {
+      "id": "formroom-black-friday",
+      "name": "Black Friday — Formroom",
+      "description": "Furniture and homewares: Good furniture. A better moment to bring it home. Product catalogue: an editorial opening and a native paired selection with useful descriptions.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Promotion"
+      ],
+      "marketingEvent": "Black Friday",
+      "document": "formroom-black-friday/template.json",
+      "html": "formroom-black-friday/template.html",
+      "screenshot": "formroom-black-friday/screenshot.png",
+      "mobileScreenshot": "formroom-black-friday/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "formroom-black-friday/images/canvas-74b769ed1186.jpg",
+          "url": "https://assets.weavour.com/templates/formroom-black-friday/canvas-74b769ed1186.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in formroom-black-friday/README.md."
+        }
+      ]
+    },
+    {
+      "id": "threadline-black-friday",
+      "name": "Black Friday — Threadline",
+      "description": "Contemporary clothing: Wear it now. Reach for it next year. Editorial lookbook: a quiet centered masthead, high-contrast display type, an image-led pause and paired collection stories.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Promotion"
+      ],
+      "marketingEvent": "Black Friday",
+      "document": "threadline-black-friday/template.json",
+      "html": "threadline-black-friday/template.html",
+      "screenshot": "threadline-black-friday/screenshot.png",
+      "mobileScreenshot": "threadline-black-friday/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "threadline-black-friday/images/canvas-41ae6d912f08.jpg",
+          "url": "https://assets.weavour.com/templates/threadline-black-friday/canvas-41ae6d912f08.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in threadline-black-friday/README.md."
+        }
+      ]
+    },
+    {
+      "id": "signalworks-black-friday",
+      "name": "Black Friday — Signalworks",
+      "description": "Audio electronics: A better soundtrack for the everyday. Offer poster: the concrete promotion is prominent, followed by an image moment, the offer scope and a concise choice.",
+      "language": "en",
+      "tags": [
+        "Technology",
+        "Promotion"
+      ],
+      "marketingEvent": "Black Friday",
+      "document": "signalworks-black-friday/template.json",
+      "html": "signalworks-black-friday/template.html",
+      "screenshot": "signalworks-black-friday/screenshot.png",
+      "mobileScreenshot": "signalworks-black-friday/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "signalworks-black-friday/images/canvas-480a8a81ab8f.jpg",
+          "url": "https://assets.weavour.com/templates/signalworks-black-friday/canvas-480a8a81ab8f.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in signalworks-black-friday/README.md."
+        }
+      ]
+    },
+    {
+      "id": "movewell-black-friday",
+      "name": "Black Friday — Movewell",
+      "description": "Pilates studio: Make room for movement. Offer poster: the concrete promotion is prominent, followed by an image moment, the offer scope and a concise choice.",
+      "language": "en",
+      "tags": [
+        "Health & wellness",
+        "Promotion"
+      ],
+      "marketingEvent": "Black Friday",
+      "document": "movewell-black-friday/template.json",
+      "html": "movewell-black-friday/template.html",
+      "screenshot": "movewell-black-friday/screenshot.png",
+      "mobileScreenshot": "movewell-black-friday/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "movewell-black-friday/images/canvas-f425e22fa583.jpg",
+          "url": "https://assets.weavour.com/templates/movewell-black-friday/canvas-f425e22fa583.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in movewell-black-friday/README.md."
+        }
+      ]
+    },
+    {
+      "id": "ridgeway-black-friday",
+      "name": "Black Friday — Ridgeway",
+      "description": "Outdoor equipment: Take the long way. Spend a little less. Practical field guide: clear preparation or selection advice, full-width reading rows and a useful next step.",
+      "language": "en",
+      "tags": [
+        "Sports & outdoors",
+        "Promotion"
+      ],
+      "marketingEvent": "Black Friday",
+      "document": "ridgeway-black-friday/template.json",
+      "html": "ridgeway-black-friday/template.html",
+      "screenshot": "ridgeway-black-friday/screenshot.png",
+      "mobileScreenshot": "ridgeway-black-friday/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "ridgeway-black-friday/images/canvas-67bd4df5cedd.jpg",
+          "url": "https://assets.weavour.com/templates/ridgeway-black-friday/canvas-67bd4df5cedd.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in ridgeway-black-friday/README.md."
+        }
+      ]
+    },
+    {
+      "id": "wayfarer-black-friday",
+      "name": "Black Friday — Wayfarer",
+      "description": "Guided travel experiences: A good story starts with a change of scene. Travel postcard: generous editorial opening, a visual pause, then a short itinerary and booking close.",
+      "language": "en",
+      "tags": [
+        "Travel",
+        "Promotion"
+      ],
+      "marketingEvent": "Black Friday",
+      "document": "wayfarer-black-friday/template.json",
+      "html": "wayfarer-black-friday/template.html",
+      "screenshot": "wayfarer-black-friday/screenshot.png",
+      "mobileScreenshot": "wayfarer-black-friday/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "wayfarer-black-friday/images/canvas-fa53b8929b68.jpg",
+          "url": "https://assets.weavour.com/templates/wayfarer-black-friday/canvas-fa53b8929b68.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in wayfarer-black-friday/README.md."
+        }
+      ]
+    },
+    {
+      "id": "orbitdesk-cyber-monday",
+      "name": "Cyber Monday — Orbitdesk",
+      "description": "Team productivity software: Less chasing. More doing. Product bulletin: a focused offer followed by alternating native feature/context columns.",
+      "language": "en",
+      "tags": [
+        "Technology",
+        "Promotion"
+      ],
+      "marketingEvent": "Cyber Monday",
+      "document": "orbitdesk-cyber-monday/template.json",
+      "html": "orbitdesk-cyber-monday/template.html",
+      "screenshot": "orbitdesk-cyber-monday/screenshot.png",
+      "mobileScreenshot": "orbitdesk-cyber-monday/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "orbitdesk-cyber-monday/images/canvas-34384256c9ee.jpg",
+          "url": "https://assets.weavour.com/templates/orbitdesk-cyber-monday/canvas-34384256c9ee.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in orbitdesk-cyber-monday/README.md."
+        }
+      ]
+    },
+    {
+      "id": "lingua-cyber-monday",
+      "name": "Cyber Monday — Lingua House",
+      "description": "Online language courses: More than knowing the words. Programme: a clear invitation and three sequential stages in native label/content columns.",
+      "language": "en",
+      "tags": [
+        "Education",
+        "Promotion"
+      ],
+      "marketingEvent": "Cyber Monday",
+      "document": "lingua-cyber-monday/template.json",
+      "html": "lingua-cyber-monday/template.html",
+      "screenshot": "lingua-cyber-monday/screenshot.png",
+      "mobileScreenshot": "lingua-cyber-monday/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "lingua-cyber-monday/images/canvas-b98e93b949f0.jpg",
+          "url": "https://assets.weavour.com/templates/lingua-cyber-monday/canvas-b98e93b949f0.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in lingua-cyber-monday/README.md."
+        }
+      ]
+    },
+    {
+      "id": "format-cyber-monday",
+      "name": "Cyber Monday — Format Studio",
+      "description": "Brand design services: Give your next launch a clearer look. Service checklist: a concrete offer, native list of included steps and explicit scope before the action.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "Service"
+      ],
+      "marketingEvent": "Cyber Monday",
+      "document": "format-cyber-monday/template.json",
+      "html": "format-cyber-monday/template.html",
+      "screenshot": "format-cyber-monday/screenshot.png",
+      "mobileScreenshot": "format-cyber-monday/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "format-cyber-monday/images/canvas-a5f5379830d2.jpg",
+          "url": "https://assets.weavour.com/templates/format-cyber-monday/canvas-a5f5379830d2.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in format-cyber-monday/README.md."
+        }
+      ]
+    },
+    {
+      "id": "stemstory-valentines",
+      "name": "Valentine’s Day — Stemstory",
+      "description": "Florist: Say it in your own way. Editorial lookbook: a quiet centered masthead, high-contrast display type, an image-led pause and paired collection stories.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Promotion"
+      ],
+      "marketingEvent": "Valentine’s Day",
+      "document": "stemstory-valentines/template.json",
+      "html": "stemstory-valentines/template.html",
+      "screenshot": "stemstory-valentines/screenshot.png",
+      "mobileScreenshot": "stemstory-valentines/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "stemstory-valentines/images/canvas-a72758093ee8.jpg",
+          "url": "https://assets.weavour.com/templates/stemstory-valentines/canvas-a72758093ee8.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in stemstory-valentines/README.md."
+        }
+      ]
+    },
+    {
+      "id": "cacao-letter-valentines",
+      "name": "Valentine’s Day — Cacao Letter",
+      "description": "Craft chocolatier: A small box. A very good way to say it. Product catalogue: an editorial opening and a native paired selection with useful descriptions.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Promotion"
+      ],
+      "marketingEvent": "Valentine’s Day",
+      "document": "cacao-letter-valentines/template.json",
+      "html": "cacao-letter-valentines/template.html",
+      "screenshot": "cacao-letter-valentines/screenshot.png",
+      "mobileScreenshot": "cacao-letter-valentines/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "cacao-letter-valentines/images/canvas-fbafdbbcd64e.jpg",
+          "url": "https://assets.weavour.com/templates/cacao-letter-valentines/canvas-fbafdbbcd64e.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in cacao-letter-valentines/README.md."
+        }
+      ]
+    },
+    {
+      "id": "two-tides-valentines",
+      "name": "Valentine’s Day — Two Tides",
+      "description": "Spa retreat: Time for two. Nothing else on the calendar. Ritual card: calm typography and centered steps that connect the offer to an easy, concrete experience.",
+      "language": "en",
+      "tags": [
+        "Health & wellness",
+        "Service"
+      ],
+      "marketingEvent": "Valentine’s Day",
+      "document": "two-tides-valentines/template.json",
+      "html": "two-tides-valentines/template.html",
+      "screenshot": "two-tides-valentines/screenshot.png",
+      "mobileScreenshot": "two-tides-valentines/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "two-tides-valentines/images/canvas-f0362a702cc4.jpg",
+          "url": "https://assets.weavour.com/templates/two-tides-valentines/canvas-f0362a702cc4.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in two-tides-valentines/README.md."
+        }
+      ]
+    },
+    {
+      "id": "afterlight-valentines",
+      "name": "Valentine’s Day — Afterlight Museum",
+      "description": "Museum evenings: A different kind of date. Admission ticket: a split masthead, a bold invitation, practical admission details and programme rows.",
+      "language": "en",
+      "tags": [
+        "Arts & culture",
+        "Event"
+      ],
+      "marketingEvent": "Valentine’s Day",
+      "document": "afterlight-valentines/template.json",
+      "html": "afterlight-valentines/template.html",
+      "screenshot": "afterlight-valentines/screenshot.png",
+      "mobileScreenshot": "afterlight-valentines/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "afterlight-valentines/images/canvas-67333648ae4d.jpg",
+          "url": "https://assets.weavour.com/templates/afterlight-valentines/canvas-67333648ae4d.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in afterlight-valentines/README.md."
+        }
+      ]
+    },
+    {
+      "id": "claykin-mothers-day",
+      "name": "Mother’s Day — Claykin",
+      "description": "Pottery workshops: Make a memory. And a slightly wonky mug. Programme: a clear invitation and three sequential stages in native label/content columns.",
+      "language": "en",
+      "tags": [
+        "Arts & culture",
+        "Event"
+      ],
+      "marketingEvent": "Mother’s Day",
+      "document": "claykin-mothers-day/template.json",
+      "html": "claykin-mothers-day/template.html",
+      "screenshot": "claykin-mothers-day/screenshot.png",
+      "mobileScreenshot": "claykin-mothers-day/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "claykin-mothers-day/images/canvas-1b50994d6ae4.jpg",
+          "url": "https://assets.weavour.com/templates/claykin-mothers-day/canvas-1b50994d6ae4.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in claykin-mothers-day/README.md."
+        }
+      ]
+    },
+    {
+      "id": "greenhouse-mothers-day",
+      "name": "Mother’s Day — The Greenhouse",
+      "description": "Garden shop: For the one who helps everything grow. Practical field guide: clear preparation or selection advice, full-width reading rows and a useful next step.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Promotion"
+      ],
+      "marketingEvent": "Mother’s Day",
+      "document": "greenhouse-mothers-day/template.json",
+      "html": "greenhouse-mothers-day/template.html",
+      "screenshot": "greenhouse-mothers-day/screenshot.png",
+      "mobileScreenshot": "greenhouse-mothers-day/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "greenhouse-mothers-day/images/canvas-740c3c9209ea.jpg",
+          "url": "https://assets.weavour.com/templates/greenhouse-mothers-day/canvas-740c3c9209ea.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in greenhouse-mothers-day/README.md."
+        }
+      ]
+    },
+    {
+      "id": "morning-table-mothers-day",
+      "name": "Mother’s Day — The Morning Table",
+      "description": "Brunch café: Let someone else do the breakfast. Printed menu: centered invitation, seasonal offer, individual course or service descriptions and a reservation close.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Event"
+      ],
+      "marketingEvent": "Mother’s Day",
+      "document": "morning-table-mothers-day/template.json",
+      "html": "morning-table-mothers-day/template.html",
+      "screenshot": "morning-table-mothers-day/screenshot.png",
+      "mobileScreenshot": "morning-table-mothers-day/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "morning-table-mothers-day/images/canvas-b7ee28195595.jpg",
+          "url": "https://assets.weavour.com/templates/morning-table-mothers-day/canvas-b7ee28195595.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in morning-table-mothers-day/README.md."
+        }
+      ]
+    },
+    {
+      "id": "first-light-fathers-day",
+      "name": "Father’s Day — First Light Roasters",
+      "description": "Specialty coffee: For his first good cup of the day. Product catalogue: an editorial opening and a native paired selection with useful descriptions.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Promotion"
+      ],
+      "marketingEvent": "Father’s Day",
+      "document": "first-light-fathers-day/template.json",
+      "html": "first-light-fathers-day/template.html",
+      "screenshot": "first-light-fathers-day/screenshot.png",
+      "mobileScreenshot": "first-light-fathers-day/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "first-light-fathers-day/images/canvas-981357eb6292.jpg",
+          "url": "https://assets.weavour.com/templates/first-light-fathers-day/canvas-981357eb6292.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in first-light-fathers-day/README.md."
+        }
+      ]
+    },
+    {
+      "id": "spoke-fathers-day",
+      "name": "Father’s Day — Spoke & Sons",
+      "description": "Cycling shop: Give him a smoother Sunday ride. Service checklist: a concrete offer, native list of included steps and explicit scope before the action.",
+      "language": "en",
+      "tags": [
+        "Sports & outdoors",
+        "Service"
+      ],
+      "marketingEvent": "Father’s Day",
+      "document": "spoke-fathers-day/template.json",
+      "html": "spoke-fathers-day/template.html",
+      "screenshot": "spoke-fathers-day/screenshot.png",
+      "mobileScreenshot": "spoke-fathers-day/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "spoke-fathers-day/images/canvas-054399588da6.jpg",
+          "url": "https://assets.weavour.com/templates/spoke-fathers-day/canvas-054399588da6.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in spoke-fathers-day/README.md."
+        }
+      ]
+    },
+    {
+      "id": "meadow-house-easter",
+      "name": "Easter — Meadow House",
+      "description": "Farmstay accommodation: A little closer to spring. Travel postcard: generous editorial opening, a visual pause, then a short itinerary and booking close.",
+      "language": "en",
+      "tags": [
+        "Travel",
+        "Promotion"
+      ],
+      "marketingEvent": "Easter",
+      "document": "meadow-house-easter/template.json",
+      "html": "meadow-house-easter/template.html",
+      "screenshot": "meadow-house-easter/screenshot.png",
+      "mobileScreenshot": "meadow-house-easter/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "meadow-house-easter/images/canvas-34bad79a1e6e.jpg",
+          "url": "https://assets.weavour.com/templates/meadow-house-easter/canvas-34bad79a1e6e.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in meadow-house-easter/README.md."
+        }
+      ]
+    },
+    {
+      "id": "spring-common-easter",
+      "name": "Easter — Spring Common",
+      "description": "Community family events: A small hunt. A big spring afternoon. Practical field guide: clear preparation or selection advice, full-width reading rows and a useful next step.",
+      "language": "en",
+      "tags": [
+        "Community",
+        "Event"
+      ],
+      "marketingEvent": "Easter",
+      "document": "spring-common-easter/template.json",
+      "html": "spring-common-easter/template.html",
+      "screenshot": "spring-common-easter/screenshot.png",
+      "mobileScreenshot": "spring-common-easter/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "spring-common-easter/images/canvas-775b00311ca9.jpg",
+          "url": "https://assets.weavour.com/templates/spring-common-easter/canvas-775b00311ca9.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in spring-common-easter/README.md."
+        }
+      ]
+    },
+    {
+      "id": "stillday-new-year",
+      "name": "New Year — Stillday",
+      "description": "Yoga studio: Begin gently. Ritual card: calm typography and centered steps that connect the offer to an easy, concrete experience.",
+      "language": "en",
+      "tags": [
+        "Health & wellness",
+        "Event"
+      ],
+      "marketingEvent": "New Year",
+      "document": "stillday-new-year/template.json",
+      "html": "stillday-new-year/template.html",
+      "screenshot": "stillday-new-year/screenshot.png",
+      "mobileScreenshot": "stillday-new-year/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "stillday-new-year/images/canvas-8451101e09b1.jpg",
+          "url": "https://assets.weavour.com/templates/stillday-new-year/canvas-8451101e09b1.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in stillday-new-year/README.md."
+        }
+      ]
+    },
+    {
+      "id": "clearbooks-new-year",
+      "name": "New Year — Clearbooks Studio",
+      "description": "Small-business bookkeeping: A clearer start for your books. Service checklist: a concrete offer, native list of included steps and explicit scope before the action.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "Service"
+      ],
+      "marketingEvent": "New Year",
+      "document": "clearbooks-new-year/template.json",
+      "html": "clearbooks-new-year/template.html",
+      "screenshot": "clearbooks-new-year/screenshot.png",
+      "mobileScreenshot": "clearbooks-new-year/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "clearbooks-new-year/images/canvas-24d1ceab26c3.jpg",
+          "url": "https://assets.weavour.com/templates/clearbooks-new-year/canvas-24d1ceab26c3.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in clearbooks-new-year/README.md."
+        }
+      ]
+    },
+    {
+      "id": "miles-ahead-new-year",
+      "name": "New Year — Miles Ahead",
+      "description": "Community running club: Your first mile can be a social one. Programme: a clear invitation and three sequential stages in native label/content columns.",
+      "language": "en",
+      "tags": [
+        "Sports & outdoors",
+        "Event"
+      ],
+      "marketingEvent": "New Year",
+      "document": "miles-ahead-new-year/template.json",
+      "html": "miles-ahead-new-year/template.html",
+      "screenshot": "miles-ahead-new-year/screenshot.png",
+      "mobileScreenshot": "miles-ahead-new-year/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "miles-ahead-new-year/images/canvas-c9522c76d797.jpg",
+          "url": "https://assets.weavour.com/templates/miles-ahead-new-year/canvas-c9522c76d797.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in miles-ahead-new-year/README.md."
+        }
+      ]
+    },
+    {
+      "id": "paperpath-back-to-school",
+      "name": "Back to school — Paperpath",
+      "description": "Stationery: A fresh page for all the next things. Product catalogue: an editorial opening and a native paired selection with useful descriptions.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Product launch"
+      ],
+      "marketingEvent": "Back to school",
+      "document": "paperpath-back-to-school/template.json",
+      "html": "paperpath-back-to-school/template.html",
+      "screenshot": "paperpath-back-to-school/screenshot.png",
+      "mobileScreenshot": "paperpath-back-to-school/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "paperpath-back-to-school/images/canvas-900517e63e69.jpg",
+          "url": "https://assets.weavour.com/templates/paperpath-back-to-school/canvas-900517e63e69.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in paperpath-back-to-school/README.md."
+        }
+      ]
+    },
+    {
+      "id": "brightstart-back-to-school",
+      "name": "Back to school — Brightstart",
+      "description": "Tutoring: Start the term with a clearer plan. Personal letter: greeting and editorial invitation, flowing paragraphs, a signed close and a clear action.",
+      "language": "en",
+      "tags": [
+        "Education",
+        "Service"
+      ],
+      "marketingEvent": "Back to school",
+      "document": "brightstart-back-to-school/template.json",
+      "html": "brightstart-back-to-school/template.html",
+      "screenshot": "brightstart-back-to-school/screenshot.png",
+      "mobileScreenshot": "brightstart-back-to-school/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "brightstart-back-to-school/images/canvas-8031c67c1fba.jpg",
+          "url": "https://assets.weavour.com/templates/brightstart-back-to-school/canvas-8031c67c1fba.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in brightstart-back-to-school/README.md."
+        }
+      ]
+    },
+    {
+      "id": "saltline-summer-sale",
+      "name": "Summer sale — Saltline",
+      "description": "Swimwear: More sea days. A little less to spend. Editorial lookbook: a quiet centered masthead, high-contrast display type, an image-led pause and paired collection stories.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Promotion"
+      ],
+      "marketingEvent": "Summer sale",
+      "document": "saltline-summer-sale/template.json",
+      "html": "saltline-summer-sale/template.html",
+      "screenshot": "saltline-summer-sale/screenshot.png",
+      "mobileScreenshot": "saltline-summer-sale/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "saltline-summer-sale/images/canvas-a40da8f08c01.jpg",
+          "url": "https://assets.weavour.com/templates/saltline-summer-sale/canvas-a40da8f08c01.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in saltline-summer-sale/README.md."
+        }
+      ]
+    },
+    {
+      "id": "azura-summer-sale",
+      "name": "Summer sale — Azura Rooms",
+      "description": "Coastal hotel: A few days in a different shade of blue. Travel postcard: generous editorial opening, a visual pause, then a short itinerary and booking close.",
+      "language": "en",
+      "tags": [
+        "Travel",
+        "Promotion"
+      ],
+      "marketingEvent": "Summer sale",
+      "document": "azura-summer-sale/template.json",
+      "html": "azura-summer-sale/template.html",
+      "screenshot": "azura-summer-sale/screenshot.png",
+      "mobileScreenshot": "azura-summer-sale/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "azura-summer-sale/images/canvas-37b01b51b84c.jpg",
+          "url": "https://assets.weavour.com/templates/azura-summer-sale/canvas-37b01b51b84c.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in azura-summer-sale/README.md."
+        }
+      ]
+    },
+    {
+      "id": "mend-earth-day",
+      "name": "Earth Day — Mend Together",
+      "description": "Community repair café: Before you replace it, bring it. Practical field guide: clear preparation or selection advice, full-width reading rows and a useful next step.",
+      "language": "en",
+      "tags": [
+        "Community",
+        "Event"
+      ],
+      "marketingEvent": "Earth Day",
+      "document": "mend-earth-day/template.json",
+      "html": "mend-earth-day/template.html",
+      "screenshot": "mend-earth-day/screenshot.png",
+      "mobileScreenshot": "mend-earth-day/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "mend-earth-day/images/canvas-594792fcebf5.jpg",
+          "url": "https://assets.weavour.com/templates/mend-earth-day/canvas-594792fcebf5.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in mend-earth-day/README.md."
+        }
+      ]
+    },
+    {
+      "id": "bluecurrent-giving-tuesday",
+      "name": "Giving Tuesday — Bluecurrent",
+      "description": "Ocean conservation: A cleaner coast starts with a little care. Field appeal: a direct invitation to give, a practical explanation of use and one-off donation choice.",
+      "language": "en",
+      "tags": [
+        "Community",
+        "Fundraising"
+      ],
+      "marketingEvent": "Giving Tuesday",
+      "document": "bluecurrent-giving-tuesday/template.json",
+      "html": "bluecurrent-giving-tuesday/template.html",
+      "screenshot": "bluecurrent-giving-tuesday/screenshot.png",
+      "mobileScreenshot": "bluecurrent-giving-tuesday/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "bluecurrent-giving-tuesday/images/canvas-5eaee36a1bb7.jpg",
+          "url": "https://assets.weavour.com/templates/bluecurrent-giving-tuesday/canvas-5eaee36a1bb7.jpg",
+          "source": "Original AI-generated seasonal layout artwork; exact built-in prompt and provenance in bluecurrent-giving-tuesday/README.md."
+        }
+      ]
     }
   ]
 }

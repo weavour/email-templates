@@ -1,0 +1,1526 @@
+{
+  "schemaVersion": 1,
+  "name": "Forty seasonal email designs",
+  "templates": [
+    {
+      "id": "winterhearth-christmas-stay",
+      "event": "Christmas",
+      "vertical": "Alpine boutique hotel",
+      "brand": "Winterhearth",
+      "composition": "postcard",
+      "typography": "literary",
+      "palette": {
+        "background": "#182e2d",
+        "text": "#faf3df",
+        "secondary": "#dce5d8",
+        "action": "#d9aa6e",
+        "actionText": "#182e2d"
+      },
+      "subject": "Your Christmas escape, by the fire",
+      "preheader": "Three nights, breakfast and a quieter kind of Christmas.",
+      "headline": "Christmas,\nwith room\nto slow down.",
+      "introduction": "Trade the full calendar for a warm fire and a view of the pines. Our Christmas stay gives you three nights to settle in.",
+      "primaryAction": "Plan my Christmas stay",
+      "offer": "Three nights from £495 for two",
+      "detail": "Breakfast and a fireside welcome included.",
+      "sections": [
+        [
+          "Arrive",
+          "Leave your bags, warm your hands and take the rest of the day as it comes."
+        ],
+        [
+          "Wake slowly",
+          "Breakfast waits downstairs. The snowy trail starts just beyond the door."
+        ],
+        [
+          "Stay awhile",
+          "Choose your room and Christmas dates before you book."
+        ]
+      ],
+      "closing": "A little less rush.\nA little more Christmas.",
+      "document": "../winterhearth-christmas-stay/template.json",
+      "localPreview": "../winterhearth-christmas-stay/preview-local.html"
+    },
+    {
+      "id": "crumbkind-christmas-bakes",
+      "event": "Christmas",
+      "vertical": "Artisan bakery",
+      "brand": "Crumbkind",
+      "composition": "menu",
+      "typography": "craft",
+      "palette": {
+        "background": "#f4e7ce",
+        "text": "#653224",
+        "secondary": "#704a38",
+        "action": "#a83528",
+        "actionText": "#fff5df"
+      },
+      "subject": "The Christmas bake is ready to order",
+      "preheader": "Small festive bakes for the people around your table.",
+      "headline": "Bring something\nworth sharing.",
+      "introduction": "A buttery panettone, a box of spiced biscuits and one less thing on your Christmas list. Our festive bake is ready to pre-order.",
+      "primaryAction": "Pre-order Christmas bakes",
+      "offer": "The Christmas table box · £32",
+      "detail": "Choose collection or local delivery at checkout.",
+      "sections": [
+        [
+          "The centrepiece",
+          "Orange-and-raisin panettone, baked until golden and soft enough to pull apart."
+        ],
+        [
+          "A little extra",
+          "Ginger biscuits and dark chocolate shortbread for the after-dinner cups of tea."
+        ],
+        [
+          "Ready to give",
+          "Packed in a paper gift box with room for your own handwritten note."
+        ]
+      ],
+      "closing": "Bring the bake.\nThey’ll bring the stories.",
+      "document": "../crumbkind-christmas-bakes/template.json",
+      "localPreview": "../crumbkind-christmas-bakes/preview-local.html"
+    },
+    {
+      "id": "aureole-christmas-jewels",
+      "event": "Christmas",
+      "vertical": "Independent jewelry",
+      "brand": "Auréole",
+      "composition": "lookbook",
+      "typography": "fashion",
+      "palette": {
+        "background": "#2f1423",
+        "text": "#fff0dc",
+        "secondary": "#edd6d2",
+        "action": "#e7c28e",
+        "actionText": "#2f1423"
+      },
+      "subject": "A Christmas gift that stays close",
+      "preheader": "Personal jewelry, gift wrapping and a note in your words.",
+      "headline": "For the one\nyou know by heart.",
+      "introduction": "A small gift can hold a lot. Find a piece they’ll reach for long after the wrapping is gone.",
+      "primaryAction": "Find their Christmas piece",
+      "offer": "Christmas gift wrapping included",
+      "detail": "Choose a personal note at checkout.",
+      "sections": [
+        [
+          "The Quiet Pendant",
+          "A simple gold-vermeil curve on a fine adjustable chain. From £78."
+        ],
+        [
+          "The Everyday Hoops",
+          "Small, softly rounded hoops made to go with almost everything. From £54."
+        ]
+      ],
+      "closing": "Give something\nthat feels like them.",
+      "document": "../aureole-christmas-jewels/template.json",
+      "localPreview": "../aureole-christmas-jewels/preview-local.html"
+    },
+    {
+      "id": "paws-home-christmas-appeal",
+      "event": "Christmas",
+      "vertical": "Animal rescue",
+      "brand": "Paws & Home",
+      "composition": "impact",
+      "typography": "warm",
+      "palette": {
+        "background": "#eee4d1",
+        "text": "#30423b",
+        "secondary": "#49584d",
+        "action": "#34614b",
+        "actionText": "#fff4dc"
+      },
+      "subject": "Help make the shelter warmer this Christmas",
+      "preheader": "Support the food, bedding and care animals need while they wait.",
+      "headline": "A warm bed\nfor the holidays.",
+      "introduction": "While we look for their next family, help us make the shelter feel a little more like home this Christmas.",
+      "primaryAction": "Give a warmer Christmas",
+      "offer": "Choose a one-off Christmas gift",
+      "detail": "You can choose an amount that suits you.",
+      "sections": [
+        [
+          "Food",
+          "Help stock the meals animals need while they stay with us."
+        ],
+        [
+          "Warmth",
+          "Support clean bedding, blankets and comfortable places to rest."
+        ],
+        [
+          "Care",
+          "Contribute to the practical costs of a safe, welcoming shelter."
+        ]
+      ],
+      "closing": "Until they find a home,\nhelp us make one here.",
+      "document": "../paws-home-christmas-appeal/template.json",
+      "localPreview": "../paws-home-christmas-appeal/preview-local.html"
+    },
+    {
+      "id": "velvet-curtain-christmas-gala",
+      "event": "Christmas",
+      "vertical": "Independent theatre",
+      "brand": "Velvet Curtain",
+      "composition": "ticket",
+      "typography": "theatre",
+      "palette": {
+        "background": "#351b24",
+        "text": "#f9eed8",
+        "secondary": "#e2d4c8",
+        "action": "#d9b168",
+        "actionText": "#351b24"
+      },
+      "subject": "Your invitation to the Christmas cabaret",
+      "preheader": "Live music, festive songs and a seat in the stalls.",
+      "headline": "One night.\nAll the Christmas\nyou can sing.",
+      "introduction": "Our Christmas cabaret brings live music, familiar songs and a little theatrical mischief to the stage.",
+      "primaryAction": "Choose my cabaret seats",
+      "offer": "Christmas cabaret · Tickets from £24",
+      "detail": "An evening performance with a short interval.",
+      "sections": [
+        [
+          "Before the show",
+          "Arrive early for a drink and settle into your seat."
+        ],
+        [
+          "On stage",
+          "A live band, guest performers and Christmas songs you know by heart."
+        ],
+        [
+          "Between acts",
+          "Take a short interval, then come back for the finale."
+        ]
+      ],
+      "closing": "Make a night of it.",
+      "document": "../velvet-curtain-christmas-gala/template.json",
+      "localPreview": "../velvet-curtain-christmas-gala/preview-local.html"
+    },
+    {
+      "id": "parcel-co-christmas-gifting",
+      "event": "Christmas",
+      "vertical": "Corporate gifting",
+      "brand": "Parcel & Co.",
+      "composition": "letter",
+      "typography": "modern",
+      "palette": {
+        "background": "#e8ebe2",
+        "text": "#23433c",
+        "secondary": "#4a6057",
+        "action": "#a64a36",
+        "actionText": "#fff5e8"
+      },
+      "subject": "Christmas gifts for the people behind your year",
+      "preheader": "Thoughtful client and team gifting, with the logistics handled.",
+      "headline": "Thank them\nlike you mean it.",
+      "introduction": "Send a Christmas gift that feels considered. We’ll help you choose the contents, add your message and organise the deliveries.",
+      "primaryAction": "Build my Christmas gift plan",
+      "offer": "Client and team gifting, from 20 boxes",
+      "detail": "Request a quote for your budget and delivery list.",
+      "sections": [
+        [
+          "Choose",
+          "Tell us who it’s for, what you’d like to spend and where it needs to go."
+        ],
+        [
+          "Personalise",
+          "Add your brand quietly and write a message in your own voice."
+        ],
+        [
+          "Send",
+          "Approve the final box and delivery plan before anything leaves the studio."
+        ]
+      ],
+      "closing": "Your thanks.\nBeautifully delivered.",
+      "document": "../parcel-co-christmas-gifting/template.json",
+      "localPreview": "../parcel-co-christmas-gifting/preview-local.html"
+    },
+    {
+      "id": "lantern-trail-halloween",
+      "event": "Halloween",
+      "vertical": "Outdoor family attraction",
+      "brand": "Lantern Trail",
+      "composition": "fieldguide",
+      "typography": "adventure",
+      "palette": {
+        "background": "#182a32",
+        "text": "#fff0d0",
+        "secondary": "#dce4d8",
+        "action": "#efa95b",
+        "actionText": "#182a32"
+      },
+      "subject": "The Halloween lantern trail is lighting up",
+      "preheader": "A family walk through pumpkins, stories and autumn woods.",
+      "headline": "Follow the lights.\nFind the fun.",
+      "introduction": "Pull on your boots for a Halloween walk through glowing pumpkins, woodland stories and a little after-dark adventure.",
+      "primaryAction": "Book our lantern-trail visit",
+      "offer": "Family trail tickets from £28",
+      "detail": "Choose your entry time when booking.",
+      "sections": [
+        [
+          "Dress for the woods",
+          "Bring warm layers, comfortable boots and a sense of adventure."
+        ],
+        [
+          "Follow the glow",
+          "Walk the marked route at your own pace and look out for story stops."
+        ],
+        [
+          "Finish warm",
+          "Leave time for a hot drink at the end of the trail."
+        ]
+      ],
+      "closing": "A little spooky.\nA lot to remember.",
+      "document": "../lantern-trail-halloween/template.json",
+      "localPreview": "../lantern-trail-halloween/preview-local.html"
+    },
+    {
+      "id": "black-cat-halloween-supper",
+      "event": "Halloween",
+      "vertical": "Restaurant",
+      "brand": "The Black Cat",
+      "composition": "menu",
+      "typography": "theatre",
+      "palette": {
+        "background": "#231c2d",
+        "text": "#fff0d8",
+        "secondary": "#e1d4df",
+        "action": "#e6a65f",
+        "actionText": "#231c2d"
+      },
+      "subject": "A Halloween supper is stirring at The Black Cat",
+      "preheader": "Three autumn courses and a candlelit table.",
+      "headline": "Dinner after dark.\nSomething delicious\nis stirring.",
+      "introduction": "Join us for a Halloween supper with autumn flavours, candlelit tables and just enough mystery to keep the evening interesting.",
+      "primaryAction": "Reserve a Halloween table",
+      "offer": "Three-course Halloween supper · £42",
+      "detail": "Choose your table and sitting when booking.",
+      "sections": [
+        [
+          "To begin",
+          "Roasted pumpkin soup, brown butter and crisp sage."
+        ],
+        [
+          "At the centre",
+          "Wild mushroom pie with a deep red-wine gravy."
+        ],
+        [
+          "One sweet ending",
+          "Dark chocolate tart and spiced poached pear."
+        ]
+      ],
+      "closing": "Come for the candlelight.\nStay for dessert.",
+      "document": "../black-cat-halloween-supper/template.json",
+      "localPreview": "../black-cat-halloween-supper/preview-local.html"
+    },
+    {
+      "id": "pixelcamp-halloween-code",
+      "event": "Halloween",
+      "vertical": "Children’s coding school",
+      "brand": "Pixelcamp",
+      "composition": "programme",
+      "typography": "playful",
+      "palette": {
+        "background": "#18382f",
+        "text": "#fff3d0",
+        "secondary": "#dce8cc",
+        "action": "#f4b35e",
+        "actionText": "#18382f"
+      },
+      "subject": "A Halloween coding adventure for curious kids",
+      "preheader": "A beginner workshop with pumpkins, pixels and plenty to make.",
+      "headline": "Code a little\nHalloween magic.",
+      "introduction": "A friendly first coding workshop where children build a spooky animation, try simple commands and show off what they made.",
+      "primaryAction": "Book a Halloween coding place",
+      "offer": "Halloween animation workshop · £25",
+      "detail": "For ages 8–12. No coding experience needed.",
+      "sections": [
+        [
+          "Imagine",
+          "Choose a friendly Halloween character and plan a short scene."
+        ],
+        [
+          "Build",
+          "Use beginner coding blocks with guidance from the tutor."
+        ],
+        [
+          "Share",
+          "Play the finished animations and take home the project file."
+        ]
+      ],
+      "closing": "Big ideas.\nFriendly little frights.",
+      "document": "../pixelcamp-halloween-code/template.json",
+      "localPreview": "../pixelcamp-halloween-code/preview-local.html"
+    },
+    {
+      "id": "moonbath-halloween-reset",
+      "event": "Halloween",
+      "vertical": "Bath and body care",
+      "brand": "Moonbath",
+      "composition": "ritual",
+      "typography": "literary",
+      "palette": {
+        "background": "#30273c",
+        "text": "#f7eada",
+        "secondary": "#e3d6df",
+        "action": "#e5b895",
+        "actionText": "#30273c"
+      },
+      "subject": "A little Halloween magic for your evening",
+      "preheader": "Meet the limited seasonal bath-and-body ritual.",
+      "headline": "An evening ritual\nfor your inner\nnight owl.",
+      "introduction": "Turn Halloween night into an excuse to close the door, run a warm bath and take your time.",
+      "primaryAction": "Shop the moonlit ritual",
+      "offer": "Moonlit ritual set · £36",
+      "detail": "Bath oil, handmade soap and a candle in one box.",
+      "sections": [
+        [
+          "Set the scene",
+          "Light the candle and put your phone somewhere out of reach."
+        ],
+        [
+          "Take your time",
+          "Add the bath oil according to the bottle directions."
+        ],
+        [
+          "Keep it simple",
+          "Finish with your favourite robe and nowhere else to be."
+        ]
+      ],
+      "closing": "Let the night\nbelong to you.",
+      "document": "../moonbath-halloween-reset/template.json",
+      "localPreview": "../moonbath-halloween-reset/preview-local.html"
+    },
+    {
+      "id": "midnight-reel-halloween",
+      "event": "Halloween",
+      "vertical": "Independent cinema",
+      "brand": "Midnight Reel",
+      "composition": "ticket",
+      "typography": "modern",
+      "palette": {
+        "background": "#191b24",
+        "text": "#f6f0dd",
+        "secondary": "#d3d8df",
+        "action": "#f3a35c",
+        "actionText": "#191b24"
+      },
+      "subject": "Your Halloween double bill is here",
+      "preheader": "Two fictional fright-night features, one cinema ticket.",
+      "headline": "Two films.\nOne very good\nreason to stay up.",
+      "introduction": "Our Halloween double bill pairs slow-building suspense with a late-night creature feature. Bring a friend who’ll share the popcorn.",
+      "primaryAction": "Book the Halloween double bill",
+      "offer": "Two films, one ticket · £18",
+      "detail": "A short interval separates the screenings.",
+      "sections": [
+        [
+          "First screening",
+          "The House Beyond the Pines — a slow-burn tale of an unwelcome return."
+        ],
+        [
+          "At the interval",
+          "Stretch your legs, refill the popcorn and debate the ending."
+        ],
+        [
+          "Second screening",
+          "Something in the Lake — a midnight creature story with a mischievous streak."
+        ]
+      ],
+      "closing": "Stay for\nthe second scream.",
+      "document": "../midnight-reel-halloween/template.json",
+      "localPreview": "../midnight-reel-halloween/preview-local.html"
+    },
+    {
+      "id": "formroom-black-friday",
+      "event": "Black Friday",
+      "vertical": "Furniture and homewares",
+      "brand": "Formroom",
+      "composition": "catalogue",
+      "typography": "architect",
+      "palette": {
+        "background": "#e4dfd2",
+        "text": "#343b34",
+        "secondary": "#586052",
+        "action": "#354b3d",
+        "actionText": "#fbf2df"
+      },
+      "subject": "Black Friday, considered: selected furniture, 20% off",
+      "preheader": "A smaller edit of pieces worth living with.",
+      "headline": "Good furniture.\nA better moment\nto bring it home.",
+      "introduction": "Our Black Friday selection is here: considered pieces for the rooms you use every day, with 20% off selected designs.",
+      "primaryAction": "Explore the Black Friday edit",
+      "offer": "20% off selected furniture",
+      "detail": "The discount is shown on eligible product pages.",
+      "sections": [
+        [
+          "The Oak Lounge Chair",
+          "A solid frame, a generous seat and room to put your feet up."
+        ],
+        [
+          "The Everyday Side Table",
+          "A quiet companion for the book, the lamp and the last cup of tea."
+        ]
+      ],
+      "closing": "Buy for the room\nyou want to live in.",
+      "document": "../formroom-black-friday/template.json",
+      "localPreview": "../formroom-black-friday/preview-local.html"
+    },
+    {
+      "id": "threadline-black-friday",
+      "event": "Black Friday",
+      "vertical": "Contemporary clothing",
+      "brand": "Threadline",
+      "composition": "lookbook",
+      "typography": "fashion",
+      "palette": {
+        "background": "#2f333b",
+        "text": "#fff2df",
+        "secondary": "#dce0e3",
+        "action": "#e8cba4",
+        "actionText": "#2f333b"
+      },
+      "subject": "The Black Friday wardrobe edit: 25% off selected pieces",
+      "preheader": "Quiet staples, useful layers and fewer wardrobe questions.",
+      "headline": "Wear it now.\nReach for it\nnext year.",
+      "introduction": "Build around the pieces you’ll keep reaching for. Our Black Friday edit takes 25% off selected coats, knits and everyday layers.",
+      "primaryAction": "Shop the Black Friday wardrobe",
+      "offer": "25% off selected styles",
+      "detail": "Check eligible colours and sizes on each product page.",
+      "sections": [
+        [
+          "The long coat",
+          "An easy outer layer for workdays, weekends and everything between."
+        ],
+        [
+          "The soft knit",
+          "A simple shape that sits just as well over a shirt as under a coat."
+        ]
+      ],
+      "closing": "Fewer pieces.\nMore ways to wear them.",
+      "document": "../threadline-black-friday/template.json",
+      "localPreview": "../threadline-black-friday/preview-local.html"
+    },
+    {
+      "id": "signalworks-black-friday",
+      "event": "Black Friday",
+      "vertical": "Audio electronics",
+      "brand": "Signalworks",
+      "composition": "offer",
+      "typography": "modern",
+      "palette": {
+        "background": "#172938",
+        "text": "#f6f3e7",
+        "secondary": "#d7e0e7",
+        "action": "#a4e0db",
+        "actionText": "#172938"
+      },
+      "subject": "Black Friday sound edit: selected audio, 30% off",
+      "preheader": "Headphones and speakers for work, walks and slow Sundays.",
+      "headline": "A better soundtrack\nfor the everyday.",
+      "introduction": "Bring your music a little closer. Save 30% on selected headphones and speakers in our Black Friday sound edit.",
+      "primaryAction": "Find my Black Friday sound",
+      "offer": "30% off selected audio",
+      "detail": "Eligible prices appear on the product pages.",
+      "sections": [
+        [
+          "On your own",
+          "Explore over-ear headphones for your personal listening space."
+        ],
+        [
+          "Around the house",
+          "Find a compact speaker for the kitchen counter or bedside table."
+        ]
+      ],
+      "closing": "Press play\non a good choice.",
+      "document": "../signalworks-black-friday/template.json",
+      "localPreview": "../signalworks-black-friday/preview-local.html"
+    },
+    {
+      "id": "movewell-black-friday",
+      "event": "Black Friday",
+      "vertical": "Pilates studio",
+      "brand": "Movewell",
+      "composition": "offer",
+      "typography": "warm",
+      "palette": {
+        "background": "#e9e0d7",
+        "text": "#4c3f45",
+        "secondary": "#67545b",
+        "action": "#88536a",
+        "actionText": "#fff3e7"
+      },
+      "subject": "Your Black Friday class pack: ten classes, plus two",
+      "preheader": "A flexible way to make movement part of your week.",
+      "headline": "Make room\nfor movement.",
+      "introduction": "Start with a class pack that fits your week. Our Black Friday offer adds two classes when you buy a ten-class pass.",
+      "primaryAction": "Choose my class pack",
+      "offer": "Buy 10 classes. Get 2 extra.",
+      "detail": "Valid on the selected studio class pass.",
+      "sections": [
+        [
+          "Pick your classes",
+          "Browse the timetable for a pace and time that suit you."
+        ],
+        [
+          "Use your pass",
+          "Book each class through your account as you go."
+        ],
+        [
+          "Start comfortably",
+          "Check the class descriptions and ask us where to begin."
+        ]
+      ],
+      "closing": "One class\nis a good place to start.",
+      "document": "../movewell-black-friday/template.json",
+      "localPreview": "../movewell-black-friday/preview-local.html"
+    },
+    {
+      "id": "ridgeway-black-friday",
+      "event": "Black Friday",
+      "vertical": "Outdoor equipment",
+      "brand": "Ridgeway",
+      "composition": "fieldguide",
+      "typography": "adventure",
+      "palette": {
+        "background": "#26392f",
+        "text": "#fff1d2",
+        "secondary": "#dde3cb",
+        "action": "#efb665",
+        "actionText": "#26392f"
+      },
+      "subject": "The Ridgeway Black Friday trail edit",
+      "preheader": "Selected outdoor kit, with savings up to 30%.",
+      "headline": "Take the long way.\nSpend a little less.",
+      "introduction": "Black Friday is a good time to sort the kit for your next walk. Save up to 30% on selected packs, layers and trail essentials.",
+      "primaryAction": "Explore the trail-gear offers",
+      "offer": "Up to 30% off selected gear",
+      "detail": "Savings vary by item and are shown online.",
+      "sections": [
+        [
+          "Carry comfortably",
+          "Choose a pack with the space and fit for your route."
+        ],
+        [
+          "Layer for the forecast",
+          "Look for practical layers that work together."
+        ],
+        [
+          "Check the small things",
+          "Make room for water, route information and a spare dry layer."
+        ]
+      ],
+      "closing": "The next good day\nstarts outside.",
+      "document": "../ridgeway-black-friday/template.json",
+      "localPreview": "../ridgeway-black-friday/preview-local.html"
+    },
+    {
+      "id": "wayfarer-black-friday",
+      "event": "Black Friday",
+      "vertical": "Guided travel experiences",
+      "brand": "Wayfarer",
+      "composition": "postcard",
+      "typography": "literary",
+      "palette": {
+        "background": "#e8dac4",
+        "text": "#4a4439",
+        "secondary": "#655b49",
+        "action": "#98533c",
+        "actionText": "#fff1dc"
+      },
+      "subject": "£100 off selected Wayfarer escapes this Black Friday",
+      "preheader": "Small groups, thoughtful routes and somewhere new to go.",
+      "headline": "A good story\nstarts with\na change of scene.",
+      "introduction": "Our Black Friday travel edit brings selected small-group escapes into reach, with £100 off eligible departures.",
+      "primaryAction": "Find my next escape",
+      "offer": "£100 off selected departures",
+      "detail": "Choose an eligible trip and date on the booking page.",
+      "sections": [
+        [
+          "A weekend away",
+          "A short change of scene with the route already considered."
+        ],
+        [
+          "A longer wander",
+          "More time for the places between the obvious stops."
+        ]
+      ],
+      "closing": "Bring your curiosity.\nWe’ll bring the route.",
+      "document": "../wayfarer-black-friday/template.json",
+      "localPreview": "../wayfarer-black-friday/preview-local.html"
+    },
+    {
+      "id": "orbitdesk-cyber-monday",
+      "event": "Cyber Monday",
+      "vertical": "Team productivity software",
+      "brand": "Orbitdesk",
+      "composition": "release",
+      "typography": "modern",
+      "palette": {
+        "background": "#162c47",
+        "text": "#f2f4ec",
+        "secondary": "#d6e2ed",
+        "action": "#beded7",
+        "actionText": "#162c47"
+      },
+      "subject": "Cyber Monday: 20% off your first Orbitdesk annual plan",
+      "preheader": "A clearer place for the work your team shares.",
+      "headline": "Less chasing.\nMore doing.",
+      "introduction": "Give your team one place for projects, notes and the next clear step. Our Cyber Monday offer takes 20% off your first annual plan.",
+      "primaryAction": "See the Cyber Monday plan",
+      "offer": "20% off your first annual plan",
+      "detail": "For eligible new annual subscriptions.",
+      "sections": [
+        [
+          "Projects",
+          "Put owners, due dates and next steps where the whole team can find them."
+        ],
+        [
+          "Notes",
+          "Keep the useful context beside the work it explains."
+        ],
+        [
+          "A clear start",
+          "Compare the plan limits and set up a workspace for your team."
+        ]
+      ],
+      "closing": "Make the next step\neasier to see.",
+      "document": "../orbitdesk-cyber-monday/template.json",
+      "localPreview": "../orbitdesk-cyber-monday/preview-local.html"
+    },
+    {
+      "id": "lingua-cyber-monday",
+      "event": "Cyber Monday",
+      "vertical": "Online language courses",
+      "brand": "Lingua House",
+      "composition": "programme",
+      "typography": "warm",
+      "palette": {
+        "background": "#f2dfc4",
+        "text": "#5a3a37",
+        "secondary": "#74514a",
+        "action": "#a75040",
+        "actionText": "#fff4df"
+      },
+      "subject": "Cyber Monday: your next language course, 25% off",
+      "preheader": "Live beginner lessons, useful conversations and a clear first step.",
+      "headline": "More than\nknowing the words.",
+      "introduction": "Start speaking with a live course that gives you room to practise. Save 25% on selected beginner courses this Cyber Monday.",
+      "primaryAction": "Find my beginner course",
+      "offer": "25% off selected beginner courses",
+      "detail": "Choose your language and course schedule online.",
+      "sections": [
+        [
+          "Start where you are",
+          "Read the level guide and choose a beginner group."
+        ],
+        [
+          "Use real situations",
+          "Practise introductions, questions and everyday conversations."
+        ],
+        [
+          "Keep speaking",
+          "Build on each lesson with short activities between classes."
+        ]
+      ],
+      "closing": "Your first conversation\nstarts with a hello.",
+      "document": "../lingua-cyber-monday/template.json",
+      "localPreview": "../lingua-cyber-monday/preview-local.html"
+    },
+    {
+      "id": "format-cyber-monday",
+      "event": "Cyber Monday",
+      "vertical": "Brand design services",
+      "brand": "Format Studio",
+      "composition": "checklist",
+      "typography": "architect",
+      "palette": {
+        "background": "#ebebe5",
+        "text": "#333e43",
+        "secondary": "#556168",
+        "action": "#ad442e",
+        "actionText": "#fff7e9"
+      },
+      "subject": "A focused brand kit for your next launch",
+      "preheader": "A Cyber Monday service package with the essentials laid out.",
+      "headline": "Give your next launch\na clearer look.",
+      "introduction": "Our Cyber Monday brand-kit offer gives small teams a focused set of launch essentials, with a defined scope and one simple starting point.",
+      "primaryAction": "See the brand-kit package",
+      "offer": "Launch brand kit · £680",
+      "detail": "A fixed-scope studio package for eligible new briefs.",
+      "sections": [
+        [
+          "Direction",
+          "One visual direction based on your brief and audience."
+        ],
+        [
+          "Essentials",
+          "A logo lockup, a colour palette and practical type guidance."
+        ],
+        [
+          "Handover",
+          "Exported files and a short guide to using the kit."
+        ]
+      ],
+      "closing": "A smaller scope.\nA stronger starting point.",
+      "document": "../format-cyber-monday/template.json",
+      "localPreview": "../format-cyber-monday/preview-local.html"
+    },
+    {
+      "id": "stemstory-valentines",
+      "event": "Valentine’s Day",
+      "vertical": "Florist",
+      "brand": "Stemstory",
+      "composition": "lookbook",
+      "typography": "fashion",
+      "palette": {
+        "background": "#f2d9d2",
+        "text": "#66333f",
+        "secondary": "#7a4a54",
+        "action": "#9b364c",
+        "actionText": "#fff4e8"
+      },
+      "subject": "Valentine’s flowers, with your words attached",
+      "preheader": "Seasonal stems, thoughtful wrapping and a note from you.",
+      "headline": "Say it\nin your own way.",
+      "introduction": "A little wild, a little unexpected and made to feel personal. Choose a Valentine’s bouquet with a message only you could write.",
+      "primaryAction": "Choose their Valentine’s bouquet",
+      "offer": "Valentine’s bouquets from £38",
+      "detail": "Add your personal message before checkout.",
+      "sections": [
+        [
+          "The soft-spoken one",
+          "Pale seasonal blooms with an easy, gathered-from-the-garden feel."
+        ],
+        [
+          "The bold romantic",
+          "Deep reds and expressive stems that take up a little more room."
+        ]
+      ],
+      "closing": "The flowers are ours.\nThe words are yours.",
+      "document": "../stemstory-valentines/template.json",
+      "localPreview": "../stemstory-valentines/preview-local.html"
+    },
+    {
+      "id": "cacao-letter-valentines",
+      "event": "Valentine’s Day",
+      "vertical": "Craft chocolatier",
+      "brand": "Cacao Letter",
+      "composition": "catalogue",
+      "typography": "literary",
+      "palette": {
+        "background": "#412c2d",
+        "text": "#fff0dc",
+        "secondary": "#e6d3c5",
+        "action": "#efbaa3",
+        "actionText": "#412c2d"
+      },
+      "subject": "A Valentine’s letter, written in chocolate",
+      "preheader": "A small collection of bonbons, ready to give.",
+      "headline": "A small box.\nA very good\nway to say it.",
+      "introduction": "Our Valentine’s collection pairs dark chocolate, bright fruit and a little surprise. Add a note and let the first bite do the rest.",
+      "primaryAction": "Choose a Valentine’s chocolate box",
+      "offer": "The Valentine’s collection · £26",
+      "detail": "Twelve bonbons, gift packed with your note.",
+      "sections": [
+        [
+          "Dark and bright",
+          "Dark chocolate with a lively raspberry centre."
+        ],
+        [
+          "Soft and slow",
+          "Salted caramel with a smooth milk-chocolate shell."
+        ]
+      ],
+      "closing": "Good words.\nBetter shared chocolate.",
+      "document": "../cacao-letter-valentines/template.json",
+      "localPreview": "../cacao-letter-valentines/preview-local.html"
+    },
+    {
+      "id": "two-tides-valentines",
+      "event": "Valentine’s Day",
+      "vertical": "Spa retreat",
+      "brand": "Two Tides",
+      "composition": "ritual",
+      "typography": "warm",
+      "palette": {
+        "background": "#e7e3db",
+        "text": "#344e50",
+        "secondary": "#4f6666",
+        "action": "#48767a",
+        "actionText": "#fff5e3"
+      },
+      "subject": "A quieter Valentine’s afternoon for two",
+      "preheader": "A shared spa visit, without a packed itinerary.",
+      "headline": "Time for two.\nNothing else\non the calendar.",
+      "introduction": "Spend Valentine’s Day somewhere quiet. Our shared spa afternoon leaves room for a treatment, a long tea and time together.",
+      "primaryAction": "Plan a spa afternoon for two",
+      "offer": "Shared spa afternoon from £140",
+      "detail": "For two guests. Choose an available date and treatment.",
+      "sections": [
+        [
+          "Arrive",
+          "Settle in with a warm drink and a little space to exhale."
+        ],
+        [
+          "Your treatment",
+          "Choose from the treatments included in your booking."
+        ],
+        [
+          "Stay awhile",
+          "Leave time for the lounge before you head back out."
+        ]
+      ],
+      "closing": "A little more time\nfor each other.",
+      "document": "../two-tides-valentines/template.json",
+      "localPreview": "../two-tides-valentines/preview-local.html"
+    },
+    {
+      "id": "afterlight-valentines",
+      "event": "Valentine’s Day",
+      "vertical": "Museum evenings",
+      "brand": "Afterlight Museum",
+      "composition": "ticket",
+      "typography": "architect",
+      "palette": {
+        "background": "#232d46",
+        "text": "#f8eede",
+        "secondary": "#dbe0ed",
+        "action": "#e9b3a5",
+        "actionText": "#232d46"
+      },
+      "subject": "Valentine’s after hours at Afterlight",
+      "preheader": "An evening of art, wandering and a shared first impression.",
+      "headline": "A different\nkind of date.",
+      "introduction": "Wander the galleries after hours, share a drink and see what starts a conversation. Our Valentine’s late opening is made for curious company.",
+      "primaryAction": "Book the Valentine’s museum evening",
+      "offer": "After-hours entry · £16 per person",
+      "detail": "Choose a timed entry slot online.",
+      "sections": [
+        [
+          "Look together",
+          "Explore the galleries at your own pace."
+        ],
+        [
+          "Talk it over",
+          "Pause at the café for a drink and a different point of view."
+        ],
+        [
+          "Make a night of it",
+          "Check the evening programme before your visit."
+        ]
+      ],
+      "closing": "Find something\nto talk about.",
+      "document": "../afterlight-valentines/template.json",
+      "localPreview": "../afterlight-valentines/preview-local.html"
+    },
+    {
+      "id": "claykin-mothers-day",
+      "event": "Mother’s Day",
+      "vertical": "Pottery workshops",
+      "brand": "Claykin",
+      "composition": "programme",
+      "typography": "craft",
+      "palette": {
+        "background": "#e8d3c0",
+        "text": "#613f32",
+        "secondary": "#765344",
+        "action": "#a5563c",
+        "actionText": "#fff5e2"
+      },
+      "subject": "A Mother’s Day gift you can make together",
+      "preheader": "A relaxed mug-making workshop for two.",
+      "headline": "Make a memory.\nAnd a slightly\nwonky mug.",
+      "introduction": "Give Mum an afternoon together at the pottery table. Shape your own mugs, share a cup of tea and leave the perfection at the door.",
+      "primaryAction": "Book our Mother’s Day pottery table",
+      "offer": "Mug-making for two · £76",
+      "detail": "Clay, tools, glaze and firing included.",
+      "sections": [
+        [
+          "Get your hands in",
+          "We’ll show you a simple hand-building technique."
+        ],
+        [
+          "Find your shape",
+          "Make a mug that feels like you, complete with its own character."
+        ],
+        [
+          "Choose the finish",
+          "Pick a glaze and we’ll explain firing and collection."
+        ]
+      ],
+      "closing": "Time together,\nwith something to keep.",
+      "document": "../claykin-mothers-day/template.json",
+      "localPreview": "../claykin-mothers-day/preview-local.html"
+    },
+    {
+      "id": "greenhouse-mothers-day",
+      "event": "Mother’s Day",
+      "vertical": "Garden shop",
+      "brand": "The Greenhouse",
+      "composition": "fieldguide",
+      "typography": "craft",
+      "palette": {
+        "background": "#e5e8d4",
+        "text": "#35503c",
+        "secondary": "#53684c",
+        "action": "#53724d",
+        "actionText": "#fff6dd"
+      },
+      "subject": "A growing kind of Mother’s Day gift",
+      "preheader": "Thoughtful plants and useful things for her garden.",
+      "headline": "For the one\nwho helps\neverything grow.",
+      "introduction": "Find a Mother’s Day gift that keeps putting out new leaves. Our garden edit brings together flowering plants, useful tools and small growing pleasures.",
+      "primaryAction": "Explore Mother’s Day garden gifts",
+      "offer": "The Mother’s Day garden edit",
+      "detail": "Choose a plant, a practical gift or a little of both.",
+      "sections": [
+        [
+          "A sunny windowsill",
+          "Choose a compact plant that suits indoor light."
+        ],
+        [
+          "A pot by the door",
+          "Look for seasonal flowers with a little height and colour."
+        ],
+        [
+          "A well-loved garden",
+          "Find tools and small comforts she’ll use through the season."
+        ]
+      ],
+      "closing": "A little care\ngoes a long way.",
+      "document": "../greenhouse-mothers-day/template.json",
+      "localPreview": "../greenhouse-mothers-day/preview-local.html"
+    },
+    {
+      "id": "morning-table-mothers-day",
+      "event": "Mother’s Day",
+      "vertical": "Brunch café",
+      "brand": "The Morning Table",
+      "composition": "menu",
+      "typography": "warm",
+      "palette": {
+        "background": "#f2e2c8",
+        "text": "#654630",
+        "secondary": "#795d43",
+        "action": "#9b5f3a",
+        "actionText": "#fff5e2"
+      },
+      "subject": "A Mother’s Day table, with breakfast taken care of",
+      "preheader": "Choose your brunch time and bring the good company.",
+      "headline": "Let someone else\ndo the breakfast.",
+      "introduction": "Bring Mum to the table and we’ll take care of the rest. Our Mother’s Day brunch is made for long conversations and a second cup.",
+      "primaryAction": "Reserve our Mother’s Day brunch",
+      "offer": "Mother’s Day brunch · £24 per person",
+      "detail": "Includes a main dish and a hot drink.",
+      "sections": [
+        [
+          "Something savoury",
+          "Eggs on sourdough, with seasonal greens and your choice of sides."
+        ],
+        [
+          "Something sweet",
+          "French toast, bright berries and a little maple syrup."
+        ],
+        [
+          "Something to linger over",
+          "Coffee, tea and no reason to rush the conversation."
+        ]
+      ],
+      "closing": "Her morning.\nYour treat.",
+      "document": "../morning-table-mothers-day/template.json",
+      "localPreview": "../morning-table-mothers-day/preview-local.html"
+    },
+    {
+      "id": "first-light-fathers-day",
+      "event": "Father’s Day",
+      "vertical": "Specialty coffee",
+      "brand": "First Light Roasters",
+      "composition": "catalogue",
+      "typography": "modern",
+      "palette": {
+        "background": "#352a23",
+        "text": "#fff0da",
+        "secondary": "#e6d8c4",
+        "action": "#dca66a",
+        "actionText": "#352a23"
+      },
+      "subject": "A Father’s Day gift for the first cup",
+      "preheader": "Fresh coffee and useful brewing extras, ready to give.",
+      "headline": "For his\nfirst good cup\nof the day.",
+      "introduction": "A fresh roast, a favourite mug and a quiet five minutes. Find a Father’s Day coffee gift that fits his morning.",
+      "primaryAction": "Choose his coffee gift",
+      "offer": "Father’s Day coffee gifts from £22",
+      "detail": "Choose whole bean or ground for his brewer.",
+      "sections": [
+        [
+          "The morning duo",
+          "Two seasonal roasts for a little variety in the cupboard."
+        ],
+        [
+          "The brewing companion",
+          "A simple ceramic cup and a bag of his next favourite roast."
+        ]
+      ],
+      "closing": "Start with\nsomething he’ll use.",
+      "document": "../first-light-fathers-day/template.json",
+      "localPreview": "../first-light-fathers-day/preview-local.html"
+    },
+    {
+      "id": "spoke-fathers-day",
+      "event": "Father’s Day",
+      "vertical": "Cycling shop",
+      "brand": "Spoke & Sons",
+      "composition": "checklist",
+      "typography": "adventure",
+      "palette": {
+        "background": "#e2e5db",
+        "text": "#2d443d",
+        "secondary": "#50635a",
+        "action": "#a95738",
+        "actionText": "#fff4df"
+      },
+      "subject": "A Father’s Day gift for his next ride",
+      "preheader": "A service voucher he can book when it suits him.",
+      "headline": "Give him\na smoother\nSunday ride.",
+      "introduction": "A bike-service voucher is a useful kind of Father’s Day gift. He picks the appointment; we help get his bike ready for the road.",
+      "primaryAction": "Choose a bike-service gift voucher",
+      "offer": "Service gift vouchers from £45",
+      "detail": "Select an amount and add your message.",
+      "sections": [
+        [
+          "Choose",
+          "Pick the voucher value that fits your gift."
+        ],
+        [
+          "Give",
+          "Add a note and send it to yourself or directly to him."
+        ],
+        [
+          "Book",
+          "He contacts the workshop to choose a suitable service appointment."
+        ]
+      ],
+      "closing": "For wherever\nthe next ride takes him.",
+      "document": "../spoke-fathers-day/template.json",
+      "localPreview": "../spoke-fathers-day/preview-local.html"
+    },
+    {
+      "id": "meadow-house-easter",
+      "event": "Easter",
+      "vertical": "Farmstay accommodation",
+      "brand": "Meadow House",
+      "composition": "postcard",
+      "typography": "literary",
+      "palette": {
+        "background": "#ede5c9",
+        "text": "#4d5039",
+        "secondary": "#656749",
+        "action": "#9c5d3e",
+        "actionText": "#fff6dd"
+      },
+      "subject": "Your Easter weekend, a little closer to the countryside",
+      "preheader": "A farmhouse stay with breakfast and room to wander.",
+      "headline": "A little closer\nto spring.",
+      "introduction": "Swap the Easter rush for muddy boots, long breakfasts and fresh air at Meadow House. There’s room to make the weekend your own.",
+      "primaryAction": "Plan our Easter farmstay",
+      "offer": "Two-night Easter stays from £290",
+      "detail": "Based on two guests sharing, with breakfast.",
+      "sections": [
+        [
+          "Wake to the fields",
+          "Start slowly with breakfast and a view beyond the windows."
+        ],
+        [
+          "Head outside",
+          "Ask us about local walks and places to stop along the way."
+        ],
+        [
+          "Come back cosy",
+          "Bring a book and leave a little time unplanned."
+        ]
+      ],
+      "closing": "Fresh air.\nA slower kind of Easter.",
+      "document": "../meadow-house-easter/template.json",
+      "localPreview": "../meadow-house-easter/preview-local.html"
+    },
+    {
+      "id": "spring-common-easter",
+      "event": "Easter",
+      "vertical": "Community family events",
+      "brand": "Spring Common",
+      "composition": "fieldguide",
+      "typography": "playful",
+      "palette": {
+        "background": "#f0e7c7",
+        "text": "#4f5637",
+        "secondary": "#616847",
+        "action": "#866740",
+        "actionText": "#fff6df"
+      },
+      "subject": "Follow the clues at the Spring Common Easter trail",
+      "preheader": "A family afternoon of clues, fresh air and a little reward.",
+      "headline": "A small hunt.\nA big spring\nafternoon.",
+      "introduction": "Bring the family to our Easter trail for clues, fresh air and a little something at the finish. All you need is a basket and a curious eye.",
+      "primaryAction": "Book our Easter-trail places",
+      "offer": "Easter trail · £6 per child",
+      "detail": "Accompanying adults join free.",
+      "sections": [
+        [
+          "Collect your sheet",
+          "Start at the welcome tent and pick up the trail clues."
+        ],
+        [
+          "Take your time",
+          "Follow the route together and enjoy the spring details."
+        ],
+        [
+          "Find the finish",
+          "Bring the completed sheet back for your trail reward."
+        ]
+      ],
+      "closing": "Make a little\nspring memory.",
+      "document": "../spring-common-easter/template.json",
+      "localPreview": "../spring-common-easter/preview-local.html"
+    },
+    {
+      "id": "stillday-new-year",
+      "event": "New Year",
+      "vertical": "Yoga studio",
+      "brand": "Stillday",
+      "composition": "ritual",
+      "typography": "warm",
+      "palette": {
+        "background": "#e4e8df",
+        "text": "#3a5550",
+        "secondary": "#506860",
+        "action": "#507369",
+        "actionText": "#fff6df"
+      },
+      "subject": "A gentler way to begin the year",
+      "preheader": "A welcoming New Year yoga session, with no experience needed.",
+      "headline": "Begin gently.",
+      "introduction": "You don’t need a new version of yourself to start the year. Join our New Year practice for simple movement, a slower breath and a little space.",
+      "primaryAction": "Book the New Year practice",
+      "offer": "New Year studio practice · £18",
+      "detail": "A 75-minute session with tea afterwards.",
+      "sections": [
+        [
+          "Arrive",
+          "Settle onto your mat and meet the teacher."
+        ],
+        [
+          "Move",
+          "Follow a gentle sequence with options explained throughout."
+        ],
+        [
+          "Stay",
+          "Finish with a quiet rest and an unhurried cup of tea."
+        ]
+      ],
+      "closing": "Start where you are.\nThat’s enough.",
+      "document": "../stillday-new-year/template.json",
+      "localPreview": "../stillday-new-year/preview-local.html"
+    },
+    {
+      "id": "clearbooks-new-year",
+      "event": "New Year",
+      "vertical": "Small-business bookkeeping",
+      "brand": "Clearbooks Studio",
+      "composition": "checklist",
+      "typography": "architect",
+      "palette": {
+        "background": "#e7ebe6",
+        "text": "#2f4a47",
+        "secondary": "#506a64",
+        "action": "#376c68",
+        "actionText": "#fff7e9"
+      },
+      "subject": "Start the year with a clearer bookkeeping plan",
+      "preheader": "A focused review for small-business owners.",
+      "headline": "A clearer start\nfor your books.",
+      "introduction": "Begin the year knowing what’s organised and what still needs attention. Our bookkeeping review turns a loose pile of tasks into a practical next-step list.",
+      "primaryAction": "Book my New Year bookkeeping review",
+      "offer": "New Year bookkeeping review · £95",
+      "detail": "A focused review and a written action list.",
+      "sections": [
+        [
+          "Bring the basics",
+          "We’ll tell you which records to prepare before the call."
+        ],
+        [
+          "Review together",
+          "Walk through your current bookkeeping process and open questions."
+        ],
+        [
+          "Leave with a list",
+          "Receive a practical summary of the agreed next steps."
+        ]
+      ],
+      "closing": "Less wondering\nwhere to start.",
+      "document": "../clearbooks-new-year/template.json",
+      "localPreview": "../clearbooks-new-year/preview-local.html"
+    },
+    {
+      "id": "miles-ahead-new-year",
+      "event": "New Year",
+      "vertical": "Community running club",
+      "brand": "Miles Ahead",
+      "composition": "programme",
+      "typography": "adventure",
+      "palette": {
+        "background": "#183d4a",
+        "text": "#fff4dd",
+        "secondary": "#d9e6e6",
+        "action": "#e8c36b",
+        "actionText": "#183d4a"
+      },
+      "subject": "A friendly first run for the New Year",
+      "preheader": "Run, walk or mix the two. Come meet the group.",
+      "headline": "Your first mile\ncan be a\nsocial one.",
+      "introduction": "Start the year with a welcoming run-walk group. We’ll meet you at your pace, introduce you to the route and finish with a coffee stop.",
+      "primaryAction": "Join the New Year run-walk",
+      "offer": "First group session · Free",
+      "detail": "An easy local route with run-walk options.",
+      "sections": [
+        [
+          "Meet",
+          "Find the group leader at the park entrance."
+        ],
+        [
+          "Move",
+          "Choose a run-walk pace that feels comfortable for you."
+        ],
+        [
+          "Stay for coffee",
+          "Get to know a few names before the next session."
+        ]
+      ],
+      "closing": "A new year.\nA few new running friends.",
+      "document": "../miles-ahead-new-year/template.json",
+      "localPreview": "../miles-ahead-new-year/preview-local.html"
+    },
+    {
+      "id": "paperpath-back-to-school",
+      "event": "Back to school",
+      "vertical": "Stationery",
+      "brand": "Paperpath",
+      "composition": "catalogue",
+      "typography": "playful",
+      "palette": {
+        "background": "#f0ddbd",
+        "text": "#533f38",
+        "secondary": "#71574a",
+        "action": "#a9533b",
+        "actionText": "#fff6e5"
+      },
+      "subject": "Meet the Paperpath back-to-school edit",
+      "preheader": "Useful stationery for the first day and all the days after.",
+      "headline": "A fresh page\nfor all the\nnext things.",
+      "introduction": "The new school edit is here: practical notebooks, good pencils and a place for the little things that always go missing.",
+      "primaryAction": "Shop the school-stationery edit",
+      "offer": "Back-to-school essentials from £4",
+      "detail": "Build your own set from the new collection.",
+      "sections": [
+        [
+          "A place to write",
+          "Choose a notebook size that fits the bag and the subject."
+        ],
+        [
+          "A place to keep things",
+          "A sturdy pencil case for pens, pencils and the spare eraser."
+        ]
+      ],
+      "closing": "Small things.\nA good start.",
+      "document": "../paperpath-back-to-school/template.json",
+      "localPreview": "../paperpath-back-to-school/preview-local.html"
+    },
+    {
+      "id": "brightstart-back-to-school",
+      "event": "Back to school",
+      "vertical": "Tutoring",
+      "brand": "Brightstart",
+      "composition": "letter",
+      "typography": "warm",
+      "palette": {
+        "background": "#e4e9db",
+        "text": "#3e5142",
+        "secondary": "#566851",
+        "action": "#4b745a",
+        "actionText": "#fff5dc"
+      },
+      "subject": "A clearer first step for the new school year",
+      "preheader": "Meet a tutor, talk through priorities and plan the next step.",
+      "headline": "Start the term\nwith a clearer plan.",
+      "introduction": "A new school year can bring a lot of questions. Our introductory tutoring session helps you work out where to begin and what support could look like.",
+      "primaryAction": "Book an introductory tutoring session",
+      "offer": "Introductory tutoring session · £20",
+      "detail": "A first conversation for the student and parent or carer.",
+      "sections": [
+        [
+          "Share",
+          "Tell us about the subject, school stage and current concerns."
+        ],
+        [
+          "Explore",
+          "Meet a tutor and talk through a few example tasks."
+        ],
+        [
+          "Plan",
+          "Discuss a possible approach without committing to a package."
+        ]
+      ],
+      "closing": "A little clarity\nbefore the term gets busy.",
+      "document": "../brightstart-back-to-school/template.json",
+      "localPreview": "../brightstart-back-to-school/preview-local.html"
+    },
+    {
+      "id": "saltline-summer-sale",
+      "event": "Summer sale",
+      "vertical": "Swimwear",
+      "brand": "Saltline",
+      "composition": "lookbook",
+      "typography": "fashion",
+      "palette": {
+        "background": "#dfebdf",
+        "text": "#2e5556",
+        "secondary": "#486c6c",
+        "action": "#df9d73",
+        "actionText": "#234444"
+      },
+      "subject": "The Saltline summer sale: selected swimwear, 25% off",
+      "preheader": "Find your next swim-day favourite in the summer edit.",
+      "headline": "More sea days.\nA little less\nto spend.",
+      "introduction": "Our summer sale takes 25% off selected swimwear. Find the shape and colour you’ll pack for a swim, a weekend or a long afternoon by the water.",
+      "primaryAction": "Shop the summer swimwear sale",
+      "offer": "25% off selected swimwear",
+      "detail": "Check size and colour availability on each product page.",
+      "sections": [
+        [
+          "The one-piece",
+          "A clean, simple silhouette for long days by the water."
+        ],
+        [
+          "The mix-and-match set",
+          "Choose the top and bottom sizes that work for you."
+        ]
+      ],
+      "closing": "Your next dip\nis a good enough reason.",
+      "document": "../saltline-summer-sale/template.json",
+      "localPreview": "../saltline-summer-sale/preview-local.html"
+    },
+    {
+      "id": "azura-summer-sale",
+      "event": "Summer sale",
+      "vertical": "Coastal hotel",
+      "brand": "Azura Rooms",
+      "composition": "postcard",
+      "typography": "fashion",
+      "palette": {
+        "background": "#e3e5cf",
+        "text": "#365f65",
+        "secondary": "#49686b",
+        "action": "#3c7781",
+        "actionText": "#fff5dd"
+      },
+      "subject": "Your midweek summer stay, with 15% off selected rooms",
+      "preheader": "A quieter coastal escape, with breakfast included.",
+      "headline": "A few days\nin a different\nshade of blue.",
+      "introduction": "Our summer stay offer gives you 15% off selected midweek rooms. Pick your dates and leave a little time for the pool.",
+      "primaryAction": "Find my summer stay",
+      "offer": "15% off selected midweek stays",
+      "detail": "Breakfast included on eligible bookings.",
+      "sections": [
+        [
+          "Wake slowly",
+          "Start with breakfast before you decide where to go."
+        ],
+        [
+          "Follow the water",
+          "Stay by the pool or ask us about the local coast."
+        ],
+        [
+          "Keep one afternoon free",
+          "A book, a shaded chair and no next appointment."
+        ]
+      ],
+      "closing": "Book the room.\nLeave space for the rest.",
+      "document": "../azura-summer-sale/template.json",
+      "localPreview": "../azura-summer-sale/preview-local.html"
+    },
+    {
+      "id": "mend-earth-day",
+      "event": "Earth Day",
+      "vertical": "Community repair café",
+      "brand": "Mend Together",
+      "composition": "fieldguide",
+      "typography": "craft",
+      "palette": {
+        "background": "#e4dfc9",
+        "text": "#425342",
+        "secondary": "#56644e",
+        "action": "#58764c",
+        "actionText": "#fff5dc"
+      },
+      "subject": "Earth Day: bring something worth mending",
+      "preheader": "A community repair café, with a place at the table for you.",
+      "headline": "Before you\nreplace it,\nbring it.",
+      "introduction": "Mark Earth Day with a practical kind of care. Our repair café brings neighbours and useful skills around one table to see what can be mended.",
+      "primaryAction": "Reserve a repair-café slot",
+      "offer": "Earth Day repair café · Free entry",
+      "detail": "Reserve a slot and tell us what you’re bringing.",
+      "sections": [
+        [
+          "Describe it",
+          "Tell us what the item is and what seems to be wrong."
+        ],
+        [
+          "Bring the pieces",
+          "Include parts, fastenings and any useful information you have."
+        ],
+        [
+          "Work together",
+          "Meet a volunteer and explore whether a repair is possible."
+        ]
+      ],
+      "closing": "A little skill.\nA little more life.",
+      "document": "../mend-earth-day/template.json",
+      "localPreview": "../mend-earth-day/preview-local.html"
+    },
+    {
+      "id": "bluecurrent-giving-tuesday",
+      "event": "Giving Tuesday",
+      "vertical": "Ocean conservation",
+      "brand": "Bluecurrent",
+      "composition": "impact",
+      "typography": "modern",
+      "palette": {
+        "background": "#123f50",
+        "text": "#f0f4e5",
+        "secondary": "#d3e4df",
+        "action": "#b9d9ba",
+        "actionText": "#123f50"
+      },
+      "subject": "Giving Tuesday: help care for the coast",
+      "preheader": "Support the tools and practical costs of local shore care.",
+      "headline": "A cleaner coast\nstarts with\na little care.",
+      "introduction": "This Giving Tuesday, help put practical tools into the hands of local coast-care volunteers. Your one-off gift supports the work behind a cleaner shoreline.",
+      "primaryAction": "Support the coast-care work",
+      "offer": "Make a one-off Giving Tuesday gift",
+      "detail": "Choose an amount that works for you.",
+      "sections": [
+        [
+          "Tools",
+          "Help provide reusable collection bags, gloves and practical kit."
+        ],
+        [
+          "Organisation",
+          "Support the preparation and coordination behind volunteer days."
+        ],
+        [
+          "Follow-through",
+          "Contribute to responsible sorting and disposal after a clean-up."
+        ]
+      ],
+      "closing": "A place we share.\nA little care we can give.",
+      "document": "../bluecurrent-giving-tuesday/template.json",
+      "localPreview": "../bluecurrent-giving-tuesday/preview-local.html"
+    }
+  ]
+}

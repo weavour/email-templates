@@ -13,7 +13,17 @@ Public, editable email templates for [Weavour](https://weavour.com). One directo
 
 ## Catalog
 
-101 templates across distinct niches. The latest 80 have been reviewed for image relevance, campaign-specific copy, contrast and mobile reading order. The manifest is the complete catalog index; the table below highlights the original collection. [Browse the collection preview](catalog-preview.jpg).
+[Forty seasonal email designs](seasonal-campaigns/) span Christmas, Halloween, Black Friday, Cyber Monday, Valentine’s Day and eight more occasions across different verticals. Includes native editable layouts, original continuous backgrounds, local previews and copy notes.
+
+Featured creative workshop: [Wildform — Make art with a little sunshine](wildform-sunprint/) uses one continuous cyanotype background, Palatino typography and clear beginner-focused booking copy. [Local preview](wildform-sunprint/preview-local.html) · [Desktop](wildform-sunprint/screenshot.png) · [Mobile](wildform-sunprint/screenshot-mobile.png).
+
+Featured continuous design: [Nocturne — Some nights are worth staying for](nocturne-garden-supper/) layers editable text over three coordinated native layout backgrounds. [Local preview](nocturne-garden-supper/preview-local.html) · [Desktop](nocturne-garden-supper/screenshot.png) · [Mobile](nocturne-garden-supper/screenshot-mobile.png).
+
+Featured new design: [A slower shade of summer](casa-mare-summer/) — an editorial Mediterranean stay with four original photographs. [Desktop preview](casa-mare-summer/screenshot.png) · [Mobile preview](casa-mare-summer/screenshot-mobile.png).
+
+The newest ten designs include a watch dossier, supper-club menu, product release bulletin, rail itinerary, evening letter, cinema programme, homewares catalogue, race bib, writing-school correspondence and river appeal. [Browse all ten](NEW-TEMPLATES.md) · [Collection preview](new-ten-preview.jpg).
+
+154 templates across distinct niches. The latest 80 have been reviewed for image relevance, campaign-specific copy, contrast and mobile reading order. The manifest is the complete catalog index; the table below highlights the original collection. [Browse the collection preview](catalog-preview.jpg).
 
 Reviewed collection previews: [1–20](review-preview-1.jpg) · [21–40](review-preview-2.jpg) · [41–60](review-preview-3.jpg) · [61–80](review-preview-4.jpg). [Review findings](REVIEW.md) · [Per-template review inventory](review-latest-80.json).
 

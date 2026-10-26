@@ -1,0 +1,408 @@
+{
+  "templates": 40,
+  "sourceCatalog": 154,
+  "events": 13,
+  "industries": 11,
+  "results": [
+    {
+      "id": "winterhearth-christmas-stay",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "crumbkind-christmas-bakes",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "aureole-christmas-jewels",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "paws-home-christmas-appeal",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "velvet-curtain-christmas-gala",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "parcel-co-christmas-gifting",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "lantern-trail-halloween",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "black-cat-halloween-supper",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "pixelcamp-halloween-code",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "moonbath-halloween-reset",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "midnight-reel-halloween",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "formroom-black-friday",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "threadline-black-friday",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "signalworks-black-friday",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "movewell-black-friday",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "ridgeway-black-friday",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "wayfarer-black-friday",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "orbitdesk-cyber-monday",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "lingua-cyber-monday",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "format-cyber-monday",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "stemstory-valentines",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "cacao-letter-valentines",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "two-tides-valentines",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "afterlight-valentines",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "claykin-mothers-day",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "greenhouse-mothers-day",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "morning-table-mothers-day",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "first-light-fathers-day",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "spoke-fathers-day",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "meadow-house-easter",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "spring-common-easter",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "stillday-new-year",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "clearbooks-new-year",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "miles-ahead-new-year",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "paperpath-back-to-school",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "brightstart-back-to-school",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "saltline-summer-sale",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "azura-summer-sale",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "mend-earth-day",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    },
+    {
+      "id": "bluecurrent-giving-tuesday",
+      "backgrounds": 1,
+      "solidFallback": true,
+      "overflow": false,
+      "buttons": 2,
+      "destinations": 1,
+      "unsubscribe": true,
+      "keyboard": true
+    }
+  ]
+}

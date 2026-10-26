@@ -1,0 +1,1464 @@
+{
+  "schemaVersion": 1,
+  "subject": "Four friends. One city. Your next relay.",
+  "preheader": "Make a team of four for an untimed Sunday morning by the river.",
+  "content": {
+    "type": "doc",
+    "attrs": {
+      "mergeTagReferences": [],
+      "emailAudit": null,
+      "documentSchemaVersion": 1
+    },
+    "content": [
+      {
+        "type": "globalContent",
+        "attrs": {
+          "data": {
+            "theme": "basic",
+            "styles": [
+              {
+                "id": "body",
+                "title": "Background",
+                "classReference": "body",
+                "inputs": [
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "#e4e9f0",
+                    "prop": "backgroundColor",
+                    "classReference": "body"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "body",
+                    "value": 24
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "body"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "body",
+                    "value": 24
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "body"
+                  }
+                ]
+              },
+              {
+                "id": "container",
+                "title": "Content",
+                "classReference": "container",
+                "inputs": [
+                  {
+                    "label": "Align",
+                    "type": "select",
+                    "value": "center",
+                    "options": {
+                      "left": "Left",
+                      "center": "Center",
+                      "right": "Right"
+                    },
+                    "prop": "align",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Width",
+                    "type": "number",
+                    "value": 600,
+                    "unit": "px",
+                    "prop": "width",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Height",
+                    "type": "number",
+                    "unit": "px",
+                    "prop": "height",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Text",
+                    "type": "color",
+                    "value": "#132148",
+                    "prop": "color",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "#ffffff",
+                    "prop": "backgroundColor",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Corner radius",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "container"
+                  },
+                  {
+                    "label": "Border color",
+                    "type": "color",
+                    "value": "#000000",
+                    "prop": "borderColor",
+                    "classReference": "container"
+                  }
+                ]
+              },
+              {
+                "id": "typography",
+                "title": "Text",
+                "classReference": "body",
+                "inputs": [
+                  {
+                    "label": "Font size",
+                    "type": "number",
+                    "value": 14,
+                    "unit": "px",
+                    "prop": "fontSize",
+                    "classReference": "body"
+                  },
+                  {
+                    "label": "Line Height",
+                    "type": "number",
+                    "value": 155,
+                    "unit": "%",
+                    "prop": "lineHeight",
+                    "classReference": "container"
+                  }
+                ]
+              },
+              {
+                "id": "h1",
+                "title": "Title",
+                "category": "Text",
+                "classReference": "h1",
+                "inputs": [
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "h1",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "h1",
+                    "value": "#132148"
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingLeft",
+                    "type": "text",
+                    "prop": "paddingLeft",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingRight",
+                    "type": "text",
+                    "prop": "paddingRight",
+                    "classReference": "h1",
+                    "value": 0
+                  },
+                  {
+                    "label": "fontWeight",
+                    "type": "text",
+                    "prop": "fontWeight",
+                    "classReference": "h1",
+                    "value": 700
+                  }
+                ]
+              },
+              {
+                "id": "h2",
+                "title": "Subtitle",
+                "category": "Text",
+                "classReference": "h2",
+                "inputs": [
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "h2",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "h2",
+                    "value": "#132148"
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingLeft",
+                    "type": "text",
+                    "prop": "paddingLeft",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingRight",
+                    "type": "text",
+                    "prop": "paddingRight",
+                    "classReference": "h2",
+                    "value": 0
+                  },
+                  {
+                    "label": "fontWeight",
+                    "type": "text",
+                    "prop": "fontWeight",
+                    "classReference": "h2",
+                    "value": 700
+                  }
+                ]
+              },
+              {
+                "id": "h3",
+                "title": "Heading",
+                "category": "Text",
+                "classReference": "h3",
+                "inputs": [
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "h3",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "h3",
+                    "value": "#132148"
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingLeft",
+                    "type": "text",
+                    "prop": "paddingLeft",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "paddingRight",
+                    "type": "text",
+                    "prop": "paddingRight",
+                    "classReference": "h3",
+                    "value": 0
+                  },
+                  {
+                    "label": "fontWeight",
+                    "type": "text",
+                    "prop": "fontWeight",
+                    "classReference": "h3",
+                    "value": 700
+                  }
+                ]
+              },
+              {
+                "id": "paragraph",
+                "title": "Paragraph",
+                "category": "Text",
+                "classReference": "paragraph",
+                "inputs": [
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "prop": "paddingLeft",
+                    "classReference": "paragraph",
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "prop": "paddingRight",
+                    "classReference": "paragraph",
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "fontFamily",
+                    "type": "text",
+                    "prop": "fontFamily",
+                    "classReference": "paragraph",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "label": "fontSize",
+                    "type": "text",
+                    "prop": "fontSize",
+                    "classReference": "paragraph",
+                    "value": 16
+                  },
+                  {
+                    "label": "lineHeight",
+                    "type": "text",
+                    "prop": "lineHeight",
+                    "classReference": "paragraph",
+                    "value": 1.65
+                  },
+                  {
+                    "label": "color",
+                    "type": "text",
+                    "prop": "color",
+                    "classReference": "paragraph",
+                    "value": "#465573"
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "paragraph",
+                    "value": 0
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "paragraph",
+                    "value": 0
+                  }
+                ]
+              },
+              {
+                "id": "list",
+                "title": "List",
+                "category": "Text",
+                "classReference": "list",
+                "inputs": []
+              },
+              {
+                "id": "nested-list",
+                "title": "Nested List",
+                "category": "Text",
+                "classReference": "nestedList",
+                "inputs": []
+              },
+              {
+                "id": "list-item",
+                "title": "List Item",
+                "category": "Text",
+                "classReference": "listItem",
+                "inputs": []
+              },
+              {
+                "id": "link",
+                "title": "Link",
+                "classReference": "link",
+                "inputs": [
+                  {
+                    "label": "Color",
+                    "type": "color",
+                    "value": "#163bc4",
+                    "prop": "color",
+                    "classReference": "link"
+                  },
+                  {
+                    "label": "Decoration",
+                    "type": "select",
+                    "value": "underline",
+                    "prop": "textDecoration",
+                    "options": {
+                      "underline": "Underline",
+                      "none": "None"
+                    },
+                    "classReference": "link"
+                  }
+                ]
+              },
+              {
+                "id": "image",
+                "title": "Image",
+                "classReference": "image",
+                "inputs": [
+                  {
+                    "label": "Border radius",
+                    "type": "number",
+                    "value": 0,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "image"
+                  }
+                ]
+              },
+              {
+                "id": "button",
+                "title": "Button",
+                "classReference": "button",
+                "inputs": [
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "#283346",
+                    "prop": "backgroundColor",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Text color",
+                    "type": "color",
+                    "value": "#132148",
+                    "prop": "color",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Radius",
+                    "type": "number",
+                    "value": 6,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "value": 24,
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "value": 24,
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "button"
+                  },
+                  {
+                    "label": "Font weight",
+                    "type": "select",
+                    "prop": "fontWeight",
+                    "classReference": "button",
+                    "value": 600,
+                    "options": {
+                      "300": "Light",
+                      "400": "Normal",
+                      "600": "Semi Bold",
+                      "700": "Bold",
+                      "800": "Extra Bold"
+                    }
+                  },
+                  {
+                    "label": "marginTop",
+                    "type": "text",
+                    "prop": "marginTop",
+                    "classReference": "button",
+                    "value": 16,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "marginBottom",
+                    "type": "text",
+                    "prop": "marginBottom",
+                    "classReference": "button",
+                    "value": 16,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "marginLeft",
+                    "type": "text",
+                    "prop": "marginLeft",
+                    "classReference": "button",
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  {
+                    "label": "marginRight",
+                    "type": "text",
+                    "prop": "marginRight",
+                    "classReference": "button",
+                    "value": 0,
+                    "unit": "px"
+                  }
+                ]
+              },
+              {
+                "id": "code-block",
+                "title": "Code Block",
+                "classReference": "codeBlock",
+                "inputs": [
+                  {
+                    "label": "Border Radius",
+                    "type": "number",
+                    "value": 4,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Top",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingTop",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Bottom",
+                    "type": "number",
+                    "value": 12,
+                    "unit": "px",
+                    "prop": "paddingBottom",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Left",
+                    "type": "number",
+                    "value": 16,
+                    "unit": "px",
+                    "prop": "paddingLeft",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Padding Right",
+                    "type": "number",
+                    "value": 16,
+                    "unit": "px",
+                    "prop": "paddingRight",
+                    "classReference": "codeBlock"
+                  },
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "prop": "backgroundColor",
+                    "classReference": "codeBlock",
+                    "value": "transparent"
+                  }
+                ]
+              },
+              {
+                "id": "inline-code",
+                "title": "Inline Code",
+                "classReference": "inlineCode",
+                "inputs": [
+                  {
+                    "label": "Background",
+                    "type": "color",
+                    "value": "transparent",
+                    "prop": "backgroundColor",
+                    "classReference": "inlineCode"
+                  },
+                  {
+                    "label": "Text color",
+                    "type": "color",
+                    "value": "#132148",
+                    "prop": "color",
+                    "classReference": "inlineCode"
+                  },
+                  {
+                    "label": "Radius",
+                    "type": "number",
+                    "value": 4,
+                    "unit": "px",
+                    "prop": "borderRadius",
+                    "classReference": "inlineCode"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "container",
+        "content": [
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:24px 30px;background-color:#ffffff",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:29px;line-height:1.6;color:#163bc4;font-weight:700;letter-spacing:-0.8px",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "STRIDE"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.6;color:#465573;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A relay for the whole city."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "twoColumns",
+            "attrs": {
+              "style": "margin:0;padding:30px;background-color:#d8f565",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": "",
+              "align": null,
+              "width": null,
+              "height": null,
+              "id": null,
+              "class": null,
+              "title": null,
+              "lang": null,
+              "dir": null,
+              "data-id": null,
+              "cellspacing": null
+            },
+            "content": [
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:0 20px 0 0;vertical-align:top",
+                  "alignment": null,
+                  "class": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "52%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:60px;line-height:1.08;font-weight:700;color:#163bc4;letter-spacing:-0.6px;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 1
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "4×5"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 8
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:17px;line-height:1.6;color:#132148;font-weight:700",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Four friends. Five kilometres each."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 16
+                    }
+                  },
+                  {
+                    "type": "horizontalRule",
+                    "attrs": {
+                      "style": "margin:0;border:0;border-top:1px solid #163bc4",
+                      "class": "divider",
+                      "hideOnMobile": false
+                    }
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 12
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.6;color:#132148;font-weight:700",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "CITY RELAY\n18 APRIL 2027"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:0;vertical-align:top",
+                  "alignment": null,
+                  "class": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "48%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:28px;line-height:1.08;font-weight:700;color:#163bc4;letter-spacing:-0.6px;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Your city.\nYour team.\nYour pace."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 18
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.6;color:#132148;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "One baton. Twenty kilometres. A finish line you cross together."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:28px 30px;background-color:#ffffff",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:30px;line-height:1.08;font-weight:700;color:#132148;letter-spacing:-0.6px;",
+                  "alignment": "left",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The best part is who you run with."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 14
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.6;color:#132148;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bring your usual running crew, your workmates or three friends who are up for something new. Stride City Relay is an untimed morning on the riverside, with a five-kilometre loop for every teammate."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "twoColumns",
+            "attrs": {
+              "style": "margin:0;padding:28px 30px;background-color:#edf1ff",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": "",
+              "align": null,
+              "width": null,
+              "height": null,
+              "id": null,
+              "class": null,
+              "title": null,
+              "lang": null,
+              "dir": null,
+              "data-id": null,
+              "cellspacing": null
+            },
+            "content": [
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:0 18px 0 0;vertical-align:top",
+                  "alignment": null,
+                  "class": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "50%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.6;color:#163bc4;font-weight:700",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "THE DISTANCE"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 6
+                    }
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:30px;line-height:1.08;font-weight:700;color:#132148;letter-spacing:-0.6px;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "5 km each"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 8
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.6;color:#465573;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Four laps. Four runners.\nA flat riverside loop."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:0;vertical-align:top",
+                  "alignment": null,
+                  "class": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "50%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.6;color:#163bc4;font-weight:700",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "THE START"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 6
+                    }
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:30px;line-height:1.08;font-weight:700;color:#132148;letter-spacing:-0.6px;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "09:00"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 8
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.6;color:#465573;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Sunday 18 April\nRiverside Exchange"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:28px 30px;background-color:#ffffff",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:28px;line-height:1.08;font-weight:700;color:#132148;letter-spacing:-0.6px;",
+                  "alignment": "left",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Know your lap."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 18
+                }
+              },
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;border:0;border-top:1px solid #b9c7ef",
+                  "class": "divider",
+                  "hideOnMobile": false
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 16
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:17px;line-height:1.6;color:#163bc4;font-weight:700",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Start at Riverside Exchange"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.6;color:#465573;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Follow the promenade past the market, turn at Mill Bridge and return along the water. Every runner follows the same signed loop."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 20
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:17px;line-height:1.6;color:#163bc4;font-weight:700",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Find your team in the changeover zone"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.6;color:#465573;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Marshals guide each handover. Once your final runner returns, regroup for a finish-line photo and coffee by the river."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 20
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:17px;line-height:1.6;color:#163bc4;font-weight:700",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "All paces welcome"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.6;color:#465573;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Run, jog or mix in a walk. This is a shared morning out, with no chip times or podium pressure."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:30px;background-color:#163bc4",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:36px;line-height:1.08;font-weight:700;color:#ffffff;letter-spacing:-0.6px;",
+                  "alignment": "left",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Four places.\nOne good Sunday."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 16
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.6;color:#e3e9ff;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "£48 per team of four. Your entry includes race bibs, a shared baton and water at the exchange. Bring your own refillable bottle."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 22
+                }
+              },
+              {
+                "type": "button",
+                "attrs": {
+                  "style": "margin:0;padding:16px 24px;background-color:#d8f565;color:#132148;font-family:Arial,sans-serif;font-size:16px;font-weight:700;line-height:1.4;border-radius:0;text-decoration:none",
+                  "alignment": "left",
+                  "class": "button",
+                  "hideOnMobile": false,
+                  "href": "https://example.com/stride/city-relay"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Register your team"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 16
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.6;color:#e3e9ff;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Team check-in opens at 08:15. Registration closes 11 April or when places fill."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:24px 30px;background-color:#ffffff",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:22px;line-height:1.6;color:#163bc4;font-weight:700",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "STRIDE"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 8
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:12px;line-height:1.6;color:#465573;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You’re receiving event news from Stride.\nSee you by the river."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 12
+                }
+              },
+              {
+                "type": "unsubscribe",
+                "attrs": {
+                  "style": "font-size:12px;line-height:1.5;color:#465573;font-family:Arial,sans-serif",
+                  "hideOnMobile": false,
+                  "id": "unsubscribe_url",
+                  "token": "{{unsubscribe_url}}",
+                  "label": "Unsubscribe",
+                  "alignment": "left"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "previewHtml": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html style=\"font-size:14px\" dir=\"ltr\" lang=\"en\"><head><meta content=\"width=device-width\" name=\"viewport\"/><meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"telephone=no,address=no,email=no,date=no,url=no\" name=\"format-detection\"/><title>Make a team of four for an untimed Sunday morning by the river.</title><style>@media (prefers-color-scheme: dark){li::marker{color:#c4c4c4}}</style><style>@media only screen and (max-width:600px){.wv-hide-mobile,.wv-columns .wv-column.wv-hide-mobile{display:none!important;max-height:0!important;overflow:hidden!important}}</style></head><body dir=\"ltr\" lang=\"en\" style=\"margin:0;background-color:#e4e9f0;padding-top:0;padding-bottom:0\"><!--$--><!--html--><!--head--><div style=\"display:none;overflow:hidden;line-height:1px;opacity:0;max-height:0;max-width:0\" data-skip-in-text=\"true\">Make a team of four for an untimed Sunday morning by the river.<div> ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿</div></div><!--body--><table border=\"0\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" align=\"center\"><tbody><tr><td dir=\"ltr\" lang=\"en\" style=\"font-family:-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, &#x27;Roboto&#x27;, &#x27;Oxygen&#x27;, &#x27;Ubuntu&#x27;, &#x27;Cantarell&#x27;, &#x27;Fira Sans&#x27;, &#x27;Droid Sans&#x27;, &#x27;Helvetica Neue&#x27;, sans-serif;font-size:1em;min-height:100%;line-height:155%;background-color:#e4e9f0;padding-top:24px;padding-bottom:24px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"max-width:600px;align:center;width:100%;color:#132148;background-color:#ffffff;border-radius:0px;border-color:#000000;line-height:155%\"><tbody><tr style=\"width:100%\"><td style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#ffffff\"><tbody><tr><td style=\"padding:24px 30px\"><p style=\"margin:0;padding:0;font-size:29px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#163bc4;margin-top:0;margin-bottom:0;font-weight:700;letter-spacing:-0.8px;text-align:left\">STRIDE</p><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#465573;margin-top:0;margin-bottom:0;text-align:left\">A relay for the whole city.</p></td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:30px;background-color:#d8f565\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"padding:0 20px 0 0;vertical-align:top;width:52%\"><h1 style=\"margin:0;padding:0;font-size:60px;line-height:1.08;padding-top:0.389em;font-weight:700;font-family:Arial,sans-serif;color:#163bc4;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.6px;text-align:left\">4×5</h1><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"8\" aria-hidden=\"true\" style=\"height:8px;padding:0;font-size:0;line-height:8px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:17px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#132148;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">Four friends. Five kilometres each.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"16\" aria-hidden=\"true\" style=\"height:16px;padding:0;font-size:0;line-height:16px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #163bc4;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#132148;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">CITY RELAY\n18 APRIL 2027</p></td><td data-id=\"__react-email-column\" style=\"padding:0;vertical-align:top;width:48%\"><h2 style=\"margin:0;padding:0;font-size:28px;line-height:1.08;padding-top:0.389em;font-weight:700;font-family:Arial,sans-serif;color:#163bc4;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.6px;text-align:left\">Your city.\nYour team.\nYour pace.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#132148;margin-top:0;margin-bottom:0;text-align:left\">One baton. Twenty kilometres. A finish line you cross together.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#ffffff\"><tbody><tr><td style=\"padding:28px 30px\"><h2 style=\"margin:0;padding:0;font-size:30px;line-height:1.08;padding-top:0.389em;font-weight:700;font-family:Arial,sans-serif;color:#132148;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.6px;text-align:left\">The best part is who you run with.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"14\" aria-hidden=\"true\" style=\"height:14px;padding:0;font-size:0;line-height:14px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#132148;margin-top:0;margin-bottom:0;text-align:left\">Bring your usual running crew, your workmates or three friends who are up for something new. Stride City Relay is an untimed morning on the riverside, with a five-kilometre loop for every teammate.</p></td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:28px 30px;background-color:#edf1ff\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"padding:0 18px 0 0;vertical-align:top;width:50%\"><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#163bc4;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">THE DISTANCE</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"6\" aria-hidden=\"true\" style=\"height:6px;padding:0;font-size:0;line-height:6px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:30px;line-height:1.08;padding-top:0.389em;font-weight:700;font-family:Arial,sans-serif;color:#132148;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.6px;text-align:left\">5 km each</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"8\" aria-hidden=\"true\" style=\"height:8px;padding:0;font-size:0;line-height:8px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#465573;margin-top:0;margin-bottom:0;text-align:left\">Four laps. Four runners.\nA flat riverside loop.</p></td><td data-id=\"__react-email-column\" style=\"padding:0;vertical-align:top;width:50%\"><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#163bc4;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">THE START</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"6\" aria-hidden=\"true\" style=\"height:6px;padding:0;font-size:0;line-height:6px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:30px;line-height:1.08;padding-top:0.389em;font-weight:700;font-family:Arial,sans-serif;color:#132148;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.6px;text-align:left\">09:00</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"8\" aria-hidden=\"true\" style=\"height:8px;padding:0;font-size:0;line-height:8px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#465573;margin-top:0;margin-bottom:0;text-align:left\">Sunday 18 April\nRiverside Exchange</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#ffffff\"><tbody><tr><td style=\"padding:28px 30px\"><h2 style=\"margin:0;padding:0;font-size:28px;line-height:1.08;padding-top:0.389em;font-weight:700;font-family:Arial,sans-serif;color:#132148;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.6px;text-align:left\">Know your lap.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #b9c7ef;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"16\" aria-hidden=\"true\" style=\"height:16px;padding:0;font-size:0;line-height:16px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:17px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#163bc4;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">Start at Riverside Exchange</p><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#465573;margin-top:0;margin-bottom:0;text-align:left\">Follow the promenade past the market, turn at Mill Bridge and return along the water. Every runner follows the same signed loop.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"20\" aria-hidden=\"true\" style=\"height:20px;padding:0;font-size:0;line-height:20px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:17px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#163bc4;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">Find your team in the changeover zone</p><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#465573;margin-top:0;margin-bottom:0;text-align:left\">Marshals guide each handover. Once your final runner returns, regroup for a finish-line photo and coffee by the river.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"20\" aria-hidden=\"true\" style=\"height:20px;padding:0;font-size:0;line-height:20px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:17px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#163bc4;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">All paces welcome</p><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#465573;margin-top:0;margin-bottom:0;text-align:left\">Run, jog or mix in a walk. This is a shared morning out, with no chip times or podium pressure.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#163bc4\"><tbody><tr><td style=\"padding:30px\"><h2 style=\"margin:0;padding:0;font-size:36px;line-height:1.08;padding-top:0.389em;font-weight:700;font-family:Arial,sans-serif;color:#ffffff;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.6px;text-align:left\">Four places.\nOne good Sunday.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"16\" aria-hidden=\"true\" style=\"height:16px;padding:0;font-size:0;line-height:16px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#e3e9ff;margin-top:0;margin-bottom:0;text-align:left\">£48 per team of four. Your entry includes race bibs, a shared baton and water at the exchange. Bring your own refillable bottle.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"22\" aria-hidden=\"true\" style=\"height:22px;padding:0;font-size:0;line-height:22px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"left\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/stride/city-relay\" style=\"line-height:1.4;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:16px 24px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#d8f565;color:#132148;border-radius:0;font-weight:700;font-size:16px;text-align:center;margin-top:16px;margin-bottom:16px;margin-left:0px;margin-right:0px;font-family:Arial,sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">Register your team</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"16\" aria-hidden=\"true\" style=\"height:16px;padding:0;font-size:0;line-height:16px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#e3e9ff;margin-top:0;margin-bottom:0;text-align:left\">Team check-in opens at 08:15. Registration closes 11 April or when places fill.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#ffffff\"><tbody><tr><td style=\"padding:24px 30px\"><p style=\"margin:0;padding:0;font-size:22px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#163bc4;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">STRIDE</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"8\" aria-hidden=\"true\" style=\"height:8px;padding:0;font-size:0;line-height:8px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.6;color:#465573;margin-top:0;margin-bottom:0;text-align:left\">You’re receiving event news from Stride.\nSee you by the river.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><div style=\"margin:0;padding:16px 8px;font-family:Arial, sans-serif;font-size:12px;line-height:1.5;color:rgb(70, 85, 115);text-align:left\"><a href=\"{{unsubscribe_url}}\" style=\"color:inherit;text-decoration:underline\">Unsubscribe</a></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!--/$--></body></html>"
+}

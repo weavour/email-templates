@@ -1,0 +1,1458 @@
+{
+  "schemaVersion": 1,
+  "subject": "A slower shade of summer, at Casa Mare",
+  "preheader": "Open shutters, long breakfasts and a little more room for the sea.",
+  "content": {
+    "type": "doc",
+    "attrs": {
+      "mergeTagReferences": [],
+      "emailAudit": null,
+      "documentSchemaVersion": 1
+    },
+    "content": [
+      {
+        "type": "globalContent",
+        "attrs": {
+          "data": {
+            "styles": [
+              {
+                "classReference": "body",
+                "id": "body",
+                "inputs": [
+                  {
+                    "classReference": "body",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#e6e9e6"
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px"
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px"
+                  }
+                ],
+                "title": "Background"
+              },
+              {
+                "classReference": "container",
+                "id": "container",
+                "inputs": [
+                  {
+                    "classReference": "container",
+                    "label": "Align",
+                    "options": {
+                      "center": "Center",
+                      "left": "Left",
+                      "right": "Right"
+                    },
+                    "prop": "align",
+                    "type": "select",
+                    "value": "center"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Width",
+                    "prop": "width",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 600
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Height",
+                    "prop": "height",
+                    "type": "number",
+                    "unit": "px"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Text",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#173c51"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#fbf7ee"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Corner radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Border color",
+                    "prop": "borderColor",
+                    "type": "color",
+                    "value": "#000000"
+                  }
+                ],
+                "title": "Content"
+              },
+              {
+                "classReference": "body",
+                "id": "typography",
+                "inputs": [
+                  {
+                    "classReference": "body",
+                    "label": "Font size",
+                    "prop": "fontSize",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 14
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Line Height",
+                    "prop": "lineHeight",
+                    "type": "number",
+                    "unit": "%",
+                    "value": 155
+                  }
+                ],
+                "title": "Text"
+              },
+              {
+                "category": "Text",
+                "classReference": "h1",
+                "id": "h1",
+                "inputs": [
+                  {
+                    "classReference": "h1",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#49312b"
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Title"
+              },
+              {
+                "category": "Text",
+                "classReference": "h2",
+                "id": "h2",
+                "inputs": [
+                  {
+                    "classReference": "h2",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#49312b"
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Subtitle"
+              },
+              {
+                "category": "Text",
+                "classReference": "h3",
+                "id": "h3",
+                "inputs": [
+                  {
+                    "classReference": "h3",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#49312b"
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Heading"
+              },
+              {
+                "category": "Text",
+                "classReference": "paragraph",
+                "id": "paragraph",
+                "inputs": [
+                  {
+                    "classReference": "paragraph",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Arial, sans-serif"
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "fontSize",
+                    "prop": "fontSize",
+                    "type": "text",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "lineHeight",
+                    "prop": "lineHeight",
+                    "type": "text",
+                    "value": 1.7
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#75574c"
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Paragraph"
+              },
+              {
+                "category": "Text",
+                "classReference": "list",
+                "id": "list",
+                "inputs": [],
+                "title": "List"
+              },
+              {
+                "category": "Text",
+                "classReference": "nestedList",
+                "id": "nested-list",
+                "inputs": [],
+                "title": "Nested List"
+              },
+              {
+                "category": "Text",
+                "classReference": "listItem",
+                "id": "list-item",
+                "inputs": [],
+                "title": "List Item"
+              },
+              {
+                "classReference": "link",
+                "id": "link",
+                "inputs": [
+                  {
+                    "classReference": "link",
+                    "label": "Color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#0670DB"
+                  },
+                  {
+                    "classReference": "link",
+                    "label": "Decoration",
+                    "options": {
+                      "none": "None",
+                      "underline": "Underline"
+                    },
+                    "prop": "textDecoration",
+                    "type": "select",
+                    "value": "underline"
+                  }
+                ],
+                "title": "Link"
+              },
+              {
+                "classReference": "image",
+                "id": "image",
+                "inputs": [
+                  {
+                    "classReference": "image",
+                    "label": "Border radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Image"
+              },
+              {
+                "classReference": "button",
+                "id": "button",
+                "inputs": [
+                  {
+                    "classReference": "button",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#283346"
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Text color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#ffffff"
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 6
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Font weight",
+                    "options": {
+                      "300": "Light",
+                      "400": "Normal",
+                      "600": "Semi Bold",
+                      "700": "Bold",
+                      "800": "Extra Bold"
+                    },
+                    "prop": "fontWeight",
+                    "type": "select",
+                    "value": 600
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginLeft",
+                    "prop": "marginLeft",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginRight",
+                    "prop": "marginRight",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Button"
+              },
+              {
+                "classReference": "codeBlock",
+                "id": "code-block",
+                "inputs": [
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Border Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 4
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "transparent"
+                  }
+                ],
+                "title": "Code Block"
+              },
+              {
+                "classReference": "inlineCode",
+                "id": "inline-code",
+                "inputs": [
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "transparent"
+                  },
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Text color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#1e293b"
+                  },
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 4
+                  }
+                ],
+                "title": "Inline Code"
+              }
+            ],
+            "theme": "basic"
+          }
+        }
+      },
+      {
+        "type": "container",
+        "content": [
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:26px 24px 24px;background-color:#fbf7ee",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Georgia,serif;font-weight:400;font-size:36px;line-height:1.14;color:#173c51;letter-spacing:-0.5px;letter-spacing:3px;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "casa mare"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 6
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:12px;line-height:1.7;color:#173c51;letter-spacing:0.7px;",
+                  "alignment": "center",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A small hotel. A wide-open sea."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:0;background-color:#fbf7ee",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "image",
+                "attrs": {
+                  "style": "display:block;width:100%;height:auto;margin:0;padding:0",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "assetId": null,
+                  "intrinsicWidth": 1200,
+                  "intrinsicHeight": 800,
+                  "assetMetadata": null,
+                  "decorative": false,
+                  "src": "https://assets.weavour.com/templates/casa-mare-summer/hero-11327d0d3047.jpg",
+                  "alt": "A sunlit limestone villa with blue shutters and a terrace above a turquoise Mediterranean cove.",
+                  "width": 600,
+                  "height": "auto",
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:34px 28px 38px;background-color:#fbf7ee",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Georgia,serif;font-weight:400;font-size:46px;line-height:1.14;color:#174aa0;letter-spacing:-0.5px;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 1
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Stay a little closer to the sea."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 20
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.7;color:#52646a;",
+                  "alignment": "center",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Some places ask you to do more. Here, the invitation is simpler: open the shutters, follow the salt air, and let the day find its own rhythm."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 25
+                }
+              },
+              {
+                "type": "button",
+                "attrs": {
+                  "style": "margin:0;padding:15px 25px;font-family:Arial,sans-serif;font-size:15px;line-height:1.5;font-weight:700;color:#fbf7ee;background-color:#174aa0;text-decoration:none;border-radius:0",
+                  "alignment": "center",
+                  "class": "button",
+                  "hideOnMobile": false,
+                  "href": "https://example.com/casa-mare/stays"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Find your days by the sea"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "twoColumns",
+            "attrs": {
+              "style": "margin:0;padding:0;background-color:#e9eff0",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": "",
+              "align": null,
+              "width": null,
+              "height": null,
+              "id": null,
+              "class": null,
+              "title": null,
+              "lang": null,
+              "dir": null,
+              "data-id": null,
+              "cellspacing": null
+            },
+            "content": [
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:0;vertical-align:middle;",
+                  "alignment": null,
+                  "class": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "52%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "image",
+                    "attrs": {
+                      "style": "display:block;width:100%;height:auto;margin:0;padding:0",
+                      "alignment": "center",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "assetId": null,
+                      "intrinsicWidth": 960,
+                      "intrinsicHeight": 1200,
+                      "assetMetadata": null,
+                      "decorative": false,
+                      "src": "https://assets.weavour.com/templates/casa-mare-summer/suite-2aa5d03cdbb3.jpg",
+                      "alt": "An ivory linen bed beside open blue shutters, with the sea visible through the window.",
+                      "width": 312,
+                      "height": "auto",
+                      "href": null
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:0;vertical-align:middle;padding:20px 18px;",
+                  "alignment": null,
+                  "class": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "48%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Georgia,serif;font-weight:400;font-size:28px;line-height:1.14;color:#173c51;letter-spacing:-0.5px;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "A room for doing less."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 14
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.7;color:#52646a;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Soft linen. Open shutters. A sea view worth waking up for."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 18
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:14px;line-height:1.7;color:#174aa0;font-style:italic;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Leave the alarm at home."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:34px 28px;background-color:#fbf7ee",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Georgia,serif;font-weight:400;font-size:33px;line-height:1.14;color:#173c51;letter-spacing:-0.5px;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The luxury of an empty afternoon."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 14
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.7;color:#52646a;",
+                  "alignment": "center",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "No packed itinerary. No race to the next thing. Just a little room to notice what is already here."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "twoColumns",
+            "attrs": {
+              "style": "margin:0;padding:0;background-color:#fbf7ee",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": "",
+              "align": null,
+              "width": null,
+              "height": null,
+              "id": null,
+              "class": null,
+              "title": null,
+              "lang": null,
+              "dir": null,
+              "data-id": null,
+              "cellspacing": null
+            },
+            "content": [
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:0;vertical-align:middle;padding:18px;",
+                  "alignment": null,
+                  "class": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "52%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Georgia,serif;font-weight:400;font-size:28px;line-height:1.14;color:#173c51;letter-spacing:-0.5px;",
+                      "alignment": "left",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Breakfast can wait for you."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 14
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.7;color:#52646a;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Fresh fruit, warm pastry, one more coffee. Take the sunny table and stay for the conversation."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "space",
+                    "attrs": {
+                      "hideOnMobile": false,
+                      "height": 12
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:14px;line-height:1.7;color:#174aa0;font-style:italic;",
+                      "alignment": "left",
+                      "class": "",
+                      "layoutPlaceholder": null,
+                      "hideOnMobile": false
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Good mornings take their time."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "columnsColumn",
+                "attrs": {
+                  "style": "padding:0;vertical-align:middle;",
+                  "alignment": null,
+                  "class": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": "48%",
+                  "height": null,
+                  "id": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null
+                },
+                "content": [
+                  {
+                    "type": "image",
+                    "attrs": {
+                      "style": "display:block;width:100%;height:auto;margin:0;padding:0",
+                      "alignment": "center",
+                      "class": "",
+                      "hideOnMobile": false,
+                      "assetId": null,
+                      "intrinsicWidth": 1200,
+                      "intrinsicHeight": 1200,
+                      "assetMetadata": null,
+                      "decorative": false,
+                      "src": "https://assets.weavour.com/templates/casa-mare-summer/breakfast-22c210684137.jpg",
+                      "alt": "Figs, apricots, a croissant and espresso on blue-striped linen in the morning sunshine.",
+                      "width": 288,
+                      "height": "auto",
+                      "href": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:24px 0 0;background-color:#fbf7ee",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "image",
+                "attrs": {
+                  "style": "display:block;width:100%;height:auto;margin:0;padding:0",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "assetId": null,
+                  "intrinsicWidth": 1200,
+                  "intrinsicHeight": 800,
+                  "assetMetadata": null,
+                  "decorative": false,
+                  "src": "https://assets.weavour.com/templates/casa-mare-summer/cove-6b75a2d21f2a.jpg",
+                  "alt": "A small white wooden boat floating in a clear turquoise cove beside limestone rocks.",
+                  "width": 600,
+                  "height": "auto",
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:26px 28px 34px;background-color:#fbf7ee",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Georgia,serif;font-weight:400;font-size:34px;line-height:1.14;color:#173c51;letter-spacing:-0.5px;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Follow the blue."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 12
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.7;color:#52646a;",
+                  "alignment": "center",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A quiet cove. A slow swim. A boat ride with no reason to look at the time. The coast is yours to discover, one unhurried day at a time."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:34px 26px;background-color:#174aa0",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Georgia,serif;font-weight:400;font-size:36px;line-height:1.14;color:#fbf7ee;letter-spacing:-0.5px;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A few days, beautifully unplanned."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 17
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:16px;line-height:1.7;color:#e2ebf6;",
+                  "alignment": "center",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bring a book. Bring someone you love. We’ll leave a little space for the rest."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 24
+                }
+              },
+              {
+                "type": "button",
+                "attrs": {
+                  "style": "margin:0;padding:15px 25px;font-family:Arial,sans-serif;font-size:15px;line-height:1.5;font-weight:700;color:#173c51;background-color:#f0d77c;text-decoration:none;border-radius:0",
+                  "alignment": "center",
+                  "class": "button",
+                  "hideOnMobile": false,
+                  "href": "https://example.com/casa-mare/book"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make room for Casa Mare"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 17
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:13px;line-height:1.7;color:#e2ebf6;",
+                  "alignment": "center",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Choose your room and dates to plan your stay."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:28px 24px;background-color:#fbf7ee",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Georgia,serif;font-weight:400;font-size:26px;line-height:1.14;color:#173c51;letter-spacing:-0.5px;letter-spacing:2px;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "casa mare"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 8
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:13px;line-height:1.7;color:#52646a;",
+                  "alignment": "center",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Come for the sea. Stay for the way you feel."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 22
+                }
+              },
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;border:0;border-top:1px solid #cad5d7",
+                  "class": "divider",
+                  "hideOnMobile": false
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 18
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;font-family:Arial,sans-serif;font-size:12px;line-height:1.7;color:#52646a;",
+                  "alignment": "center",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Casa Mare · Mediterranean stays, at your own pace."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 12
+                }
+              },
+              {
+                "type": "unsubscribe",
+                "attrs": {
+                  "style": "font-family:Arial,sans-serif;font-size:12px;line-height:1.5;color:#52646a",
+                  "hideOnMobile": false,
+                  "id": "unsubscribe_url",
+                  "token": "{{unsubscribe_url}}",
+                  "label": "Unsubscribe",
+                  "alignment": "center"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "previewHtml": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html style=\"font-size:14px\" dir=\"ltr\" lang=\"en\"><head><meta content=\"width=device-width\" name=\"viewport\"/><meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"telephone=no,address=no,email=no,date=no,url=no\" name=\"format-detection\"/><title>Open shutters, long breakfasts and a little more room for the sea.</title><style>@media (prefers-color-scheme: dark){li::marker{color:#c4c4c4}}</style><style>@media only screen and (max-width:600px){.wv-hide-mobile,.wv-columns .wv-column.wv-hide-mobile{display:none!important;max-height:0!important;overflow:hidden!important}}</style></head><body dir=\"ltr\" lang=\"en\" style=\"margin:0;background-color:#e6e9e6;padding-top:0;padding-bottom:0\"><!--$--><!--html--><!--head--><div style=\"display:none;overflow:hidden;line-height:1px;opacity:0;max-height:0;max-width:0\" data-skip-in-text=\"true\">Open shutters, long breakfasts and a little more room for the sea.<div> ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿</div></div><!--body--><table border=\"0\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" align=\"center\"><tbody><tr><td dir=\"ltr\" lang=\"en\" style=\"font-family:-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, &#x27;Roboto&#x27;, &#x27;Oxygen&#x27;, &#x27;Ubuntu&#x27;, &#x27;Cantarell&#x27;, &#x27;Fira Sans&#x27;, &#x27;Droid Sans&#x27;, &#x27;Helvetica Neue&#x27;, sans-serif;font-size:1em;min-height:100%;line-height:155%;background-color:#e6e9e6;padding-top:24px;padding-bottom:24px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"max-width:600px;align:center;width:100%;color:#173c51;background-color:#fbf7ee;border-radius:0px;border-color:#000000;line-height:155%\"><tbody><tr style=\"width:100%\"><td style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fbf7ee\"><tbody><tr><td style=\"padding:26px 24px 24px\"><h2 style=\"margin:0;padding:0;font-size:36px;line-height:1.14;padding-top:0.389em;font-weight:400;font-family:Georgia,serif;color:#173c51;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:3px;text-align:center\">casa mare</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"6\" aria-hidden=\"true\" style=\"height:6px;padding:0;font-size:0;line-height:6px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.7;color:#173c51;margin-top:0;margin-bottom:0;letter-spacing:0.7px;text-align:center\">A small hotel. A wide-open sea.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fbf7ee\"><tbody><tr><td style=\"padding:0\"><table role=\"presentation\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" border=\"0\" style=\"width:100%;table-layout:fixed\"><tbody><tr><td align=\"center\" style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;text-align:center\"><img src=\"https://assets.weavour.com/templates/casa-mare-summer/hero-11327d0d3047.jpg\" alt=\"A sunlit limestone villa with blue shutters and a terrace above a turquoise Mediterranean cove.\" style=\"outline:none;border:none;text-decoration:none;max-width:100%;border-radius:0px;display:inline-block;width:100%;height:auto;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;object-fit:contain\"/></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fbf7ee\"><tbody><tr><td style=\"padding:34px 28px 38px\"><h1 style=\"margin:0;padding:0;font-size:46px;line-height:1.14;padding-top:0.389em;font-weight:400;font-family:Georgia,serif;color:#174aa0;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.5px;text-align:center\">Stay a little closer to the sea.</h1><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"20\" aria-hidden=\"true\" style=\"height:20px;padding:0;font-size:0;line-height:20px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.7;color:#52646a;margin-top:0;margin-bottom:0;text-align:center\">Some places ask you to do more. Here, the invitation is simpler: open the shutters, follow the salt air, and let the day find its own rhythm.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"25\" aria-hidden=\"true\" style=\"height:25px;padding:0;font-size:0;line-height:25px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"center\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/casa-mare/stays\" style=\"line-height:1.5;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:15px 25px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#174aa0;color:#fbf7ee;border-radius:0;font-weight:700;font-size:15px;text-align:center;margin-top:16px;margin-bottom:16px;margin-left:0px;margin-right:0px;font-family:Arial,sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">Find your days by the sea</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table></td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:0;background-color:#e9eff0\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"padding:0;vertical-align:middle;width:52%\"><table role=\"presentation\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" border=\"0\" style=\"width:100%;table-layout:fixed\"><tbody><tr><td align=\"center\" style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;text-align:center\"><img src=\"https://assets.weavour.com/templates/casa-mare-summer/suite-2aa5d03cdbb3.jpg\" alt=\"An ivory linen bed beside open blue shutters, with the sea visible through the window.\" style=\"outline:none;border:none;text-decoration:none;max-width:100%;border-radius:0px;display:inline-block;width:100%;height:auto;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;object-fit:contain\"/></td></tr></tbody></table></td><td data-id=\"__react-email-column\" style=\"padding:20px 18px;vertical-align:middle;width:48%\"><h2 style=\"margin:0;padding:0;font-size:28px;line-height:1.14;padding-top:0.389em;font-weight:400;font-family:Georgia,serif;color:#173c51;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.5px;text-align:left\">A room for doing less.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"14\" aria-hidden=\"true\" style=\"height:14px;padding:0;font-size:0;line-height:14px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.7;color:#52646a;margin-top:0;margin-bottom:0;text-align:left\">Soft linen. Open shutters. A sea view worth waking up for.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:14px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.7;color:#174aa0;margin-top:0;margin-bottom:0;font-style:italic;text-align:left\">Leave the alarm at home.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fbf7ee\"><tbody><tr><td style=\"padding:34px 28px\"><h2 style=\"margin:0;padding:0;font-size:33px;line-height:1.14;padding-top:0.389em;font-weight:400;font-family:Georgia,serif;color:#173c51;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.5px;text-align:center\">The luxury of an empty afternoon.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"14\" aria-hidden=\"true\" style=\"height:14px;padding:0;font-size:0;line-height:14px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.7;color:#52646a;margin-top:0;margin-bottom:0;text-align:center\">No packed itinerary. No race to the next thing. Just a little room to notice what is already here.</p></td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:0;background-color:#fbf7ee\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"padding:18px;vertical-align:middle;width:52%\"><h2 style=\"margin:0;padding:0;font-size:28px;line-height:1.14;padding-top:0.389em;font-weight:400;font-family:Georgia,serif;color:#173c51;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.5px;text-align:left\">Breakfast can wait for you.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"14\" aria-hidden=\"true\" style=\"height:14px;padding:0;font-size:0;line-height:14px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.7;color:#52646a;margin-top:0;margin-bottom:0;text-align:left\">Fresh fruit, warm pastry, one more coffee. Take the sunny table and stay for the conversation.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:14px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.7;color:#174aa0;margin-top:0;margin-bottom:0;font-style:italic;text-align:left\">Good mornings take their time.</p></td><td data-id=\"__react-email-column\" style=\"padding:0;vertical-align:middle;width:48%\"><table role=\"presentation\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" border=\"0\" style=\"width:100%;table-layout:fixed\"><tbody><tr><td align=\"center\" style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;text-align:center\"><img src=\"https://assets.weavour.com/templates/casa-mare-summer/breakfast-22c210684137.jpg\" alt=\"Figs, apricots, a croissant and espresso on blue-striped linen in the morning sunshine.\" style=\"outline:none;border:none;text-decoration:none;max-width:100%;border-radius:0px;display:inline-block;width:100%;height:auto;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;object-fit:contain\"/></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fbf7ee\"><tbody><tr><td style=\"padding:24px 0 0\"><table role=\"presentation\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" border=\"0\" style=\"width:100%;table-layout:fixed\"><tbody><tr><td align=\"center\" style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;text-align:center\"><img src=\"https://assets.weavour.com/templates/casa-mare-summer/cove-6b75a2d21f2a.jpg\" alt=\"A small white wooden boat floating in a clear turquoise cove beside limestone rocks.\" style=\"outline:none;border:none;text-decoration:none;max-width:100%;border-radius:0px;display:inline-block;width:100%;height:auto;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;object-fit:contain\"/></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fbf7ee\"><tbody><tr><td style=\"padding:26px 28px 34px\"><h2 style=\"margin:0;padding:0;font-size:34px;line-height:1.14;padding-top:0.389em;font-weight:400;font-family:Georgia,serif;color:#173c51;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.5px;text-align:center\">Follow the blue.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.7;color:#52646a;margin-top:0;margin-bottom:0;text-align:center\">A quiet cove. A slow swim. A boat ride with no reason to look at the time. The coast is yours to discover, one unhurried day at a time.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#174aa0\"><tbody><tr><td style=\"padding:34px 26px\"><h2 style=\"margin:0;padding:0;font-size:36px;line-height:1.14;padding-top:0.389em;font-weight:400;font-family:Georgia,serif;color:#fbf7ee;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:-0.5px;text-align:center\">A few days, beautifully unplanned.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"17\" aria-hidden=\"true\" style=\"height:17px;padding:0;font-size:0;line-height:17px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.7;color:#e2ebf6;margin-top:0;margin-bottom:0;text-align:center\">Bring a book. Bring someone you love. We’ll leave a little space for the rest.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"24\" aria-hidden=\"true\" style=\"height:24px;padding:0;font-size:0;line-height:24px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"center\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/casa-mare/book\" style=\"line-height:1.5;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:15px 25px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#f0d77c;color:#173c51;border-radius:0;font-weight:700;font-size:15px;text-align:center;margin-top:16px;margin-bottom:16px;margin-left:0px;margin-right:0px;font-family:Arial,sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">Make room for Casa Mare</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"17\" aria-hidden=\"true\" style=\"height:17px;padding:0;font-size:0;line-height:17px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:13px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.7;color:#e2ebf6;margin-top:0;margin-bottom:0;text-align:center\">Choose your room and dates to plan your stay.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fbf7ee\"><tbody><tr><td style=\"padding:28px 24px\"><h2 style=\"margin:0;padding:0;font-size:26px;line-height:1.14;padding-top:0.389em;font-weight:400;font-family:Georgia,serif;color:#173c51;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;letter-spacing:2px;text-align:center\">casa mare</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"8\" aria-hidden=\"true\" style=\"height:8px;padding:0;font-size:0;line-height:8px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:13px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.7;color:#52646a;margin-top:0;margin-bottom:0;text-align:center\">Come for the sea. Stay for the way you feel.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"22\" aria-hidden=\"true\" style=\"height:22px;padding:0;font-size:0;line-height:22px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #cad5d7;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0.5em;padding-bottom:0.5em;padding-left:0px;padding-right:0px;font-family:Arial,sans-serif;line-height:1.7;color:#52646a;margin-top:0;margin-bottom:0;text-align:center\">Casa Mare · Mediterranean stays, at your own pace.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><div style=\"margin:0;padding:16px 8px;font-family:Arial, sans-serif;font-size:12px;line-height:1.5;color:rgb(82, 100, 106);text-align:center\"><a href=\"{{unsubscribe_url}}\" style=\"color:inherit;text-decoration:underline\">Unsubscribe</a></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!--/$--></body></html>"
+}
