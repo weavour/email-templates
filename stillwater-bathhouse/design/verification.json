@@ -1,0 +1,51 @@
+{
+  "viewports": [
+    {
+      "width": 320,
+      "overflow": false,
+      "imagesLoaded": true,
+      "actionsVisible": true,
+      "keyboardAccess": true
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "imagesLoaded": true,
+      "actionsVisible": true,
+      "keyboardAccess": true
+    },
+    {
+      "width": 600,
+      "overflow": false,
+      "imagesLoaded": true,
+      "actionsVisible": true,
+      "keyboardAccess": true
+    },
+    {
+      "width": 800,
+      "overflow": false,
+      "imagesLoaded": true,
+      "actionsVisible": true,
+      "keyboardAccess": true
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "imagesLoaded": true,
+      "actionsVisible": true,
+      "keyboardAccess": true
+    }
+  ],
+  "fallback": [
+    {
+      "width": 320,
+      "overflow": false,
+      "font": "Arial"
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "font": "Arial"
+    }
+  ]
+}

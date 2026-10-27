@@ -1,0 +1,1238 @@
+{
+  "schemaVersion": 1,
+  "subject": "She has nowhere to be. Except, perhaps, your sofa.",
+  "preheader": "Meet Mabel, twelve years young and ready for a quieter chapter.",
+  "content": {
+    "type": "doc",
+    "attrs": {
+      "mergeTagReferences": [],
+      "emailAudit": null,
+      "documentSchemaVersion": 1
+    },
+    "content": [
+      {
+        "type": "globalContent",
+        "attrs": {
+          "data": {
+            "styles": [
+              {
+                "classReference": "body",
+                "id": "body",
+                "inputs": [
+                  {
+                    "classReference": "body",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#e2d4d0"
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Background"
+              },
+              {
+                "classReference": "container",
+                "id": "container",
+                "inputs": [
+                  {
+                    "classReference": "container",
+                    "label": "Align",
+                    "options": {
+                      "center": "Center",
+                      "left": "Left",
+                      "right": "Right"
+                    },
+                    "prop": "align",
+                    "type": "select",
+                    "value": "center"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Width",
+                    "prop": "width",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 560
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Height",
+                    "prop": "height",
+                    "type": "number",
+                    "unit": "px"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Text",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#4b2938"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#f2e3de"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Corner radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Border color",
+                    "prop": "borderColor",
+                    "type": "color",
+                    "value": "#000000"
+                  }
+                ],
+                "title": "Content"
+              },
+              {
+                "classReference": "body",
+                "id": "typography",
+                "inputs": [
+                  {
+                    "classReference": "body",
+                    "label": "Font size",
+                    "prop": "fontSize",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 14
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Line Height",
+                    "prop": "lineHeight",
+                    "type": "number",
+                    "unit": "%",
+                    "value": 155
+                  }
+                ],
+                "title": "Text"
+              },
+              {
+                "category": "Text",
+                "classReference": "h1",
+                "id": "h1",
+                "inputs": [
+                  {
+                    "classReference": "h1",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Georgia, Times New Roman, serif"
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#4b2938"
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Title"
+              },
+              {
+                "category": "Text",
+                "classReference": "h2",
+                "id": "h2",
+                "inputs": [
+                  {
+                    "classReference": "h2",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Georgia, Times New Roman, serif"
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#4b2938"
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Subtitle"
+              },
+              {
+                "category": "Text",
+                "classReference": "h3",
+                "id": "h3",
+                "inputs": [
+                  {
+                    "classReference": "h3",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Georgia, Times New Roman, serif"
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#4b2938"
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Heading"
+              },
+              {
+                "category": "Text",
+                "classReference": "paragraph",
+                "id": "paragraph",
+                "inputs": [
+                  {
+                    "classReference": "paragraph",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Arial, Helvetica, sans-serif"
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "fontSize",
+                    "prop": "fontSize",
+                    "type": "text",
+                    "value": 15
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "lineHeight",
+                    "prop": "lineHeight",
+                    "type": "text",
+                    "value": 1.7
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#4b2938"
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Paragraph"
+              },
+              {
+                "category": "Text",
+                "classReference": "list",
+                "id": "list",
+                "inputs": [],
+                "title": "List"
+              },
+              {
+                "category": "Text",
+                "classReference": "nestedList",
+                "id": "nested-list",
+                "inputs": [],
+                "title": "Nested List"
+              },
+              {
+                "category": "Text",
+                "classReference": "listItem",
+                "id": "list-item",
+                "inputs": [],
+                "title": "List Item"
+              },
+              {
+                "classReference": "link",
+                "id": "link",
+                "inputs": [
+                  {
+                    "classReference": "link",
+                    "label": "Color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#4b2938"
+                  },
+                  {
+                    "classReference": "link",
+                    "label": "Decoration",
+                    "options": {
+                      "none": "None",
+                      "underline": "Underline"
+                    },
+                    "prop": "textDecoration",
+                    "type": "select",
+                    "value": "underline"
+                  }
+                ],
+                "title": "Link"
+              },
+              {
+                "classReference": "image",
+                "id": "image",
+                "inputs": [
+                  {
+                    "classReference": "image",
+                    "label": "Border radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Image"
+              },
+              {
+                "classReference": "button",
+                "id": "button",
+                "inputs": [
+                  {
+                    "classReference": "button",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#f3ebcd"
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Text color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#1838d0"
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Font weight",
+                    "options": {
+                      "300": "Light",
+                      "400": "Normal",
+                      "600": "Semi Bold",
+                      "700": "Bold",
+                      "800": "Extra Bold"
+                    },
+                    "prop": "fontWeight",
+                    "type": "select",
+                    "value": 600
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginLeft",
+                    "prop": "marginLeft",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginRight",
+                    "prop": "marginRight",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Button"
+              },
+              {
+                "classReference": "codeBlock",
+                "id": "code-block",
+                "inputs": [
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Border Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 4
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "transparent"
+                  }
+                ],
+                "title": "Code Block"
+              },
+              {
+                "classReference": "inlineCode",
+                "id": "inline-code",
+                "inputs": [
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "transparent"
+                  },
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Text color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#4b2938"
+                  },
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 4
+                  }
+                ],
+                "title": "Inline Code"
+              }
+            ],
+            "theme": "basic"
+          }
+        }
+      },
+      {
+        "type": "container",
+        "content": [
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:20px;background-color:#f2e3de;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:1.6;color:#4b2938;letter-spacing:4px;",
+                  "alignment": "center",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "WINDOWSEAT"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:0;background-color:#f2e3de;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "image",
+                "attrs": {
+                  "style": "display:block;width:100%;height:auto;margin:0;padding:0;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "assetId": null,
+                  "intrinsicWidth": 1200,
+                  "intrinsicHeight": 1200,
+                  "assetMetadata": null,
+                  "decorative": false,
+                  "src": "https://assets.weavour.com/templates/windowseat-senior-cats/mabel-window-bb06d93b0995.jpg",
+                  "alt": "A relaxed older cream-and-ginger cat rests her front paws on a sunlit windowsill and looks calmly toward the camera.",
+                  "width": 560,
+                  "height": "auto",
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:16px 20px;background-color:#f2e3de;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:11px;line-height:1.6;color:#4b2938;letter-spacing:1.6px;",
+                  "alignment": "center",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "MABEL  /  12 YEARS YOUNG"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:16px 24px 28px;background-color:#f2e3de;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Georgia, Times New Roman, serif;font-size:46px;line-height:1.08;font-weight:400;color:#4b2938;letter-spacing:-1px;line-height:1.03;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 1
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "She has"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "nowhere"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "to be."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 16
+                }
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Georgia, Times New Roman, serif;font-size:20px;line-height:1.08;font-weight:400;color:#4b2938;font-style:italic;line-height:1.35;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Except, perhaps, your sofa."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:0 26px 27px;background-color:#f2e3de;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:16px;line-height:1.6;color:#4b2938;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dear friend,"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 16
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:16px;line-height:1.6;color:#4b2938;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mabel is twelve. She greets the morning light, finds the warm patch in the room and settles in as if she has been there forever."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 15
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:16px;line-height:1.6;color:#4b2938;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "She is looking for a quieter chapter: kind voices, familiar company and a home with room for an older cat’s rhythm."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 15
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:16px;line-height:1.6;color:#4b2938;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If that sounds like your kind of life, we would love to introduce you."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:23px 26px;background-color:#fffaf3;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;padding:0;border:0;border-top:1px solid #b79f9f;",
+                  "class": "divider",
+                  "hideOnMobile": false
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 17
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:10px;line-height:1.6;color:#4b2938;letter-spacing:1.5px;font-weight:700;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "FAVOURITE PLACE"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 6
+                }
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Georgia, Times New Roman, serif;font-size:23px;line-height:1.08;font-weight:400;color:#4b2938;",
+                  "alignment": "left",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The sunny patch"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "by the window."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 18
+                }
+              },
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;padding:0;border:0;border-top:1px solid #b79f9f;",
+                  "class": "divider",
+                  "hideOnMobile": false
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 17
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:10px;line-height:1.6;color:#4b2938;letter-spacing:1.5px;font-weight:700;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "IDEAL HOME"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 6
+                }
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Georgia, Times New Roman, serif;font-size:23px;line-height:1.08;font-weight:400;color:#4b2938;",
+                  "alignment": "left",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A quiet room."
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "A little company."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 18
+                }
+              },
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;padding:0;border:0;border-top:1px solid #b79f9f;",
+                  "class": "divider",
+                  "hideOnMobile": false
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:27px 26px;background-color:#f2e3de;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "button",
+                "attrs": {
+                  "style": "margin:0;padding:15px 22px;font-family:Arial, Helvetica, sans-serif;font-size:16px;line-height:1.3;font-weight:700;color:#fffaf3;background-color:#4b2938;border-radius:28px;text-decoration:none;max-width:100%;box-sizing:border-box;",
+                  "alignment": "center",
+                  "class": "button",
+                  "hideOnMobile": false,
+                  "href": "https://example.com/windowseat/meet-mabel"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Meet Mabel"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 15
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:1.6;color:#4b2938;",
+                  "alignment": "center",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A friendly introduction."
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "We will talk through the right match together."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 25
+                }
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Georgia, Times New Roman, serif;font-size:28px;line-height:1.08;font-weight:400;color:#4b2938;font-style:italic;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "With love,"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 9
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:11px;line-height:1.6;color:#4b2938;letter-spacing:3px;",
+                  "alignment": "center",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "WINDOWSEAT"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:20px 26px;background-color:#d7dfd1;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:1.6;color:#4b2938;",
+                  "alignment": "center",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Older cats. New chapters."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 16
+                }
+              },
+              {
+                "type": "unsubscribe",
+                "attrs": {
+                  "style": "font-family:Arial, Helvetica, sans-serif;font-size:11px;line-height:1.5;color:#4b2938;",
+                  "hideOnMobile": false,
+                  "id": "unsubscribe_url",
+                  "token": "{{unsubscribe_url}}",
+                  "label": "Unsubscribe",
+                  "alignment": "center"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "previewHtml": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html style=\"font-size:14px\" dir=\"ltr\" lang=\"en\"><head><meta content=\"width=device-width\" name=\"viewport\"/><meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"telephone=no,address=no,email=no,date=no,url=no\" name=\"format-detection\"/><title>Meet Mabel, twelve years young and ready for a quieter chapter.</title><style>@media (prefers-color-scheme: dark){li::marker{color:#c4c4c4}}</style><style>@media only screen and (max-width:600px){.wv-hide-mobile,.wv-columns .wv-column.wv-hide-mobile{display:none!important;max-height:0!important;overflow:hidden!important}}</style></head><body dir=\"ltr\" lang=\"en\" style=\"margin:0;background-color:#e2d4d0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0\"><!--$--><!--html--><!--head--><div style=\"display:none;overflow:hidden;line-height:1px;opacity:0;max-height:0;max-width:0\" data-skip-in-text=\"true\">Meet Mabel, twelve years young and ready for a quieter chapter.<div> ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿</div></div><!--body--><table border=\"0\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" align=\"center\"><tbody><tr><td dir=\"ltr\" lang=\"en\" style=\"font-family:-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, &#x27;Roboto&#x27;, &#x27;Oxygen&#x27;, &#x27;Ubuntu&#x27;, &#x27;Cantarell&#x27;, &#x27;Fira Sans&#x27;, &#x27;Droid Sans&#x27;, &#x27;Helvetica Neue&#x27;, sans-serif;font-size:1em;min-height:100%;line-height:155%;background-color:#e2d4d0;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"max-width:560px;align:center;width:100%;color:#4b2938;background-color:#f2e3de;border-radius:0px;border-color:#000000;line-height:155%\"><tbody><tr style=\"width:100%\"><td style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f2e3de\"><tbody><tr><td style=\"padding:20px\"><p style=\"margin:0;padding:0;font-size:12px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#4b2938;margin-top:0;margin-bottom:0;letter-spacing:4px;text-align:center\">WINDOWSEAT</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f2e3de\"><tbody><tr><td style=\"padding:0\"><table role=\"presentation\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" border=\"0\" style=\"width:100%;table-layout:fixed\"><tbody><tr><td align=\"center\" style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;text-align:center\"><img src=\"https://assets.weavour.com/templates/windowseat-senior-cats/mabel-window-bb06d93b0995.jpg\" alt=\"A relaxed older cream-and-ginger cat rests her front paws on a sunlit windowsill and looks calmly toward the camera.\" style=\"outline:none;border:none;text-decoration:none;max-width:100%;border-radius:0px;display:inline-block;width:100%;height:auto;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;object-fit:contain\"/></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f2e3de\"><tbody><tr><td style=\"padding:16px 20px\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#4b2938;margin-top:0;margin-bottom:0;letter-spacing:1.6px;text-align:center\">MABEL  /  12 YEARS YOUNG</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f2e3de\"><tbody><tr><td style=\"padding:16px 24px 28px\"><h1 style=\"margin:0;padding:0;font-size:46px;line-height:1.03;padding-top:0;font-weight:400;font-family:Georgia, Times New Roman, serif;color:#4b2938;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;letter-spacing:-1px;text-align:center\">She has<br/>nowhere<br/>to be.</h1><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"16\" aria-hidden=\"true\" style=\"height:16px;padding:0;font-size:0;line-height:16px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:20px;line-height:1.35;padding-top:0;font-weight:400;font-family:Georgia, Times New Roman, serif;color:#4b2938;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;font-style:italic;text-align:center\">Except, perhaps, your sofa.</h2></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f2e3de\"><tbody><tr><td style=\"padding:0 26px 27px\"><p style=\"margin:0;padding:0;font-size:16px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#4b2938;margin-top:0;margin-bottom:0;text-align:left\">Dear friend,</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"16\" aria-hidden=\"true\" style=\"height:16px;padding:0;font-size:0;line-height:16px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#4b2938;margin-top:0;margin-bottom:0;text-align:left\">Mabel is twelve. She greets the morning light, finds the warm patch in the room and settles in as if she has been there forever.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"15\" aria-hidden=\"true\" style=\"height:15px;padding:0;font-size:0;line-height:15px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#4b2938;margin-top:0;margin-bottom:0;text-align:left\">She is looking for a quieter chapter: kind voices, familiar company and a home with room for an older cat’s rhythm.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"15\" aria-hidden=\"true\" style=\"height:15px;padding:0;font-size:0;line-height:15px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:16px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#4b2938;margin-top:0;margin-bottom:0;text-align:left\">If that sounds like your kind of life, we would love to introduce you.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fffaf3\"><tbody><tr><td style=\"padding:23px 26px\"><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #b79f9f;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0;padding:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"17\" aria-hidden=\"true\" style=\"height:17px;padding:0;font-size:0;line-height:17px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:10px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#4b2938;margin-top:0;margin-bottom:0;letter-spacing:1.5px;font-weight:700;text-align:left\">FAVOURITE PLACE</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"6\" aria-hidden=\"true\" style=\"height:6px;padding:0;font-size:0;line-height:6px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:23px;line-height:1.08;padding-top:0;font-weight:400;font-family:Georgia, Times New Roman, serif;color:#4b2938;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;text-align:left\">The sunny patch<br/>by the window.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #b79f9f;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0;padding:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"17\" aria-hidden=\"true\" style=\"height:17px;padding:0;font-size:0;line-height:17px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:10px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#4b2938;margin-top:0;margin-bottom:0;letter-spacing:1.5px;font-weight:700;text-align:left\">IDEAL HOME</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"6\" aria-hidden=\"true\" style=\"height:6px;padding:0;font-size:0;line-height:6px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:23px;line-height:1.08;padding-top:0;font-weight:400;font-family:Georgia, Times New Roman, serif;color:#4b2938;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;text-align:left\">A quiet room.<br/>A little company.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #b79f9f;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0;padding:0\"/></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f2e3de\"><tbody><tr><td style=\"padding:27px 26px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"center\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/windowseat/meet-mabel\" style=\"line-height:1.3;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:15px 22px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#4b2938;color:#fffaf3;border-radius:28px;font-weight:700;font-size:16px;text-align:center;margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;font-family:Arial, Helvetica, sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">Meet Mabel</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"15\" aria-hidden=\"true\" style=\"height:15px;padding:0;font-size:0;line-height:15px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#4b2938;margin-top:0;margin-bottom:0;text-align:center\">A friendly introduction.<br/>We will talk through the right match together.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"25\" aria-hidden=\"true\" style=\"height:25px;padding:0;font-size:0;line-height:25px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:28px;line-height:1.08;padding-top:0;font-weight:400;font-family:Georgia, Times New Roman, serif;color:#4b2938;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;font-style:italic;text-align:center\">With love,</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"9\" aria-hidden=\"true\" style=\"height:9px;padding:0;font-size:0;line-height:9px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:11px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#4b2938;margin-top:0;margin-bottom:0;letter-spacing:3px;text-align:center\">WINDOWSEAT</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#d7dfd1\"><tbody><tr><td style=\"padding:20px 26px\"><p style=\"margin:0;padding:0;font-size:12px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#4b2938;margin-top:0;margin-bottom:0;text-align:center\">Older cats. New chapters.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"16\" aria-hidden=\"true\" style=\"height:16px;padding:0;font-size:0;line-height:16px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><div style=\"margin:0;padding:16px 8px;font-family:Arial, Helvetica, sans-serif;font-size:11px;line-height:1.5;color:rgb(75, 41, 56);text-align:center\"><a href=\"{{unsubscribe_url}}\" style=\"color:inherit;text-decoration:underline\">Unsubscribe</a></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!--/$--></body></html>"
+}

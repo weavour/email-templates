@@ -1,0 +1,1478 @@
+{
+  "schemaVersion": 1,
+  "subject": "There is a whole world at ankle height",
+  "preheader": "A slow shore morning, a field notebook and a closer look.",
+  "content": {
+    "type": "doc",
+    "attrs": {
+      "mergeTagReferences": [],
+      "emailAudit": null,
+      "documentSchemaVersion": 1
+    },
+    "content": [
+      {
+        "type": "globalContent",
+        "attrs": {
+          "data": {
+            "styles": [
+              {
+                "classReference": "body",
+                "id": "body",
+                "inputs": [
+                  {
+                    "classReference": "body",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#dce5dd"
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Background"
+              },
+              {
+                "classReference": "container",
+                "id": "container",
+                "inputs": [
+                  {
+                    "classReference": "container",
+                    "label": "Align",
+                    "options": {
+                      "center": "Center",
+                      "left": "Left",
+                      "right": "Right"
+                    },
+                    "prop": "align",
+                    "type": "select",
+                    "value": "center"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Width",
+                    "prop": "width",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 600
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Height",
+                    "prop": "height",
+                    "type": "number",
+                    "unit": "px"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Text",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#143f3a"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#edf0e7"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Corner radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Border color",
+                    "prop": "borderColor",
+                    "type": "color",
+                    "value": "#000000"
+                  }
+                ],
+                "title": "Content"
+              },
+              {
+                "classReference": "body",
+                "id": "typography",
+                "inputs": [
+                  {
+                    "classReference": "body",
+                    "label": "Font size",
+                    "prop": "fontSize",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 14
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Line Height",
+                    "prop": "lineHeight",
+                    "type": "number",
+                    "unit": "%",
+                    "value": 155
+                  }
+                ],
+                "title": "Text"
+              },
+              {
+                "category": "Text",
+                "classReference": "h1",
+                "id": "h1",
+                "inputs": [
+                  {
+                    "classReference": "h1",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Georgia, Times New Roman, serif"
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#143f3a"
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Title"
+              },
+              {
+                "category": "Text",
+                "classReference": "h2",
+                "id": "h2",
+                "inputs": [
+                  {
+                    "classReference": "h2",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Georgia, Times New Roman, serif"
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#143f3a"
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Subtitle"
+              },
+              {
+                "category": "Text",
+                "classReference": "h3",
+                "id": "h3",
+                "inputs": [
+                  {
+                    "classReference": "h3",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Georgia, Times New Roman, serif"
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#143f3a"
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Heading"
+              },
+              {
+                "category": "Text",
+                "classReference": "paragraph",
+                "id": "paragraph",
+                "inputs": [
+                  {
+                    "classReference": "paragraph",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Arial, Helvetica, sans-serif"
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "fontSize",
+                    "prop": "fontSize",
+                    "type": "text",
+                    "value": 15
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "lineHeight",
+                    "prop": "lineHeight",
+                    "type": "text",
+                    "value": 1.7
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#143f3a"
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Paragraph"
+              },
+              {
+                "category": "Text",
+                "classReference": "list",
+                "id": "list",
+                "inputs": [],
+                "title": "List"
+              },
+              {
+                "category": "Text",
+                "classReference": "nestedList",
+                "id": "nested-list",
+                "inputs": [],
+                "title": "Nested List"
+              },
+              {
+                "category": "Text",
+                "classReference": "listItem",
+                "id": "list-item",
+                "inputs": [],
+                "title": "List Item"
+              },
+              {
+                "classReference": "link",
+                "id": "link",
+                "inputs": [
+                  {
+                    "classReference": "link",
+                    "label": "Color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#143f3a"
+                  },
+                  {
+                    "classReference": "link",
+                    "label": "Decoration",
+                    "options": {
+                      "none": "None",
+                      "underline": "Underline"
+                    },
+                    "prop": "textDecoration",
+                    "type": "select",
+                    "value": "underline"
+                  }
+                ],
+                "title": "Link"
+              },
+              {
+                "classReference": "image",
+                "id": "image",
+                "inputs": [
+                  {
+                    "classReference": "image",
+                    "label": "Border radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Image"
+              },
+              {
+                "classReference": "button",
+                "id": "button",
+                "inputs": [
+                  {
+                    "classReference": "button",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#f3ebcd"
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Text color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#1838d0"
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Font weight",
+                    "options": {
+                      "300": "Light",
+                      "400": "Normal",
+                      "600": "Semi Bold",
+                      "700": "Bold",
+                      "800": "Extra Bold"
+                    },
+                    "prop": "fontWeight",
+                    "type": "select",
+                    "value": 600
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginLeft",
+                    "prop": "marginLeft",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginRight",
+                    "prop": "marginRight",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Button"
+              },
+              {
+                "classReference": "codeBlock",
+                "id": "code-block",
+                "inputs": [
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Border Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 4
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "transparent"
+                  }
+                ],
+                "title": "Code Block"
+              },
+              {
+                "classReference": "inlineCode",
+                "id": "inline-code",
+                "inputs": [
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "transparent"
+                  },
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Text color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#143f3a"
+                  },
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 4
+                  }
+                ],
+                "title": "Inline Code"
+              }
+            ],
+            "theme": "basic"
+          }
+        }
+      },
+      {
+        "type": "container",
+        "content": [
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:24px 24px 0;background-color:#edf0e7;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Courier New, Courier, monospace;font-size:11px;line-height:1.6;color:#143f3a;letter-spacing:1.8px;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "TIDEPOOL FIELD SCHOOL"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 12
+                }
+              },
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;padding:0;border:0;border-top:1px solid #8a9e91;",
+                  "class": "divider",
+                  "hideOnMobile": false
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:24px;background-color:#edf0e7;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Courier New, Courier, monospace;font-size:11px;line-height:1.6;color:#a64130;letter-spacing:2px;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "FIELD SESSION 04"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 14
+                }
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Georgia, Times New Roman, serif;font-size:65px;line-height:1.08;font-weight:400;color:#143f3a;letter-spacing:-2px;line-height:0.98;",
+                  "alignment": "left",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "LOOK"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "DOWN."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 15
+                }
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Georgia, Times New Roman, serif;font-size:25px;line-height:1.08;font-weight:400;color:#143f3a;font-style:italic;line-height:1.2;",
+                  "alignment": "left",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A whole world"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "at ankle height."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:0;background-color:#edf0e7;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "image",
+                "attrs": {
+                  "style": "display:block;width:100%;height:auto;margin:0;padding:0;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "assetId": null,
+                  "intrinsicWidth": 1000,
+                  "intrinsicHeight": 1249,
+                  "assetMetadata": null,
+                  "decorative": false,
+                  "src": "https://assets.weavour.com/templates/tidepool-field-school/tidepool-plate-62c5c5b0db4f.jpg",
+                  "alt": "An ink-and-watercolour study of a shallow rock pool with olive seaweed, limpets, pebbles and a green sea anemone.",
+                  "width": 600,
+                  "height": "auto",
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:18px 24px 25px;background-color:#edf0e7;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Courier New, Courier, monospace;font-size:10px;line-height:1.6;color:#143f3a;letter-spacing:0.5px;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "FIELD PLATE 04  /  THE WATER’S EDGE"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 19
+                }
+              },
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;padding:0;border:0;border-top:1px solid #8a9e91;",
+                  "class": "divider",
+                  "hideOnMobile": false
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 18
+                }
+              },
+              {
+                "type": "twoColumns",
+                "attrs": {
+                  "style": "margin:0;padding:0;background-color:transparent;",
+                  "displayCondition": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": null,
+                  "height": null,
+                  "id": null,
+                  "class": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null,
+                  "cellspacing": null
+                },
+                "content": [
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0 8px 0 0;vertical-align:top;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "15%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Georgia, Times New Roman, serif;font-size:28px;line-height:1.08;font-weight:400;color:#a64130;",
+                          "alignment": "left",
+                          "class": "",
+                          "hideOnMobile": false,
+                          "level": 2
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "01"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0;vertical-align:top;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "85%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Georgia, Times New Roman, serif;font-size:22px;line-height:1.08;font-weight:400;color:#143f3a;",
+                          "alignment": "left",
+                          "class": "",
+                          "hideOnMobile": false,
+                          "level": 2
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Notice the small things."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "space",
+                        "attrs": {
+                          "hideOnMobile": false,
+                          "height": 8
+                        }
+                      },
+                      {
+                        "type": "paragraph",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:15px;line-height:1.6;color:#143f3a;",
+                          "alignment": "left",
+                          "class": "",
+                          "layoutPlaceholder": null,
+                          "hideOnMobile": false
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Slow down at the edge of a pool. Look for shapes, movement and the quiet details you usually walk past."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 20
+                }
+              },
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;padding:0;border:0;border-top:1px solid #8a9e91;",
+                  "class": "divider",
+                  "hideOnMobile": false
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 18
+                }
+              },
+              {
+                "type": "twoColumns",
+                "attrs": {
+                  "style": "margin:0;padding:0;background-color:transparent;",
+                  "displayCondition": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": null,
+                  "height": null,
+                  "id": null,
+                  "class": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null,
+                  "cellspacing": null
+                },
+                "content": [
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0 8px 0 0;vertical-align:top;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "15%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Georgia, Times New Roman, serif;font-size:28px;line-height:1.08;font-weight:400;color:#a64130;",
+                          "alignment": "left",
+                          "class": "",
+                          "hideOnMobile": false,
+                          "level": 2
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "02"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0;vertical-align:top;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "85%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Georgia, Times New Roman, serif;font-size:22px;line-height:1.08;font-weight:400;color:#143f3a;",
+                          "alignment": "left",
+                          "class": "",
+                          "hideOnMobile": false,
+                          "level": 2
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Put it on paper."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "space",
+                        "attrs": {
+                          "hideOnMobile": false,
+                          "height": 8
+                        }
+                      },
+                      {
+                        "type": "paragraph",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:15px;line-height:1.6;color:#143f3a;",
+                          "alignment": "left",
+                          "class": "",
+                          "layoutPlaceholder": null,
+                          "hideOnMobile": false
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Make a few field sketches with your guide. You do not need to draw well to look closely."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:25px 24px;background-color:#fffdf5;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Courier New, Courier, monospace;font-size:11px;line-height:1.6;color:#143f3a;letter-spacing:0.8px;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "AN UNHURRIED MORNING OUTSIDE"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 14
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:15px;line-height:1.6;color:#143f3a;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Guided shore walk, time to sketch and a shared field notebook. Bring sturdy footwear and a layer for the coast."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 20
+                }
+              },
+              {
+                "type": "twoColumns",
+                "attrs": {
+                  "style": "margin:0;padding:0;background-color:transparent;",
+                  "displayCondition": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": null,
+                  "height": null,
+                  "id": null,
+                  "class": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null,
+                  "cellspacing": null
+                },
+                "content": [
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0;vertical-align:top;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "32%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Georgia, Times New Roman, serif;font-size:44px;line-height:1.08;font-weight:400;color:#143f3a;",
+                          "alignment": "left",
+                          "class": "",
+                          "hideOnMobile": false,
+                          "level": 2
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "17"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Courier New, Courier, monospace;font-size:11px;line-height:1.6;color:#143f3a;letter-spacing:1px;",
+                          "alignment": "left",
+                          "class": "",
+                          "layoutPlaceholder": null,
+                          "hideOnMobile": false
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "APRIL"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0;vertical-align:top;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "68%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Courier New, Courier, monospace;font-size:12px;line-height:1.6;color:#143f3a;",
+                          "alignment": "left",
+                          "class": "",
+                          "layoutPlaceholder": null,
+                          "hideOnMobile": false
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "SATURDAY 2027"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Courier New, Courier, monospace;font-size:13px;line-height:1.6;color:#143f3a;",
+                          "alignment": "left",
+                          "class": "",
+                          "layoutPlaceholder": null,
+                          "hideOnMobile": false
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "09:30–12:00"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:14px;line-height:1.6;color:#143f3a;",
+                          "alignment": "left",
+                          "class": "",
+                          "layoutPlaceholder": null,
+                          "hideOnMobile": false
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "£32 per person"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 23
+                }
+              },
+              {
+                "type": "button",
+                "attrs": {
+                  "style": "margin:0;padding:15px 22px;font-family:Arial, Helvetica, sans-serif;font-size:15px;line-height:1.3;font-weight:700;color:#fffdf5;background-color:#143f3a;border-radius:0px;text-decoration:none;max-width:100%;box-sizing:border-box;",
+                  "alignment": "left",
+                  "class": "button",
+                  "hideOnMobile": false,
+                  "href": "https://example.com/tidepool/field-session"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Reserve a field place"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 12
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:1.6;color:#143f3a;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Meet at Little Cove Field Station."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:22px 24px 25px;background-color:#edf0e7;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "horizontalRule",
+                "attrs": {
+                  "style": "margin:0;padding:0;border:0;border-top:1px solid #8a9e91;",
+                  "class": "divider",
+                  "hideOnMobile": false
+                }
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 19
+                }
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Georgia, Times New Roman, serif;font-size:29px;line-height:1.08;font-weight:400;color:#143f3a;font-style:italic;",
+                  "alignment": "left",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tidepool"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 6
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:1.6;color:#143f3a;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Small lives. Wider eyes."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 22
+                }
+              },
+              {
+                "type": "unsubscribe",
+                "attrs": {
+                  "style": "font-family:Arial, Helvetica, sans-serif;font-size:11px;line-height:1.5;color:#143f3a;",
+                  "hideOnMobile": false,
+                  "id": "unsubscribe_url",
+                  "token": "{{unsubscribe_url}}",
+                  "label": "Unsubscribe",
+                  "alignment": "left"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "previewHtml": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html style=\"font-size:14px\" dir=\"ltr\" lang=\"en\"><head><meta content=\"width=device-width\" name=\"viewport\"/><meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"telephone=no,address=no,email=no,date=no,url=no\" name=\"format-detection\"/><title>A slow shore morning, a field notebook and a closer look.</title><style>@media (prefers-color-scheme: dark){li::marker{color:#c4c4c4}}</style><style>@media only screen and (max-width:600px){.wv-hide-mobile,.wv-columns .wv-column.wv-hide-mobile{display:none!important;max-height:0!important;overflow:hidden!important}}</style></head><body dir=\"ltr\" lang=\"en\" style=\"margin:0;background-color:#dce5dd;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0\"><!--$--><!--html--><!--head--><div style=\"display:none;overflow:hidden;line-height:1px;opacity:0;max-height:0;max-width:0\" data-skip-in-text=\"true\">A slow shore morning, a field notebook and a closer look.<div> ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿</div></div><!--body--><table border=\"0\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" align=\"center\"><tbody><tr><td dir=\"ltr\" lang=\"en\" style=\"font-family:-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, &#x27;Roboto&#x27;, &#x27;Oxygen&#x27;, &#x27;Ubuntu&#x27;, &#x27;Cantarell&#x27;, &#x27;Fira Sans&#x27;, &#x27;Droid Sans&#x27;, &#x27;Helvetica Neue&#x27;, sans-serif;font-size:1em;min-height:100%;line-height:155%;background-color:#dce5dd;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"max-width:600px;align:center;width:100%;color:#143f3a;background-color:#edf0e7;border-radius:0px;border-color:#000000;line-height:155%\"><tbody><tr style=\"width:100%\"><td style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#edf0e7\"><tbody><tr><td style=\"padding:24px 24px 0\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.6;color:#143f3a;margin-top:0;margin-bottom:0;letter-spacing:1.8px;text-align:left\">TIDEPOOL FIELD SCHOOL</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #8a9e91;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0;padding:0\"/></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#edf0e7\"><tbody><tr><td style=\"padding:24px\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.6;color:#a64130;margin-top:0;margin-bottom:0;letter-spacing:2px;text-align:left\">FIELD SESSION 04</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"14\" aria-hidden=\"true\" style=\"height:14px;padding:0;font-size:0;line-height:14px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:65px;line-height:0.98;padding-top:0;font-weight:400;font-family:Georgia, Times New Roman, serif;color:#143f3a;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;letter-spacing:-2px;text-align:left\">LOOK<br/>DOWN.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"15\" aria-hidden=\"true\" style=\"height:15px;padding:0;font-size:0;line-height:15px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:25px;line-height:1.2;padding-top:0;font-weight:400;font-family:Georgia, Times New Roman, serif;color:#143f3a;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;font-style:italic;text-align:left\">A whole world<br/>at ankle height.</h2></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#edf0e7\"><tbody><tr><td style=\"padding:0\"><table role=\"presentation\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" border=\"0\" style=\"width:100%;table-layout:fixed\"><tbody><tr><td align=\"center\" style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;text-align:center\"><img src=\"https://assets.weavour.com/templates/tidepool-field-school/tidepool-plate-62c5c5b0db4f.jpg\" alt=\"An ink-and-watercolour study of a shallow rock pool with olive seaweed, limpets, pebbles and a green sea anemone.\" style=\"outline:none;border:none;text-decoration:none;max-width:100%;border-radius:0px;display:inline-block;width:100%;height:auto;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;object-fit:contain\"/></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#edf0e7\"><tbody><tr><td style=\"padding:18px 24px 25px\"><p style=\"margin:0;padding:0;font-size:10px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.6;color:#143f3a;margin-top:0;margin-bottom:0;letter-spacing:0.5px;text-align:left\">FIELD PLATE 04  /  THE WATER’S EDGE</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"19\" aria-hidden=\"true\" style=\"height:19px;padding:0;font-size:0;line-height:19px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #8a9e91;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0;padding:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:0;background-color:transparent\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"margin:0;padding:0 8px 0 0;vertical-align:top;width:15%\"><h2 style=\"margin:0;padding:0;font-size:28px;line-height:1.08;padding-top:0;font-weight:400;font-family:Georgia, Times New Roman, serif;color:#a64130;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;text-align:left\">01</h2></td><td data-id=\"__react-email-column\" style=\"margin:0;padding:0;vertical-align:top;width:85%\"><h2 style=\"margin:0;padding:0;font-size:22px;line-height:1.08;padding-top:0;font-weight:400;font-family:Georgia, Times New Roman, serif;color:#143f3a;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;text-align:left\">Notice the small things.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"8\" aria-hidden=\"true\" style=\"height:8px;padding:0;font-size:0;line-height:8px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:15px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#143f3a;margin-top:0;margin-bottom:0;text-align:left\">Slow down at the edge of a pool. Look for shapes, movement and the quiet details you usually walk past.</p></td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"20\" aria-hidden=\"true\" style=\"height:20px;padding:0;font-size:0;line-height:20px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #8a9e91;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0;padding:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"18\" aria-hidden=\"true\" style=\"height:18px;padding:0;font-size:0;line-height:18px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:0;background-color:transparent\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"margin:0;padding:0 8px 0 0;vertical-align:top;width:15%\"><h2 style=\"margin:0;padding:0;font-size:28px;line-height:1.08;padding-top:0;font-weight:400;font-family:Georgia, Times New Roman, serif;color:#a64130;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;text-align:left\">02</h2></td><td data-id=\"__react-email-column\" style=\"margin:0;padding:0;vertical-align:top;width:85%\"><h2 style=\"margin:0;padding:0;font-size:22px;line-height:1.08;padding-top:0;font-weight:400;font-family:Georgia, Times New Roman, serif;color:#143f3a;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;text-align:left\">Put it on paper.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"8\" aria-hidden=\"true\" style=\"height:8px;padding:0;font-size:0;line-height:8px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:15px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#143f3a;margin-top:0;margin-bottom:0;text-align:left\">Make a few field sketches with your guide. You do not need to draw well to look closely.</p></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#fffdf5\"><tbody><tr><td style=\"padding:25px 24px\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.6;color:#143f3a;margin-top:0;margin-bottom:0;letter-spacing:0.8px;text-align:left\">AN UNHURRIED MORNING OUTSIDE</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"14\" aria-hidden=\"true\" style=\"height:14px;padding:0;font-size:0;line-height:14px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:15px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#143f3a;margin-top:0;margin-bottom:0;text-align:left\">Guided shore walk, time to sketch and a shared field notebook. Bring sturdy footwear and a layer for the coast.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"20\" aria-hidden=\"true\" style=\"height:20px;padding:0;font-size:0;line-height:20px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:0;background-color:transparent\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"margin:0;padding:0;vertical-align:top;width:32%\"><h2 style=\"margin:0;padding:0;font-size:44px;line-height:1.08;padding-top:0;font-weight:400;font-family:Georgia, Times New Roman, serif;color:#143f3a;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;text-align:left\">17</h2><p style=\"margin:0;padding:0;font-size:11px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.6;color:#143f3a;margin-top:0;margin-bottom:0;letter-spacing:1px;text-align:left\">APRIL</p></td><td data-id=\"__react-email-column\" style=\"margin:0;padding:0;vertical-align:top;width:68%\"><p style=\"margin:0;padding:0;font-size:12px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.6;color:#143f3a;margin-top:0;margin-bottom:0;text-align:left\">SATURDAY 2027</p><p style=\"margin:0;padding:0;font-size:13px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.6;color:#143f3a;margin-top:0;margin-bottom:0;text-align:left\">09:30–12:00</p><p style=\"margin:0;padding:0;font-size:14px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#143f3a;margin-top:0;margin-bottom:0;text-align:left\">£32 per person</p></td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"23\" aria-hidden=\"true\" style=\"height:23px;padding:0;font-size:0;line-height:23px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"left\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/tidepool/field-session\" style=\"line-height:1.3;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:15px 22px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#143f3a;color:#fffdf5;border-radius:0px;font-weight:700;font-size:15px;text-align:center;margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;font-family:Arial, Helvetica, sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">Reserve a field place</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#143f3a;margin-top:0;margin-bottom:0;text-align:left\">Meet at Little Cove Field Station.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#edf0e7\"><tbody><tr><td style=\"padding:22px 24px 25px\"><hr class=\"divider\" style=\"width:100%;border:0;border-color:transparent;border-top:1px solid #8a9e91;padding-bottom:1em;border-style:solid;border-width:0;border-top-width:2px;margin:0;padding:0\"/><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"19\" aria-hidden=\"true\" style=\"height:19px;padding:0;font-size:0;line-height:19px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h2 style=\"margin:0;padding:0;font-size:29px;line-height:1.08;padding-top:0;font-weight:400;font-family:Georgia, Times New Roman, serif;color:#143f3a;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;font-style:italic;text-align:left\">Tidepool</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"6\" aria-hidden=\"true\" style=\"height:6px;padding:0;font-size:0;line-height:6px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#143f3a;margin-top:0;margin-bottom:0;text-align:left\">Small lives. Wider eyes.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"22\" aria-hidden=\"true\" style=\"height:22px;padding:0;font-size:0;line-height:22px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><div style=\"margin:0;padding:16px 8px;font-family:Arial, Helvetica, sans-serif;font-size:11px;line-height:1.5;color:rgb(20, 63, 58);text-align:left\"><a href=\"{{unsubscribe_url}}\" style=\"color:inherit;text-decoration:underline\">Unsubscribe</a></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!--/$--></body></html>"
+}

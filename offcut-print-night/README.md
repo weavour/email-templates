@@ -65,5 +65,5 @@ The private application's catalog renderer passed native import, authored-text a
 
 Additional local-preview checks passed at 320, 375, 440, 600, 800 and 1440px: no horizontal overflow, loaded artwork, visible booking action, keyboard access and preserved unsubscribe token. An Arial fallback also passed at 320 and 375px. Final desktop, mobile and 320px fallback screenshots were visually inspected. Local browser previews do not certify rendering in every email client.
 
-This template is created locally. Hosted image publication, tenant imports and application deployment are separate release actions.
+The production image is published on assets.weavour.com and was verified against its local SHA-256. Tenant imports and application deployment remain separate release actions.
 

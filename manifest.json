@@ -3189,6 +3189,216 @@
           "source": "AI-generated with OpenAI built-in image generation; exact prompt and reference are documented in offcut-print-night/README.md."
         }
       ]
+    },
+    {
+      "id": "vesper-scent-library",
+      "name": "Wear the weather",
+      "description": "An ivory and plum fragrance editorial with an asymmetric scent-study spread, original rainy bottle portrait, sensory note index and quiet price close.",
+      "language": "en",
+      "tags": [
+        "Retail",
+        "Product launch"
+      ],
+      "document": "vesper-scent-library/template.json",
+      "html": "vesper-scent-library/template.html",
+      "screenshot": "vesper-scent-library/screenshot.png",
+      "mobileScreenshot": "vesper-scent-library/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "vesper-scent-library/images/rain-bottle-455827b01996.jpg",
+          "url": "https://assets.weavour.com/templates/vesper-scent-library/rain-bottle-455827b01996.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; actual prompts and provenance in vesper-scent-library/README.md."
+        }
+      ]
+    },
+    {
+      "id": "sunroom-preserve-drop",
+      "name": "Breakfast gets brighter",
+      "description": "A sunny preserve-maker order slip with an original marmalade still life, a ruled tasting ledger, a large live price and a tear-off-style order close.",
+      "language": "en",
+      "tags": [
+        "Food & drink",
+        "Promotion"
+      ],
+      "document": "sunroom-preserve-drop/template.json",
+      "html": "sunroom-preserve-drop/template.html",
+      "screenshot": "sunroom-preserve-drop/screenshot.png",
+      "mobileScreenshot": "sunroom-preserve-drop/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "sunroom-preserve-drop/images/grapefruit-toast-d6e750fc7ba8.jpg",
+          "url": "https://assets.weavour.com/templates/sunroom-preserve-drop/grapefruit-toast-d6e750fc7ba8.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; actual prompts and provenance in sunroom-preserve-drop/README.md."
+        }
+      ]
+    },
+    {
+      "id": "aster-stargazing-stay",
+      "name": "The stars stay late",
+      "description": "A remote cabin stay presented as a midnight field journal, with a serif opening, a star-filled panorama, brief observational notes and a contrasting reservation slip.",
+      "language": "en",
+      "tags": [
+        "Travel",
+        "Promotion"
+      ],
+      "document": "aster-stargazing-stay/template.json",
+      "html": "aster-stargazing-stay/template.html",
+      "screenshot": "aster-stargazing-stay/screenshot.png",
+      "mobileScreenshot": "aster-stargazing-stay/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "aster-stargazing-stay/images/night-cabin-867733fa4920.jpg",
+          "url": "https://assets.weavour.com/templates/aster-stargazing-stay/night-cabin-867733fa4920.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; exact prompts and provenance in aster-stargazing-stay/README.md."
+        }
+      ]
+    },
+    {
+      "id": "stillwater-bathhouse",
+      "name": "Nothing to keep up with",
+      "description": "An urban bathhouse appointment slip in pale bone and jade, with large quiet serif copy, native receipt rows, a late architectural image and a restrained booking action.",
+      "language": "en",
+      "tags": [
+        "Health & wellness",
+        "Service"
+      ],
+      "document": "stillwater-bathhouse/template.json",
+      "html": "stillwater-bathhouse/template.html",
+      "screenshot": "stillwater-bathhouse/screenshot.png",
+      "mobileScreenshot": "stillwater-bathhouse/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "stillwater-bathhouse/images/jade-pool-d0a9e2f78397.jpg",
+          "url": "https://assets.weavour.com/templates/stillwater-bathhouse/jade-pool-d0a9e2f78397.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; exact prompts and provenance in stillwater-bathhouse/README.md."
+        }
+      ]
+    },
+    {
+      "id": "tidepool-field-school",
+      "name": "A whole world at ankle height",
+      "description": "An illustrated coastal field-class invitation composed as a naturalist notebook, with an original watercolour tidepool plate, live numbered observations and a practical booking page.",
+      "language": "en",
+      "tags": [
+        "Education",
+        "Event"
+      ],
+      "document": "tidepool-field-school/template.json",
+      "html": "tidepool-field-school/template.html",
+      "screenshot": "tidepool-field-school/screenshot.png",
+      "mobileScreenshot": "tidepool-field-school/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "tidepool-field-school/images/tidepool-plate-62c5c5b0db4f.jpg",
+          "url": "https://assets.weavour.com/templates/tidepool-field-school/tidepool-plate-62c5c5b0db4f.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; exact concept and production prompts in tidepool-field-school/README.md."
+        }
+      ]
+    },
+    {
+      "id": "feltwork-room-review",
+      "name": "Room for quiet",
+      "description": "A room-acoustics consultation letter with an oversized italic opening, a panoramic wool-felt material study, a personal designer note and a ruled appointment summary.",
+      "language": "en",
+      "tags": [
+        "Business",
+        "Service"
+      ],
+      "document": "feltwork-room-review/template.json",
+      "html": "feltwork-room-review/template.html",
+      "screenshot": "feltwork-room-review/screenshot.png",
+      "mobileScreenshot": "feltwork-room-review/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "feltwork-room-review/images/felt-baffles-7ed219563c40.jpg",
+          "url": "https://assets.weavour.com/templates/feltwork-room-review/felt-baffles-7ed219563c40.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; exact prompt and provenance in feltwork-room-review/README.md."
+        }
+      ]
+    },
+    {
+      "id": "patch-modular-launch",
+      "name": "Start with one note",
+      "description": "A light steel-paper instrument manual with an opening synthesizer macro photograph, a live horizontal signal path, restrained olive annotations and a compact specification and ordering ledger.",
+      "language": "en",
+      "tags": [
+        "Technology",
+        "Product launch"
+      ],
+      "document": "patch-modular-launch/template.json",
+      "html": "patch-modular-launch/template.html",
+      "screenshot": "patch-modular-launch/screenshot.png",
+      "mobileScreenshot": "patch-modular-launch/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "patch-modular-launch/images/synth-detail-2c9172ac80c9.jpg",
+          "url": "https://assets.weavour.com/templates/patch-modular-launch/synth-detail-2c9172ac80c9.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; actual prompts and provenance in patch-modular-launch/README.md."
+        }
+      ]
+    },
+    {
+      "id": "borrow-tool-library",
+      "name": "Own the project",
+      "description": "A neighbourhood tool-library membership email designed as a bold photo-first checkout slip, with a live dashed inventory receipt and a clear annual membership close.",
+      "language": "en",
+      "tags": [
+        "Community",
+        "Promotion"
+      ],
+      "document": "borrow-tool-library/template.json",
+      "html": "borrow-tool-library/template.html",
+      "screenshot": "borrow-tool-library/screenshot.png",
+      "mobileScreenshot": "borrow-tool-library/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "borrow-tool-library/images/workshop-tools-0c065d165224.jpg",
+          "url": "https://assets.weavour.com/templates/borrow-tool-library/workshop-tools-0c065d165224.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; exact concept and production prompts in borrow-tool-library/README.md."
+        }
+      ]
+    },
+    {
+      "id": "windowseat-senior-cats",
+      "name": "A slower kind of love",
+      "description": "A quiet senior-cat adoption invitation built around an original sunlit portrait, a live personal letter, short full-width profile notes and a gentle meeting invitation.",
+      "language": "en",
+      "tags": [
+        "Pets",
+        "Promotion"
+      ],
+      "document": "windowseat-senior-cats/template.json",
+      "html": "windowseat-senior-cats/template.html",
+      "screenshot": "windowseat-senior-cats/screenshot.png",
+      "mobileScreenshot": "windowseat-senior-cats/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "windowseat-senior-cats/images/mabel-window-bb06d93b0995.jpg",
+          "url": "https://assets.weavour.com/templates/windowseat-senior-cats/mabel-window-bb06d93b0995.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; exact concept and production prompts in windowseat-senior-cats/README.md."
+        }
+      ]
+    },
+    {
+      "id": "nightshift-cycle-club",
+      "name": "Meet after the rush",
+      "description": "An after-dark social cycling dispatch led by a giant meeting time, reflector-yellow type, a cinematic riverside photograph and native route rows.",
+      "language": "en",
+      "tags": [
+        "Sports & outdoors",
+        "Event"
+      ],
+      "document": "nightshift-cycle-club/template.json",
+      "html": "nightshift-cycle-club/template.html",
+      "screenshot": "nightshift-cycle-club/screenshot.png",
+      "mobileScreenshot": "nightshift-cycle-club/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "nightshift-cycle-club/images/riverside-ride-746890ad414f.jpg",
+          "url": "https://assets.weavour.com/templates/nightshift-cycle-club/riverside-ride-746890ad414f.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; exact prompts and provenance in nightshift-cycle-club/README.md."
+        }
+      ]
     }
   ]
 }

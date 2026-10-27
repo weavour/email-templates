@@ -1,0 +1,35 @@
+{
+  "id": "vesper-scent-library",
+  "viewports": [
+    {
+      "width": 320,
+      "passed": true
+    },
+    {
+      "width": 375,
+      "passed": true
+    },
+    {
+      "width": 600,
+      "passed": true
+    },
+    {
+      "width": 800,
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "passed": true
+    }
+  ],
+  "fallback": [
+    {
+      "width": 320,
+      "passed": true
+    },
+    {
+      "width": 375,
+      "passed": true
+    }
+  ]
+}
