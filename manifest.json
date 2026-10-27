@@ -3168,6 +3168,27 @@
           "source": "Original AI-generated paper-theatre Halloween background, with exact generation and edit prompts in other-side-halloween-ball/README.md."
         }
       ]
+    },
+    {
+      "id": "offcut-print-night",
+      "name": "No undo",
+      "description": "A two-ink printmaking workshop invitation composed as a narrow studio poster, with oversized editable cobalt typography, an original brayer still life, a vermilion date strip and a compact booking ticket.",
+      "language": "en",
+      "tags": [
+        "Arts & culture",
+        "Event"
+      ],
+      "document": "offcut-print-night/template.json",
+      "html": "offcut-print-night/template.html",
+      "screenshot": "offcut-print-night/screenshot.png",
+      "mobileScreenshot": "offcut-print-night/screenshot-mobile.png",
+      "images": [
+        {
+          "file": "offcut-print-night/images/ink-brayer-3a3a39e4ac49.jpg",
+          "url": "https://assets.weavour.com/templates/offcut-print-night/ink-brayer-3a3a39e4ac49.jpg",
+          "source": "AI-generated with OpenAI built-in image generation; exact prompt and reference are documented in offcut-print-night/README.md."
+        }
+      ]
     }
   ]
 }

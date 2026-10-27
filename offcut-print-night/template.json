@@ -1,0 +1,1452 @@
+{
+  "schemaVersion": 1,
+  "subject": "Your hands. Two inks. No undo.",
+  "preheader": "A printmaking evening at Offcut. Make ten prints, keep the happy accidents.",
+  "content": {
+    "type": "doc",
+    "attrs": {
+      "mergeTagReferences": [],
+      "emailAudit": null,
+      "documentSchemaVersion": 1
+    },
+    "content": [
+      {
+        "type": "globalContent",
+        "attrs": {
+          "data": {
+            "styles": [
+              {
+                "classReference": "body",
+                "id": "body",
+                "inputs": [
+                  {
+                    "classReference": "body",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#e3dfd1"
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "body",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Background"
+              },
+              {
+                "classReference": "container",
+                "id": "container",
+                "inputs": [
+                  {
+                    "classReference": "container",
+                    "label": "Align",
+                    "options": {
+                      "center": "Center",
+                      "left": "Left",
+                      "right": "Right"
+                    },
+                    "prop": "align",
+                    "type": "select",
+                    "value": "center"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Width",
+                    "prop": "width",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 440
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Height",
+                    "prop": "height",
+                    "type": "number",
+                    "unit": "px"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Text",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#20272c"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#f3ebcd"
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Corner radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Border color",
+                    "prop": "borderColor",
+                    "type": "color",
+                    "value": "#000000"
+                  }
+                ],
+                "title": "Content"
+              },
+              {
+                "classReference": "body",
+                "id": "typography",
+                "inputs": [
+                  {
+                    "classReference": "body",
+                    "label": "Font size",
+                    "prop": "fontSize",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 14
+                  },
+                  {
+                    "classReference": "container",
+                    "label": "Line Height",
+                    "prop": "lineHeight",
+                    "type": "number",
+                    "unit": "%",
+                    "value": 155
+                  }
+                ],
+                "title": "Text"
+              },
+              {
+                "category": "Text",
+                "classReference": "h1",
+                "id": "h1",
+                "inputs": [
+                  {
+                    "classReference": "h1",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Impact, Haettenschweiler, Arial Narrow, sans-serif"
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#1838d0"
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h1",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Title"
+              },
+              {
+                "category": "Text",
+                "classReference": "h2",
+                "id": "h2",
+                "inputs": [
+                  {
+                    "classReference": "h2",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Impact, Haettenschweiler, Arial Narrow, sans-serif"
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#1838d0"
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h2",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Subtitle"
+              },
+              {
+                "category": "Text",
+                "classReference": "h3",
+                "id": "h3",
+                "inputs": [
+                  {
+                    "classReference": "h3",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Impact, Haettenschweiler, Arial Narrow, sans-serif"
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#1838d0"
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "fontWeight",
+                    "prop": "fontWeight",
+                    "type": "text",
+                    "value": 400
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "paddingLeft",
+                    "prop": "paddingLeft",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "h3",
+                    "label": "paddingRight",
+                    "prop": "paddingRight",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Heading"
+              },
+              {
+                "category": "Text",
+                "classReference": "paragraph",
+                "id": "paragraph",
+                "inputs": [
+                  {
+                    "classReference": "paragraph",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "fontFamily",
+                    "prop": "fontFamily",
+                    "type": "text",
+                    "value": "Courier New, Courier, monospace"
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "fontSize",
+                    "prop": "fontSize",
+                    "type": "text",
+                    "value": 15
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "lineHeight",
+                    "prop": "lineHeight",
+                    "type": "text",
+                    "value": 1.7
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "color",
+                    "prop": "color",
+                    "type": "text",
+                    "value": "#20272c"
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "paragraph",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "value": 0
+                  }
+                ],
+                "title": "Paragraph"
+              },
+              {
+                "category": "Text",
+                "classReference": "list",
+                "id": "list",
+                "inputs": [],
+                "title": "List"
+              },
+              {
+                "category": "Text",
+                "classReference": "nestedList",
+                "id": "nested-list",
+                "inputs": [],
+                "title": "Nested List"
+              },
+              {
+                "category": "Text",
+                "classReference": "listItem",
+                "id": "list-item",
+                "inputs": [],
+                "title": "List Item"
+              },
+              {
+                "classReference": "link",
+                "id": "link",
+                "inputs": [
+                  {
+                    "classReference": "link",
+                    "label": "Color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#1838d0"
+                  },
+                  {
+                    "classReference": "link",
+                    "label": "Decoration",
+                    "options": {
+                      "none": "None",
+                      "underline": "Underline"
+                    },
+                    "prop": "textDecoration",
+                    "type": "select",
+                    "value": "underline"
+                  }
+                ],
+                "title": "Link"
+              },
+              {
+                "classReference": "image",
+                "id": "image",
+                "inputs": [
+                  {
+                    "classReference": "image",
+                    "label": "Border radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Image"
+              },
+              {
+                "classReference": "button",
+                "id": "button",
+                "inputs": [
+                  {
+                    "classReference": "button",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "#f3ebcd"
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Text color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#1838d0"
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 24
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "Font weight",
+                    "options": {
+                      "300": "Light",
+                      "400": "Normal",
+                      "600": "Semi Bold",
+                      "700": "Bold",
+                      "800": "Extra Bold"
+                    },
+                    "prop": "fontWeight",
+                    "type": "select",
+                    "value": 600
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginTop",
+                    "prop": "marginTop",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginBottom",
+                    "prop": "marginBottom",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginLeft",
+                    "prop": "marginLeft",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  {
+                    "classReference": "button",
+                    "label": "marginRight",
+                    "prop": "marginRight",
+                    "type": "text",
+                    "unit": "px",
+                    "value": 0
+                  }
+                ],
+                "title": "Button"
+              },
+              {
+                "classReference": "codeBlock",
+                "id": "code-block",
+                "inputs": [
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Border Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 4
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Top",
+                    "prop": "paddingTop",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Bottom",
+                    "prop": "paddingBottom",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 12
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Left",
+                    "prop": "paddingLeft",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Padding Right",
+                    "prop": "paddingRight",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 16
+                  },
+                  {
+                    "classReference": "codeBlock",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "transparent"
+                  }
+                ],
+                "title": "Code Block"
+              },
+              {
+                "classReference": "inlineCode",
+                "id": "inline-code",
+                "inputs": [
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Background",
+                    "prop": "backgroundColor",
+                    "type": "color",
+                    "value": "transparent"
+                  },
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Text color",
+                    "prop": "color",
+                    "type": "color",
+                    "value": "#20272c"
+                  },
+                  {
+                    "classReference": "inlineCode",
+                    "label": "Radius",
+                    "prop": "borderRadius",
+                    "type": "number",
+                    "unit": "px",
+                    "value": 4
+                  }
+                ],
+                "title": "Inline Code"
+              }
+            ],
+            "theme": "basic"
+          }
+        }
+      },
+      {
+        "type": "container",
+        "content": [
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:14px 20px;background-color:#f3ebcd;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "twoColumns",
+                "attrs": {
+                  "style": "margin:0;padding:0;background-color:transparent;",
+                  "displayCondition": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": null,
+                  "height": null,
+                  "id": null,
+                  "class": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null,
+                  "cellspacing": null
+                },
+                "content": [
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0;vertical-align:middle;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "65%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Impact, Haettenschweiler, Arial Narrow, sans-serif;font-size:29px;line-height:1.02;font-weight:400;color:#1838d0;",
+                          "alignment": "left",
+                          "class": "",
+                          "hideOnMobile": false,
+                          "level": 2
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "OFFCUT"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0;vertical-align:middle;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "35%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:11px;line-height:1.5;color:#1838d0;letter-spacing:1px;",
+                          "alignment": "right",
+                          "class": "",
+                          "layoutPlaceholder": null,
+                          "hideOnMobile": false
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "PRINT"
+                          },
+                          {
+                            "type": "hardBreak"
+                          },
+                          {
+                            "type": "text",
+                            "text": "STUDIO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:14px 16px 8px;background-color:#1838d0;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "twoColumns",
+                "attrs": {
+                  "style": "margin:0;padding:0;background-color:transparent;",
+                  "displayCondition": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": null,
+                  "height": null,
+                  "id": null,
+                  "class": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null,
+                  "cellspacing": null
+                },
+                "content": [
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0;vertical-align:middle;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "75%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:11px;line-height:1.5;color:#f3ebcd;letter-spacing:2px;",
+                          "alignment": "left",
+                          "class": "",
+                          "layoutPlaceholder": null,
+                          "hideOnMobile": false
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "PRINT NIGHT"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0;vertical-align:middle;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "25%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:26px;line-height:1.5;color:#ff7255;line-height:1;",
+                          "alignment": "right",
+                          "class": "",
+                          "layoutPlaceholder": null,
+                          "hideOnMobile": false
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "+"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 12
+                }
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial Black, Arial, Helvetica, sans-serif;font-size:160px;line-height:1.02;font-weight:900;color:#f3ebcd;line-height:0.9;letter-spacing:-3px;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 1
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "NO"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Arial Black, Arial, Helvetica, sans-serif;font-size:78px;line-height:1.02;font-weight:900;color:#f3ebcd;line-height:1;letter-spacing:-1px;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "UNDO."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 16
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:0;background-color:#f3ebcd;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "image",
+                "attrs": {
+                  "style": "display:block;width:100%;height:auto;padding:0;margin:0;",
+                  "alignment": "center",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "assetId": null,
+                  "intrinsicWidth": 1200,
+                  "intrinsicHeight": 800,
+                  "assetMetadata": null,
+                  "decorative": false,
+                  "src": "https://assets.weavour.com/templates/offcut-print-night/ink-brayer-3a3a39e4ac49.jpg",
+                  "alt": "A cobalt ink-covered brayer lies diagonally over a blue circle and a vermilion block printed on torn cream paper.",
+                  "width": 440,
+                  "height": "auto",
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:14px 20px;background-color:#f3ebcd;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:14px;line-height:1.5;color:#1838d0;font-weight:700;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Your hands. Two inks. Ten prints."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:13px 20px;background-color:#c3321f;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:13px;line-height:1.5;color:#f3ebcd;font-weight:700;letter-spacing:0.1px;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SAT 20 MAR 2027  /  18:30–21:00"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:25px 20px 27px;background-color:#f3ebcd;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Impact, Haettenschweiler, Arial Narrow, sans-serif;font-size:42px;line-height:1.02;font-weight:400;color:#1838d0;letter-spacing:-0.4px;",
+                  "alignment": "left",
+                  "class": "",
+                  "hideOnMobile": false,
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Perfect edges?"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Not tonight."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 17
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:15px;line-height:1.5;color:#20272c;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Roll the ink. Cut a shape. Pull a print. We’ll show you the process, then let you find your own way through it."
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 12
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:15px;line-height:1.5;color:#20272c;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make a two-colour edition of ten prints to take home. No drawing skills. No undo button."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:24px 20px;background-color:#1838d0;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "twoColumns",
+                "attrs": {
+                  "style": "margin:0;padding:0;background-color:transparent;",
+                  "displayCondition": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": null,
+                  "height": null,
+                  "id": null,
+                  "class": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null,
+                  "cellspacing": null
+                },
+                "content": [
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0 10px 0 0;vertical-align:middle;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "43%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Impact, Haettenschweiler, Arial Narrow, sans-serif;font-size:39px;line-height:1.02;font-weight:400;color:#f3ebcd;",
+                          "alignment": "left",
+                          "class": "",
+                          "hideOnMobile": false,
+                          "level": 2
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "£45"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:11px;line-height:1.5;color:#f3ebcd;letter-spacing:1px;",
+                          "alignment": "left",
+                          "class": "",
+                          "layoutPlaceholder": null,
+                          "hideOnMobile": false
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "PER PERSON"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0;vertical-align:middle;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "57%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:12px;line-height:1.5;color:#f3ebcd;",
+                          "alignment": "left",
+                          "class": "",
+                          "layoutPlaceholder": null,
+                          "hideOnMobile": false
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "PAPER, INKS +"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:12px;line-height:1.5;color:#f3ebcd;",
+                          "alignment": "left",
+                          "class": "",
+                          "layoutPlaceholder": null,
+                          "hideOnMobile": false
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "YOUR FIRST DRINK"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:12px;line-height:1.5;color:#f3ebcd;",
+                          "alignment": "left",
+                          "class": "",
+                          "layoutPlaceholder": null,
+                          "hideOnMobile": false
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ALL INCLUDED"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 21
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:13px;line-height:1.5;color:#f3ebcd;font-weight:700;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "OFFCUT STUDIO"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:13px;line-height:1.5;color:#f3ebcd;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "14 Foundry Lane"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 21
+                }
+              },
+              {
+                "type": "button",
+                "attrs": {
+                  "style": "margin:0;padding:15px 24px;font-family:Impact, Haettenschweiler, Arial Narrow, sans-serif;font-size:26px;font-weight:400;line-height:1.1;color:#1838d0;background-color:#f3ebcd;border-radius:0;text-decoration:none;max-width:100%;box-sizing:border-box;",
+                  "alignment": "left",
+                  "class": "button",
+                  "hideOnMobile": false,
+                  "href": "https://example.com/offcut/print-night"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "BOOK A PLACE →"
+                  }
+                ]
+              },
+              {
+                "type": "space",
+                "attrs": {
+                  "hideOnMobile": false,
+                  "height": 16
+                }
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;font-size:12px;line-height:1.5;color:#f3ebcd;",
+                  "alignment": "left",
+                  "class": "",
+                  "layoutPlaceholder": null,
+                  "hideOnMobile": false
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make a mark. Take it home."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "attrs": {
+              "style": "margin:0;padding:18px 20px;background-color:#f3ebcd;",
+              "class": "",
+              "displayCondition": null,
+              "hideOnMobile": false,
+              "backgroundImage": ""
+            },
+            "content": [
+              {
+                "type": "twoColumns",
+                "attrs": {
+                  "style": "margin:0;padding:0;background-color:transparent;",
+                  "displayCondition": null,
+                  "hideOnMobile": false,
+                  "backgroundImage": "",
+                  "align": null,
+                  "width": null,
+                  "height": null,
+                  "id": null,
+                  "class": null,
+                  "title": null,
+                  "lang": null,
+                  "dir": null,
+                  "data-id": null,
+                  "cellspacing": null
+                },
+                "content": [
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0;vertical-align:middle;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "56%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "style": "margin:0;padding:0;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Impact, Haettenschweiler, Arial Narrow, sans-serif;font-size:25px;line-height:1.02;font-weight:400;color:#1838d0;",
+                          "alignment": "left",
+                          "class": "",
+                          "hideOnMobile": false,
+                          "level": 2
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "OFFCUT"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "columnsColumn",
+                    "attrs": {
+                      "style": "margin:0;padding:0;vertical-align:middle;",
+                      "alignment": null,
+                      "class": null,
+                      "hideOnMobile": false,
+                      "backgroundImage": "",
+                      "align": null,
+                      "width": "44%",
+                      "height": null,
+                      "id": null,
+                      "title": null,
+                      "lang": null,
+                      "dir": null,
+                      "data-id": null
+                    },
+                    "content": [
+                      {
+                        "type": "unsubscribe",
+                        "attrs": {
+                          "style": "font-family:Courier New, Courier, monospace;font-size:11px;line-height:1.5;color:#1838d0;",
+                          "hideOnMobile": false,
+                          "id": "unsubscribe_url",
+                          "token": "{{unsubscribe_url}}",
+                          "label": "Unsubscribe",
+                          "alignment": "right"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "previewHtml": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html style=\"font-size:14px\" dir=\"ltr\" lang=\"en\"><head><meta content=\"width=device-width\" name=\"viewport\"/><meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"x-apple-disable-message-reformatting\"/><meta content=\"telephone=no,address=no,email=no,date=no,url=no\" name=\"format-detection\"/><title>A printmaking evening at Offcut. Make ten prints, keep the happy accidents.</title><style>@media (prefers-color-scheme: dark){li::marker{color:#c4c4c4}}</style><style>@media only screen and (max-width:600px){.wv-hide-mobile,.wv-columns .wv-column.wv-hide-mobile{display:none!important;max-height:0!important;overflow:hidden!important}}</style></head><body dir=\"ltr\" lang=\"en\" style=\"margin:0;background-color:#e3dfd1;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0\"><!--$--><!--html--><!--head--><div style=\"display:none;overflow:hidden;line-height:1px;opacity:0;max-height:0;max-width:0\" data-skip-in-text=\"true\">A printmaking evening at Offcut. Make ten prints, keep the happy accidents.<div> ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿ ‌​‍‎‏﻿</div></div><!--body--><table border=\"0\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" align=\"center\"><tbody><tr><td dir=\"ltr\" lang=\"en\" style=\"font-family:-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, &#x27;Roboto&#x27;, &#x27;Oxygen&#x27;, &#x27;Ubuntu&#x27;, &#x27;Cantarell&#x27;, &#x27;Fira Sans&#x27;, &#x27;Droid Sans&#x27;, &#x27;Helvetica Neue&#x27;, sans-serif;font-size:1em;min-height:100%;line-height:155%;background-color:#e3dfd1;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"max-width:440px;align:center;width:100%;color:#20272c;background-color:#f3ebcd;border-radius:0px;border-color:#000000;line-height:155%\"><tbody><tr style=\"width:100%\"><td style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f3ebcd\"><tbody><tr><td style=\"padding:14px 20px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:0;background-color:transparent\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"margin:0;padding:0;vertical-align:middle;width:65%\"><h2 style=\"margin:0;padding:0;font-size:29px;line-height:1.02;padding-top:0;font-weight:400;font-family:Impact, Haettenschweiler, Arial Narrow, sans-serif;color:#1838d0;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;text-align:left\">OFFCUT</h2></td><td data-id=\"__react-email-column\" style=\"margin:0;padding:0;vertical-align:middle;width:35%\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.5;color:#1838d0;margin-top:0;margin-bottom:0;letter-spacing:1px;text-align:right\">PRINT<br/>STUDIO</p></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#1838d0\"><tbody><tr><td style=\"padding:14px 16px 8px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:0;background-color:transparent\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"margin:0;padding:0;vertical-align:middle;width:75%\"><p style=\"margin:0;padding:0;font-size:11px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.5;color:#f3ebcd;margin-top:0;margin-bottom:0;letter-spacing:2px;text-align:left\">PRINT NIGHT</p></td><td data-id=\"__react-email-column\" style=\"margin:0;padding:0;vertical-align:middle;width:25%\"><p style=\"margin:0;padding:0;font-size:26px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1;color:#ff7255;margin-top:0;margin-bottom:0;text-align:right\">+</p></td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><h1 style=\"margin:0;padding:0;font-size:160px;line-height:0.9;padding-top:0;font-weight:900;font-family:Arial Black, Arial, Helvetica, sans-serif;color:#f3ebcd;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;letter-spacing:-3px;text-align:center\">NO</h1><h2 style=\"margin:0;padding:0;font-size:78px;line-height:1;padding-top:0;font-weight:900;font-family:Arial Black, Arial, Helvetica, sans-serif;color:#f3ebcd;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;letter-spacing:-1px;text-align:center\">UNDO.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"16\" aria-hidden=\"true\" style=\"height:16px;padding:0;font-size:0;line-height:16px;mso-line-height-rule:exactly\"> </td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f3ebcd\"><tbody><tr><td style=\"padding:0\"><table role=\"presentation\" width=\"100%\" cellPadding=\"0\" cellSpacing=\"0\" border=\"0\" style=\"width:100%;table-layout:fixed\"><tbody><tr><td align=\"center\" style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;text-align:center\"><img src=\"https://assets.weavour.com/templates/offcut-print-night/ink-brayer-3a3a39e4ac49.jpg\" alt=\"A cobalt ink-covered brayer lies diagonally over a blue circle and a vermilion block printed on torn cream paper.\" style=\"outline:none;border:none;text-decoration:none;max-width:100%;border-radius:0px;display:inline-block;width:100%;height:auto;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;object-fit:contain\"/></td></tr></tbody></table></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f3ebcd\"><tbody><tr><td style=\"padding:14px 20px\"><p style=\"margin:0;padding:0;font-size:14px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.5;color:#1838d0;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">Your hands. Two inks. Ten prints.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#c3321f\"><tbody><tr><td style=\"padding:13px 20px\"><p style=\"margin:0;padding:0;font-size:13px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.5;color:#f3ebcd;margin-top:0;margin-bottom:0;font-weight:700;letter-spacing:0.1px;text-align:left\">SAT 20 MAR 2027  /  18:30–21:00</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f3ebcd\"><tbody><tr><td style=\"padding:25px 20px 27px\"><h2 style=\"margin:0;padding:0;font-size:42px;line-height:1.02;padding-top:0;font-weight:400;font-family:Impact, Haettenschweiler, Arial Narrow, sans-serif;color:#1838d0;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;letter-spacing:-0.4px;text-align:left\">Perfect edges?<br/>Not tonight.</h2><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"17\" aria-hidden=\"true\" style=\"height:17px;padding:0;font-size:0;line-height:17px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:15px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.5;color:#20272c;margin-top:0;margin-bottom:0;text-align:left\">Roll the ink. Cut a shape. Pull a print. We’ll show you the process, then let you find your own way through it.</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"12\" aria-hidden=\"true\" style=\"height:12px;padding:0;font-size:0;line-height:12px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:15px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.5;color:#20272c;margin-top:0;margin-bottom:0;text-align:left\">Make a two-colour edition of ten prints to take home. No drawing skills. No undo button.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#1838d0\"><tbody><tr><td style=\"padding:24px 20px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:0;background-color:transparent\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"margin:0;padding:0 10px 0 0;vertical-align:middle;width:43%\"><h2 style=\"margin:0;padding:0;font-size:39px;line-height:1.02;padding-top:0;font-weight:400;font-family:Impact, Haettenschweiler, Arial Narrow, sans-serif;color:#f3ebcd;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;text-align:left\">£45</h2><p style=\"margin:0;padding:0;font-size:11px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.5;color:#f3ebcd;margin-top:0;margin-bottom:0;letter-spacing:1px;text-align:left\">PER PERSON</p></td><td data-id=\"__react-email-column\" style=\"margin:0;padding:0;vertical-align:middle;width:57%\"><p style=\"margin:0;padding:0;font-size:12px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.5;color:#f3ebcd;margin-top:0;margin-bottom:0;text-align:left\">PAPER, INKS +</p><p style=\"margin:0;padding:0;font-size:12px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.5;color:#f3ebcd;margin-top:0;margin-bottom:0;text-align:left\">YOUR FIRST DRINK</p><p style=\"margin:0;padding:0;font-size:12px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.5;color:#f3ebcd;margin-top:0;margin-bottom:0;text-align:left\">ALL INCLUDED</p></td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"21\" aria-hidden=\"true\" style=\"height:21px;padding:0;font-size:0;line-height:21px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:13px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.5;color:#f3ebcd;margin-top:0;margin-bottom:0;font-weight:700;text-align:left\">OFFCUT STUDIO</p><p style=\"margin:0;padding:0;font-size:13px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.5;color:#f3ebcd;margin-top:0;margin-bottom:0;text-align:left\">14 Foundry Lane</p><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"21\" aria-hidden=\"true\" style=\"height:21px;padding:0;font-size:0;line-height:21px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td align=\"left\" data-id=\"__react-email-column\"><a class=\"button\" href=\"https://example.com/offcut/print-night\" style=\"line-height:1.1;text-decoration:none;display:inline-block;max-width:100%;mso-padding-alt:0px;margin:0;padding:15px 24px;box-sizing:border-box;padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;background-color:#f3ebcd;color:#1838d0;border-radius:0;font-weight:400;font-size:26px;text-align:center;margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;font-family:Impact, Haettenschweiler, Arial Narrow, sans-serif\" target=\"_blank\"><span><!--[if mso]><i style=\"mso-font-width:400%;mso-text-raise:18px\" hidden>&#8202;&#8202;&#8202;</i><![endif]--></span><span style=\"max-width:100%;display:inline-block;line-height:120%;mso-padding-alt:0px;mso-text-raise:9px\">BOOK A PLACE →</span><span><!--[if mso]><i style=\"mso-font-width:400%\" hidden>&#8202;&#8202;&#8202;&#8203;</i><![endif]--></span></a></td></tr></tbody></table><table role=\"presentation\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" style=\"width:100%;border-collapse:collapse;margin:0\"><tbody><tr><td height=\"16\" aria-hidden=\"true\" style=\"height:16px;padding:0;font-size:0;line-height:16px;mso-line-height-rule:exactly\"> </td></tr></tbody></table><p style=\"margin:0;padding:0;font-size:12px;padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;font-family:Courier New, Courier, monospace;line-height:1.5;color:#f3ebcd;margin-top:0;margin-bottom:0;text-align:left\">Make a mark. Take it home.</p></td></tr></tbody></table><table width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"box-sizing:border-box;margin:0;background-color:#f3ebcd\"><tbody><tr><td style=\"padding:18px 20px\"><table align=\"center\" width=\"100%\" border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" role=\"presentation\" style=\"margin:0;padding:0;background-color:transparent\"><tbody style=\"width:100%\"><tr style=\"width:100%\"><td data-id=\"__react-email-column\" style=\"margin:0;padding:0;vertical-align:middle;width:56%\"><h2 style=\"margin:0;padding:0;font-size:25px;line-height:1.02;padding-top:0;font-weight:400;font-family:Impact, Haettenschweiler, Arial Narrow, sans-serif;color:#1838d0;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-bottom:0;text-align:left\">OFFCUT</h2></td><td data-id=\"__react-email-column\" style=\"margin:0;padding:0;vertical-align:middle;width:44%\"><div style=\"margin:0;padding:16px 8px;font-family:&quot;Courier New&quot;, Courier, monospace;font-size:11px;line-height:1.5;color:rgb(24, 56, 208);text-align:right\"><a href=\"{{unsubscribe_url}}\" style=\"color:inherit;text-decoration:underline\">Unsubscribe</a></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!--/$--></body></html>"
+}
